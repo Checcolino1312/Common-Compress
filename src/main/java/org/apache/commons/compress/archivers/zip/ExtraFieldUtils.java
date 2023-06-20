@@ -327,31 +327,32 @@ public class ExtraFieldUtils {
      * @since 1.19
      */
     public static ZipExtraField[] parse(final byte[] data, final boolean local,
-                                        final ExtraFieldParsingBehavior parsingBehavior)
-        throws ZipException {
+                                        final ExtraFieldParsingBehavior parsingBehavior) throws ZipException {
         final List<ZipExtraField> v = new ArrayList<>();
         int start = 0;
         final int dataLength = data.length;
-        LOOP:
+
         while (start <= dataLength - WORD) {
             final ZipShort headerId = new ZipShort(data, start);
             final int length = new ZipShort(data, start + 2).getValue();
+
             if (start + WORD + length > dataLength) {
                 final ZipExtraField field = parsingBehavior.onUnparseableExtraField(data, start, dataLength - start,
-                    local, length);
+                        local, length);
                 if (field != null) {
                     v.add(field);
                 }
                 // since we cannot parse the data we must assume
                 // the extra field consumes the whole rest of the
                 // available data
-                break LOOP;
+                break;
             }
+
             try {
                 final ZipExtraField ze = Objects.requireNonNull(parsingBehavior.createExtraField(headerId),
-                    "createExtraField must not return null");
+                        "createExtraField must not return null");
                 v.add(Objects.requireNonNull(parsingBehavior.fill(ze, data, start + WORD, length, local),
-                    "fill must not return null"));
+                        "fill must not return null"));
                 start += length + WORD;
             } catch (final InstantiationException | IllegalAccessException ie) {
                 throw (ZipException) new ZipException(ie.getMessage()).initCause(ie);
@@ -360,6 +361,7 @@ public class ExtraFieldUtils {
 
         return v.toArray(EMPTY_ZIP_EXTRA_FIELD_ARRAY);
     }
+
 
     /**
      * Split the array into ExtraFields and populate them with the
