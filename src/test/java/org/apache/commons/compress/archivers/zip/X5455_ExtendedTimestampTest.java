@@ -201,6 +201,13 @@ public class X5455_ExtendedTimestampTest {
 
     @Test
     public void testGettersSetters() {
+        testModifyTime();
+        testAccessTime();
+        testCreateTime();
+        testFlags();
+    }
+
+    private void testModifyTime() {
         // X5455 is concerned with time, so let's
         // get a timestamp to play with (Jan 1st, 2000).
         final Calendar cal = Calendar.getInstance(TimeZone.getTimeZone("UTC"));
@@ -255,6 +262,21 @@ public class X5455_ExtendedTimestampTest {
         assertNull(xf.getModifyJavaTime());
         assertNull(xf.getModifyTime());
         assertFalse(xf.isBit0_modifyTimePresent());
+    }
+
+    private void testAccessTime() {
+        // X5455 is concerned with time, so let's
+        // get a timestamp to play with (Jan 1st, 2000).
+        final Calendar cal = Calendar.getInstance(TimeZone.getTimeZone("UTC"));
+        cal.set(Calendar.YEAR, 2000);
+        cal.set(Calendar.MONTH, Calendar.JANUARY);
+        cal.set(Calendar.DATE, 1);
+        cal.set(Calendar.HOUR_OF_DAY, 0);
+        cal.set(Calendar.MINUTE, 0);
+        cal.set(Calendar.SECOND, 0);
+        cal.set(Calendar.MILLISECOND, 0);
+        final long timeMillis = cal.getTimeInMillis();
+        final ZipLong time = new ZipLong(timeMillis / 1000);
 
         // get/set access time
         xf.setAccessTime(time);
@@ -292,6 +314,21 @@ public class X5455_ExtendedTimestampTest {
         assertNull(xf.getAccessJavaTime());
         assertNull(xf.getAccessTime());
         assertFalse(xf.isBit1_accessTimePresent());
+    }
+
+    private void testCreateTime() {
+        // X5455 is concerned with time, so let's
+        // get a timestamp to play with (Jan 1st, 2000).
+        final Calendar cal = Calendar.getInstance(TimeZone.getTimeZone("UTC"));
+        cal.set(Calendar.YEAR, 2000);
+        cal.set(Calendar.MONTH, Calendar.JANUARY);
+        cal.set(Calendar.DATE, 1);
+        cal.set(Calendar.HOUR_OF_DAY, 0);
+        cal.set(Calendar.MINUTE, 0);
+        cal.set(Calendar.SECOND, 0);
+        cal.set(Calendar.MILLISECOND, 0);
+        final long timeMillis = cal.getTimeInMillis();
+        final ZipLong time = new ZipLong(timeMillis / 1000);
 
         // get/set create time
         xf.setCreateTime(time);
@@ -329,7 +366,20 @@ public class X5455_ExtendedTimestampTest {
         assertNull(xf.getCreateJavaTime());
         assertNull(xf.getCreateTime());
         assertFalse(xf.isBit2_createTimePresent());
+    }
 
+    private void testFlags() {
+        // Initialize time
+        final Calendar cal = Calendar.getInstance(TimeZone.getTimeZone("UTC"));
+        cal.set(Calendar.YEAR, 2000);
+        cal.set(Calendar.MONTH, Calendar.JANUARY);
+        cal.set(Calendar.DATE, 1);
+        cal.set(Calendar.HOUR_OF_DAY, 0);
+        cal.set(Calendar.MINUTE, 0);
+        cal.set(Calendar.SECOND, 0);
+        cal.set(Calendar.MILLISECOND, 0);
+        final long timeMillis = cal.getTimeInMillis();
+        final ZipLong time = new ZipLong(timeMillis / 1000);
 
         // initialize for flags
         xf.setModifyTime(time);
@@ -386,16 +436,17 @@ public class X5455_ExtendedTimestampTest {
         assertEquals(13, xf.getLocalFileDataLength().getValue());
         assertEquals(5, xf.getCentralDirectoryLength().getValue());
 
-        // get/set flags: 11111111
-        xf.setFlags((byte) -1);
-        assertEquals(-1, xf.getFlags());
+        // Null flags
+        assertThrows(NullPointerException.class, () -> xf.setFlags((Byte) null));
+        // Verify that the state remains unchanged
         assertTrue(xf.isBit0_modifyTimePresent());
         assertTrue(xf.isBit1_accessTimePresent());
         assertTrue(xf.isBit2_createTimePresent());
-        // Local length=13, Central length=5
+        assertEquals(7, xf.getFlags());
         assertEquals(13, xf.getLocalFileDataLength().getValue());
         assertEquals(5, xf.getCentralDirectoryLength().getValue());
     }
+
 
     @Test
     public void testMisc() throws Exception {
