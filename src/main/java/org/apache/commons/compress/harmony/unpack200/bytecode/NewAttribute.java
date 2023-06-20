@@ -146,7 +146,7 @@ public class NewAttribute extends BCIRenumberedAttribute {
     @Override
     protected int[] getStartPCs() {
         // Don't need to return anything here as we've overridden renumber
-        return null;
+        return new int[0];
     }
 
     @Override
