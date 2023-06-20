@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.cpio.CpioUtil#byteArray2long([BZ)J
+java.lang.UnsupportedOperationException#<init>()V
+java.util.Arrays#copyOf([BI)[B
+java.lang.UnsupportedOperationException#instance-init#

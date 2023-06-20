@@ -1,0 +1,12 @@
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder#decode([BII)I
+java.lang.IllegalStateException#instance-init#
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder#readDynamicTables()[[I
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder#readBits(I)J
+java.lang.IllegalStateException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder#switchToUncompressedState()V
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder$HuffmanCodes#instance-init#
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder$HuffmanCodes#<init>(Lorg/apache/commons/compress/compressors/deflate64/HuffmanDecoder;Lorg/apache/commons/compress/compressors/deflate64/HuffmanState;[I[I)V
+==
+read org.apache.commons.compress.compressors.deflate64.HuffmanDecoder$DecoderState#read([BII)I
+state org.apache.commons.compress.compressors.deflate64.HuffmanDecoder$DecoderState#state()Lorg/apache/commons/compress/compressors/deflate64/HuffmanState;
+hasData org.apache.commons.compress.compressors.deflate64.HuffmanDecoder$DecoderState#hasData()Z

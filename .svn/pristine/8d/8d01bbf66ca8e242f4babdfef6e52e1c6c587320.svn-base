@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.ClassBands#removeCodeDebugAttributes()V
+java.lang.Long#longValue()J
+org.apache.commons.compress.harmony.pack200.ClassBands#removeCodeLocalVariablesInTypeTable()V
+org.apache.commons.compress.harmony.pack200.ClassBands#removeCodeLineNumbers()V

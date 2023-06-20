@@ -1,0 +1,25 @@
+
+forg.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#getCompressedCount()J›
+ŽC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/snappy/FramedSnappyCompressorInputStream.javaÆ Æ(""1*Ñ
+1
+Ç Ç(Ù
+Ö
+
+Ç Ç(;
+%05org.apache.commons.compress.utils.CountingInputStream"__id*„
+
+__unknown_file (h*fR
+Porg.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream"
+countingStreamÍÊ
+
+Ç Ç(,
+
+%1long"Eorg.apache.commons.compress.utils.CountingInputStream#getBytesRead()J*Y
+
+__unknown_file (=
+;
+%05org.apache.commons.compress.utils.CountingInputStream2getBytesRead()"
+
+Ç Ç(;
+""BTR
+Porg.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStreamHP

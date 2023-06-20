@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.sevenz.Archive#lengthOf([J)Ljava/lang/String;
+java.lang.String#valueOf(I)Ljava/lang/String;

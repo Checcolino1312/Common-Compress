@@ -1,0 +1,68 @@
+
+Vorg.apache.commons.compress.compressors.brotli.BrotliCompressorInputStream#read([BII)IÜ
+|C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/brotli/BrotliCompressorInputStream.javaV V("startingBlock*Ó
+startingBlockV V(C
+}
+U U(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*+
+
+__unknown_file (
+
+bufbyte[]M
+K
+V! V($
+bufbyte[]"__annotation*"
+
+__unknown_file (
+
+%3*
+1*Â
+1W W(≤
+Ø
+W W(&
+%0 org.brotli.dec.BrotliInputStream"__id*u
+
+__unknown_file (Y*WL
+Jorg.apache.commons.compress.compressors.brotli.BrotliCompressorInputStream"
+decISçä
+W W(1	
+%1int",org.brotli.dec.BrotliInputStream#read([BII)I*D
+
+__unknown_file ((
+&
+%0 org.brotli.dec.BrotliInputStream*+
+
+__unknown_file (
+
+bufbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2
+read([BII)¸˘
+X X(
+
+%2void"Gorg.apache.commons.compress.compressors.CompressorInputStream#count(I)V*j
+
+__unknown_file (NL
+Jorg.apache.commons.compress.compressors.brotli.BrotliCompressorInputStream*"
+
+__unknown_file (
+""2count(I)"
+Y Y(
+"":
+V V(%
+bufbyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BNL
+Jorg.apache.commons.compress.compressors.brotli.BrotliCompressorInputStreamHP

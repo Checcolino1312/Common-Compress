@@ -1,0 +1,10 @@
+org.apache.commons.compress.harmony.pack200.CodecEncoding#getCodec(ILjava/io/InputStream;Lorg/apache/commons/compress/harmony/pack200/Codec;)Lorg/apache/commons/compress/harmony/pack200/Codec;
+org.apache.commons.compress.harmony.pack200.CodecEncoding#decodeRunCodec(ILjava/io/InputStream;Lorg/apache/commons/compress/harmony/pack200/Codec;)Lorg/apache/commons/compress/harmony/pack200/RunCodec;
+org.apache.commons.compress.harmony.pack200.Pack200Exception#<init>(Ljava/lang/String;)V
+java.lang.Error#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.harmony.pack200.Pack200Exception#instance-init#
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.Error#instance-init#
+org.apache.commons.compress.harmony.pack200.CodecEncoding#decodeBHSDCodec(Ljava/io/InputStream;)Lorg/apache/commons/compress/harmony/pack200/BHSDCodec;
+org.apache.commons.compress.harmony.pack200.CodecEncoding#decodePopulationCodec(ILjava/io/InputStream;Lorg/apache/commons/compress/harmony/pack200/Codec;)Lorg/apache/commons/compress/harmony/pack200/PopulationCodec;
+java.lang.IllegalArgumentException#instance-init#

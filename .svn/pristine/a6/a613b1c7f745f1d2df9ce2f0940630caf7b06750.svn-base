@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#<init>(Ljava/io/InputStream;ILjava/lang/String;)V
+org.apache.commons.compress.archivers.zip.ZipEncodingHelper#getZipEncoding(Ljava/lang/String;)Lorg/apache/commons/compress/archivers/zip/ZipEncoding;
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#

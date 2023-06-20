@@ -1,0 +1,677 @@
+
+êorg.apache.commons.compress.archivers.arj.ArjArchiveInputStream#readLocalFileHeader()Lorg/apache/commons/compress/archivers/arj/LocalFileHeader;}
+qC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/arj/ArjArchiveInputStream.java‰ ‰(/"46*…
+46
+Â( Â(2Œ
+À
+
+Â( Â(4
+%0byte[]"Norg.apache.commons.compress.archivers.arj.ArjArchiveInputStream#readHeader()[B*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStream\
+Z
+
+Â Â(5
+basicHeaderBytesbyte[]"__id**
+
+__unknown_file (
+
+%0byte[]*
+43
+45*ø
+24
+˙/ ˙(P¶
+£
+
+˚> ˚(Q
+
+%24int"borg.apache.commons.compress.archivers.arj.ArjArchiveInputStream#read32(Ljava/io/DataInputStream;)I*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStream*D
+
+__unknown_file ((
+&
+firstHeaderjava.io.DataInputStream*
+23*ø
+25
+˘1 ˘(R¶
+£
+
+˙= ˙(P
+
+%23int"borg.apache.commons.compress.archivers.arj.ArjArchiveInputStream#read32(Ljava/io/DataInputStream;)I*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStream*D
+
+__unknown_file ((
+&
+firstHeaderjava.io.DataInputStream*
+24*ø
+26
+¯ ¯(F¶
+£
+
+˘? ˘(R
+
+%22int"borg.apache.commons.compress.archivers.arj.ArjArchiveInputStream#read32(Ljava/io/DataInputStream;)I*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStream*D
+
+__unknown_file ((
+&
+firstHeaderjava.io.DataInputStream*
+25*ø
+27
+˜ ˜(I¶
+£
+
+¯3 ¯(F
+
+%21int"borg.apache.commons.compress.archivers.arj.ArjArchiveInputStream#read32(Ljava/io/DataInputStream;)I*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStream*D
+
+__unknown_file ((
+&
+firstHeaderjava.io.DataInputStream*
+26*ª
+28
+ˆ ˆ(I¢ü
+
+˜+ ˜(I
+
+%20int"+java.io.DataInputStream#readUnsignedByte()I*D
+
+__unknown_file ((
+&
+firstHeaderjava.io.DataInputStream2readUnsignedByte()*
+27*ª
+29
+ı ı(G¢ü
+
+ˆ+ ˆ(I
+
+%19int"+java.io.DataInputStream#readUnsignedByte()I*D
+
+__unknown_file ((
+&
+firstHeaderjava.io.DataInputStream2readUnsignedByte()*
+28*ª
+30
+Ù Ù(I¢ü
+
+ı) ı(G
+
+%18int"+java.io.DataInputStream#readUnsignedByte()I*D
+
+__unknown_file ((
+&
+firstHeaderjava.io.DataInputStream2readUnsignedByte()*
+29*ª
+31
+Û Û(G¢ü
+
+Ù+ Ù(I
+
+%17int"+java.io.DataInputStream#readUnsignedByte()I*D
+
+__unknown_file ((
+&
+firstHeaderjava.io.DataInputStream2readUnsignedByte()*
+30*ª
+32
+Ú Ú(T¢ü
+
+Û) Û(G
+
+%16int"+java.io.DataInputStream#readUnsignedByte()I*D
+
+__unknown_file ((
+&
+firstHeaderjava.io.DataInputStream2readUnsignedByte()*
+31*π
+10
+ä ä(Y`
+^
+
+ä ä(Y
+extendedHeaderBytesbyte[]"__id*+
+
+__unknown_file (
+
+%38byte[]û
+õ
+
+ãJ ã(L
+%39java.io.DataInputStream"__id*g
+
+__unknown_file (K*IA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStream"
+inû
+õ
+
+ãC ã(M
+
+%40int"borg.apache.commons.compress.archivers.arj.ArjArchiveInputStream#read32(Ljava/io/DataInputStream;)I*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStream*<
+
+__unknown_file ( 
+
+%39java.io.DataInputStream*
+9*ª
+33
+Ò Ò(V¢ü
+
+Ú6 Ú(T
+
+%15int"+java.io.DataInputStream#readUnsignedByte()I*D
+
+__unknown_file ((
+&
+firstHeaderjava.io.DataInputStream2readUnsignedByte()*
+32*Ä
+11
+ä7 ä(@û
+õ
+
+äA ä(C
+%37java.io.DataInputStream"__id*g
+
+__unknown_file (K*IA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStream"
+in∆
+√
+
+ä7 ä(X
+%38byte[]"corg.apache.commons.compress.archivers.arj.ArjArchiveInputStream#readRange(Ljava/io/InputStream;I)[B*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStream*<
+
+__unknown_file ( 
+
+%37java.io.DataInputStream*"
+
+__unknown_file (
+""*
+10*Å
+34
+ (N√
+¿
+
+ (NL
+localFileHeader9org.apache.commons.compress.archivers.arj.LocalFileHeader"__id*^
+
+__unknown_file (B
+@
+%129org.apache.commons.compress.archivers.arj.LocalFileHeader¢ü
+
+Ò8 Ò(V
+
+%14int"+java.io.DataInputStream#readUnsignedByte()I*D
+
+__unknown_file ((
+&
+firstHeaderjava.io.DataInputStream2readUnsignedByte()*
+33*ﬂ
+35
+Ó Ó(tz
+x
+
+Ó Ó(t&
+firstHeaderjava.io.DataInputStream"__id*<
+
+__unknown_file ( 
+
+%10java.io.DataInputStreamåâ
+
+< (K@
+%129org.apache.commons.compress.archivers.arj.LocalFileHeader"9org.apache.commons.compress.archivers.arj.LocalFileHeaderª
+∏
+
+8 (M
+%13"Corg.apache.commons.compress.archivers.arj.LocalFileHeader#<init>()V*^
+
+__unknown_file (B
+@
+%129org.apache.commons.compress.archivers.arj.LocalFileHeader*
+34*€
+13
+â- â(3û
+õ
+
+â4 â(6
+%35java.io.DataInputStream"__id*g
+
+__unknown_file (K*IA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStream"
+inû
+õ
+
+â- â(7
+
+%36int"borg.apache.commons.compress.archivers.arj.ArjArchiveInputStream#read16(Ljava/io/DataInputStream;)I*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStream*<
+
+__unknown_file ( 
+
+%35java.io.DataInputStream*
+2
+11*∞
+36
+Ó5 Ó(tGE
+
+Ó9 Ó(H
+%10java.io.DataInputStream"java.io.DataInputStreamŒ
+À
+
+Ó5 Ó(t
+%11"6java.io.DataInputStream#<init>(Ljava/io/InputStream;)V*<
+
+__unknown_file ( 
+
+%10java.io.DataInputStream*@
+
+__unknown_file ($
+"
+%8java.io.ByteArrayInputStream*
+35*é
+14
+á á(Lv
+t
+
+á á(L&
+extendedHeadersjava.util.ArrayList"__id*8
+
+__unknown_file (
+
+%33java.util.ArrayList*
+13*¶
+37
+Ób Ó(rPN
+
+ÓM Ó(a"
+%8java.io.ByteArrayInputStream"java.io.ByteArrayInputStreamª
+∏
+
+ÓI Ó(s
+%9"(java.io.ByteArrayInputStream#<init>([B)V*@
+
+__unknown_file ($
+"
+%8java.io.ByteArrayInputStream*8
+
+__unknown_file (
+
+firstHeaderBytesbyte[]*
+36*Ò
+15
+Ö Ö(Aß
+§
+
+Ö Ö(AY
+L
+localFileHeader9org.apache.commons.compress.archivers.arj.LocalFileHeader"	
+comment"__id*5
+
+__unknown_file (
+
+%32java.lang.String?=
+
+á> á(I
+%33java.util.ArrayList"java.util.ArrayListn
+l
+
+á: á(K
+%34"java.util.ArrayList#<init>()V*8
+
+__unknown_file (
+
+%33java.util.ArrayList*
+14*à
+16
+Ñ Ñ(>§
+°
+
+Ñ Ñ(>V
+L
+localFileHeader9org.apache.commons.compress.archivers.arj.LocalFileHeader"
+name"__id*5
+
+__unknown_file (
+
+%31java.lang.String»
+≈
+
+Ö* Ö(A
+%32java.lang.String"worg.apache.commons.compress.archivers.arj.ArjArchiveInputStream#readString(Ljava/io/DataInputStream;)Ljava/lang/String;*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStream*D
+
+__unknown_file ((
+&
+basicHeaderjava.io.DataInputStream*
+15*˘
+39
+Ï Ï(X\
+Z
+
+Ï Ï(X
+firstHeaderBytesbyte[]"__id**
+
+__unknown_file (
+
+%6byte[]Çˇ
+
+Ì Ì(4
+
+%7void"Lorg.apache.commons.compress.archivers.ArchiveInputStream#pushedBackBytes(J)V*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStream*"
+
+__unknown_file (
+""2pushedBackBytes(J)*
+37*·
+17
+Ñ Ñ(»
+≈
+
+Ñ' Ñ(>
+%31java.lang.String"worg.apache.commons.compress.archivers.arj.ArjArchiveInputStream#readString(Ljava/io/DataInputStream;)Ljava/lang/String;*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStream*D
+
+__unknown_file ((
+&
+basicHeaderjava.io.DataInputStream*
+16*î
+18
+Ä Ä(L˚
+¯
+
+Ç Ç(L
+%30void"•org.apache.commons.compress.archivers.arj.ArjArchiveInputStream#readExtraData(ILjava/io/DataInputStream;Lorg/apache/commons/compress/archivers/arj/LocalFileHeader;)V*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStream*"
+
+__unknown_file (
+""*D
+
+__unknown_file ((
+&
+firstHeaderjava.io.DataInputStream*j
+
+__unknown_file (N
+L
+localFileHeader9org.apache.commons.compress.archivers.arj.LocalFileHeader*
+17*ª
+19
+ˇ ˇ(M¢ü
+
+Ä. Ä(L
+
+%29int"+java.io.DataInputStream#readUnsignedByte()I*D
+
+__unknown_file ((
+&
+firstHeaderjava.io.DataInputStream2readUnsignedByte()*
+18*(
+0 "!
+
+ò ò(
+implicit return*ó
+1
+ì ì(Xß
+§
+
+ì ì(Xa
+L
+localFileHeader9org.apache.commons.compress.archivers.arj.LocalFileHeader"
+extendedHeaders"__id*-
+
+__unknown_file (
+
+%48byte[][]"\
+
+ï ï('N
+L
+localFileHeader9org.apache.commons.compress.archivers.arj.LocalFileHeader*Ñ
+2
+ì ì(ÌÍ
+
+ì2 ì(X
+%48byte[][]"Cjava.util.ArrayList#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*D
+
+__unknown_file ((
+&
+extendedHeadersjava.util.ArrayList*"
+
+__unknown_file (
+""2toArray([Ljava/lang/Object;)*
+1*Ê
+3
+ë ë(#Œ
+À
+
+ë ë(<
+%47boolean"
+__arrayAdd*D
+
+__unknown_file ((
+&
+extendedHeadersjava.util.ArrayList*
+
+__unknown_file (: *;
+
+__unknown_file (
+
+extendedHeaderBytesbyte[]*
+13*•
+5
+è. è(Z?=
+
+è" è(-
+%45java.io.IOException"java.io.IOExceptionÕ
+ 
+
+è è([
+%46"/java.io.IOException#<init>(Ljava/lang/String;)V*8
+
+__unknown_file (
+
+%45java.io.IOException*J
+
+__unknown_file (.,
+*Extended header CRC32 verification failure*
+0*ü
+7
+é é(+ÖÇ
+
+é/ é(?
+%44long"java.util.zip.CRC32#getValue()J*:
+
+__unknown_file (
+
+crc32java.util.zip.CRC322
+getValue()*
+3
+5* 
+8
+å å(4l
+j
+
+å å(4
+crc32java.util.zip.CRC32"__id*8
+
+__unknown_file (
+
+%41java.util.zip.CRC32≈¬
+
+ç ç(5
+%43void""java.util.zip.Checksum#update([B)V*:
+
+__unknown_file (
+
+crc32java.util.zip.CRC32*;
+
+__unknown_file (
+
+extendedHeaderBytesbyte[]2
+update([B)*
+7*≈
+9
+ã5 ã(M?=
+
+å, å(1
+%41java.util.zip.CRC32"java.util.zip.CRC32n
+l
+
+å( å(3
+%42"java.util.zip.CRC32#<init>()V*8
+
+__unknown_file (
+
+%41java.util.zip.CRC32*
+8*Ê
+40
+Î Î(GÕ
+ 
+
+Ï, Ï(W
+%6byte[]"corg.apache.commons.compress.archivers.arj.ArjArchiveInputStream#readRange(Ljava/io/InputStream;I)[B*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStream*D
+
+__unknown_file ((
+&
+basicHeaderjava.io.DataInputStream*"
+
+__unknown_file (
+""*
+39*µ
+41
+È È(py
+w
+
+È È(p&
+basicHeaderjava.io.DataInputStream"__id*;
+
+__unknown_file (
+
+%3java.io.DataInputStream°û
+
+Î( Î(F	
+%5int"+java.io.DataInputStream#readUnsignedByte()I*D
+
+__unknown_file ((
+&
+basicHeaderjava.io.DataInputStream2readUnsignedByte()*
+40*≠
+42
+È1 È(pFD
+
+È5 È(D
+%3java.io.DataInputStream"java.io.DataInputStreamÃ
+…
+
+È1 È(p
+%4"6java.io.DataInputStream#<init>(Ljava/io/InputStream;)V*;
+
+__unknown_file (
+
+%3java.io.DataInputStream*@
+
+__unknown_file ($
+"
+%1java.io.ByteArrayInputStream*
+41*ª
+20
+ˇ ˇ(¢ü
+
+ˇ/ ˇ(M
+
+%28int"+java.io.DataInputStream#readUnsignedByte()I*D
+
+__unknown_file ((
+&
+firstHeaderjava.io.DataInputStream2readUnsignedByte()*
+19*¶
+43
+È^ È(nPN
+
+ÈI È(]"
+%1java.io.ByteArrayInputStream"java.io.ByteArrayInputStreamª
+∏
+
+ÈE È(o
+%2"(java.io.ByteArrayInputStream#<init>([B)V*@
+
+__unknown_file ($
+"
+%1java.io.ByteArrayInputStream*8
+
+__unknown_file (
+
+basicHeaderBytesbyte[]*
+42*ö
+21
+˝ ˝(DÅ˛
+
+˛ ˛(#
+%27void"Lorg.apache.commons.compress.archivers.ArchiveInputStream#pushedBackBytes(J)V*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStream* 
+
+__unknown_file (22pushedBackBytes(J)*
+20*ø
+22
+¸ ¸(F¶
+£
+
+˝1 ˝(D
+
+%26int"borg.apache.commons.compress.archivers.arj.ArjArchiveInputStream#read16(Ljava/io/DataInputStream;)I*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStream*D
+
+__unknown_file ((
+&
+firstHeaderjava.io.DataInputStream*
+21*&
+45
+Á Á("
+
+Á Á(
+""*ø
+23
+˚0 ˚(Q¶
+£
+
+¸3 ¸(F
+
+%25int"borg.apache.commons.compress.archivers.arj.ArjArchiveInputStream#read16(Ljava/io/DataInputStream;)I*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStream*D
+
+__unknown_file ((
+&
+firstHeaderjava.io.DataInputStream*
+22BCA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStream

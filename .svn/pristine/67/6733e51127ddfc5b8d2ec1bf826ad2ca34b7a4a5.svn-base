@@ -1,0 +1,128 @@
+
+oorg.apache.commons.compress.compressors.CompressorStreamFactory#getOutputStreamCompressorNames()Ljava/util/Set;}
+qC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/CompressorStreamFactory.javaì ì(5"1*ƒ
+1
+í í(P
+N
+
+í í(#
+%0java.lang.String"__id*"
+
+__unknown_file (
+gzS
+Q
+
+í% í(*
+%1java.lang.String"__id*%
+
+__unknown_file (	
+bzip2P
+N
+
+í, í(.
+%2java.lang.String"__id*"
+
+__unknown_file (
+xzR
+P
+
+í0 í(4
+%3java.lang.String"__id*$
+
+__unknown_file (
+lzmaU
+S
+
+í6 í(=
+%4java.lang.String"__id*'
+
+__unknown_file (	
+pack200U
+S
+
+í? í(F
+%5java.lang.String"__id*'
+
+__unknown_file (	
+deflate[
+Y
+
+íH í(U
+%6java.lang.String"__id*-
+
+__unknown_file (
+snappy-framedW
+U
+
+íW í(`
+%7java.lang.String"__id*)
+
+__unknown_file (
+	lz4-blockX
+V
+
+íb í(l
+%8java.lang.String"__id**
+
+__unknown_file (
+
+lz4-framedR
+P
+
+ín í(w
+%9java.lang.String"__id*$
+
+__unknown_file (
+zstdè
+å
+
+í í(x
+%10java.util.HashSet"Yorg.apache.commons.compress.utils.Sets#newHashSet([Ljava/lang/Object;)Ljava/util/HashSet;*F
+
+__unknown_file (*"(
+&org.apache.commons.compress.utils.Sets*4
+
+__unknown_file (
+
+%0java.lang.String*4
+
+__unknown_file (
+
+%1java.lang.String*4
+
+__unknown_file (
+
+%2java.lang.String*4
+
+__unknown_file (
+
+%3java.lang.String*4
+
+__unknown_file (
+
+%4java.lang.String*4
+
+__unknown_file (
+
+%5java.lang.String*4
+
+__unknown_file (
+
+%6java.lang.String*4
+
+__unknown_file (
+
+%7java.lang.String*4
+
+__unknown_file (
+
+%8java.lang.String*4
+
+__unknown_file (
+
+%9java.lang.String"(
+
+í í(y
+
+%10java.util.HashSetBCA
+?org.apache.commons.compress.compressors.CompressorStreamFactoryH

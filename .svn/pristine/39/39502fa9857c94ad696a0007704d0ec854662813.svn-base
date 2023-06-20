@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.ZipFile#startsWithLocalFileHeader()Z
+java.util.Arrays#equals([B[B)Z
+org.apache.commons.compress.utils.IOUtils#readFully(Ljava/nio/channels/ReadableByteChannel;Ljava/nio/ByteBuffer;)V

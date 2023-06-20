@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.X7875_NewUnix#getLocalFileDataLength()Lorg/apache/commons/compress/archivers/zip/ZipShort;
+org.apache.commons.compress.archivers.zip.ZipShort#instance-init#
+org.apache.commons.compress.archivers.zip.X7875_NewUnix#trimLeadingZeroesForceMinLength([B)[B
+org.apache.commons.compress.archivers.zip.ZipShort#<init>(I)V

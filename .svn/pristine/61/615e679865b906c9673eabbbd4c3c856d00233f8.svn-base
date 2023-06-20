@@ -1,0 +1,51 @@
+
+torg.apache.commons.compress.archivers.sevenz.LZMADecoder#getOptions(Ljava/lang/Object;)Lorg/tukaani/xz/LZMA2Options;t
+jC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/LZMADecoder.javaE E(#"2"1*5
+2G" G(&"&
+G G('
+
+optsjava.lang.Object*‰
+1I% I(7LJ
+I) I(5!
+%0org.tukaani.xz.LZMA2Options"org.tukaani.xz.LZMA2Optionsz
+x
+I% I(7
+%1"%org.tukaani.xz.LZMA2Options#<init>()V*?
+
+__unknown_file (#
+!
+%0org.tukaani.xz.LZMA2Options{
+y
+I I(8&
+optionsorg.tukaani.xz.LZMA2Options"__id*?
+
+__unknown_file (#
+!
+%0org.tukaani.xz.LZMA2Optionsè
+å
+J J(7	
+%2int"corg.apache.commons.compress.archivers.sevenz.LZMADecoder#numberOptionOrDefault(Ljava/lang/Object;)I*X
+
+__unknown_file (<:
+8org.apache.commons.compress.archivers.sevenz.LZMADecoder*6
+
+__unknown_file (
+
+optsjava.lang.Object≈¬
+J J(8
+
+%3void"+org.tukaani.xz.LZMA2Options#setDictSize(I)V*D
+
+__unknown_file ((
+&
+optionsorg.tukaani.xz.LZMA2Options*'
+
+__unknown_file (
+	
+%2int2setDictSize(I)"4
+K K((
+&
+optionsorg.tukaani.xz.LZMA2Options:$
+E$ E(5
+optsjava.lang.ObjectB<:
+8org.apache.commons.compress.archivers.sevenz.LZMADecoder

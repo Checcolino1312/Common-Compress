@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.CodeAttribute#toString()Ljava/lang/String;
+==
+getLength org.apache.commons.compress.harmony.unpack200.bytecode.CodeAttribute#getLength()I

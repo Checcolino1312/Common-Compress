@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveEntry#getIno()I
+==
+getIno org.apache.commons.compress.archivers.dump.DumpArchiveEntry$TapeSegmentHeader#getIno()I

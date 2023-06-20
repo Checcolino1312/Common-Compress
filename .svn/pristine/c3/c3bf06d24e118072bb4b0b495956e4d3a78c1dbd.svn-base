@@ -1,0 +1,91 @@
+
+œorg.apache.commons.compress.archivers.zip.ZipArchiveEntry$ExtraFieldParsingMode$2#fill(Lorg/apache/commons/compress/archivers/zip/ZipExtraField;[BIIZ)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;É
+wC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.javaè! è(%"startingBlock*∑
+startingBlockè% è(Üµ
+≤
+
+é é(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*^
+
+__unknown_file (B
+@
+field7org.apache.commons.compress.archivers.zip.ZipExtraFieldÉ
+Ä
+
+è: è(?@
+field7org.apache.commons.compress.archivers.zip.ZipExtraField"__annotation*"
+
+__unknown_file (
+
+%1É
+Ä
+
+é é(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*,
+
+__unknown_file (
+
+databyte[]P
+N
+
+èN è(R
+databyte[]"__annotation*"
+
+__unknown_file (
+
+%2*
+1*Ñ
+1
+ê ê(5£
+†
+
+ê ê(S=
+%07org.apache.commons.compress.archivers.zip.ZipExtraField"Áorg.apache.commons.compress.archivers.zip.ZipArchiveEntry$ExtraFieldParsingMode#fillAndMakeUnrecognizedOnError(Lorg/apache/commons/compress/archivers/zip/ZipExtraField;[BIIZ)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;*o
+
+__unknown_file (S"Q
+Oorg.apache.commons.compress.archivers.zip.ZipArchiveEntry$ExtraFieldParsingMode*^
+
+__unknown_file (B
+@
+field7org.apache.commons.compress.archivers.zip.ZipExtraField*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""M
+
+ê ê(T?
+=
+%07org.apache.commons.compress.archivers.zip.ZipExtraField:N
+
+è& è(@@
+field7org.apache.commons.compress.archivers.zip.ZipExtraField:
+
+èA è(S
+databyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BUS
+Qorg.apache.commons.compress.archivers.zip.ZipArchiveEntry$ExtraFieldParsingMode$2H

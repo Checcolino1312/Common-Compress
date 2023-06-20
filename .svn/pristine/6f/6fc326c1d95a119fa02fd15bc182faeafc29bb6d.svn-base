@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.BHSDCodec#calculateSmallest()J
+org.apache.commons.compress.harmony.pack200.BHSDCodec#cardinality()J
+org.apache.commons.compress.harmony.pack200.BHSDCodec#isSigned()Z
+java.lang.Math#max(JJ)J

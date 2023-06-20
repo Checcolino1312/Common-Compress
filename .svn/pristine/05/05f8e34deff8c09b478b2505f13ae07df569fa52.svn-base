@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#processPreviousSegment(I)I
+java.io.EOFException#instance-init#
+java.io.EOFException#<init>()V

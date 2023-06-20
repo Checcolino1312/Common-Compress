@@ -1,0 +1,21 @@
+
+`org.apache.commons.compress.compressors.brotli.BrotliCompressorInputStream#getCompressedCount()J†
+|C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/brotli/BrotliCompressorInputStream.java; ;(""1*Â
+1< <(Ð
+Í
+< <(;
+%05org.apache.commons.compress.utils.CountingInputStream"__id*~
+
+__unknown_file (b*`L
+Jorg.apache.commons.compress.compressors.brotli.BrotliCompressorInputStream"
+countingStreamËÈ
+< <(,
+
+%1long"Eorg.apache.commons.compress.utils.CountingInputStream#getBytesRead()J*Y
+
+__unknown_file (=
+;
+%05org.apache.commons.compress.utils.CountingInputStream2getBytesRead()"
+< <(-
+""BNL
+Jorg.apache.commons.compress.compressors.brotli.BrotliCompressorInputStreamHP

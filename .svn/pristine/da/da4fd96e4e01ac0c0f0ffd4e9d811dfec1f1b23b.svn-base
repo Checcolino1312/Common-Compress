@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.pack200.ClassBands#addClass(IILjava/lang/String;Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;)V
+java.util.Arrays#setAll([Ljava/lang/Object;Ljava/util/function/IntFunction;)V

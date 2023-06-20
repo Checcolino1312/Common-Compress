@@ -1,0 +1,15 @@
+
+korg.apache.commons.compress.archivers.jar.JarArchiveEntry#getManifestAttributes()Ljava/util/jar/Attributes;u
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/jar/JarArchiveEntry.java[ [(+"1*ä
+1\ \(!¦
+£
+\ \(!
+%0java.util.jar.Attributes"__id*q
+
+__unknown_file (U*S;
+9org.apache.commons.compress.archivers.jar.JarArchiveEntry"
+manifestAttributes",
+\ \(" 
+
+%0java.util.jar.AttributesB=;
+9org.apache.commons.compress.archivers.jar.JarArchiveEntryH

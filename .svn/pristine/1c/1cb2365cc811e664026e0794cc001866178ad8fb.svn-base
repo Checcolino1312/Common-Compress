@@ -1,0 +1,14 @@
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#putArchiveEntry(Lorg/apache/commons/compress/archivers/ArchiveEntry;)V
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#addPaxHeadersForBigNumbers(Ljava/util/Map;Lorg/apache/commons/compress/archivers/tar/TarArchiveEntry;)V
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#writeRecord([B)V
+java.util.HashMap#<init>()V
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#failForBigNumbers(Lorg/apache/commons/compress/archivers/tar/TarArchiveEntry;)V
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#handleLongName(Lorg/apache/commons/compress/archivers/tar/TarArchiveEntry;Ljava/lang/String;Ljava/util/Map;Ljava/lang/String;BLjava/lang/String;)Z
+java.lang.String#isEmpty()Z
+java.util.HashMap#instance-init#
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#encodeExtendedPaxHeadersContents(Ljava/util/Map;)[B
+==
+writePaxHeaders org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#writePaxHeaders(Lorg/apache/commons/compress/archivers/tar/TarArchiveEntry;Ljava/lang/String;Ljava/util/Map;)V
+closeArchiveEntry org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#closeArchiveEntry()V

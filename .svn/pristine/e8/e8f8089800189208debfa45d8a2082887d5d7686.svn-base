@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.UnparseableExtraFieldData#parseFromCentralDirectoryData([BII)V
+java.util.Arrays#copyOfRange([BII)[B
+org.apache.commons.compress.archivers.zip.UnparseableExtraFieldData#parseFromLocalFileData([BII)V

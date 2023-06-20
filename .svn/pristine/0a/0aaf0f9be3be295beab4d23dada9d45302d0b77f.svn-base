@@ -1,0 +1,113 @@
+
+Äorg.apache.commons.compress.archivers.sevenz.LZMA2Decoder#encode(Ljava/io/OutputStream;Ljava/lang/Object;)Ljava/io/OutputStream;Å
+wC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/sevenz/LZMA2Decoder.java3 3("startingBlock*Î
+startingBlock3 3(Bñ
+ì
+1 1(!
+%4"
+__annotate*:
+
+__unknown_file (
+java.lang.SuppressWarnings*9
+
+__unknown_file (
+
+outjava.io.OutputStreamé
+ã
+2 2(
+%5"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*9
+
+__unknown_file (
+
+outjava.io.OutputStream
+}
+3+ 3(.
+outjava.io.OutputStream"__annotation*"
+
+__unknown_file (
+
+%4*"
+
+__unknown_file (
+
+%5ì
+ê
+1 1(!
+%6"
+__annotate*:
+
+__unknown_file (
+java.lang.SuppressWarnings*6
+
+__unknown_file (
+
+optsjava.lang.Objectã
+à
+2 2(
+%7"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*6
+
+__unknown_file (
+
+optsjava.lang.Object|
+z
+3= 3(A
+optsjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%6*"
+
+__unknown_file (
+
+%7*
+1*Ó
+14 4(∫
+∑
+4 4(!
+%0org.tukaani.xz.LZMA2Options"uorg.apache.commons.compress.archivers.sevenz.LZMA2Decoder#getOptions(Ljava/lang/Object;)Lorg/tukaani/xz/LZMA2Options;*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.sevenz.LZMA2Decoder*6
+
+__unknown_file (
+
+optsjava.lang.Objectnl
+44 4(Q2
+%1,org.tukaani.xz.FinishableWrapperOutputStream",org.tukaani.xz.FinishableWrapperOutputStreamÓ
+Î
+40 4(V
+%2"Lorg.tukaani.xz.FinishableWrapperOutputStream#<init>(Ljava/io/OutputStream;)V*P
+
+__unknown_file (4
+2
+%1,org.tukaani.xz.FinishableWrapperOutputStream*9
+
+__unknown_file (
+
+outjava.io.OutputStreamÖÇ
+4 4(W+
+%3%org.tukaani.xz.FinishableOutputStream"|org.tukaani.xz.FilterOptions#getOutputStream(Lorg/tukaani/xz/FinishableOutputStream;)Lorg/tukaani/xz/FinishableOutputStream;*?
+
+__unknown_file (#
+!
+%0org.tukaani.xz.LZMA2Options*P
+
+__unknown_file (4
+2
+%1,org.tukaani.xz.FinishableWrapperOutputStream28getOutputStream(Lorg/tukaani/xz/FinishableOutputStream;)"9
+4 4(X-
++
+%3%org.tukaani.xz.FinishableOutputStream:'
+3 3(/
+outjava.io.OutputStream:$
+30 3(A
+optsjava.lang.ObjectB=;
+9org.apache.commons.compress.archivers.sevenz.LZMA2Decoder

@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.arj.ArjArchiveEntry#hashCode()I
+java.lang.String#hashCode()I
+==
+getName org.apache.commons.compress.archivers.arj.ArjArchiveEntry#getName()Ljava/lang/String;

@@ -1,0 +1,21 @@
+
+[org.apache.commons.compress.harmony.unpack200.bytecode.CPClass#toString()Ljava/lang/String;z
+pC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPClass.java^ ^("1*‘
+1_ _(ìé
+_ _($
+%0java.lang.String"Zorg.apache.commons.compress.harmony.unpack200.bytecode.CPClass#getName()Ljava/lang/String;*^
+
+__unknown_file (B@
+>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass2	getName()m
+k
+_ _($
+%1java.lang.String"__concat*
+_ _(	
+Class: *$
+_ _($
+
+%0java.lang.String"$
+_ _(%
+
+%1java.lang.StringBB@
+>org.apache.commons.compress.harmony.unpack200.bytecode.CPClassH

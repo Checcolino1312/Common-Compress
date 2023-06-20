@@ -1,0 +1,4 @@
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#read([BII)I
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#readOnce([BII)I
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#appendToBlockDependencyBuffer([BII)V
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#nextBlock()V

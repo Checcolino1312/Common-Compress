@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.commons.compress.utils.SeekableInMemoryByteChannelTest
+-------------------------------------------------------------------------------
+Tests run: 27, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 0.006 s - in org.apache.commons.compress.utils.SeekableInMemoryByteChannelTest

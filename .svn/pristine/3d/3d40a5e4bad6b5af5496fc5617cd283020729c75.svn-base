@@ -1,0 +1,106 @@
+
+Æorg.apache.commons.compress.archivers.zip.ZipUtil#getUnicodeStringIfOriginalMatches(Lorg/apache/commons/compress/archivers/zip/AbstractUnicodeExtraField;[B)Ljava/lang/String;o
+cC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipUtil.javaﬁ ﬁ(0"7"1*7
+3
+Á Ë(F"&
+
+Á Ë(F
+
+%7java.lang.String*•
+4
+Á Ë(Eéã
+
+Á Ë(E
+%7java.lang.String"Rorg.apache.commons.compress.archivers.zip.ZipEncoding#decode([B)Ljava/lang/String;*Y
+
+__unknown_file (=
+;
+%55org.apache.commons.compress.archivers.zip.ZipEncoding**
+
+__unknown_file (
+
+%6byte[]2
+decode([B)*
+3*˝
+5
+Á Á(,u
+s
+
+Á Ë(*;
+%55org.apache.commons.compress.archivers.zip.ZipEncoding"__id*"
+
+__unknown_file (
+""ÔÏ
+
+Ë2 Ë(D
+%6byte[]"Vorg.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField#getUnicodeName()[B*f
+
+__unknown_file (J
+H
+fCorg.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField2getUnicodeName()*
+4*‹
+7
+·  ·(+><
+
+·$ ·()
+%0java.util.zip.CRC32"java.util.zip.CRC32l
+j
+
+·  ·(+
+%1"java.util.zip.CRC32#<init>()V*7
+
+__unknown_file (
+
+%0java.util.zip.CRC32k
+i
+
+· ·(,
+crc32java.util.zip.CRC32"__id*7
+
+__unknown_file (
+
+%0java.util.zip.CRC32µ≤
+
+‚ ‚(
+
+%2void""java.util.zip.Checksum#update([B)V*:
+
+__unknown_file (
+
+crc32java.util.zip.CRC32*,
+
+__unknown_file (
+
+origbyte[]2
+update([B)ÑÅ
+
+„# „(3
+
+%3long"java.util.zip.CRC32#getValue()J*:
+
+__unknown_file (
+
+crc32java.util.zip.CRC322
+getValue()ËÂ
+
+Â Â(-
+
+%4long"Sorg.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField#getNameCRC32()J*f
+
+__unknown_file (J
+H
+fCorg.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField2getNameCRC32()*
+5
+1*%
+1
+ ("
+
+ (
+"":V
+
+ﬁ1 ﬁ(SH
+fCorg.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField:
+
+ﬂ1 ﬂ(B
+origbyte[]B5"3
+1org.apache.commons.compress.archivers.zip.ZipUtil

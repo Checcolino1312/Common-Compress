@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#instance-init#
+org.apache.commons.compress.compressors.bzip2.CRC#<init>()V
+org.apache.commons.compress.compressors.bzip2.CRC#instance-init#

@@ -1,0 +1,95 @@
+
+eorg.apache.commons.compress.archivers.sevenz.LZMADecoder#getOptionsAsProperties(Ljava/lang/Object;)[Bt
+jC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/LZMADecoder.javaO O(!"startingBlock*†
+startingBlockO! O(4‹
+ˆ
+N N(
+%6"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*6
+
+__unknown_file (
+
+optsjava.lang.ObjectX
+V
+O/ O(3
+optsjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%6*
+1*±
+1P% P(/¸
+µ
+P% P(5!
+%0org.tukaani.xz.LZMA2Options"torg.apache.commons.compress.archivers.sevenz.LZMADecoder#getOptions(Ljava/lang/Object;)Lorg/tukaani/xz/LZMA2Options;*X
+
+__unknown_file (<:
+8org.apache.commons.compress.archivers.sevenz.LZMADecoder*6
+
+__unknown_file (
+
+optsjava.lang.Object{
+y
+P P(6&
+optionsorg.tukaani.xz.LZMA2Options"__id*?
+
+__unknown_file (#
+!
+%0org.tukaani.xz.LZMA2OptionsŠ
+Q$ Q(3	
+%1int"$org.tukaani.xz.LZMA2Options#getPb()I*D
+
+__unknown_file ((
+&
+optionsorg.tukaani.xz.LZMA2Options2getPb()Š
+Q: Q(I	
+%2int"$org.tukaani.xz.LZMA2Options#getLp()I*D
+
+__unknown_file ((
+&
+optionsorg.tukaani.xz.LZMA2Options2getLp()Š
+QQ Q(`	
+%3int"$org.tukaani.xz.LZMA2Options#getLc()I*D
+
+__unknown_file ((
+&
+optionsorg.tukaani.xz.LZMA2Options2getLc()™–
+R R(2	
+%4int"*org.tukaani.xz.LZMA2Options#getDictSize()I*D
+
+__unknown_file ((
+&
+optionsorg.tukaani.xz.LZMA2Options2getDictSize()C
+A
+S S(%
+obyte[]"__id*"
+
+__unknown_file (
+""½
+º
+U U(3
+
+%5void"Borg.apache.commons.compress.utils.ByteUtils#toLittleEndian([BJII)V*K
+
+__unknown_file (/"-
++org.apache.commons.compress.utils.ByteUtils*)
+
+__unknown_file (
+
+obyte[]*"
+
+__unknown_file (
+""* 
+
+__unknown_file (2* 
+
+__unknown_file (2"
+V V(
+
+obyte[]:$
+O" O(3
+optsjava.lang.ObjectB<:
+8org.apache.commons.compress.archivers.sevenz.LZMADecoder

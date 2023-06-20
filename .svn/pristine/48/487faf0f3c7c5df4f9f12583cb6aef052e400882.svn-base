@@ -1,0 +1,8 @@
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#putArchiveEntry(Lorg/apache/commons/compress/archivers/ArchiveEntry;)V
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#ensureOpen()V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#writeHeader(Lorg/apache/commons/compress/archivers/cpio/CpioArchiveEntry;)V
+java.lang.System#currentTimeMillis()J
+==
+closeArchiveEntry org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#closeArchiveEntry()V

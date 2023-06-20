@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getAllExtraFieldsNoCopy()[Lorg/apache/commons/compress/archivers/zip/ZipExtraField;
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getUnparseableOnly()[Lorg/apache/commons/compress/archivers/zip/ZipExtraField;
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getMergedFields()[Lorg/apache/commons/compress/archivers/zip/ZipExtraField;

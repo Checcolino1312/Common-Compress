@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.snappy.SnappyCompressorOutputStream#<init>(Ljava/io/OutputStream;J)V
+==
+SnappyCompressorOutputStream org.apache.commons.compress.compressors.snappy.SnappyCompressorOutputStream#<init>(Ljava/io/OutputStream;JI)V

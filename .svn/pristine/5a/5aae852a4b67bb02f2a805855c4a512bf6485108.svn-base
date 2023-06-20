@@ -1,0 +1,25 @@
+
+Morg.apache.commons.compress.archivers.zip.ZipEightByteInteger#getLongValue()J‡
+{C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipEightByteInteger.javaÐ Ð("1*Ë
+1
+Ñ Ñ(›
+˜
+
+Ñ Ñ(
+%0java.math.BigInteger"__id*h
+
+__unknown_file (L*J?
+=org.apache.commons.compress.archivers.zip.ZipEightByteInteger"
+value…‚
+
+Ñ Ñ( 
+
+%1long"!java.math.BigInteger#longValue()J*8
+
+__unknown_file (
+
+%0java.math.BigInteger2longValue()"
+
+Ñ Ñ(!
+""BA?
+=org.apache.commons.compress.archivers.zip.ZipEightByteIntegerHP

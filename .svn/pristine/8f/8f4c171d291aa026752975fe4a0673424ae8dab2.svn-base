@@ -1,0 +1,1 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#shouldAddZip64Extra(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;Lorg/apache/commons/compress/archivers/zip/Zip64Mode;)Z

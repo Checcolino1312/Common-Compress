@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.pack200.BcBands#visitJumpInsn(ILorg/objectweb/asm/Label;)V
+org.apache.commons.compress.harmony.pack200.BcBands#updateRenumbering()V

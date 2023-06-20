@@ -1,0 +1,7 @@
+org.apache.commons.compress.archivers.zip.ZipSplitReadOnlySeekableByteChannel#assertSplitSignature(Ljava/util/List;)V
+org.apache.commons.compress.archivers.zip.ZipLong#equals(Ljava/lang/Object;)Z
+org.apache.commons.compress.archivers.zip.ZipLong#<init>([B)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.zip.ZipLong#instance-init#
+java.nio.ByteBuffer#array()[B

@@ -1,0 +1,23 @@
+
+_org.apache.commons.compress.archivers.zip.ZipArchiveInputStream$BoundedInputStream#available()I‡
+}C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.javao o("2"1*!
+2q q("
+q q(
+""*Ï
+1s s(ª
+§
+s s(
+%0java.io.InputStream"__id*z
+
+__unknown_file (^*\T
+Rorg.apache.commons.compress.archivers.zip.ZipArchiveInputStream$BoundedInputStream"
+in}
+s s(!	
+%1int" java.io.InputStream#available()I*7
+
+__unknown_file (
+
+%0java.io.InputStream2available()"
+s s("
+""BVT
+Rorg.apache.commons.compress.archivers.zip.ZipArchiveInputStream$BoundedInputStreamHP

@@ -1,0 +1,3 @@
+org.apache.commons.compress.utils.ExactMath#add(IJ)I
+java.lang.Math#addExact(II)I
+java.lang.Math#toIntExact(J)I

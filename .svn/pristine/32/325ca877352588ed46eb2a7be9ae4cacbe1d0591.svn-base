@@ -1,0 +1,18 @@
+
+_org.apache.commons.compress.archivers.zip.NioZipEncoding#getCharset()Ljava/nio/charset/Charset;‚
+vC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/NioZipEncoding.java½ ½("1*Þ
+1
+¾ ¾(œ
+™
+
+¾ ¾(
+%0java.nio.charset.Charset"__id*e
+
+__unknown_file (I*G:
+8org.apache.commons.compress.archivers.zip.NioZipEncoding"	
+charset".
+
+¾ ¾( 
+
+%0java.nio.charset.CharsetB<:
+8org.apache.commons.compress.archivers.zip.NioZipEncodingH

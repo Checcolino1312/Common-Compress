@@ -1,0 +1,54 @@
+
+Korg.apache.commons.compress.archivers.ar.ArArchiveInputStream#asLong([BII)Já
+{C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/ar/ArArchiveInputStream.java∏ ∏("1*∂
+1
+π π(»
+≈
+
+π π(P
+%0java.lang.String"Torg.apache.commons.compress.utils.ArchiveUtils#toAsciiString([BII)Ljava/lang/String;*N
+
+__unknown_file (2"0
+.org.apache.commons.compress.utils.ArchiveUtils*1
+
+__unknown_file (
+
+	byteArraybyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""êç
+
+π π(W
+%1java.lang.String")java.lang.String#trim()Ljava/lang/String;*4
+
+__unknown_file (
+
+%0java.lang.String2trim()∞
+≠
+
+π π(X
+
+%2long"-java.lang.Long#parseLong(Ljava/lang/String;)J*.
+
+__unknown_file ("
+java.lang.Long*4
+
+__unknown_file (
+
+%1java.lang.String"
+
+π π(Y
+"":!
+
+∏ ∏(/
+	byteArraybyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BA?
+=org.apache.commons.compress.archivers.ar.ArArchiveInputStreamP

@@ -1,0 +1,43 @@
+
+Horg.apache.commons.compress.utils.ChecksumCalculatingInputStream#read()I|
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/utils/ChecksumCalculatingInputStream.java9 9("3*à
+2< <(¡
+ž
+< <(
+%2java.util.zip.Checksum"__id*n
+
+__unknown_file (R*PB
+@org.apache.commons.compress.utils.ChecksumCalculatingInputStream"
+
+checksum§¤
+< <( 
+
+%3void"!java.util.zip.Checksum#update(I)V*:
+
+__unknown_file (
+
+%2java.util.zip.Checksum*"
+
+__unknown_file (
+""2	update(I)*
+1*§
+3: :(˜
+•
+: :(
+%0java.io.InputStream"__id*h
+
+__unknown_file (L*JB
+@org.apache.commons.compress.utils.ChecksumCalculatingInputStream"
+inus
+: :(!	
+%1int"java.io.InputStream#read()I*7
+
+__unknown_file (
+
+%0java.io.InputStream2read()*
+2
+1*!
+1> >("
+> >(
+""BDB
+@org.apache.commons.compress.utils.ChecksumCalculatingInputStreamHP

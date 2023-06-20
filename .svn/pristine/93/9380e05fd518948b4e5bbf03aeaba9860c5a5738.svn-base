@@ -1,0 +1,6 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#endBlock()V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#bsPutInt(I)V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#blockSort()V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#bsPutUByte(I)V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#moveToFrontCodeAndSend()V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#bsW(II)V

@@ -1,0 +1,4 @@
+org.apache.commons.compress.utils.BoundedArchiveInputStream#read()I
+java.nio.ByteBuffer#allocate(I)Ljava/nio/ByteBuffer;
+==
+read org.apache.commons.compress.utils.BoundedArchiveInputStream#read(JLjava/nio/ByteBuffer;)I

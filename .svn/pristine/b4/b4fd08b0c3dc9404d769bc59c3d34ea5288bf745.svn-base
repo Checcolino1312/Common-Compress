@@ -1,0 +1,79 @@
+
+¨org.apache.commons.compress.archivers.zip.ZipArchiveEntry$ExtraFieldParsingMode#onUnparseableExtraField([BIIZI)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;w
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.javaÈ È(4"startingBlock*ø
+startingBlock
+È4 É(Mƒ
+€
+
+Ç Ç(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*,
+
+__unknown_file (
+
+databyte[]P
+N
+
+ÈB È(F
+databyte[]"__annotation*"
+
+__unknown_file (
+
+%2*
+1*¦
+1
+Ê Ê($õ
+ò
+
+Ê Ê($U
+%0Oorg.apache.commons.compress.archivers.zip.ExtraFieldUtils$UnparseableExtraField"__id*†
+
+__unknown_file (j*hQ
+Oorg.apache.commons.compress.archivers.zip.ZipArchiveEntry$ExtraFieldParsingMode"
+onUnparseableDataÍÊ
+
+Ê Ê(b=
+%17org.apache.commons.compress.archivers.zip.ZipExtraField"¨org.apache.commons.compress.archivers.zip.ExtraFieldUtils$UnparseableExtraField#onUnparseableExtraField([BIIZI)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;*s
+
+__unknown_file (W
+U
+%0Oorg.apache.commons.compress.archivers.zip.ExtraFieldUtils$UnparseableExtraField*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2onUnparseableExtraField([BIIZI)"M
+
+Ê Ê(c?
+=
+%17org.apache.commons.compress.archivers.zip.ZipExtraField:
+
+È5 È(G
+databyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BSQ
+Oorg.apache.commons.compress.archivers.zip.ZipArchiveEntry$ExtraFieldParsingModeH

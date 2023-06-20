@@ -1,0 +1,80 @@
+
+eorg.apache.commons.compress.utils.BoundedSeekableByteChannelInputStream#read(JLjava/nio/ByteBuffer;)Iƒ
+yC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/utils/BoundedSeekableByteChannelInputStream.java/ /("startingBlock*Ë
+20 0(¶
+³
+1 1(+
+%0%java.nio.channels.SeekableByteChannel"__id*t
+
+__unknown_file (X*VI
+Gorg.apache.commons.compress.utils.BoundedSeekableByteChannelInputStream"	
+channel*
+1*Š
+startingBlock/ /(<
+Š
+. .(
+%6"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*8
+
+__unknown_file (
+
+bufjava.nio.ByteBufferZ
+X
+/8 /(;
+bufjava.nio.ByteBuffer"__annotation*"
+
+__unknown_file (
+
+%6*
+2*Å
+12 2(¶
+³
+2 2(+
+%1%java.nio.channels.SeekableByteChannel"__id*t
+
+__unknown_file (X*VI
+Gorg.apache.commons.compress.utils.BoundedSeekableByteChannelInputStream"	
+channel
+2 2(!+
+%2%java.nio.channels.SeekableByteChannel"Xjava.nio.channels.SeekableByteChannel#position(J)Ljava/nio/channels/SeekableByteChannel;*I
+
+__unknown_file (-
++
+%1%java.nio.channels.SeekableByteChannel*"
+
+__unknown_file (
+""2position(J)¶
+³
+3 3(+
+%3%java.nio.channels.SeekableByteChannel"__id*t
+
+__unknown_file (X*VI
+Gorg.apache.commons.compress.utils.BoundedSeekableByteChannelInputStream"	
+channelþû
+3 3($	
+%4int"Bjava.nio.channels.SeekableByteChannel#read(Ljava/nio/ByteBuffer;)I*I
+
+__unknown_file (-
++
+%3%java.nio.channels.SeekableByteChannel*8
+
+__unknown_file (
+
+bufjava.nio.ByteBuffer2read(Ljava/nio/ByteBuffer;)›˜
+5 5(
+%5java.nio.ByteBuffer"/java.nio.ByteBuffer#flip()Ljava/nio/ByteBuffer;*8
+
+__unknown_file (
+
+bufjava.nio.ByteBuffer2flip()"
+6 6(
+"": 
+
+__unknown_file (
+"":&
+/' /(;
+bufjava.nio.ByteBufferBKI
+Gorg.apache.commons.compress.utils.BoundedSeekableByteChannelInputStreamP

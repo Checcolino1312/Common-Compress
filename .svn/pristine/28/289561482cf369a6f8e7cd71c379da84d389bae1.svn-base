@@ -1,0 +1,7 @@
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#skipSkippableFrame([B)I
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#isSkippableFrameSignature([B)Z
+org.apache.commons.compress.utils.ByteUtils#fromLittleEndian(Lorg/apache/commons/compress/utils/ByteUtils$ByteSupplier;I)J
+org.apache.commons.compress.utils.IOUtils#readFully(Ljava/io/InputStream;[B)I
+org.apache.commons.compress.utils.IOUtils#skip(Ljava/io/InputStream;J)J
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V

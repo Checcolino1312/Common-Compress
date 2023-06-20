@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.zip.X000A_NTFS#parseFromLocalFileData([BII)V
+org.apache.commons.compress.archivers.zip.ZipShort#<init>([BI)V
+org.apache.commons.compress.archivers.zip.X000A_NTFS#readTimeAttr([BII)V
+org.apache.commons.compress.archivers.zip.ZipShort#equals(Ljava/lang/Object;)Z
+org.apache.commons.compress.archivers.zip.ZipShort#instance-init#
+org.apache.commons.compress.archivers.zip.ZipShort#getValue()I

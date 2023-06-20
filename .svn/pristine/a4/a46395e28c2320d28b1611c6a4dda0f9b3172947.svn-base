@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.pack200.CPInt#compareTo(Lorg/apache/commons/compress/harmony/pack200/CPInt;)I
+java.lang.Integer#compare(II)I

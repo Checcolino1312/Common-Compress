@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.PackingOptions#isPassFile(Ljava/lang/String;)Z
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.lang.String#endsWith(Ljava/lang/String;)Z
+java.lang.String#startsWith(Ljava/lang/String;)Z

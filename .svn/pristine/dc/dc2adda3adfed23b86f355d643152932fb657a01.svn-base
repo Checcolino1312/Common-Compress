@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#getBytes(J)[B
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#getBytes(Ljava/math/BigInteger;)[B
+java.math.BigInteger#valueOf(J)Ljava/math/BigInteger;

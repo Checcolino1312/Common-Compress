@@ -1,0 +1,2 @@
+org.apache.commons.compress.utils.SeekableInMemoryByteChannel#close()V
+java.util.concurrent.atomic.AtomicBoolean#set(Z)V

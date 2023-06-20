@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.ParallelScatterZipCreator#getStatisticsMessage()Lorg/apache/commons/compress/archivers/zip/ScatterStatistics;
+org.apache.commons.compress.archivers.zip.ScatterStatistics#instance-init#
+org.apache.commons.compress.archivers.zip.ScatterStatistics#<init>(JJ)V

@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.examples.Expander#prefersSeekableByteChannel(Ljava/lang/String;)Z
+java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z

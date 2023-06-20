@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#checkNameProperty(Ljava/nio/ByteBuffer;JI)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#assertFitsIntoNonNegativeInt(Ljava/lang/String;J)I
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#getUnsignedByte(Ljava/nio/ByteBuffer;)I
+org.apache.commons.compress.archivers.sevenz.SevenZFile#getChar(Ljava/nio/ByteBuffer;)C

@@ -1,0 +1,181 @@
+
+Vorg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#shouldUseZip64EOCD()Z~
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java√ √(&"14"15*`
+13
+»` »(aH
+F
+
+»` »(a	
+%4int"__id*'
+
+__unknown_file (
+	
+%5int*
+11*[
+2
+Œ Œ(E
+C
+
+Œ Œ(7
+%15long"__id*"
+
+__unknown_file (
+""*
+1*œ
+14
+»+ »(?¶
+£
+
+»+ »(?
+%2java.util.Map"__id*z
+
+__unknown_file (^*\B
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"
+numberOfCDInDiskDataâ
+Ü
+
+»+ »(U
+%3java.lang.Integer"__mapGet*1
+
+__unknown_file (
+
+%2java.util.Map*"
+
+__unknown_file (
+""*
+13
+12*ì
+15
+∆6 ∆(:•
+¢
+
+∆6 ∆(G
+%0java.io.OutputStream"__id*r
+
+__unknown_file (V*TB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"
+outputStream“œ
+
+∆ ∆(f	
+%1int"]org.apache.commons.compress.archivers.zip.ZipSplitOutputStream#getCurrentSplitSegmentIndex()I*8
+
+__unknown_file (
+
+%0java.io.OutputStream2getCurrentSplitSegmentIndex()*
+14*^
+4
+Õ Õ(E
+C
+
+Õ Õ(7
+%14long"__id*"
+
+__unknown_file (
+""*
+2
+1*Ô
+6
+Ã Ã(õ
+ò
+
+Ã Ã(
+%11java.util.List"__id*m
+
+__unknown_file (Q*OB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"	
+entriesom
+
+Ã Ã(!
+
+%12int"java.util.List#size()I*3
+
+__unknown_file (
+
+%11java.util.List2size()D
+B
+
+Ã% Ã(C
+
+%13int"__id*"
+
+__unknown_file (
+""*	
+2
+4
+1*c
+8
+À À()D
+B
+
+À- À(K
+
+%10int"__id*"
+
+__unknown_file (
+""*
+2
+4
+6
+1*f
+10
+   ($C
+A
+
+ (  (F	
+%9int"__id*"
+
+__unknown_file (
+""*
+2
+4
+6
+8
+1*k
+11» »(èC
+A
+
+…# …(A	
+%8int"__id*"
+
+__unknown_file (
+""*
+2
+4
+6
+8
+10
+1*•
+12
+»d »(x¶
+£
+
+»d »(x
+%7java.util.Map"__id*z
+
+__unknown_file (^*\B
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"
+numberOfCDInDiskDataä
+á
+»d »(é
+%6java.lang.Integer"__mapGet*1
+
+__unknown_file (
+
+%7java.util.Map*"
+
+__unknown_file (
+""W
+U
+»d »(é	
+%4int"__id*5
+
+__unknown_file (
+
+%6java.lang.Integer*
+11*%
+1
+… Œ(8"
+
+… Œ(8
+""BDB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStreamP

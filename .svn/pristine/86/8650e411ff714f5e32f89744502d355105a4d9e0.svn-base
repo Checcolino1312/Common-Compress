@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#copyOf([Lorg/apache/commons/compress/archivers/zip/ZipExtraField;I)[Lorg/apache/commons/compress/archivers/zip/ZipExtraField;
+java.util.Arrays#copyOf([Ljava/lang/Object;I)[Ljava/lang/Object;

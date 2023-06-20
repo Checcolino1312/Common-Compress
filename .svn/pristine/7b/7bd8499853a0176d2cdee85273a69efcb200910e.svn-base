@@ -1,0 +1,82 @@
+
+Sorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#clone()Ljava/lang/Object;ƒ
+wC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.javaÜ Ü("1*Ì
+1
+Ý4 Ý(9|
+z
+
+Ý4 Ý(A
+%0java.lang.Object"0java.util.zip.ZipEntry#clone()Ljava/lang/Object;*"
+
+__unknown_file (
+""‹
+ˆ
+
+Ý Ý(B>
+e9org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*4
+
+__unknown_file (
+
+%0java.lang.Objectâß
+
+ß  ß(7	
+%1int"Rorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getInternalAttributes()I*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getInternalAttributes()‘Ž
+
+ß ß(8
+
+%2void"Sorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#setInternalAttributes(I)V*\
+
+__unknown_file (@
+>
+e9org.apache.commons.compress.archivers.zip.ZipArchiveEntry*'
+
+__unknown_file (
+	
+%1int2setInternalAttributes(I)ãà
+
+à  à(7
+
+%3long"Rorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getExternalAttributes()J*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getExternalAttributes()’
+
+à à(8
+
+%4void"Sorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#setExternalAttributes(J)V*\
+
+__unknown_file (@
+>
+e9org.apache.commons.compress.archivers.zip.ZipArchiveEntry*(
+
+__unknown_file (
+
+
+%3long2setExternalAttributes(J)»
+¸
+
+á á(2?
+%59org.apache.commons.compress.archivers.zip.ZipExtraField[]"org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getAllExtraFieldsNoCopy()[Lorg/apache/commons/compress/archivers/zip/ZipExtraField;*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry¬©
+
+á á(3
+
+%6void"…org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setExtraFields([Lorg/apache/commons/compress/archivers/zip/ZipExtraField;)V*\
+
+__unknown_file (@
+>
+e9org.apache.commons.compress.archivers.zip.ZipArchiveEntry*]
+
+__unknown_file (A
+?
+%59org.apache.commons.compress.archivers.zip.ZipExtraField[]2JsetExtraFields([Lorg/apache/commons/compress/archivers/zip/ZipExtraField;)"N
+
+â â(@
+>
+e9org.apache.commons.compress.archivers.zip.ZipArchiveEntryB=;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntryH

@@ -1,0 +1,60 @@
+
+porg.apache.commons.compress.archivers.ArchiveStreamFactory#getArchiveInputStreamProviders()Ljava/util/SortedMap;„
+xC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java´4 ´(R"3*¿
+2
+¶* ¶(5‚
+ÿ
+
+·+ ·(U
+%1java.util.SortedMap"zorg.apache.commons.compress.archivers.ArchiveStreamFactory#findAvailableArchiveInputStreamProviders()Ljava/util/SortedMap;*Z
+
+__unknown_file (>"<
+:org.apache.commons.compress.archivers.ArchiveStreamFactoryó
+ð
+
+¶* ·(V
+%2java.util.SortedMap"Wjava.util.Collections#unmodifiableSortedMap(Ljava/util/SortedMap;)Ljava/util/SortedMap;*5
+
+__unknown_file ("
+java.util.Collections*7
+
+__unknown_file (
+
+%1java.util.SortedMap­
+ª
+
+¶ ·(V]<
+:org.apache.commons.compress.archivers.ArchiveStreamFactory"
+archiveInputStreamProviders"__id*7
+
+__unknown_file (
+
+%2java.util.SortedMap*
+1*Ç
+3
+µ µ('­
+ª
+
+µ µ('
+%0java.util.SortedMap"__id*{
+
+__unknown_file (_*]<
+:org.apache.commons.compress.archivers.ArchiveStreamFactory"
+archiveInputStreamProviders*
+2
+1*ê
+1
+¹ ¹(*­
+ª
+
+¹ ¹(*
+%3java.util.SortedMap"__id*{
+
+__unknown_file (_*]<
+:org.apache.commons.compress.archivers.ArchiveStreamFactory"
+archiveInputStreamProviders")
+
+¹ ¹(+
+
+%3java.util.SortedMapB><
+:org.apache.commons.compress.archivers.ArchiveStreamFactoryH

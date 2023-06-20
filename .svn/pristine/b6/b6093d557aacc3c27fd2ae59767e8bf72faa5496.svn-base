@@ -1,0 +1,4 @@
+package org.apache.commons.compress.benchmark.jmh_generated;
+public class SnappyRoundtripBenchmark_jmhType extends SnappyRoundtripBenchmark_jmhType_B3 {
+}
+

@@ -1,0 +1,36 @@
+
+∂org.apache.commons.compress.harmony.unpack200.bytecode.forms.SuperInitMethodRefForm#context(Lorg/apache/commons/compress/harmony/unpack200/bytecode/OperandManager;)Ljava/lang/String;ê
+ÖC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/forms/SuperInitMethodRefForm.java ("startingBlock*Ü
+startingBlock (c 
+«
+ (
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*u
+
+__unknown_file (Y
+W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManagerò
+ï
+T (bW
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager"__annotation*"
+
+__unknown_file (
+
+%1*
+1*Ã
+1 (ñì
+ (-
+%0java.lang.String"gorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager#getSuperClass()Ljava/lang/String;*u
+
+__unknown_file (Y
+W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager2getSuperClass()"$
+ (.
+
+%0java.lang.String:c
+ (bW
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManagerBWU
+Sorg.apache.commons.compress.harmony.unpack200.bytecode.forms.SuperInitMethodRefForm

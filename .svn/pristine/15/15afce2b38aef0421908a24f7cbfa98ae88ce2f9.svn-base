@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.X0015_CertificateIdForFile#parseFromCentralDirectoryData([BII)V
+org.apache.commons.compress.archivers.zip.ZipShort#getValue([BI)I
+org.apache.commons.compress.archivers.zip.PKWareExtraHeader$HashAlgorithm#getAlgorithmByCode(I)Lorg/apache/commons/compress/archivers/zip/PKWareExtraHeader$HashAlgorithm;
+org.apache.commons.compress.archivers.zip.PKWareExtraHeader#assertMinimalLength(II)V

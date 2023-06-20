@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.ArchiveStreamFactory#createArchiveInputStream(Ljava/io/InputStream;)Lorg/apache/commons/compress/archivers/ArchiveInputStream;
+org.apache.commons.compress.archivers.ArchiveStreamFactory#detect(Ljava/io/InputStream;)Ljava/lang/String;
+==
+createArchiveInputStream org.apache.commons.compress.archivers.ArchiveStreamFactory#createArchiveInputStream(Ljava/lang/String;Ljava/io/InputStream;)Lorg/apache/commons/compress/archivers/ArchiveInputStream;

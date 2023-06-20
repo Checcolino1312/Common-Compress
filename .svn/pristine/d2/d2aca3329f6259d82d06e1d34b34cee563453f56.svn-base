@@ -1,0 +1,5 @@
+org.apache.commons.compress.harmony.pack200.NewAttributeBands#addAttribute(Lorg/apache/commons/compress/harmony/pack200/NewAttribute;)V
+java.io.ByteArrayInputStream#instance-init#
+java.io.ByteArrayInputStream#<init>([B)V
+==
+addAttributeToBand org.apache.commons.compress.harmony.pack200.NewAttributeBands$AttributeLayoutElement#addAttributeToBand(Lorg/apache/commons/compress/harmony/pack200/NewAttribute;Ljava/io/InputStream;)V

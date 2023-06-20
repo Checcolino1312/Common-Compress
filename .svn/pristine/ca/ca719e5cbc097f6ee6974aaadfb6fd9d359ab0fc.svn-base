@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.zip.NioZipEncoding#encodeFully(Ljava/nio/charset/CharsetEncoder;Ljava/nio/CharBuffer;Ljava/nio/ByteBuffer;)Ljava/nio/ByteBuffer;
+java.nio.Buffer#hasRemaining()Z
+java.nio.charset.CharsetEncoder#encode(Ljava/nio/CharBuffer;Ljava/nio/ByteBuffer;Z)Ljava/nio/charset/CoderResult;
+java.nio.Buffer#remaining()I
+org.apache.commons.compress.archivers.zip.NioZipEncoding#estimateIncrementalEncodingSize(Ljava/nio/charset/CharsetEncoder;I)I
+org.apache.commons.compress.archivers.zip.ZipEncodingHelper#growBufferBy(Ljava/nio/ByteBuffer;I)Ljava/nio/ByteBuffer;

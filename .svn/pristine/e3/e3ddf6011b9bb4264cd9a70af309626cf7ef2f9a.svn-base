@@ -1,0 +1,94 @@
+
+Qorg.apache.commons.compress.utils.OsgiUtils#isBundleReference(Ljava/lang/Class;)Zs
+iC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/utils/OsgiUtils.java" "(,"10*’
+2- -(›˜
+- -(!
+%3java.lang.Class"0java.lang.Class#getSuperclass()Ljava/lang/Class;*2
+
+__unknown_file (
+
+cjava.lang.Class2getSuperclass()]
+[
+- -(!
+cjava.lang.Class"__id*3
+
+__unknown_file (
+
+%3java.lang.Class*
+8
+1*ô
+3( ((#N
+L
+( ((#
+ifcjava.lang.Class"__id*"
+
+__unknown_file (
+""Œ
+‰
+( ((#
+ifcjava.lang.Class"
+__arrayGet*5
+
+__unknown_file (
+
+%1java.lang.Class[]*"
+
+__unknown_file (
+""*
+2
+5*!
+4* *("
+* *( 
+""*Š
+5) )(%ò
+ï
+) )(*
+%2boolean"Qorg.apache.commons.compress.utils.OsgiUtils#isBundleReference(Ljava/lang/Class;)Z*K
+
+__unknown_file (/"-
++org.apache.commons.compress.utils.OsgiUtils*4
+
+__unknown_file (
+
+ifcjava.lang.Class*
+3
+4*³
+6(& (('ž›
+(& ((7
+%1java.lang.Class[]"1java.lang.Class#getInterfaces()[Ljava/lang/Class;*2
+
+__unknown_file (
+
+cjava.lang.Class2getInterfaces()*
+3*!
+7& &("
+& &(
+""*ç
+8% %(8ÏÌ
+% %(L
+%0boolean"4java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z*"
+
+__unknown_file (
+""*2
+
+__unknown_file (
+
+cjava.lang.Class2#isAssignableFrom(Ljava/lang/Class;)*
+6
+7*x
+10# #(`
+^
+# #(
+cjava.lang.Class"__id*6
+
+__unknown_file (
+
+clazzjava.lang.Class*
+8
+1*!
+1/ /("
+/ /(
+"":$
+"- "(A
+clazzjava.lang.ClassB/"-
++org.apache.commons.compress.utils.OsgiUtilsP

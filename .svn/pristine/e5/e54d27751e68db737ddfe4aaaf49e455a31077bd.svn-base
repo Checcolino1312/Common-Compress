@@ -1,0 +1,85 @@
+
+lorg.apache.commons.compress.archivers.jar.JarArchiveEntry#getCertificates()[Ljava/security/cert/Certificate;u
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/jar/JarArchiveEntry.javaD D(("6*ë
+2J! J('®
+•
+J/ J(;&
+%3 java.security.cert.Certificate[]"__id*k
+
+__unknown_file (O*M;
+9org.apache.commons.compress.archivers.jar.JarArchiveEntry"
+certificates®
+•
+J= J(I&
+%4 java.security.cert.Certificate[]"__id*k
+
+__unknown_file (O*M;
+9org.apache.commons.compress.archivers.jar.JarArchiveEntry"
+certificatesì
+ê
+J! J(Q&
+%5 java.security.cert.Certificate[]"@java.util.Arrays#copyOf([Ljava/lang/Object;I)[Ljava/lang/Object;*0
+
+__unknown_file ("
+java.util.Arrays*D
+
+__unknown_file ((
+&
+%3 java.security.cert.Certificate[]*"
+
+__unknown_file (
+""Æ
+´
+J J(QS;
+9org.apache.commons.compress.archivers.jar.JarArchiveEntry"
+cachedCertificates"__id*D
+
+__unknown_file ((
+&
+%5 java.security.cert.Certificate[]Æ
+´
+L L(%&
+%6 java.security.cert.Certificate[]"__id*q
+
+__unknown_file (U*S;
+9org.apache.commons.compress.archivers.jar.JarArchiveEntry"
+cachedCertificates"4
+L L(&(
+&
+%6 java.security.cert.Certificate[]*¿
+3I( I(4®
+•
+I( I(4&
+%2 java.security.cert.Certificate[]"__id*k
+
+__unknown_file (O*M;
+9org.apache.commons.compress.archivers.jar.JarArchiveEntry"
+certificates*
+2
+1*Ù
+5F F(%Æ
+´
+F F(%&
+%1 java.security.cert.Certificate[]"__id*q
+
+__unknown_file (U*S;
+9org.apache.commons.compress.archivers.jar.JarArchiveEntry"
+cachedCertificates"4
+F F(&(
+&
+%1 java.security.cert.Certificate[]*…
+6E E(Æ
+´
+E E(&
+%0 java.security.cert.Certificate[]"__id*q
+
+__unknown_file (U*S;
+9org.apache.commons.compress.archivers.jar.JarArchiveEntry"
+cachedCertificates*	
+3
+5
+1*!
+1O O("
+O O(
+""B=;
+9org.apache.commons.compress.archivers.jar.JarArchiveEntryH

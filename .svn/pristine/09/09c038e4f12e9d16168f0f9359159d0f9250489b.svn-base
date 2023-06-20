@@ -1,0 +1,11 @@
+org.apache.commons.compress.archivers.Lister#main([Ljava/lang/String;)V
+org.apache.commons.compress.archivers.Lister#detectFormat(Ljava/io/File;)Ljava/lang/String;
+java.io.File#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.Lister#listZipUsingTarFile(Ljava/io/File;)V
+org.apache.commons.compress.archivers.Lister#list7z(Ljava/io/File;)V
+org.apache.commons.compress.archivers.Lister#usage()V
+java.lang.String#equals(Ljava/lang/Object;)Z
+org.apache.commons.compress.archivers.Lister#listZipUsingZipFile(Ljava/io/File;)V
+org.apache.commons.compress.archivers.Lister#listStream(Ljava/io/File;[Ljava/lang/String;)V
+java.io.File#instance-init#
+java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z

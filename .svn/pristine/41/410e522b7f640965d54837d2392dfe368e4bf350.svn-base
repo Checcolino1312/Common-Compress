@@ -1,0 +1,56 @@
+
+çorg.apache.commons.compress.archivers.zip.UnrecognizedExtraField#getLocalFileDataLength()Lorg/apache/commons/compress/archivers/zip/ZipShort;à
+~C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/UnrecognizedExtraField.javab b(*"4*Z
+2cC c(DF
+D
+cC c(D	
+%1int"__id*'
+
+__unknown_file (
+	
+%3int*
+1*Ô
+3c0 c(9í
+è
+c0 c(9
+%4byte[]"__id*o
+
+__unknown_file (S*QB
+@org.apache.commons.compress.archivers.zip.UnrecognizedExtraField"
+	localDataF
+D
+c0 c(@	
+%1int"__id*'
+
+__unknown_file (
+	
+%2int*
+1*™
+4c c(%í
+è
+c c(%
+%0byte[]"__id*o
+
+__unknown_file (S*QB
+@org.apache.commons.compress.archivers.zip.UnrecognizedExtraField"
+	localData*
+2
+3*ß
+1c c(Ezx
+c c(8
+%52org.apache.commons.compress.archivers.zip.ZipShort"2org.apache.commons.compress.archivers.zip.ZipShort”
+–
+c c(E
+%6"=org.apache.commons.compress.archivers.zip.ZipShort#<init>(I)V*V
+
+__unknown_file (:
+8
+%52org.apache.commons.compress.archivers.zip.ZipShort*'
+
+__unknown_file (
+	
+%1int"F
+c c(F:
+8
+%52org.apache.commons.compress.archivers.zip.ZipShortBDB
+@org.apache.commons.compress.archivers.zip.UnrecognizedExtraFieldH

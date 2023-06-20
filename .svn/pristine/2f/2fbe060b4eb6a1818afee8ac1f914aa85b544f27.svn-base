@@ -1,0 +1,20 @@
+
+Porg.apache.commons.compress.utils.ByteUtils$InputStreamByteSupplier#getAsByte()Ig
+]C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/utils/ByteUtils.javaF F("1*¶
+1G G(›
+˜
+G G(
+%0java.io.InputStream"__id*k
+
+__unknown_file (O*ME
+Corg.apache.commons.compress.utils.ByteUtils$InputStreamByteSupplier"
+isus
+G G(	
+%1int"java.io.InputStream#read()I*7
+
+__unknown_file (
+
+%0java.io.InputStream2read()"
+G G(
+""BGE
+Corg.apache.commons.compress.utils.ByteUtils$InputStreamByteSupplierHP

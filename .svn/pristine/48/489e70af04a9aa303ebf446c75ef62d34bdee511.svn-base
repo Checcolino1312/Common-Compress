@@ -1,0 +1,7 @@
+org.apache.commons.compress.archivers.zip.ZipUtil#checkRequestedFeatures(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)V
+org.apache.commons.compress.archivers.zip.ZipUtil#supportsMethodOf(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z
+org.apache.commons.compress.archivers.zip.UnsupportedZipFeatureException#<init>(Lorg/apache/commons/compress/archivers/zip/UnsupportedZipFeatureException$Feature;Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)V
+org.apache.commons.compress.archivers.zip.UnsupportedZipFeatureException#instance-init#
+org.apache.commons.compress.archivers.zip.ZipMethod#getMethodByCode(I)Lorg/apache/commons/compress/archivers/zip/ZipMethod;
+org.apache.commons.compress.archivers.zip.UnsupportedZipFeatureException#<init>(Lorg/apache/commons/compress/archivers/zip/ZipMethod;Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)V
+org.apache.commons.compress.archivers.zip.ZipUtil#supportsEncryptionOf(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z

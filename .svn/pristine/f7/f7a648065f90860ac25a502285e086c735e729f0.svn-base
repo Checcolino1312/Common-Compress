@@ -1,0 +1,53 @@
+
+oorg.apache.commons.compress.compressors.pack200.TempFileCachingStreamBridge#getInputView()Ljava/io/InputStream;‡
+}C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/pack200/TempFileCachingStreamBridge.java. .("1*ê	
+1/ /(¥
+¢
+/ /(
+%0java.io.OutputStream"__id*t
+
+__unknown_file (X*VM
+Korg.apache.commons.compress.compressors.pack200.TempFileCachingStreamBridge"
+outzx
+/ /(
+
+%1void"java.io.OutputStream#close()V*8
+
+__unknown_file (
+
+%0java.io.OutputStream2close()¡
+ž
+0: 0(;
+%2java.nio.file.Path"__id*r
+
+__unknown_file (V*TM
+Korg.apache.commons.compress.compressors.pack200.TempFileCachingStreamBridge"
+fÿ
+ü
+0% 0(<
+%3java.io.InputStream"hjava.nio.file.Files#newInputStream(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/io/InputStream;*3
+
+__unknown_file ("
+java.nio.file.Files*6
+
+__unknown_file (
+
+%2java.nio.file.Path±®
+0 0($S
+%4Morg.apache.commons.compress.compressors.pack200.TempFileCachingStreamBridge$1"Morg.apache.commons.compress.compressors.pack200.TempFileCachingStreamBridge$1ù
+ö
+0 =(	
+%5"8java.io.FilterInputStream#<init>(Ljava/io/InputStream;)V*q
+
+__unknown_file (U
+S
+%4Morg.apache.commons.compress.compressors.pack200.TempFileCachingStreamBridge$1*7
+
+__unknown_file (
+
+%3java.io.InputStream"a
+0 =(
+U
+S
+%4Morg.apache.commons.compress.compressors.pack200.TempFileCachingStreamBridge$1BOM
+Korg.apache.commons.compress.compressors.pack200.TempFileCachingStreamBridge

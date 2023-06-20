@@ -1,0 +1,39 @@
+
+Norg.apache.commons.compress.archivers.tar.TarArchiveInputStream#isDirectory()Z‰
+}C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.javaµ µ("3*¶
+2
+¶$ ¶(-Æ
+Ã
+
+¶$ ¶(-?
+%19org.apache.commons.compress.archivers.tar.TarArchiveEntry"__id*n
+
+__unknown_file (R*PA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStream"
+	currEntryÖÓ
+
+¶$ ¶(;
+%2boolean"Horg.apache.commons.compress.archivers.tar.TarArchiveEntry#isDirectory()Z*]
+
+__unknown_file (A
+?
+%19org.apache.commons.compress.archivers.tar.TarArchiveEntry2isDirectory()*
+1*à
+3
+¶ ¶(Æ
+Ã
+
+¶ ¶(?
+%09org.apache.commons.compress.archivers.tar.TarArchiveEntry"__id*n
+
+__unknown_file (R*PA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStream"
+	currEntry*
+2
+1*%
+1
+¶ ¶(<"
+
+¶ ¶(<
+""BCA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStreamP

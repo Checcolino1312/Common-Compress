@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.snappy.SnappyCompressorInputStream#<init>(Ljava/io/InputStream;)V
+==
+SnappyCompressorInputStream org.apache.commons.compress.compressors.snappy.SnappyCompressorInputStream#<init>(Ljava/io/InputStream;I)V

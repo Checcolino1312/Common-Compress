@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#writeSingleCodec(Lorg/apache/commons/compress/archivers/sevenz/SevenZMethodConfiguration;Ljava/io/OutputStream;)V
+org.apache.commons.compress.archivers.sevenz.SevenZMethod#getId()[B
+org.apache.commons.compress.archivers.sevenz.Coders#findByMethod(Lorg/apache/commons/compress/archivers/sevenz/SevenZMethod;)Lorg/apache/commons/compress/archivers/sevenz/AbstractCoder;

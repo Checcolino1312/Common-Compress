@@ -1,0 +1,822 @@
+
+]org.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader#parseFileFormat([BII)VÑ
+xC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/X0017_StrongEncryptionHeader.java◊ ◊("9*¬
+2
+ç' ç(Uà
+Ö
+
+ç' ç(]
+%45java.lang.String"__concat*>
+
+ç' ç(U0.
+,Invalid X0017_StrongEncryptionHeader: vSize *
+
+çX ç(]
+""à
+Ö
+
+ç' é(1
+%46java.lang.String"__concat*'
+
+ç' ç(]
+
+%45java.lang.String*+
+
+é é(1
+ is too small to hold CRCMK
+
+ç ç(&!
+%47java.util.zip.ZipException"java.util.zip.ZipException∆
+√
+
+ç é(2
+%48"6java.util.zip.ZipException#<init>(Ljava/lang/String;)V*?
+
+__unknown_file (#
+!
+%47java.util.zip.ZipException*5
+
+__unknown_file (
+
+%46java.lang.String*
+0*é
+3
+Ö Ö(#ê
+ç
+
+Ö Ö(T
+%40void"vorg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader#assertDynamicLengthFits(Ljava/lang/String;III)V*f
+
+__unknown_file (JH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader*&
+
+__unknown_file (
+
+resize*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""Ï
+È
+
+á$ á(k
+%41byte[]"$java.util.Arrays#copyOfRange([BII)[B*0
+
+__unknown_file ("
+java.util.Arrays*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""¢
+ü
+
+á á(k^H
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader"
+recipientKeyHash"__id*+
+
+__unknown_file (
+
+%41byte[]Ï
+È
+
+à à({
+%42byte[]"$java.util.Arrays#copyOfRange([BII)[B*0
+
+__unknown_file ("
+java.util.Arrays*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""ô
+ñ
+
+à à({UH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader"	
+keyBlob"__id*+
+
+__unknown_file (
+
+%42byte[]ª∏
+
+ä ä(K
+%43void"Torg.apache.commons.compress.archivers.zip.PKWareExtraHeader#assertMinimalLength(II)V*f
+
+__unknown_file (JH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2assertMinimalLength(II)Ñ
+Å
+
+ã ã(^
+
+%44int"Aorg.apache.commons.compress.archivers.zip.ZipShort#getValue([BI)I*R
+
+__unknown_file (6"4
+2org.apache.commons.compress.archivers.zip.ZipShort*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""*
+2
+1*∫
+4
+Å' Å(Vâ
+Ü
+
+Å' Å(_
+%35java.lang.String"__concat*?
+
+Å' Å(V1/
+-Invalid X0017_StrongEncryptionHeader: resize *
+
+ÅY Å(_
+""ç
+ä
+
+Å' Ç(6
+%36java.lang.String"__concat*'
+
+Å' Å(_
+
+%35java.lang.String*0
+
+Ç Ç(6" 
+ is too small to hold hashSizep
+n
+
+Å' Ç(F
+%37java.lang.String"__concat*'
+
+Å' Ç(6
+
+%36java.lang.String*
+
+Ç9 Ç(F
+""MK
+
+Å Å(&!
+%38java.util.zip.ZipException"java.util.zip.ZipException∆
+√
+
+Å Ç(G
+%39"6java.util.zip.ZipException#<init>(Ljava/lang/String;)V*?
+
+__unknown_file (#
+!
+%38java.util.zip.ZipException*5
+
+__unknown_file (
+
+%37java.lang.String*
+0*˝
+5
+˚ ˚(ª∏
+
+˚ ˚(B
+%29void"Torg.apache.commons.compress.archivers.zip.PKWareExtraHeader#assertMinimalLength(II)V*f
+
+__unknown_file (JH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2assertMinimalLength(II)ã
+à
+
+¸ ¸((P
+%30Iorg.apache.commons.compress.archivers.zip.PKWareExtraHeader$HashAlgorithm"__id*"
+
+__unknown_file (
+""Ñ
+Å
+
+¸< ¸(s
+
+%31int"Aorg.apache.commons.compress.archivers.zip.ZipShort#getValue([BI)I*R
+
+__unknown_file (6"4
+2org.apache.commons.compress.archivers.zip.ZipShort*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""£
+†
+
+¸ ¸(tP
+%32Iorg.apache.commons.compress.archivers.zip.PKWareExtraHeader$HashAlgorithm"™org.apache.commons.compress.archivers.zip.PKWareExtraHeader$HashAlgorithm#getAlgorithmByCode(I)Lorg/apache/commons/compress/archivers/zip/PKWareExtraHeader$HashAlgorithm;*i
+
+__unknown_file (M"K
+Iorg.apache.commons.compress.archivers.zip.PKWareExtraHeader$HashAlgorithm*(
+
+__unknown_file (
+
+
+%31int‹
+Ÿ
+
+¸ ¸(tUH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader"	
+hashAlg"__id*n
+
+__unknown_file (R
+P
+%32Iorg.apache.commons.compress.archivers.zip.PKWareExtraHeader$HashAlgorithmÑ
+Å
+
+˝ ˝(S
+
+%33int"Aorg.apache.commons.compress.archivers.zip.ZipShort#getValue([BI)I*R
+
+__unknown_file (6"4
+2org.apache.commons.compress.archivers.zip.ZipShort*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""Ñ
+Å
+
+˛ ˛(V
+
+%34int"Aorg.apache.commons.compress.archivers.zip.ZipShort#getValue([BI)I*R
+
+__unknown_file (6"4
+2org.apache.commons.compress.archivers.zip.ZipShort*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""*
+3
+4*ü
+6
+ˆ ˆ(ª∏
+
+ˆ ˆ(J
+%25void"Torg.apache.commons.compress.archivers.zip.PKWareExtraHeader#assertMinimalLength(II)V*f
+
+__unknown_file (JH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2assertMinimalLength(II)Ï
+È
+
+˜ ˜(\
+%26byte[]"$java.util.Arrays#copyOfRange([BII)[B*0
+
+__unknown_file ("
+java.util.Arrays*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""ó
+î
+
+˜ ˜(\SH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader"
+vData"__id*+
+
+__unknown_file (
+
+%26byte[]π∂
+
+¯ ¯(N
+%27void"Torg.apache.commons.compress.archivers.zip.PKWareExtraHeader#assertMinimalLength(II)V*f
+
+__unknown_file (JH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader*"
+
+__unknown_file (
+""* 
+
+__unknown_file (22assertMinimalLength(II)Í
+Á
+
+˘ ˘(a
+%28byte[]"$java.util.Arrays#copyOfRange([BII)[B*0
+
+__unknown_file ("
+java.util.Arrays*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""* 
+
+__unknown_file (2ò
+ï
+
+˘ ˘(aTH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader"
+vCRC32"__id*+
+
+__unknown_file (
+
+%28byte[]*
+0*¬
+7
+Û' Û(Uà
+Ö
+
+Û' Û(]
+%21java.lang.String"__concat*>
+
+Û' Û(U0.
+,Invalid X0017_StrongEncryptionHeader: vSize *
+
+ÛX Û(]
+""à
+Ö
+
+Û' Ù(1
+%22java.lang.String"__concat*'
+
+Û' Û(]
+
+%21java.lang.String*+
+
+Ù Ù(1
+ is too small to hold CRCMK
+
+Û Û(&!
+%23java.util.zip.ZipException"java.util.zip.ZipException∆
+√
+
+Û Ù(2
+%24"6java.util.zip.ZipException#<init>(Ljava/lang/String;)V*?
+
+__unknown_file (#
+!
+%23java.util.zip.ZipException*5
+
+__unknown_file (
+
+%22java.lang.String*
+0*Ó
+8
+Ô Ô(ª∏
+
+Ô Ô(B
+%18void"Torg.apache.commons.compress.archivers.zip.PKWareExtraHeader#assertMinimalLength(II)V*f
+
+__unknown_file (JH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2assertMinimalLength(II)Ñ
+Å
+
+ (U
+
+%19int"Aorg.apache.commons.compress.archivers.zip.ZipShort#getValue([BI)I*R
+
+__unknown_file (6"4
+2org.apache.commons.compress.archivers.zip.ZipShort*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""è
+å
+
+Ò Ò(R
+%20void"vorg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader#assertDynamicLengthFits(Ljava/lang/String;III)V*f
+
+__unknown_file (JH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader*%
+
+__unknown_file (	
+vSize*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+6
+7*›-
+9
+Ÿ Ÿ(∏µ
+
+Ÿ Ÿ(&
+
+%0void"Torg.apache.commons.compress.archivers.zip.PKWareExtraHeader#assertMinimalLength(II)V*f
+
+__unknown_file (JH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader* 
+
+__unknown_file (2*"
+
+__unknown_file (
+""2assertMinimalLength(II)É
+Ä
+
+⁄ ⁄(:	
+%1int"Aorg.apache.commons.compress.archivers.zip.ZipShort#getValue([BI)I*R
+
+__unknown_file (6"4
+2org.apache.commons.compress.archivers.zip.ZipShort*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""ç
+ä
+
+€ €(<
+
+%2void"vorg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader#assertDynamicLengthFits(Ljava/lang/String;III)V*f
+
+__unknown_file (JH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader*&
+
+__unknown_file (
+
+ivSize*"
+
+__unknown_file (
+""* 
+
+__unknown_file (2*"
+
+__unknown_file (
+""∫∑
+
+‹ ‹(/
+
+%3void"Torg.apache.commons.compress.archivers.zip.PKWareExtraHeader#assertMinimalLength(II)V*f
+
+__unknown_file (JH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2assertMinimalLength(II)Î
+Ë
+
+ﬁ ﬁ(B
+%4byte[]"$java.util.Arrays#copyOfRange([BII)[B*0
+
+__unknown_file ("
+java.util.Arrays*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""ó
+î
+
+ﬁ ﬁ(BTH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader"
+ivData"__id**
+
+__unknown_file (
+
+%4byte[]∫∑
+
+‡ ‡(0
+
+%5void"Torg.apache.commons.compress.archivers.zip.PKWareExtraHeader#assertMinimalLength(II)V*f
+
+__unknown_file (JH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2assertMinimalLength(II)É
+Ä
+
+‚ ‚(B	
+%6int"Aorg.apache.commons.compress.archivers.zip.ZipShort#getValue([BI)I*R
+
+__unknown_file (6"4
+2org.apache.commons.compress.archivers.zip.ZipShort*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""ê
+ç
+
+„ „((U
+%7Oorg.apache.commons.compress.archivers.zip.PKWareExtraHeader$EncryptionAlgorithm"__id*"
+
+__unknown_file (
+""É
+Ä
+
+„< „(h	
+%8int"Aorg.apache.commons.compress.archivers.zip.ZipShort#getValue([BI)I*R
+
+__unknown_file (6"4
+2org.apache.commons.compress.archivers.zip.ZipShort*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""π
+∂
+
+„ „(iU
+%9Oorg.apache.commons.compress.archivers.zip.PKWareExtraHeader$EncryptionAlgorithm"∂org.apache.commons.compress.archivers.zip.PKWareExtraHeader$EncryptionAlgorithm#getAlgorithmByCode(I)Lorg/apache/commons/compress/archivers/zip/PKWareExtraHeader$EncryptionAlgorithm;*o
+
+__unknown_file (S"Q
+Oorg.apache.commons.compress.archivers.zip.PKWareExtraHeader$EncryptionAlgorithm*'
+
+__unknown_file (
+	
+%8intﬂ
+‹
+
+„ „(iSH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader"
+algId"__id*s
+
+__unknown_file (W
+U
+%9Oorg.apache.commons.compress.archivers.zip.PKWareExtraHeader$EncryptionAlgorithmÑ
+Å
+
+‰ ‰(C
+
+%10int"Aorg.apache.commons.compress.archivers.zip.ZipShort#getValue([BI)I*R
+
+__unknown_file (6"4
+2org.apache.commons.compress.archivers.zip.ZipShort*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""Ñ
+Å
+
+Â Â(B
+
+%11int"Aorg.apache.commons.compress.archivers.zip.ZipShort#getValue([BI)I*R
+
+__unknown_file (6"4
+2org.apache.commons.compress.archivers.zip.ZipShort*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""Ñ
+Å
+
+Á Á(I
+
+%12int"Aorg.apache.commons.compress.archivers.zip.ZipShort#getValue([BI)I*R
+
+__unknown_file (6"4
+2org.apache.commons.compress.archivers.zip.ZipShort*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""ë
+é
+
+Ë Ë(H
+%13void"vorg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader#assertDynamicLengthFits(Ljava/lang/String;III)V*f
+
+__unknown_file (JH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader*'
+
+__unknown_file (	
+erdSize*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""ª∏
+
+È È(:
+%14void"Torg.apache.commons.compress.archivers.zip.PKWareExtraHeader#assertMinimalLength(II)V*f
+
+__unknown_file (JH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2assertMinimalLength(II)Ï
+È
+
+Í Í(N
+%15byte[]"$java.util.Arrays#copyOfRange([BII)[B*0
+
+__unknown_file ("
+java.util.Arrays*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""ô
+ñ
+
+Í Í(NUH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader"	
+erdData"__id*+
+
+__unknown_file (
+
+%15byte[]ª∏
+
+Ï Ï(>
+%16void"Torg.apache.commons.compress.archivers.zip.PKWareExtraHeader#assertMinimalLength(II)V*f
+
+__unknown_file (JH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2assertMinimalLength(II)É
+Ä
+
+Ì Ì(L
+%17long"@org.apache.commons.compress.archivers.zip.ZipLong#getValue([BI)J*Q
+
+__unknown_file (5"3
+1org.apache.commons.compress.archivers.zip.ZipLong*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""*
+5
+8*(
+0 "!
+
+ò ò(
+implicit return*∑	
+1
+ë ë(#è
+å
+
+ë ë([
+%49void"vorg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader#assertDynamicLengthFits(Ljava/lang/String;III)V*f
+
+__unknown_file (JH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader*%
+
+__unknown_file (	
+vSize*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""Ï
+È
+
+ì ì(e
+%50byte[]"$java.util.Arrays#copyOfRange([BII)[B*0
+
+__unknown_file ("
+java.util.Arrays*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""ó
+î
+
+ì ì(eSH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader"
+vData"__id*+
+
+__unknown_file (
+
+%50byte[]Í
+Á
+
+î î(j
+%51byte[]"$java.util.Arrays#copyOfRange([BII)[B*0
+
+__unknown_file ("
+java.util.Arrays*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""* 
+
+__unknown_file (2ò
+ï
+
+î î(jTH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader"
+vCRC32"__id*+
+
+__unknown_file (
+
+%51byte[]*
+0:
+
+◊  ◊(2
+databyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BJH
+Forg.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeaderH

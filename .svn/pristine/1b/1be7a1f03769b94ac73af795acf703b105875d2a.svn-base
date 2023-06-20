@@ -1,0 +1,11 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readHeader(Ljava/nio/ByteBuffer;Lorg/apache/commons/compress/archivers/sevenz/Archive;)V
+java.nio.Buffer#position()I
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readFilesInfo(Ljava/nio/ByteBuffer;Lorg/apache/commons/compress/archivers/sevenz/Archive;)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readArchiveProperties(Ljava/nio/ByteBuffer;)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#sanityCheckAndCollectStatistics(Ljava/nio/ByteBuffer;)Lorg/apache/commons/compress/archivers/sevenz/SevenZFile$ArchiveStatistics;
+org.apache.commons.compress.archivers.sevenz.SevenZFile#getUnsignedByte(Ljava/nio/ByteBuffer;)I
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readStreamsInfo(Ljava/nio/ByteBuffer;Lorg/apache/commons/compress/archivers/sevenz/Archive;)V
+==
+assertValidity org.apache.commons.compress.archivers.sevenz.SevenZFile$ArchiveStatistics#assertValidity(I)V

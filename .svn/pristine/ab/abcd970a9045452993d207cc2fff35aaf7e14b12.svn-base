@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.pack200.NewAttribute#<init>(Ljava/lang/String;Ljava/lang/String;I)V
+==
+addContext org.apache.commons.compress.harmony.pack200.NewAttribute#addContext(I)V

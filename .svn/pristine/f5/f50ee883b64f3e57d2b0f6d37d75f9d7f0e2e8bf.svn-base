@@ -1,0 +1,1058 @@
+
+Xorg.apache.commons.compress.harmony.pack200.CpBands#writeCpUtf8(Ljava/io/OutputStream;)Vq
+eC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/CpBands.java§ §("20*‰
+2
+„ „('j
+h
+
+„( „(=
+%79java.lang.String"__concat*!
+
+„( „(9
+cpUtf8BigChars *
+
+„< „(=
+""v
+t
+
+„R „(^<
+%805org.apache.commons.compress.harmony.pack200.BHSDCodec"__id*"
+
+__unknown_file (
+""ôñ
+
+„ „(_
+%81byte[]"êorg.apache.commons.compress.harmony.pack200.BandSet#encodeBandInt(Ljava/lang/String;[ILorg/apache/commons/compress/harmony/pack200/BHSDCodec;)[B*S
+
+__unknown_file (75
+3org.apache.commons.compress.harmony.pack200.CpBands*5
+
+__unknown_file (
+
+%79java.lang.String*"
+
+__unknown_file (
+""*Z
+
+__unknown_file (>
+<
+%805org.apache.commons.compress.harmony.pack200.BHSDCodec2ZencodeBandInt(Ljava/lang/String;[ILorg/apache/commons/compress/harmony/pack200/BHSDCodec;)X
+V
+
+„ „(_
+encodedBandbyte[]"__id*+
+
+__unknown_file (
+
+%81byte[]∏µ
+
+‰ ‰("
+%82void"java.io.OutputStream#write([B)V*9
+
+__unknown_file (
+
+outjava.io.OutputStream*3
+
+__unknown_file (
+
+encodedBandbyte[]2	write([B)a
+_
+
+Â Â(:
+%83java.lang.String"__concat*
+
+Â Â(%
+
+Wrote *
+
+Â( Â(:
+""â
+Ü
+
+Â Â(Y
+%84java.lang.String"__concat*'
+
+Â Â(:
+
+%83java.lang.String*,
+
+Â= Â(Y
+ bytes from cpUtf8BigCharsp
+n
+
+Â Â(]
+%85java.lang.String"__concat*'
+
+Â Â(Y
+
+%84java.lang.String*
+
+Â\ Â(]
+""o
+m
+
+Â Â(c
+%86java.lang.String"__concat*'
+
+Â Â(]
+
+%85java.lang.String*
+
+Â` Â(c
+[p
+n
+
+Â Ê(*
+%87java.lang.String"__concat*'
+
+Â Â(c
+
+%86java.lang.String*
+
+Ê Ê(*
+""o
+m
+
+Â Ê(0
+%88java.lang.String"__concat*'
+
+Â Ê(*
+
+%87java.lang.String*
+
+Ê- Ê(0
+]Ä
+˝
+
+Â Ê(1
+%89void"Qorg.apache.commons.compress.harmony.pack200.PackingUtils#log(Ljava/lang/String;)V*X
+
+__unknown_file (<":
+8org.apache.commons.compress.harmony.pack200.PackingUtils*5
+
+__unknown_file (
+
+%88java.lang.String*
+2
+0*Î3
+4
+“ “(*v
+t
+
+“I “(U<
+%475org.apache.commons.compress.harmony.pack200.BHSDCodec"__id*"
+
+__unknown_file (
+""êç
+
+“ “(V
+%48byte[]"êorg.apache.commons.compress.harmony.pack200.BandSet#encodeBandInt(Ljava/lang/String;[ILorg/apache/commons/compress/harmony/pack200/BHSDCodec;)[B*S
+
+__unknown_file (75
+3org.apache.commons.compress.harmony.pack200.CpBands*,
+
+__unknown_file (
+cpUtf8Prefix*"
+
+__unknown_file (
+""*Z
+
+__unknown_file (>
+<
+%475org.apache.commons.compress.harmony.pack200.BHSDCodec2ZencodeBandInt(Ljava/lang/String;[ILorg/apache/commons/compress/harmony/pack200/BHSDCodec;)X
+V
+
+“ “(W
+encodedBandbyte[]"__id*+
+
+__unknown_file (
+
+%48byte[]∏µ
+
+” ”(
+%49void"java.io.OutputStream#write([B)V*9
+
+__unknown_file (
+
+outjava.io.OutputStream*3
+
+__unknown_file (
+
+encodedBandbyte[]2	write([B)a
+_
+
+‘ ‘(6
+%50java.lang.String"__concat*
+
+‘ ‘(!
+
+Wrote *
+
+‘$ ‘(6
+""à
+Ö
+
+‘ ‘(T
+%51java.lang.String"__concat*'
+
+‘ ‘(6
+
+%50java.lang.String*+
+
+‘9 ‘(T
+ bytes from cpUtf8Prefix[p
+n
+
+‘ ‘(j
+%52java.lang.String"__concat*'
+
+‘ ‘(T
+
+%51java.lang.String*
+
+‘W ‘(j
+""o
+m
+
+‘ ‘(p
+%53java.lang.String"__concat*'
+
+‘ ‘(j
+
+%52java.lang.String*
+
+‘m ‘(p
+]Ä
+˝
+
+‘ ‘(q
+%54void"Qorg.apache.commons.compress.harmony.pack200.PackingUtils#log(Ljava/lang/String;)V*X
+
+__unknown_file (<":
+8org.apache.commons.compress.harmony.pack200.PackingUtils*5
+
+__unknown_file (
+
+%53java.lang.Stringv
+t
+
+÷B ÷(Q<
+%555org.apache.commons.compress.harmony.pack200.BHSDCodec"__id*"
+
+__unknown_file (
+""êç
+
+÷ ÷(R
+%56byte[]"êorg.apache.commons.compress.harmony.pack200.BandSet#encodeBandInt(Ljava/lang/String;[ILorg/apache/commons/compress/harmony/pack200/BHSDCodec;)[B*S
+
+__unknown_file (75
+3org.apache.commons.compress.harmony.pack200.CpBands*,
+
+__unknown_file (
+cpUtf8Suffix*"
+
+__unknown_file (
+""*Z
+
+__unknown_file (>
+<
+%555org.apache.commons.compress.harmony.pack200.BHSDCodec2ZencodeBandInt(Ljava/lang/String;[ILorg/apache/commons/compress/harmony/pack200/BHSDCodec;)X
+V
+
+÷ ÷(R
+encodedBandbyte[]"__id*+
+
+__unknown_file (
+
+%56byte[]∏µ
+
+◊ ◊(
+%57void"java.io.OutputStream#write([B)V*9
+
+__unknown_file (
+
+outjava.io.OutputStream*3
+
+__unknown_file (
+
+encodedBandbyte[]2	write([B)a
+_
+
+ÿ ÿ(6
+%58java.lang.String"__concat*
+
+ÿ ÿ(!
+
+Wrote *
+
+ÿ$ ÿ(6
+""à
+Ö
+
+ÿ ÿ(T
+%59java.lang.String"__concat*'
+
+ÿ ÿ(6
+
+%58java.lang.String*+
+
+ÿ9 ÿ(T
+ bytes from cpUtf8Suffix[p
+n
+
+ÿ ÿ(j
+%60java.lang.String"__concat*'
+
+ÿ ÿ(T
+
+%59java.lang.String*
+
+ÿW ÿ(j
+""o
+m
+
+ÿ ÿ(p
+%61java.lang.String"__concat*'
+
+ÿ ÿ(j
+
+%60java.lang.String*
+
+ÿm ÿ(p
+]Ä
+˝
+
+ÿ ÿ(q
+%62void"Qorg.apache.commons.compress.harmony.pack200.PackingUtils#log(Ljava/lang/String;)V*X
+
+__unknown_file (<":
+8org.apache.commons.compress.harmony.pack200.PackingUtils*5
+
+__unknown_file (
+
+%61java.lang.Stringv
+t
+
+⁄@ ⁄(K<
+%635org.apache.commons.compress.harmony.pack200.BHSDCodec"__id*"
+
+__unknown_file (
+""èå
+
+⁄ ⁄(L
+%64byte[]"êorg.apache.commons.compress.harmony.pack200.BandSet#encodeBandInt(Ljava/lang/String;[ILorg/apache/commons/compress/harmony/pack200/BHSDCodec;)[B*S
+
+__unknown_file (75
+3org.apache.commons.compress.harmony.pack200.CpBands*+
+
+__unknown_file (
+cpUtf8Chars*"
+
+__unknown_file (
+""*Z
+
+__unknown_file (>
+<
+%635org.apache.commons.compress.harmony.pack200.BHSDCodec2ZencodeBandInt(Ljava/lang/String;[ILorg/apache/commons/compress/harmony/pack200/BHSDCodec;)X
+V
+
+⁄ ⁄(L
+encodedBandbyte[]"__id*+
+
+__unknown_file (
+
+%64byte[]∏µ
+
+€ €(
+%65void"java.io.OutputStream#write([B)V*9
+
+__unknown_file (
+
+outjava.io.OutputStream*3
+
+__unknown_file (
+
+encodedBandbyte[]2	write([B)a
+_
+
+‹ ‹(6
+%66java.lang.String"__concat*
+
+‹ ‹(!
+
+Wrote *
+
+‹$ ‹(6
+""á
+Ñ
+
+‹ ‹(S
+%67java.lang.String"__concat*'
+
+‹ ‹(6
+
+%66java.lang.String**
+
+‹9 ‹(S
+ bytes from cpUtf8Chars[p
+n
+
+‹ ‹(h
+%68java.lang.String"__concat*'
+
+‹ ‹(S
+
+%67java.lang.String*
+
+‹V ‹(h
+""o
+m
+
+‹ ‹(n
+%69java.lang.String"__concat*'
+
+‹ ‹(h
+
+%68java.lang.String*
+
+‹k ‹(n
+]Ä
+˝
+
+‹ ‹(o
+%70void"Qorg.apache.commons.compress.harmony.pack200.PackingUtils#log(Ljava/lang/String;)V*X
+
+__unknown_file (<":
+8org.apache.commons.compress.harmony.pack200.PackingUtils*5
+
+__unknown_file (
+
+%69java.lang.Stringv
+t
+
+ﬁH ﬁ(T<
+%715org.apache.commons.compress.harmony.pack200.BHSDCodec"__id*"
+
+__unknown_file (
+""ìê
+
+ﬁ ﬁ(U
+%72byte[]"êorg.apache.commons.compress.harmony.pack200.BandSet#encodeBandInt(Ljava/lang/String;[ILorg/apache/commons/compress/harmony/pack200/BHSDCodec;)[B*S
+
+__unknown_file (75
+3org.apache.commons.compress.harmony.pack200.CpBands*/
+
+__unknown_file (
+cpUtf8BigSuffix*"
+
+__unknown_file (
+""*Z
+
+__unknown_file (>
+<
+%715org.apache.commons.compress.harmony.pack200.BHSDCodec2ZencodeBandInt(Ljava/lang/String;[ILorg/apache/commons/compress/harmony/pack200/BHSDCodec;)X
+V
+
+ﬁ ﬁ(U
+encodedBandbyte[]"__id*+
+
+__unknown_file (
+
+%72byte[]∏µ
+
+ﬂ ﬂ(
+%73void"java.io.OutputStream#write([B)V*9
+
+__unknown_file (
+
+outjava.io.OutputStream*3
+
+__unknown_file (
+
+encodedBandbyte[]2	write([B)a
+_
+
+‡ ‡(6
+%74java.lang.String"__concat*
+
+‡ ‡(!
+
+Wrote *
+
+‡$ ‡(6
+""ã
+à
+
+‡ ‡(W
+%75java.lang.String"__concat*'
+
+‡ ‡(6
+
+%74java.lang.String*.
+
+‡9 ‡(W 
+ bytes from cpUtf8BigSuffix[p
+n
+
+‡ ‡(p
+%76java.lang.String"__concat*'
+
+‡ ‡(W
+
+%75java.lang.String*
+
+‡Z ‡(p
+""o
+m
+
+‡ ‡(v
+%77java.lang.String"__concat*'
+
+‡ ‡(p
+
+%76java.lang.String*
+
+‡s ‡(v
+]Ä
+˝
+
+‡ ‡(w
+%78void"Qorg.apache.commons.compress.harmony.pack200.PackingUtils#log(Ljava/lang/String;)V*X
+
+__unknown_file (<":
+8org.apache.commons.compress.harmony.pack200.PackingUtils*5
+
+__unknown_file (
+
+%77java.lang.String*
+2
+0*Å
+6
+Ã$ Ã(-î
+ë
+
+Ã$ Ã(4
+%41java.lang.Integer"
+__arrayGet*9
+
+__unknown_file (
+
+	bigSuffixjava.util.List*"
+
+__unknown_file (
+""}{
+
+Ã$ Ã(?
+
+%42int"java.lang.Integer#intValue()I*6
+
+__unknown_file (
+
+%41java.lang.Integer2
+intValue()µ
+≤
+
+œ- œ(P*
+%43#java.util.function.IntUnaryOperator"__declareFunction*e
+
+__unknown_file (IG
+E__sonar_lambda_48$org.apache.commons.compress.harmony.pack200.CpBandsó
+î
+
+__unknown_file (8
+*
+%43#java.util.function.IntUnaryOperator"
+
+bigChars"__id*8
+
+__unknown_file (
+
+bigCharsjava.util.Listˇ
+¸
+
+œ œ(Q
+%46void"Ajava.util.Arrays#setAll([ILjava/util/function/IntUnaryOperator;)V*0
+
+__unknown_file ("
+java.util.Arrays*"
+
+__unknown_file (
+""*H
+
+__unknown_file (,
+*
+%43#java.util.function.IntUnaryOperator*
+4
+6*´
+
+18
+∞. ∞(9ô
+ñ
+
+∞. ∞(@
+%22java.lang.Object"
+__arrayGet*?
+
+__unknown_file (#
+!
+cpUtf8Arrayjava.lang.Object[]*"
+
+__unknown_file (
+""“œ
+
+∞$ ∞(W
+%23java.lang.String"Zorg.apache.commons.compress.harmony.pack200.CPUTF8#getUnderlyingString()Ljava/lang/String;*5
+
+__unknown_file (
+
+%22java.lang.Object2getUnderlyingString()ÜÉ
+
+∞$ ∞(e
+%24char[]" java.lang.String#toCharArray()[C*5
+
+__unknown_file (
+
+%23java.lang.String2toCharArray()U
+S
+
+∞ ∞(f
+previouschar[]"__id*+
+
+__unknown_file (
+
+%24char[]ô
+ñ
+
+±* ±(8
+%25java.lang.Object"
+__arrayGet*?
+
+__unknown_file (#
+!
+cpUtf8Arrayjava.lang.Object[]*"
+
+__unknown_file (
+""“œ
+
+±  ±(O
+%26java.lang.String"Zorg.apache.commons.compress.harmony.pack200.CPUTF8#getUnderlyingString()Ljava/lang/String;*5
+
+__unknown_file (
+
+%25java.lang.Object2getUnderlyingString()k
+i
+
+± ±(P
+
+currentStrjava.lang.String"__id*5
+
+__unknown_file (
+
+%26java.lang.Stringçä
+
+≤# ≤(;
+%27char[]" java.lang.String#toCharArray()[C*<
+
+__unknown_file ( 
+
+
+currentStrjava.lang.String2toCharArray()T
+R
+
+≤ ≤(<
+currentchar[]"__id*+
+
+__unknown_file (
+
+%27char[]*
+12*∆
+8
+«* «(/qo
+
+«* «(6
+
+%34int"java.util.List#size()I*5
+
+__unknown_file (
+
+charsjava.util.List2size()us
+
+». »(>
+
+%35int"java.util.List#size()I*9
+
+__unknown_file (
+
+	bigSuffixjava.util.List2size()us
+
+…/ …(?
+
+%36int"java.util.List#size()I*9
+
+__unknown_file (
+
+	bigSuffixjava.util.List2size()µ
+≤
+
+ #  (@*
+%37#java.util.function.IntUnaryOperator"__declareFunction*e
+
+__unknown_file (IG
+E__sonar_lambda_47$org.apache.commons.compress.harmony.pack200.CpBandsë
+é
+
+__unknown_file (5
+*
+%37#java.util.function.IntUnaryOperator"
+chars"__id*5
+
+__unknown_file (
+
+charsjava.util.Listˇ
+¸
+
+   (A
+%40void"Ajava.util.Arrays#setAll([ILjava/util/function/IntUnaryOperator;)V*0
+
+__unknown_file ("
+java.util.Arrays*"
+
+__unknown_file (
+""*H
+
+__unknown_file (,
+*
+%37#java.util.function.IntUnaryOperator*
+4
+6*Ó
+20
+• •(å
+â
+
+•& •(-
+%0java.util.Set"__id*`
+
+__unknown_file (D*B5
+3org.apache.commons.compress.harmony.pack200.CpBands"	
+cp_Utf8ki
+
+•& •(4	
+%1int"java.util.Set#size()I*1
+
+__unknown_file (
+
+%0java.util.Set2size()g
+e
+
+• •(4
+%2java.lang.String"__concat*
+
+• •(#
+
+Writing *
+
+•& •(4
+	
+%1int|
+z
+
+• •(I
+%3java.lang.String"__concat*&
+
+• •(4
+
+%2java.lang.String*"
+
+•7 •(I
+ UTF8 entries...˛
+˚
+
+• •(J
+
+%4void"Qorg.apache.commons.compress.harmony.pack200.PackingUtils#log(Ljava/lang/String;)V*X
+
+__unknown_file (<":
+8org.apache.commons.compress.harmony.pack200.PackingUtils*4
+
+__unknown_file (
+
+%3java.lang.Stringå
+â
+
+¶+ ¶(2
+%5java.util.Set"__id*`
+
+__unknown_file (D*B5
+3org.apache.commons.compress.harmony.pack200.CpBands"	
+cp_Utf8ki
+
+¶+ ¶(9	
+%6int"java.util.Set#size()I*1
+
+__unknown_file (
+
+%5java.util.Set2size()å
+â
+
+ß+ ß(2
+%7java.util.Set"__id*`
+
+__unknown_file (D*B5
+3org.apache.commons.compress.harmony.pack200.CpBands"	
+cp_Utf8ki
+
+ß+ ß(9	
+%8int"java.util.Set#size()I*1
+
+__unknown_file (
+
+%7java.util.Set2size()><
+
+®* ®(5
+%9java.util.ArrayList"java.util.ArrayListm
+k
+
+®& ®(7
+%10"java.util.ArrayList#<init>()V*7
+
+__unknown_file (
+
+%9java.util.ArrayListf
+d
+
+® ®(8
+charsjava.util.List"__id*7
+
+__unknown_file (
+
+%9java.util.ArrayList?=
+
+©, ©(7
+%11java.util.ArrayList"java.util.ArrayListn
+l
+
+©( ©(9
+%12"java.util.ArrayList#<init>()V*8
+
+__unknown_file (
+
+%11java.util.ArrayListk
+i
+
+© ©(:
+	bigSuffixjava.util.List"__id*8
+
+__unknown_file (
+
+%11java.util.ArrayList?=
+
+™- ™(8
+%13java.util.ArrayList"java.util.ArrayListn
+l
+
+™) ™(:
+%14"java.util.ArrayList#<init>()V*8
+
+__unknown_file (
+
+%13java.util.ArrayListj
+h
+
+™ ™(;
+bigCharsjava.util.List"__id*8
+
+__unknown_file (
+
+%13java.util.ArrayListç
+ä
+
+´% ´(,
+%15java.util.Set"__id*`
+
+__unknown_file (D*B5
+3org.apache.commons.compress.harmony.pack200.CpBands"	
+cp_Utf8ïí
+
+´% ´(6
+%16java.lang.Object[]"*java.util.Set#toArray()[Ljava/lang/Object;*2
+
+__unknown_file (
+
+%15java.util.Set2	toArray()p
+n
+
+´ ´(7!
+cpUtf8Arrayjava.lang.Object[]"__id*7
+
+__unknown_file (
+
+%16java.lang.Object[]ó
+î
+
+¨' ¨(5
+%17java.lang.Object"
+__arrayGet*?
+
+__unknown_file (#
+!
+cpUtf8Arrayjava.lang.Object[]* 
+
+__unknown_file (2“œ
+
+¨ ¨(L
+%18java.lang.String"Zorg.apache.commons.compress.harmony.pack200.CPUTF8#getUnderlyingString()Ljava/lang/String;*5
+
+__unknown_file (
+
+%17java.lang.Object2getUnderlyingString()f
+d
+
+¨ ¨(M
+firstjava.lang.String"__id*5
+
+__unknown_file (
+
+%18java.lang.Stringyw
+
+≠ ≠((
+
+%19int"java.lang.String#length()I*7
+
+__unknown_file (
+
+firstjava.lang.String2length()àÖ
+
+Æ Æ(0
+%20char[]" java.lang.String#toCharArray()[C*7
+
+__unknown_file (
+
+firstjava.lang.String2toCharArray()≠
+™
+
+Æ Æ(1
+%21void"Vorg.apache.commons.compress.harmony.pack200.CpBands#addCharacters(Ljava/util/List;[C)V*S
+
+__unknown_file (75
+3org.apache.commons.compress.harmony.pack200.CpBands*5
+
+__unknown_file (
+
+charsjava.util.List*+
+
+__unknown_file (
+
+%20char[]*
+18
+8*Ã
+10
+√ √(∞
+≠
+
+ƒ ƒ(,
+%33void"Vorg.apache.commons.compress.harmony.pack200.CpBands#addCharacters(Ljava/util/List;[C)V*S
+
+__unknown_file (75
+3org.apache.commons.compress.harmony.pack200.CpBands*5
+
+__unknown_file (
+
+charsjava.util.List*.
+
+__unknown_file (
+
+suffixchar[]*
+18
+8*(
+0 "!
+
+Ë Ë(
+implicit return*ƒ
+11
+ø ø(±
+Æ
+
+¿ ¿(<
+%30java.lang.Integer"/java.lang.Integer#valueOf(I)Ljava/lang/Integer;*1
+
+__unknown_file ("
+java.lang.Integer*"
+
+__unknown_file (
+""æ
+ª
+
+¿ ¿(=
+%31boolean"
+__arrayAdd*9
+
+__unknown_file (
+
+	bigSuffixjava.util.List*
+
+__unknown_file (: *6
+
+__unknown_file (
+
+%30java.lang.Integer≥
+∞
+
+¡ ¡(/
+%32void"Vorg.apache.commons.compress.harmony.pack200.CpBands#addCharacters(Ljava/util/List;[C)V*S
+
+__unknown_file (75
+3org.apache.commons.compress.harmony.pack200.CpBands*8
+
+__unknown_file (
+
+bigCharsjava.util.List*.
+
+__unknown_file (
+
+suffixchar[]*
+18
+8*∏
+12
+∫ ∫(…∆
+
+ª ª(5
+%28java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*<
+
+__unknown_file ( 
+
+
+currentStrjava.lang.String*"
+
+__unknown_file (
+""2substring(I)k
+i
+
+ª ª(5
+
+currentStrjava.lang.String"__id*5
+
+__unknown_file (
+
+%28java.lang.Stringçä
+
+º" º(:
+%29char[]" java.lang.String#toCharArray()[C*<
+
+__unknown_file ( 
+
+
+currentStrjava.lang.String2toCharArray()S
+Q
+
+º º(;
+suffixchar[]"__id*+
+
+__unknown_file (
+
+%29char[]*
+10
+11:)
+
+§ §(3
+outjava.io.OutputStreamB75
+3org.apache.commons.compress.harmony.pack200.CpBands

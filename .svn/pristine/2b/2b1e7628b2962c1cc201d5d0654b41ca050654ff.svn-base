@@ -1,0 +1,42 @@
+
+Horg.apache.commons.compress.archivers.tar.TarArchiveEntry#isGNUSparse()Zƒ
+wC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.javaˆ
+ ˆ
+("3*ï
+2
+‰
+# ‰
+(1ØÕ
+
+‰
+# ‰
+(3
+%1boolean"Korg.apache.commons.compress.archivers.tar.TarArchiveEntry#isPaxGNUSparse()Z*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntry2isPaxGNUSparse()*
+1*ò
+3
+‰
+ ‰
+(ØÕ
+
+‰
+ ‰
+(
+%0boolean"Korg.apache.commons.compress.archivers.tar.TarArchiveEntry#isOldGNUSparse()Z*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntry2isOldGNUSparse()*
+2
+1*%
+1
+‰
+ ‰
+(4"
+
+‰
+ ‰
+(4
+""B=;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntryHP

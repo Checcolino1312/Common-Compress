@@ -1,0 +1,46 @@
+
+©org.apache.commons.compress.compressors.lz77support.Parameters$Builder#tunedForCompressionRatio()Lorg/apache/commons/compress/compressors/lz77support/Parameters$Builder;Ü
+|C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/lz77support/Parameters.javaD D(/"1*ˆ
+1E6 E(Lî
+ë
+E& E(L[H
+Forg.apache.commons.compress.compressors.lz77support.Parameters$Builder"
+lazyThreshold"__id*"
+
+__unknown_file (
+""û
+õ
+E E(LeH
+Forg.apache.commons.compress.compressors.lz77support.Parameters$Builder"
+niceBackReferenceLength"__id*"
+
+__unknown_file (
+""ß
+§
+F F(9	
+%0int"java.lang.Math#max(II)I*.
+
+__unknown_file ("
+java.lang.Math* 
+
+__unknown_file (2 *"
+
+__unknown_file (
+""ô
+ñ
+F F(9[H
+Forg.apache.commons.compress.compressors.lz77support.Parameters$Builder"
+maxCandidates"__id*'
+
+__unknown_file (
+	
+%0intê
+ç
+G G(YH
+Forg.apache.commons.compress.compressors.lz77support.Parameters$Builder"
+lazyMatches"__id* 
+
+__unknown_file (2"V
+H H(JH
+Forg.apache.commons.compress.compressors.lz77support.Parameters$BuilderBJH
+Forg.apache.commons.compress.compressors.lz77support.Parameters$BuilderH

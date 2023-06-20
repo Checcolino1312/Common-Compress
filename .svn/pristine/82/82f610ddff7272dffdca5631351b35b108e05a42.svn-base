@@ -1,0 +1,68 @@
+
+‘org.apache.commons.compress.harmony.pack200.Segment$SegmentFieldVisitor#visitAnnotation(Ljava/lang/String;Z)Lorg/objectweb/asm/AnnotationVisitor;}
+qC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/pack200/Segment.javaü! ü(0"startingBlock*Œ
+startingBlock
+ü0 ü(Z
+Š
+
+û û(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*6
+
+__unknown_file (
+
+descjava.lang.StringZ
+X
+
+ü> ü(B
+descjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%3*
+1*
+1
+ı0 ı(AC
+A
+
+ı0 ı(O	
+%0int"__id*"
+
+__unknown_file (
+""±®
+
+ı ı(/R
+%1Lorg.apache.commons.compress.harmony.pack200.Segment$SegmentAnnotationVisitor"Lorg.apache.commons.compress.harmony.pack200.Segment$SegmentAnnotationVisitor®
+«
+
+ı ı(_
+%2"Ÿorg.apache.commons.compress.harmony.pack200.Segment$SegmentAnnotationVisitor#<init>(Lorg/apache/commons/compress/harmony/pack200/Segment;ILjava/lang/String;Z)V*p
+
+__unknown_file (T
+R
+%1Lorg.apache.commons.compress.harmony.pack200.Segment$SegmentAnnotationVisitor*'
+
+__unknown_file (
+	
+%0int*6
+
+__unknown_file (
+
+descjava.lang.String*"
+
+__unknown_file (
+"""b
+
+ı ı(`T
+R
+%1Lorg.apache.commons.compress.harmony.pack200.Segment$SegmentAnnotationVisitor:&
+
+ü1 ü(C
+descjava.lang.String: 
+
+__unknown_file (
+""BKI
+Gorg.apache.commons.compress.harmony.pack200.Segment$SegmentFieldVisitorH

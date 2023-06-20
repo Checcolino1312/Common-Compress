@@ -1,0 +1,27 @@
+
+Lorg.apache.commons.compress.archivers.cpio.CpioArchiveEntry#isRegularFile()ZÖ
+yC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveEntry.javaå å( "1*√
+1
+ç ç(÷
+”
+
+ç ç(&
+
+%0long"@org.apache.commons.compress.archivers.cpio.CpioUtil#fileType(J)J*S
+
+__unknown_file (7"5
+3org.apache.commons.compress.archivers.cpio.CpioUtil*"
+
+__unknown_file (
+""C
+A
+
+ç* ç(1	
+%1int"__id*"
+
+__unknown_file (
+"""
+
+ç ç(2
+""B?=
+;org.apache.commons.compress.archivers.cpio.CpioArchiveEntryHP

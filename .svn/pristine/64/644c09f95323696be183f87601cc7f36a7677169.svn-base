@@ -1,0 +1,7 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#init()V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream$Data#instance-init#
+org.apache.commons.compress.compressors.bzip2.BlockSort#instance-init#
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#bsPutUByte(I)V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream$Data#<init>(I)V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#initBlock()V
+org.apache.commons.compress.compressors.bzip2.BlockSort#<init>(Lorg/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream$Data;)V

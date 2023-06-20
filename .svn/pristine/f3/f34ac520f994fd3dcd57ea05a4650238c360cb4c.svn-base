@@ -1,0 +1,4 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#write(I)V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#write0(I)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V

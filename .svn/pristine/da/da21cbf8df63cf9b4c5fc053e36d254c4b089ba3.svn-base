@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.pack200.CPString#compareTo(Lorg/apache/commons/compress/harmony/pack200/CPString;)I
+java.lang.String#compareTo(Ljava/lang/String;)I

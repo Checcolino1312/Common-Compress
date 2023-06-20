@@ -1,0 +1,39 @@
+
+Ωorg.apache.commons.compress.archivers.zip.ParallelScatterZipCreator#createCallable(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntryRequestSupplier;)Ljava/util/concurrent/Callable;é
+ÅC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ParallelScatterZipCreator.javaÿ2 ÿ(@"1*”
+1
+Ÿ ›(	æ
+ª
+
+Ÿ ›(	#
+%0java.util.concurrent.Callable"__declareFunction*u
+
+__unknown_file (YW
+U__sonar_lambda_10$org.apache.commons.compress.archivers.zip.ParallelScatterZipCreator˜
+Ù
+
+__unknown_file (G
+#
+%0java.util.concurrent.Callable" 
+zipArchiveEntryRequestSupplier"__id*à
+
+__unknown_file (l
+j
+zipArchiveEntryRequestSupplierHorg.apache.commons.compress.archivers.zip.ZipArchiveEntryRequestSupplier—
+Œ
+
+__unknown_file (G
+#
+%0java.util.concurrent.Callable" 
+ParallelScatterZipCreator.this"__id*c
+
+__unknown_file (GE
+Corg.apache.commons.compress.archivers.zip.ParallelScatterZipCreator"3
+
+Ÿ ›(
+%
+#
+%0java.util.concurrent.Callable:y
+ÿA ÿ(Ñj
+zipArchiveEntryRequestSupplierHorg.apache.commons.compress.archivers.zip.ZipArchiveEntryRequestSupplierBGE
+Corg.apache.commons.compress.archivers.zip.ParallelScatterZipCreatorH

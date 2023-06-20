@@ -1,0 +1,2 @@
+org.apache.commons.compress.utils.BitInputStream#alignWithByteBoundary()V
+org.apache.commons.compress.utils.BitInputStream#readCachedBits(I)J

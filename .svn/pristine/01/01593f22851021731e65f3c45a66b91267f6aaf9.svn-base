@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#getNextEntry()Lorg/apache/commons/compress/archivers/dump/DumpArchiveEntry;
+org.apache.commons.compress.archivers.dump.DumpArchiveEntry#setName(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#getPath(Lorg/apache/commons/compress/archivers/dump/DumpArchiveEntry;)Ljava/lang/String;
+org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#readNextEntry()Lorg/apache/commons/compress/archivers/dump/DumpArchiveEntry;

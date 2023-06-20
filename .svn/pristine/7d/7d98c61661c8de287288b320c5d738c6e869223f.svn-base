@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#writeBinaryLong(JIZ)V
+org.apache.commons.compress.archivers.cpio.CpioUtil#long2byteArray(JIZ)[B

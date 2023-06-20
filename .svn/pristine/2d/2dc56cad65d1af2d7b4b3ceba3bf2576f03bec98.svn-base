@@ -1,0 +1,80 @@
+
+£org.apache.commons.compress.archivers.zip.ScatterZipOutputStream#pathBased(Ljava/nio/file/Path;I)Lorg/apache/commons/compress/archivers/zip/ScatterZipOutputStream;~
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ScatterZipOutputStream.java•) •(2"1*Þ
+1
+–T –(X§¤
+
+–1 –(SM
+%0Gorg.apache.commons.compress.parallel.FileBasedScatterGatherBackingStore"Gorg.apache.commons.compress.parallel.FileBasedScatterGatherBackingStore£
+ 
+
+–- –(Y
+%1"eorg.apache.commons.compress.parallel.FileBasedScatterGatherBackingStore#<init>(Ljava/nio/file/Path;)V*k
+
+__unknown_file (O
+M
+%0Gorg.apache.commons.compress.parallel.FileBasedScatterGatherBackingStore*8
+
+__unknown_file (
+
+pathjava.nio.file.PathÈ
+Å
+
+– –(ZD
+bs>org.apache.commons.compress.parallel.ScatterGatherBackingStore"__id*k
+
+__unknown_file (O
+M
+%0Gorg.apache.commons.compress.parallel.FileBasedScatterGatherBackingStoreø
+õ
+
+˜$ ˜(Q@
+%2:org.apache.commons.compress.archivers.zip.StreamCompressor"Àorg.apache.commons.compress.archivers.zip.StreamCompressor#create(ILorg/apache/commons/compress/parallel/ScatterGatherBackingStore;)Lorg/apache/commons/compress/archivers/zip/StreamCompressor;*Z
+
+__unknown_file (>"<
+:org.apache.commons.compress.archivers.zip.StreamCompressor*"
+
+__unknown_file (
+""*b
+
+__unknown_file (F
+D
+bs>org.apache.commons.compress.parallel.ScatterGatherBackingStore·
+´
+
+˜ ˜(R@
+sc:org.apache.commons.compress.archivers.zip.StreamCompressor"__id*^
+
+__unknown_file (B
+@
+%2:org.apache.commons.compress.archivers.zip.StreamCompressor™–
+
+™ ™()F
+%3@org.apache.commons.compress.archivers.zip.ScatterZipOutputStream"@org.apache.commons.compress.archivers.zip.ScatterZipOutputStreamˆ
+…
+
+™ ™(1
+%4"Æorg.apache.commons.compress.archivers.zip.ScatterZipOutputStream#<init>(Lorg/apache/commons/compress/parallel/ScatterGatherBackingStore;Lorg/apache/commons/compress/archivers/zip/StreamCompressor;)V*d
+
+__unknown_file (H
+F
+%3@org.apache.commons.compress.archivers.zip.ScatterZipOutputStream*b
+
+__unknown_file (F
+D
+bs>org.apache.commons.compress.parallel.ScatterGatherBackingStore*^
+
+__unknown_file (B
+@
+sc:org.apache.commons.compress.archivers.zip.StreamCompressor"V
+
+™ ™(2H
+F
+%3@org.apache.commons.compress.archivers.zip.ScatterZipOutputStream:(
+
+•3 •(C
+pathjava.nio.file.Path: 
+
+__unknown_file (
+""BD"B
+@org.apache.commons.compress.archivers.zip.ScatterZipOutputStreamH

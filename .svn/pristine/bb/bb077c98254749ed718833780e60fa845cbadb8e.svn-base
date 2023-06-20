@@ -1,0 +1,33 @@
+
+`org.apache.commons.compress.archivers.ar.ArArchiveInputStream#isGNULongName(Ljava/lang/String;)Z{
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/ar/ArArchiveInputStream.javaç ç(!"2"1*Ä
+2
+è è(#S
+Q
+
+è, è(@
+%0java.lang.String"__id*%
+
+__unknown_file (	
+^/\d+ØÕ
+
+è è(A
+%1boolean"-java.lang.String#matches(Ljava/lang/String;)Z*6
+
+__unknown_file (
+
+namejava.lang.String*4
+
+__unknown_file (
+
+%0java.lang.String2matches(Ljava/lang/String;)*
+1*%
+1
+è è(B"
+
+è è(B
+"":&
+
+ç" ç(3
+namejava.lang.StringBA?
+=org.apache.commons.compress.archivers.ar.ArArchiveInputStreamP

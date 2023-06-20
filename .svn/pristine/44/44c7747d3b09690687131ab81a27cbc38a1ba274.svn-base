@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.zip.ScatterZipOutputStream#pathBased(Ljava/nio/file/Path;I)Lorg/apache/commons/compress/archivers/zip/ScatterZipOutputStream;
+org.apache.commons.compress.archivers.zip.ScatterZipOutputStream#<init>(Lorg/apache/commons/compress/parallel/ScatterGatherBackingStore;Lorg/apache/commons/compress/archivers/zip/StreamCompressor;)V
+org.apache.commons.compress.parallel.FileBasedScatterGatherBackingStore#instance-init#
+org.apache.commons.compress.parallel.FileBasedScatterGatherBackingStore#<init>(Ljava/nio/file/Path;)V
+org.apache.commons.compress.archivers.zip.StreamCompressor#create(ILorg/apache/commons/compress/parallel/ScatterGatherBackingStore;)Lorg/apache/commons/compress/archivers/zip/StreamCompressor;
+org.apache.commons.compress.archivers.zip.ScatterZipOutputStream#instance-init#

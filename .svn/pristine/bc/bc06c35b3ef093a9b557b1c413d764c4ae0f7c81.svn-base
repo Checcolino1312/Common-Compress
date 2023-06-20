@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#<init>(Ljava/nio/channels/SeekableByteChannel;Ljava/lang/String;Lorg/apache/commons/compress/archivers/sevenz/SevenZFileOptions;)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#<init>(Ljava/nio/channels/SeekableByteChannel;Ljava/lang/String;[BZLorg/apache/commons/compress/archivers/sevenz/SevenZFileOptions;)V

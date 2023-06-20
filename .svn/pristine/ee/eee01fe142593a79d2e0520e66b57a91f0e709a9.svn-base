@@ -1,0 +1,55 @@
+
+Oorg.apache.commons.compress.archivers.dump.DumpArchiveInputStream#matches([BI)Z}
+sC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveInputStream.java; ;(!"3"4*”
+2C C("ð
+í
+C C(1
+%1boolean"Forg.apache.commons.compress.archivers.dump.DumpArchiveUtil#verify([B)Z*Z
+
+__unknown_file (>"<
+:org.apache.commons.compress.archivers.dump.DumpArchiveUtil*.
+
+__unknown_file (
+
+bufferbyte[]"
+C C(2
+""*X
+3B B(A
+?
+B B(2	
+%0int"__id*"
+
+__unknown_file (
+""*
+2
+1*!
+4> >("
+> >(
+""*ù
+1G G(#A
+?
+G G(-	
+%2int"__id*"
+
+__unknown_file (
+""’
+
+G1 H(	
+%3int"Jorg.apache.commons.compress.archivers.dump.DumpArchiveUtil#convert32([BI)I*Z
+
+__unknown_file (>"<
+:org.apache.commons.compress.archivers.dump.DumpArchiveUtil*.
+
+__unknown_file (
+
+bufferbyte[]* 
+
+__unknown_file (2"
+G H(
+"":
+;" ;(6
+bufferbyte[]: 
+
+__unknown_file (
+""BE"C
+Aorg.apache.commons.compress.archivers.dump.DumpArchiveInputStreamHP

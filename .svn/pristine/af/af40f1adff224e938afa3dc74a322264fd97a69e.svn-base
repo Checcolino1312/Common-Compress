@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ScatterZipOutputStream#fileBased(Ljava/io/File;I)Lorg/apache/commons/compress/archivers/zip/ScatterZipOutputStream;
+org.apache.commons.compress.archivers.zip.ScatterZipOutputStream#pathBased(Ljava/nio/file/Path;I)Lorg/apache/commons/compress/archivers/zip/ScatterZipOutputStream;

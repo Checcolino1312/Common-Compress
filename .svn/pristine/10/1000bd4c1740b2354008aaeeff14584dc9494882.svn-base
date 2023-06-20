@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#getChar(Ljava/nio/ByteBuffer;)C
+org.apache.commons.compress.archivers.sevenz.SevenZFile#checkEndOfFile(Ljava/nio/ByteBuffer;I)Ljava/nio/ByteBuffer;

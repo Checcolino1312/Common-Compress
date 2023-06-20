@@ -1,0 +1,10 @@
+
+t	java:S135¤"YReduce the total number of break and continue statements in this loop to use at most one.(Ê‡¸Íúÿÿÿÿ
+g
+java:S1149¡"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¦ì§ 
+L
+java:S1133¾"5Do not forget to remove this deprecated code someday.(ÒÊÏ·
+?
+java:S1123¾"(Add the missing @deprecated Javadoc tag.(ÒÊÏ·
+n
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ˆ‡¤ëùÿÿÿÿ

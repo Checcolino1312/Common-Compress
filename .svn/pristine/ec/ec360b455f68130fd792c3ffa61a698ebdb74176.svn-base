@@ -1,0 +1,51 @@
+
+Corg.apache.commons.compress.archivers.sevenz.SevenZFile#read([BII)Iu
+iC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZFile.javaÑ Ñ("3"4*ñ
+3
+Õ Õ((ä
+á
+
+Õ Õ(*
+%0java.io.InputStream"_org.apache.commons.compress.archivers.sevenz.SevenZFile#getCurrentStream()Ljava/io/InputStream;*W
+
+__unknown_file (;9
+7org.apache.commons.compress.archivers.sevenz.SevenZFileóð
+
+Õ Õ(<	
+%1int"java.io.InputStream#read([BII)I*7
+
+__unknown_file (
+
+%0java.io.InputStream*)
+
+__unknown_file (
+
+bbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2
+read([BII)*
+1*%
+4
+Ó Ó("
+
+Ó Ó(
+""*%
+1
+Ù Ù("
+
+Ù Ù(
+"":
+
+Ñ Ñ(#
+bbyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B;9
+7org.apache.commons.compress.archivers.sevenz.SevenZFileHP

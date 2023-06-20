@@ -1,0 +1,60 @@
+
+™org.apache.commons.compress.archivers.sevenz.DeltaDecoder#getOptionsFromCoder(Lorg/apache/commons/compress/archivers/sevenz/Coder;Ljava/io/InputStream;)Ljava/lang/Object;Å
+wC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/sevenz/DeltaDecoder.java@ @("startingBlock*∂
+startingBlock@ @(GÆ
+´
+? ?(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*Y
+
+__unknown_file (=
+;
+coder2org.apache.commons.compress.archivers.sevenz.Coder{
+y
+@+ @(0;
+coder2org.apache.commons.compress.archivers.sevenz.Coder"__annotation*"
+
+__unknown_file (
+
+%1å
+â
+? ?(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*7
+
+__unknown_file (
+
+injava.io.InputStreamY
+W
+@D @(F
+injava.io.InputStream"__annotation*"
+
+__unknown_file (
+
+%2*
+1*˛
+1A A("’
+“
+A A()	
+%0int"Ñorg.apache.commons.compress.archivers.sevenz.DeltaDecoder#getOptionsFromCoder(Lorg/apache/commons/compress/archivers/sevenz/Coder;)I*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.sevenz.DeltaDecoder*Y
+
+__unknown_file (=
+;
+coder2org.apache.commons.compress.archivers.sevenz.Coder"
+A A(*
+	
+%0int:G
+@ @(1;
+coder2org.apache.commons.compress.archivers.sevenz.Coder:%
+@2 @(F
+injava.io.InputStreamB=;
+9org.apache.commons.compress.archivers.sevenz.DeltaDecoder

@@ -1,0 +1,10 @@
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#writeEntryHeader([BLorg/apache/commons/compress/archivers/zip/ZipEncoding;Z)V
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#fill(BI[BI)I
+org.apache.commons.compress.archivers.tar.TarUtils#formatNameBytes(Ljava/lang/String;[BIILorg/apache/commons/compress/archivers/zip/ZipEncoding;)I
+org.apache.commons.compress.utils.TimeUtils#toUnixTime(Ljava/nio/file/attribute/FileTime;)J
+org.apache.commons.compress.archivers.tar.TarUtils#computeCheckSum([B)J
+org.apache.commons.compress.archivers.tar.TarUtils#formatNameBytes(Ljava/lang/String;[BII)I
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#writeEntryHeaderField(J[BIIZ)I
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#writeEntryHeaderOptionalTimeField(Ljava/nio/file/attribute/FileTime;I[BI)I
+org.apache.commons.compress.archivers.tar.TarUtils#formatCheckSumOctalBytes(J[BII)I
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#fill(II[BI)I

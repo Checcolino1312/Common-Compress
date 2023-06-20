@@ -1,0 +1,7 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#readBITS()V
+org.apache.commons.compress.archivers.dump.DumpArchiveEntry#parse([B)Lorg/apache/commons/compress/archivers/dump/DumpArchiveEntry;
+java.io.EOFException#instance-init#
+org.apache.commons.compress.archivers.dump.DumpArchiveUtil#verify([B)Z
+java.io.EOFException#<init>()V
+org.apache.commons.compress.archivers.dump.InvalidFormatException#instance-init#
+org.apache.commons.compress.archivers.dump.InvalidFormatException#<init>()V

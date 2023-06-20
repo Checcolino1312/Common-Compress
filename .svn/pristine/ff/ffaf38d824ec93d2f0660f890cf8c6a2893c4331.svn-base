@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#skip(J)J
+java.lang.IllegalArgumentException#<init>()V
+java.lang.IllegalArgumentException#instance-init#
+==
+read org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#read([BII)I

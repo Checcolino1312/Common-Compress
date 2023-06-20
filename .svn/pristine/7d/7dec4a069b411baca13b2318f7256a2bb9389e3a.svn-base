@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#addAsFirstExtraField(Lorg/apache/commons/compress/archivers/zip/ZipExtraField;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#internalRemoveExtraField(Lorg/apache/commons/compress/archivers/zip/ZipShort;)V
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+==
+setExtra org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setExtra()V
+getExtraField org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getExtraField(Lorg/apache/commons/compress/archivers/zip/ZipShort;)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;

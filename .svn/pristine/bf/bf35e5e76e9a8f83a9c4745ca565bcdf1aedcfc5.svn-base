@@ -1,0 +1,16 @@
+
+[org.apache.commons.compress.compressors.gzip.GzipParameters#getFilename()Ljava/lang/String;w
+mC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/gzip/GzipParameters.javaH H("1*Ì
+1I I(–
+“
+I I(
+%0java.lang.String"__id*i
+
+__unknown_file (M*K=
+;org.apache.commons.compress.compressors.gzip.GzipParameters"
+
+filename"$
+I I(
+
+%0java.lang.StringB?=
+;org.apache.commons.compress.compressors.gzip.GzipParametersH

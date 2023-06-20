@@ -1,0 +1,92 @@
+
+dorg.apache.commons.compress.archivers.zip.ZipFile#getEntriesInPhysicalOrder()Ljava/util/Enumeration;{
+oC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.javaö( ö(A"1*Ì
+1
+÷- ÷(4‹
+ˆ
+
+÷- ÷(4
+%0java.util.List"__id*^
+
+__unknown_file (B*@3
+1org.apache.commons.compress.archivers.zip.ZipFile"	
+entries{
+y
+
+÷= ÷(XA
+%1;org.apache.commons.compress.archivers.zip.ZipArchiveEntry[]"__id*"
+
+__unknown_file (
+""ÅÂ
+
+÷- ÷(YA
+%2;org.apache.commons.compress.archivers.zip.ZipArchiveEntry[]">java.util.List#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*2
+
+__unknown_file (
+
+%0java.util.List*_
+
+__unknown_file (C
+A
+%1;org.apache.commons.compress.archivers.zip.ZipArchiveEntry[]2toArray([Ljava/lang/Object;)Á
+¾
+
+÷ ÷(ZI
+
+allEntries;org.apache.commons.compress.archivers.zip.ZipArchiveEntry[]"__id*_
+
+__unknown_file (C
+A
+%2;org.apache.commons.compress.archivers.zip.ZipArchiveEntry[]T
+R
+
+ø  ø(0
+%3java.util.Comparator"__id*"
+
+__unknown_file (
+""³
+°
+
+ø ø(1
+
+%4void"Ajava.util.Arrays#sort([Ljava/lang/Object;Ljava/util/Comparator;)V*0
+
+__unknown_file ("
+java.util.Arrays*g
+
+__unknown_file (K
+I
+
+allEntries;org.apache.commons.compress.archivers.zip.ZipArchiveEntry[]*8
+
+__unknown_file (
+
+%3java.util.Comparatorþ
+û
+
+ù' ù(@
+%5java.util.List"<java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;*0
+
+__unknown_file ("
+java.util.Arrays*g
+
+__unknown_file (K
+I
+
+allEntries;org.apache.commons.compress.archivers.zip.ZipArchiveEntry[]é
+æ
+
+ù ù(A
+%6java.util.Enumeration"Pjava.util.Collections#enumeration(Ljava/util/Collection;)Ljava/util/Enumeration;*5
+
+__unknown_file ("
+java.util.Collections*2
+
+__unknown_file (
+
+%5java.util.List"+
+
+ù ù(B
+
+%6java.util.EnumerationB53
+1org.apache.commons.compress.archivers.zip.ZipFileH

@@ -1,0 +1,4 @@
+org.apache.commons.compress.changes.ChangeSet#delete(Ljava/lang/String;)V
+org.apache.commons.compress.changes.Change#<init>(Ljava/lang/String;I)V
+org.apache.commons.compress.changes.Change#instance-init#
+org.apache.commons.compress.changes.ChangeSet#addDeletion(Lorg/apache/commons/compress/changes/Change;)V

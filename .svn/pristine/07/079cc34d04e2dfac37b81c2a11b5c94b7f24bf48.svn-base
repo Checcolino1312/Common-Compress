@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ZipShort#<init>([BI)V
+org.apache.commons.compress.archivers.zip.ZipShort#getValue([BI)I

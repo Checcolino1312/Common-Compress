@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm#createFieldRefForm(ILjava/lang/String;[I)Lorg/apache/commons/compress/harmony/unpack200/bytecode/forms/ByteCodeForm;
+org.apache.commons.compress.harmony.unpack200.bytecode.forms.FieldRefForm#<init>(ILjava/lang/String;[I)V
+org.apache.commons.compress.harmony.unpack200.bytecode.forms.FieldRefForm#instance-init#

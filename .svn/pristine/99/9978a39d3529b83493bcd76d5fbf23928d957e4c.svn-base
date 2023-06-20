@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm#<init>(ILjava/lang/String;[I)V
+==
+calculateOperandPosition org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm#calculateOperandPosition()V

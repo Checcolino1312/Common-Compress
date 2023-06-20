@@ -1,0 +1,3 @@
+org.apache.commons.compress.changes.ChangeSetPerformer#isDeletedLater(Ljava/util/Set;Lorg/apache/commons/compress/archivers/ArchiveEntry;)Z
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.lang.String#startsWith(Ljava/lang/String;)Z

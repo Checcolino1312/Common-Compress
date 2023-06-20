@@ -1,0 +1,26 @@
+
+Aorg.apache.commons.compress.utils.BitInputStream#bitsAvailable()Jx
+nC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/utils/BitInputStream.javaL L("1*¼
+1M M(A
+?
+M( M(1	
+%0int"__id*"
+
+__unknown_file (
+""ª
+§
+M5 M(7;
+%15org.apache.commons.compress.utils.CountingInputStream"__id*X
+
+__unknown_file (<*:2
+0org.apache.commons.compress.utils.BitInputStream"
+in¨¥
+M5 M(C	
+%2int"&java.io.FilterInputStream#available()I*Y
+
+__unknown_file (=
+;
+%15org.apache.commons.compress.utils.CountingInputStream2available()"
+M M(D
+""B42
+0org.apache.commons.compress.utils.BitInputStreamHP

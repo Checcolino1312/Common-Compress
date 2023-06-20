@@ -1,0 +1,4 @@
+org.apache.commons.compress.compressors.gzip.GzipCompressorOutputStream#write([BII)V
+org.apache.commons.compress.compressors.gzip.GzipCompressorOutputStream#deflate()V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V

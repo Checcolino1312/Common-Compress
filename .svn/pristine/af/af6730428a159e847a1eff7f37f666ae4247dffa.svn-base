@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.sevenz.Archive#toString()Ljava/lang/String;
+org.apache.commons.compress.archivers.sevenz.Archive#lengthOf([Ljava/lang/Object;)Ljava/lang/String;
+org.apache.commons.compress.archivers.sevenz.Archive#lengthOf([J)Ljava/lang/String;

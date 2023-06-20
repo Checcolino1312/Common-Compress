@@ -1,0 +1,25 @@
+
+`org.apache.commons.compress.compressors.lzma.LZMAUtils#isCompressedFilename(Ljava/lang/String;)Zr
+hC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/lzma/LZMAUtils.javah h(."1*Ô
+1i i(r
+p
+i i(:
+%04org.apache.commons.compress.compressors.FileNameUtil"__id*"
+
+__unknown_file (
+""¼¹
+i i(:
+%1boolean"^org.apache.commons.compress.compressors.FileNameUtil#isCompressedFilename(Ljava/lang/String;)Z*X
+
+__unknown_file (<
+:
+%04org.apache.commons.compress.compressors.FileNameUtil*:
+
+__unknown_file (
+
+fileNamejava.lang.String2(isCompressedFilename(Ljava/lang/String;)"
+i i(;
+"":(
+h/ h(D
+fileNamejava.lang.StringB:"8
+6org.apache.commons.compress.compressors.lzma.LZMAUtilsHP

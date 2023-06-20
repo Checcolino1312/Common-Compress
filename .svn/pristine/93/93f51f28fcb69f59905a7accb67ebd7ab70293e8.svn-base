@@ -1,0 +1,142 @@
+
+Porg.apache.commons.compress.archivers.zip.X000A_NTFS#equals(Ljava/lang/Object;)Z|
+rC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/X000A_NTFS.javar r("startingBlock*!
+2v x(="
+v x(=
+""*ñ
+3x x(¾
+»
+x" x(,C
+%6=org.apache.commons.compress.archivers.zip.ZipEightByteInteger"__id*d
+
+__unknown_file (H*F6
+4org.apache.commons.compress.archivers.zip.X000A_NTFS"
+
+createTimeÂ
+¿
+x. x(;C
+%7=org.apache.commons.compress.archivers.zip.ZipEightByteInteger"__id*h
+
+__unknown_file (L*J
+:
+xf4org.apache.commons.compress.archivers.zip.X000A_NTFS"
+
+createTimeÖ
+Ó
+x x(<
+%8boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*a
+
+__unknown_file (E
+C
+%6=org.apache.commons.compress.archivers.zip.ZipEightByteInteger*a
+
+__unknown_file (E
+C
+%7=org.apache.commons.compress.archivers.zip.ZipEightByteInteger*
+2*ƒ
+startingBlockr r()ˆ
+…
+q q(
+%9"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+r' r((
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%9*
+6
+1*ô
+5w w(¾
+»
+w" w(,C
+%3=org.apache.commons.compress.archivers.zip.ZipEightByteInteger"__id*d
+
+__unknown_file (H*F6
+4org.apache.commons.compress.archivers.zip.X000A_NTFS"
+
+accessTimeÂ
+¿
+w. w(;C
+%4=org.apache.commons.compress.archivers.zip.ZipEightByteInteger"__id*h
+
+__unknown_file (L*J
+:
+xf4org.apache.commons.compress.archivers.zip.X000A_NTFS"
+
+accessTimeÖ
+Ó
+w w(<
+%5boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*a
+
+__unknown_file (E
+C
+%3=org.apache.commons.compress.archivers.zip.ZipEightByteInteger*a
+
+__unknown_file (E
+C
+%4=org.apache.commons.compress.archivers.zip.ZipEightByteInteger*
+2
+3*þ
+6t/ t(0„
+
+t t(1:
+xf4org.apache.commons.compress.archivers.zip.X000A_NTFS"__id*3
+
+__unknown_file (
+
+ojava.lang.Object¾
+»
+v" v(,C
+%0=org.apache.commons.compress.archivers.zip.ZipEightByteInteger"__id*d
+
+__unknown_file (H*F6
+4org.apache.commons.compress.archivers.zip.X000A_NTFS"
+
+modifyTimeÂ
+¿
+v. v(;C
+%1=org.apache.commons.compress.archivers.zip.ZipEightByteInteger"__id*h
+
+__unknown_file (L*J
+:
+xf4org.apache.commons.compress.archivers.zip.X000A_NTFS"
+
+modifyTimeÖ
+Ó
+v v(<
+%2boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*a
+
+__unknown_file (E
+C
+%0=org.apache.commons.compress.archivers.zip.ZipEightByteInteger*a
+
+__unknown_file (E
+C
+%1=org.apache.commons.compress.archivers.zip.ZipEightByteInteger*	
+2
+3
+5*!
+1z z("
+z z(
+"":!
+r r((
+ojava.lang.ObjectB86
+4org.apache.commons.compress.archivers.zip.X000A_NTFSHP

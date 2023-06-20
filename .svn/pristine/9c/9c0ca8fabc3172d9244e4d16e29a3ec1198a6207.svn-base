@@ -1,0 +1,64 @@
+
+Horg.apache.commons.compress.utils.FixedLengthBlockOutputStream#isOpen()Z|
+pC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/utils/FixedLengthBlockOutputStream.java   ("3*“
+2
+¢ ¢(²
+¯
+
+¢ ¢(/
+%2)java.util.concurrent.atomic.AtomicBoolean"__id*j
+
+__unknown_file (N*L@
+>org.apache.commons.compress.utils.FixedLengthBlockOutputStream"
+closedÇÄ
+
+¢ ¢(
+
+%3void"1java.util.concurrent.atomic.AtomicBoolean#set(Z)V*M
+
+__unknown_file (1
+/
+%2)java.util.concurrent.atomic.AtomicBoolean* 
+
+__unknown_file (22set(Z)*
+1*à
+3
+¡ ¡(«
+¨
+
+¡ ¡(+
+%0%java.nio.channels.WritableByteChannel"__id*g
+
+__unknown_file (K*I@
+>org.apache.commons.compress.utils.FixedLengthBlockOutputStream"
+out˜•
+
+¡ ¡(
+%1boolean"#java.nio.channels.Channel#isOpen()Z*I
+
+__unknown_file (-
++
+%0%java.nio.channels.WritableByteChannel2isOpen()*
+2
+1*ƒ
+1
+¤ ¤(²
+¯
+
+¤ ¤(/
+%4)java.util.concurrent.atomic.AtomicBoolean"__id*j
+
+__unknown_file (N*L@
+>org.apache.commons.compress.utils.FixedLengthBlockOutputStream"
+closed¦£
+
+¤ ¤(
+%5boolean"0java.util.concurrent.atomic.AtomicBoolean#get()Z*M
+
+__unknown_file (1
+/
+%4)java.util.concurrent.atomic.AtomicBoolean2get()"
+
+¤ ¤(
+""BB@
+>org.apache.commons.compress.utils.FixedLengthBlockOutputStreamHP

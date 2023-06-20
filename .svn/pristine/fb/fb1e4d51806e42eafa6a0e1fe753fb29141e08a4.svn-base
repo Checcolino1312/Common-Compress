@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveEntry#getHeaderHoles()I
+==
+getHoles org.apache.commons.compress.archivers.dump.DumpArchiveEntry$TapeSegmentHeader#getHoles()I

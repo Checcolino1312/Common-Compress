@@ -1,0 +1,102 @@
+
+ƒorg.apache.commons.compress.harmony.pack200.NewAttributeBands#readNextAttributeElement(Ljava/io/StringReader;)Lorg/apache/commons/compress/harmony/pack200/NewAttributeBands$AttributeLayoutElement;{
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/NewAttributeBands.javaô# ô(;"5*ˆ	
+2
+†  †((”
+–
+
+†) †(M
+%2java.io.StringReader"àorg.apache.commons.compress.harmony.pack200.NewAttributeBands#getStreamUpToMatchingBracket(Ljava/io/StringReader;)Ljava/io/StringReader;*]
+
+__unknown_file (A?
+=org.apache.commons.compress.harmony.pack200.NewAttributeBands*<
+
+__unknown_file ( 
+
+readerjava.io.StringReaderÆ
+´
+
+†  †(N
+%3java.util.List"norg.apache.commons.compress.harmony.pack200.NewAttributeBands#readBody(Ljava/io/StringReader;)Ljava/util/List;*]
+
+__unknown_file (A?
+=org.apache.commons.compress.harmony.pack200.NewAttributeBands*8
+
+__unknown_file (
+
+%2java.io.StringReader•¢
+
+† †(L
+%4Forg.apache.commons.compress.harmony.pack200.NewAttributeBands$Callable"Forg.apache.commons.compress.harmony.pack200.NewAttributeBands$Callable◊
+‘
+
+† †(O
+%5"üorg.apache.commons.compress.harmony.pack200.NewAttributeBands$Callable#<init>(Lorg/apache/commons/compress/harmony/pack200/NewAttributeBands;Ljava/util/List;)V*j
+
+__unknown_file (N
+L
+%4Forg.apache.commons.compress.harmony.pack200.NewAttributeBands$Callable*2
+
+__unknown_file (
+
+%3java.util.List"\
+
+† †(PN
+L
+%4Forg.apache.commons.compress.harmony.pack200.NewAttributeBands$Callable*%
+4
+ù ù("
+
+ù ù(
+""*ø
+5
+ö ö(£†
+
+ö ö(
+
+%0void"java.io.StringReader#mark(I)V*<
+
+__unknown_file ( 
+
+readerjava.io.StringReader* 
+
+__unknown_file (22mark(I)}{
+
+õ õ(&	
+%1int"java.io.StringReader#read()I*<
+
+__unknown_file ( 
+
+readerjava.io.StringReader2read()*	
+2
+4
+1*≤
+1
+¢ ¢(Ä~
+
+¢ ¢(
+
+%6void"java.io.StringReader#reset()V*<
+
+__unknown_file ( 
+
+readerjava.io.StringReader2reset()∫
+∑
+
+£ £(,Q
+%7Korg.apache.commons.compress.harmony.pack200.NewAttributeBands$LayoutElement"∏org.apache.commons.compress.harmony.pack200.NewAttributeBands#readNextLayoutElement(Ljava/io/StringReader;)Lorg/apache/commons/compress/harmony/pack200/NewAttributeBands$LayoutElement;*]
+
+__unknown_file (A?
+=org.apache.commons.compress.harmony.pack200.NewAttributeBands*<
+
+__unknown_file ( 
+
+readerjava.io.StringReader"a
+
+£ £(-S
+Q
+%7Korg.apache.commons.compress.harmony.pack200.NewAttributeBands$LayoutElement:,
+
+ô< ô(U
+readerjava.io.StringReaderBA?
+=org.apache.commons.compress.harmony.pack200.NewAttributeBands

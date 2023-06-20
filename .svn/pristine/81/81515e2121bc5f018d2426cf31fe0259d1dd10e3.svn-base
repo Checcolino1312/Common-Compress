@@ -1,0 +1,5 @@
+org.apache.commons.compress.utils.SeekableInMemoryByteChannel#ensureOpen()V
+java.nio.channels.ClosedChannelException#instance-init#
+java.nio.channels.ClosedChannelException#<init>()V
+==
+isOpen org.apache.commons.compress.utils.SeekableInMemoryByteChannel#isOpen()Z

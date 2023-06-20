@@ -1,0 +1,42 @@
+
+Worg.apache.commons.compress.archivers.sevenz.SevenZFile#getLong(Ljava/nio/ByteBuffer;)JÅ
+uC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZFile.java» »("1*»
+1
+… …(C
+A
+
+…# …(-	
+%0int"__id*"
+
+__unknown_file (
+""€
+ÿ
+
+… …(.
+%1java.nio.ByteBuffer"sorg.apache.commons.compress.archivers.sevenz.SevenZFile#checkEndOfFile(Ljava/nio/ByteBuffer;I)Ljava/nio/ByteBuffer;*W
+
+__unknown_file (;"9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*8
+
+__unknown_file (
+
+bufjava.nio.ByteBuffer*'
+
+__unknown_file (
+	
+%0int~|
+
+… …(8
+
+%2long"java.nio.ByteBuffer#getLong()J*7
+
+__unknown_file (
+
+%1java.nio.ByteBuffer2	getLong()"
+
+… …(9
+"":(
+
+»  »(4
+bufjava.nio.ByteBufferB;"9
+7org.apache.commons.compress.archivers.sevenz.SevenZFileP

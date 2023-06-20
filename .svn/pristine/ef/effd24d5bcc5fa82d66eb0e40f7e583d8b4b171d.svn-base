@@ -1,0 +1,9 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#sendMTFValues()V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#sendMTFValues0(II)V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#sendMTFValues2(II)V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#sendMTFValues1(II)I
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#sendMTFValues5(II)V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#sendMTFValues6(II)V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#sendMTFValues7()V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#sendMTFValues4()V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#sendMTFValues3(II)V

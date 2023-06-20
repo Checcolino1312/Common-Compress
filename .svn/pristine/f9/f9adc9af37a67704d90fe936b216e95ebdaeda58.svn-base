@@ -1,0 +1,126 @@
+
+Çorg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#shouldAddZip64Extra(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;Lorg/apache/commons/compress/archivers/zip/Zip64Mode;)Z~
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java³ ³('"12*‰
+2
+¹& ¹(*s
+q
+
+¹. ¹(=9
+%93org.apache.commons.compress.archivers.zip.Zip64Mode"__id*"
+
+__unknown_file (
+""*
+1*Ë
+4
+¹ ¹(±
+®
+
+¹ ¹(+
+%8%java.nio.channels.SeekableByteChannel"__id*m
+
+__unknown_file (Q*OB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"	
+channel*
+2
+1*µ
+5
+¸ ¸(ÒÏ
+
+¸ ¸( 
+
+%6long"Forg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getSpazio()J*`
+
+__unknown_file (D
+B
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getSpazio()D
+B
+
+¸$ ¸(=
+
+%7long"__id*"
+
+__unknown_file (
+""*	
+2
+4
+1*Ÿ
+7
+· ·(¿¼
+
+· ·((
+
+%4long"+java.util.zip.ZipEntry#getCompressedSize()J*`
+
+__unknown_file (D
+B
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getCompressedSize()D
+B
+
+·, ·(D
+
+%5long"__id*"
+
+__unknown_file (
+""*
+5
+1*µ
+9
+¶ ¶(ÒÏ
+
+¶ ¶( 
+
+%2long"Forg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getSpazio()J*`
+
+__unknown_file (D
+B
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getSpazio()D
+B
+
+¶$ ¶(<
+
+%3long"__id*"
+
+__unknown_file (
+""*	
+5
+7
+1*“
+11
+µ µ(s
+q
+
+µ µ(89
+%13org.apache.commons.compress.archivers.zip.Zip64Mode"__id*"
+
+__unknown_file (
+""*
+5
+7
+9
+1*—
+12
+´ ´(s
+q
+
+´ ´('9
+%03org.apache.commons.compress.archivers.zip.Zip64Mode"__id*"
+
+__unknown_file (
+""*
+5
+7
+9
+11
+1*%
+1
+´ ¹(>"
+
+´ ¹(>
+"":P
+
+³( ³(DB
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry:I
+
+³E ³(Y;
+mode3org.apache.commons.compress.archivers.zip.Zip64ModeBDB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStreamP

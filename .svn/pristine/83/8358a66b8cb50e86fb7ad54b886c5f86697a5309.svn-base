@@ -1,0 +1,41 @@
+
+‚org.apache.commons.compress.archivers.zip.ZipUtil#canHandleEntryData(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Zo
+cC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipUtil.java‡ ‡(%"3*í
+2
+ˆ. ˆ(>Ö
+Ó
+
+ˆ. ˆ(E
+%1boolean"€org.apache.commons.compress.archivers.zip.ZipUtil#supportsMethodOf(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z*Q
+
+__unknown_file (5"3
+1org.apache.commons.compress.archivers.zip.ZipUtil*`
+
+__unknown_file (D
+B
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry*
+1*ô
+3
+ˆ ˆ(#Ú
+×
+
+ˆ ˆ(*
+%0boolean"„org.apache.commons.compress.archivers.zip.ZipUtil#supportsEncryptionOf(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z*Q
+
+__unknown_file (5"3
+1org.apache.commons.compress.archivers.zip.ZipUtil*`
+
+__unknown_file (D
+B
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry*
+2
+1*%
+1
+ˆ ˆ(F"
+
+ˆ ˆ(F
+"":P
+
+‡& ‡(AB
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntryB5"3
+1org.apache.commons.compress.archivers.zip.ZipUtilP

@@ -1,0 +1,62 @@
+
+“
+java:S1319Á"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(£¢ÿåûÿÿÿÿ8Î•—è‡1
+s	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹‡×Ÿüÿÿÿÿ8Î•—è‡1
+n	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎûŞØ8Î•—è‡1
+s	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôæøêüÿÿÿÿ8—ä¼è‡1
+s	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹‡×Ÿüÿÿÿÿ8—ä¼è‡1
+n	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎûŞØ8—ä¼è‡1
+n	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ç÷ã8—ä¼è‡1
+n	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ç÷ã8—ä¼è‡1
+s	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Š¾¿ıÿÿÿÿ8—ä¼è‡1
+s	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Š¾¿ıÿÿÿÿ8—ä¼è‡1
+s	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Š¾¿ıÿÿÿÿ8—ä¼è‡1
+s	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Š¾¿ıÿÿÿÿ8—ä¼è‡1
+s	java:S117 	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èèÿ®ùÿÿÿÿ8˜ä¼è‡1
+¤
+java:S1186å	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡·ïûÿÿÿÿ8¨Ùê‡1
+€
+java:S1450n"^Remove the "methodAttrCalls" field and declare it as a local variable in the relevant methods.(êçç£şÿÿÿÿ8¡¥ñé‡1
+T
+java:S1135{"2Complete the task associated to this TODO comment.(•úö¶üÿÿÿÿ8£¥ñé‡1
+p
+java:S3776É"RRefactor this method to reduce its Cognitive Complexity from 76 to the 15 allowed.(ñÚÀú8¦¥ñé‡1
+L
+java:S5413™")Verify that "remove()" is used correctly.(ÑŸğìøÿÿÿÿ8¯¥ñé‡1
+P
+java:S1135¢"2Complete the task associated to this TODO comment.(§¸Šø8²—è‡1
+U
+java:S1135£"2Complete the task associated to this TODO comment.(©ôµ¡şÿÿÿÿ8¯¥ñé‡1
+P
+java:S1135¥"2Complete the task associated to this TODO comment.(ÆÑûÚ8¯¥ñé‡1
+L
+java:S5413×")Verify that "remove()" is used correctly.(ÑŸğìøÿÿÿÿ8•¨Ùê‡1
+L
+java:S5413×")Verify that "remove()" is used correctly.(ÑŸğìøÿÿÿÿ8•¨Ùê‡1
+p
+java:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Æ³±Œ8–¨Ùê‡1
+p
+java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(ª¯ãá8—¨Ùê‡1
+L
+java:S5413‹")Verify that "remove()" is used correctly.(äÅáşúÿÿÿÿ8œ¨Ùê‡1
+L
+java:S5413‹")Verify that "remove()" is used correctly.(äÅáşúÿÿÿÿ8œ¨Ùê‡1
+L
+java:S5413‹")Verify that "remove()" is used correctly.(äÅáşúÿÿÿÿ8œ¨Ùê‡1
+p
+java:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¿Ç÷ã8Ÿ¨Ùê‡1
+f
+java:S1659ß"CDeclare "DCount" and all following declarations on a separate line.(¡Š¾¿ıÿÿÿÿ8¡¨Ùê‡1
+D	java:S131ã""Add a default case to this switch.(îÇËúÿÿÿÿ8¢¨Ùê‡1
+p
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(Ø½é8¤¨Ùê‡1
+O
+java:S1135Ø"2Complete the task associated to this TODO comment.(öÿì8¨¨Ùê‡1
+L
+java:S5413	")Verify that "remove()" is used correctly.(äÅáşúÿÿÿÿ8©¨Ùê‡1
+L
+java:S5413	")Verify that "remove()" is used correctly.(äÅáşúÿÿÿÿ8ª¨Ùê‡1
+L
+java:S5413	")Verify that "remove()" is used correctly.(äÅáşúÿÿÿÿ8ª¨Ùê‡1
+]
+java:S1117Õ	"?Rename "classCount" which hides the field declared at line 108.(¼£ì8¬¨Ùê‡1

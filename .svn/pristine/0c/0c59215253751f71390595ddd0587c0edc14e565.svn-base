@@ -1,0 +1,62 @@
+
+âorg.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCache$CachedArray#indexesForKey(Ljava/lang/String;)Ljava/util/List;á
+}C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/SegmentConstantPoolArrayCache.javaJ J(*"4*Ä
+2L) L(4ç
+ä
+L) L(@
+%3java.util.List"1java.util.Collections#emptyList()Ljava/util/List;*5
+
+__unknown_file ("
+java.util.Collections\
+Z
+L) L(@
+%2java.util.List"__id*2
+
+__unknown_file (
+
+%3java.util.List*
+1*r
+3L" L(&^
+\
+L" L(&
+%2java.util.List"__id*4
+
+__unknown_file (
+
+listjava.util.List*
+1*Œ
+4K' K(3∏
+µ
+K' K(3
+%0java.util.HashMap"__id*â
+
+__unknown_file (m*kY
+Worg.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCache$CachedArray"
+primaryTableõ
+ò
+K' K(<
+%1java.util.List"__mapGet*5
+
+__unknown_file (
+
+%0java.util.HashMap*5
+
+__unknown_file (
+
+keyjava.lang.String^
+\
+K K(=
+listjava.util.List"__id*2
+
+__unknown_file (
+
+%1java.util.List*
+2
+3*1
+1L L(A""
+L L(A
+
+%2java.util.List:#
+J+ J(;
+keyjava.lang.StringB[Y
+Worg.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCache$CachedArrayH

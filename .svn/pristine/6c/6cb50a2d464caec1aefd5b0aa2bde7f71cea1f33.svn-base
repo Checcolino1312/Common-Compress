@@ -1,0 +1,18 @@
+
+aorg.apache.commons.compress.compressors.zstandard.ZstdUtils#internalIsZstdCompressionAvailable()Zw
+mC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/zstandard/ZstdUtils.java< <(="3*!
+2? ?("
+? ?(
+""*ï
+3> >(Ú
+×
+> >(B
+%0java.lang.Class"<java.lang.Class#forName(Ljava/lang/String;)Ljava/lang/Class;*/
+
+__unknown_file ("
+java.lang.Class*E
+
+__unknown_file ()'
+%com.github.luben.zstd.ZstdInputStream*
+2B?"=
+;org.apache.commons.compress.compressors.zstandard.ZstdUtilsP

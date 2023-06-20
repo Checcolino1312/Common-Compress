@@ -1,0 +1,4 @@
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#<init>(Ljava/io/InputStream;Z)V
+org.apache.commons.compress.utils.CountingInputStream#<init>(Ljava/io/InputStream;)V
+org.apache.commons.compress.utils.CountingInputStream#instance-init#
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#init(Z)V

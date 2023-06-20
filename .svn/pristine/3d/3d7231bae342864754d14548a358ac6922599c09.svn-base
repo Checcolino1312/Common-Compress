@@ -1,0 +1,14 @@
+
+áorg.apache.commons.compress.archivers.zip.ResourceAlignmentExtraField#getHeaderId()Lorg/apache/commons/compress/archivers/zip/ZipShort;Å
+wC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ResourceAlignmentExtraField.javam m("1*«
+1n n(p
+n
+n n(8
+%02org.apache.commons.compress.archivers.zip.ZipShort"__id*"
+
+__unknown_file (
+"""F
+n n(:
+8
+%02org.apache.commons.compress.archivers.zip.ZipShortBIG
+Eorg.apache.commons.compress.archivers.zip.ResourceAlignmentExtraFieldH

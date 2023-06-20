@@ -1,0 +1,7 @@
+org.apache.commons.compress.utils.MultiReadOnlySeekableByteChannel#position(J)Ljava/nio/channels/SeekableByteChannel;
+java.nio.channels.ClosedChannelException#instance-init#
+java.nio.channels.ClosedChannelException#<init>()V
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#
+==
+isOpen org.apache.commons.compress.utils.MultiReadOnlySeekableByteChannel#isOpen()Z

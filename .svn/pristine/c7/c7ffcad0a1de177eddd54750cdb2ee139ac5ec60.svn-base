@@ -1,0 +1,91 @@
+
+Eorg.apache.commons.compress.archivers.sevenz.SevenZFile$1#read([BII)Iu
+iC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZFile.java¼ ¼("startingBlock*ö
+2
+Â Â(ß
+Ü
+
+Â Â(
+
+%2void"Corg.apache.commons.compress.archivers.sevenz.SevenZFile$1#count(I)V*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.sevenz.SevenZFile$1*"
+
+__unknown_file (
+""*
+1*£
+3
+À À( “
+
+
+À À( 
+%0java.io.InputStream"__id*a
+
+__unknown_file (E*C;
+9org.apache.commons.compress.archivers.sevenz.SevenZFile$1"
+inóğ
+
+À À(2	
+%1int"java.io.InputStream#read([BII)I*7
+
+__unknown_file (
+
+%0java.io.InputStream*)
+
+__unknown_file (
+
+bbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2
+read([BII)*
+2
+1*ó
+startingBlock
+¼ ¼(I
+}
+
+» »(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*)
+
+__unknown_file (
+
+bbyte[]M
+K
+
+¼) ¼(*
+bbyte[]"__annotation*"
+
+__unknown_file (
+
+%3*
+3
+4*%
+4
+¾ ¾("
+
+¾ ¾(
+""*%
+1
+Ä Ä("
+
+Ä Ä(
+"":
+
+¼ ¼(+
+bbyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B=;
+9org.apache.commons.compress.archivers.sevenz.SevenZFile$1HP

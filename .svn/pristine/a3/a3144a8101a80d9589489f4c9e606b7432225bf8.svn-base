@@ -1,0 +1,25 @@
+
+Morg.apache.commons.compress.archivers.dump.DumpArchiveEntry#getHeaderCount()Iy
+mC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveEntry.javaê ê("1*ò
+1
+ë ë(Ó
+Ð
+
+ë ë(S
+%0Morg.apache.commons.compress.archivers.dump.DumpArchiveEntry$TapeSegmentHeader"__id*g
+
+__unknown_file (K*I=
+;org.apache.commons.compress.archivers.dump.DumpArchiveEntry"
+headerôñ
+
+ë ë( 	
+%1int"Yorg.apache.commons.compress.archivers.dump.DumpArchiveEntry$TapeSegmentHeader#getCount()I*q
+
+__unknown_file (U
+S
+%0Morg.apache.commons.compress.archivers.dump.DumpArchiveEntry$TapeSegmentHeader2
+getCount()"
+
+ë ë(!
+""B?=
+;org.apache.commons.compress.archivers.dump.DumpArchiveEntryHP

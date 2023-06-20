@@ -1,0 +1,15 @@
+
+borg.apache.commons.compress.archivers.StreamingNotSupportedException#getFormat()Ljava/lang/String;Ä
+vC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/StreamingNotSupportedException.java/ /("1*”
+10 0(ù
+ö
+0 0(
+%0java.lang.String"__id*p
+
+__unknown_file (T*RF
+Dorg.apache.commons.compress.archivers.StreamingNotSupportedException"
+format"$
+0 0(
+
+%0java.lang.StringBHF
+Dorg.apache.commons.compress.archivers.StreamingNotSupportedExceptionH

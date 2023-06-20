@@ -1,0 +1,7 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.NewAttribute#writeBody(Ljava/io/DataOutputStream;)V
+java.lang.Long#longValue()J
+java.io.DataOutputStream#writeInt(I)V
+java.io.DataOutputStream#writeShort(I)V
+java.lang.Integer#intValue()I
+java.io.DataOutputStream#writeByte(I)V
+java.io.DataOutputStream#writeLong(J)V

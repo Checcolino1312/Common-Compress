@@ -1,0 +1,7 @@
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#writeNewEntry(Lorg/apache/commons/compress/archivers/cpio/CpioArchiveEntry;)V
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#encode(Ljava/lang/String;)[B
+java.lang.String#equals(Ljava/lang/Object;)Z
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#pad(I)V
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#writeAsciiLong(JII)V
+java.lang.Math#max(JJ)J
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#writeCString([B)V

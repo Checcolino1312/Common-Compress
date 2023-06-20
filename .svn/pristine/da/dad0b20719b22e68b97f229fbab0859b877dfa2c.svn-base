@@ -1,0 +1,27 @@
+
+`org.apache.commons.compress.archivers.ar.ArArchiveInputStream#isBSDLongName(Ljava/lang/String;)Z…
+{C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/ar/ArArchiveInputStream.javaT T(("2"1*À
+2U U(#S
+Q
+U, U(@
+%0java.lang.String"__id*'
+
+__unknown_file (	
+^#1/\d+ÖÓ
+U U(A
+%1boolean"-java.lang.String#matches(Ljava/lang/String;)Z*6
+
+__unknown_file (
+
+namejava.lang.String*4
+
+__unknown_file (
+
+%0java.lang.String2matches(Ljava/lang/String;)*
+1*!
+1U U(B"
+U U(B
+"":$
+T) T(:
+namejava.lang.StringBA"?
+=org.apache.commons.compress.archivers.ar.ArArchiveInputStreamP

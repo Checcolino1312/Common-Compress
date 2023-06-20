@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.ByteCode#doWrite(Ljava/io/DataOutputStream;)V
+java.io.DataOutputStream#writeByte(I)V

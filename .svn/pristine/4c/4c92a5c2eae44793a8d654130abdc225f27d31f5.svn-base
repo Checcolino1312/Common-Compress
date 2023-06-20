@@ -1,0 +1,4 @@
+org.apache.commons.compress.changes.ChangeSet#add(Lorg/apache/commons/compress/archivers/ArchiveEntry;Ljava/io/InputStream;Z)V
+org.apache.commons.compress.changes.ChangeSet#addAddition(Lorg/apache/commons/compress/changes/Change;)V
+org.apache.commons.compress.changes.Change#instance-init#
+org.apache.commons.compress.changes.Change#<init>(Lorg/apache/commons/compress/archivers/ArchiveEntry;Ljava/io/InputStream;Z)V

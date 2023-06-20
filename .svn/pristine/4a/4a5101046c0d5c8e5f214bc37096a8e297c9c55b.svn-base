@@ -1,0 +1,92 @@
+
+Corg.apache.commons.compress.utils.BoundedArchiveInputStream#read()Iƒ
+yC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/utils/BoundedArchiveInputStream.java2 2( "6"7*!
+2= =("
+= =(
+""*‡
+3; ;(¡
+ž
+;# ;(3
+%4java.nio.ByteBuffer"__id*q
+
+__unknown_file (U*S=
+;org.apache.commons.compress.utils.BoundedArchiveInputStream"
+singleByteBufferËÈ
+; ;(4	
+%5int"Yorg.apache.commons.compress.utils.BoundedArchiveInputStream#read(JLjava/nio/ByteBuffer;)I*[
+
+__unknown_file (?=
+;org.apache.commons.compress.utils.BoundedArchiveInputStream*"
+
+__unknown_file (
+""*7
+
+__unknown_file (
+
+%4java.nio.ByteBuffer2read(JLjava/nio/ByteBuffer;)*
+2
+1*×
+49 9(¡
+ž
+9 9(
+%2java.nio.ByteBuffer"__id*q
+
+__unknown_file (U*S=
+;org.apache.commons.compress.utils.BoundedArchiveInputStream"
+singleByteBufferž›
+9 9(%
+%3java.nio.ByteBuffer"1java.nio.ByteBuffer#rewind()Ljava/nio/ByteBuffer;*7
+
+__unknown_file (
+
+%2java.nio.ByteBuffer2rewind()*
+3*î
+57 7()µ
+²
+7 7(5
+%1java.nio.ByteBuffer"4java.nio.ByteBuffer#allocate(I)Ljava/nio/ByteBuffer;*3
+
+__unknown_file ("
+java.nio.ByteBuffer* 
+
+__unknown_file (2¡
+ž
+7 7(5S=
+;org.apache.commons.compress.utils.BoundedArchiveInputStream"
+singleByteBuffer"__id*7
+
+__unknown_file (
+
+%1java.nio.ByteBuffer*
+3*¹
+66 6(¡
+ž
+6 6(
+%0java.nio.ByteBuffer"__id*q
+
+__unknown_file (U*S=
+;org.apache.commons.compress.utils.BoundedArchiveInputStream"
+singleByteBuffer*
+4
+5*!
+74 4("
+4 4(
+""*»
+1? ?(¡
+ž
+@ @(
+%6java.nio.ByteBuffer"__id*q
+
+__unknown_file (U*S=
+;org.apache.commons.compress.utils.BoundedArchiveInputStream"
+singleByteBuffertr
+@ @(%
+
+%7byte"java.nio.ByteBuffer#get()B*7
+
+__unknown_file (
+
+%6java.nio.ByteBuffer2get()"
+@ @(-
+""B?=
+;org.apache.commons.compress.utils.BoundedArchiveInputStreamHP

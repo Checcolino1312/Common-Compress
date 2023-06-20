@@ -1,0 +1,12 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readHeaders([B)Lorg/apache/commons/compress/archivers/sevenz/Archive;
+java.nio.ByteBuffer#order(Ljava/nio/ByteOrder;)Ljava/nio/ByteBuffer;
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readStartHeader(J)Lorg/apache/commons/compress/archivers/sevenz/StartHeader;
+java.nio.ByteBuffer#allocate(I)Ljava/nio/ByteBuffer;
+java.nio.Buffer#hasRemaining()Z
+org.apache.commons.compress.archivers.sevenz.SevenZFile#tryToLocateEndHeader([B)Lorg/apache/commons/compress/archivers/sevenz/Archive;
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+java.util.Arrays#equals([B[B)Z
+java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readFully(Ljava/nio/ByteBuffer;)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#initializeArchive(Lorg/apache/commons/compress/archivers/sevenz/StartHeader;[BZ)Lorg/apache/commons/compress/archivers/sevenz/Archive;

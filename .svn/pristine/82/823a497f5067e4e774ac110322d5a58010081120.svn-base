@@ -1,0 +1,27 @@
+
+Porg.apache.commons.compress.archivers.cpio.CpioArchiveEntry#isCharacterDevice()Z…
+yC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveEntry.javaç ç($"1*Ã
+1
+è è(Ö
+Ó
+
+è è(&
+
+%0long"@org.apache.commons.compress.archivers.cpio.CpioUtil#fileType(J)J*S
+
+__unknown_file (7"5
+3org.apache.commons.compress.archivers.cpio.CpioUtil*"
+
+__unknown_file (
+""C
+A
+
+è* è(1	
+%1int"__id*"
+
+__unknown_file (
+"""
+
+è è(2
+""B?=
+;org.apache.commons.compress.archivers.cpio.CpioArchiveEntryHP

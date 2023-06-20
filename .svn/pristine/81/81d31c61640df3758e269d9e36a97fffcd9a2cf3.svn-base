@@ -1,0 +1,4 @@
+org.apache.commons.compress.compressors.gzip.GzipCompressorOutputStream#<init>(Ljava/io/OutputStream;Lorg/apache/commons/compress/compressors/gzip/GzipParameters;)V
+java.util.zip.Deflater#instance-init#
+org.apache.commons.compress.compressors.gzip.GzipCompressorOutputStream#writeHeader(Lorg/apache/commons/compress/compressors/gzip/GzipParameters;)V
+java.util.zip.Deflater#<init>(IZ)V

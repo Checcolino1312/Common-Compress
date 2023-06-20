@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.tar.TarUtils#verifyCheckSum([B)Z
+org.apache.commons.compress.archivers.tar.TarUtils#parseOctal([BII)J

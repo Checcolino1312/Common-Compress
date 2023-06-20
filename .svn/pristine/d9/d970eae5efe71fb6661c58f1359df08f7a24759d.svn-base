@@ -1,0 +1,106 @@
+
+Norg.apache.commons.compress.archivers.zip.ZipFile#startsWithLocalFileHeader()Z{
+oC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.javaÍ Í(-"1*…
+1
+Î Î(¢
+ü
+
+Î Î(+
+%0%java.nio.channels.SeekableByteChannel"__id*^
+
+__unknown_file (B*@3
+1org.apache.commons.compress.archivers.zip.ZipFile"	
+archiveíè
+
+Î Î(4+
+%1%java.nio.channels.SeekableByteChannel"Xjava.nio.channels.SeekableByteChannel#position(J)Ljava/nio/channels/SeekableByteChannel;*I
+
+__unknown_file (-
++
+%0%java.nio.channels.SeekableByteChannel*"
+
+__unknown_file (
+""2position(J)ë
+é
+
+Ï Ï(
+%2java.nio.ByteBuffer"__id*_
+
+__unknown_file (C*A3
+1org.apache.commons.compress.archivers.zip.ZipFile"
+
+wordBbuf†ù
+
+Ï Ï(
+%3java.nio.ByteBuffer"1java.nio.ByteBuffer#rewind()Ljava/nio/ByteBuffer;*7
+
+__unknown_file (
+
+%2java.nio.ByteBuffer2rewind()¢
+ü
+
+Ì Ì(!+
+%4%java.nio.channels.SeekableByteChannel"__id*^
+
+__unknown_file (B*@3
+1org.apache.commons.compress.archivers.zip.ZipFile"	
+archiveë
+é
+
+Ì# Ì(+
+%5java.nio.ByteBuffer"__id*_
+
+__unknown_file (C*A3
+1org.apache.commons.compress.archivers.zip.ZipFile"
+
+wordBbufﬁ
+€
+
+Ì Ì(,
+
+%6void"rorg.apache.commons.compress.utils.IOUtils#readFully(Ljava/nio/channels/ReadableByteChannel;Ljava/nio/ByteBuffer;)V*I
+
+__unknown_file (-"+
+)org.apache.commons.compress.utils.IOUtils*I
+
+__unknown_file (-
++
+%4%java.nio.channels.SeekableByteChannel*7
+
+__unknown_file (
+
+%5java.nio.ByteBufferÉ
+Ä
+
+Ó Ó($
+%7byte[]"__id*^
+
+__unknown_file (B*@3
+1org.apache.commons.compress.archivers.zip.ZipFile"	
+wordBufF
+D
+
+Ó& Ó(D
+%8byte[]"__id*"
+
+__unknown_file (
+""»
+≈
+
+Ó Ó(E
+%9boolean"java.util.Arrays#equals([B[B)Z*0
+
+__unknown_file ("
+java.util.Arrays**
+
+__unknown_file (
+
+%7byte[]**
+
+__unknown_file (
+
+%8byte[]"
+
+Ó Ó(F
+""B53
+1org.apache.commons.compress.archivers.zip.ZipFileP

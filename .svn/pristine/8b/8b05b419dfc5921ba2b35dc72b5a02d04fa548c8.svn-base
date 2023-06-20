@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorOutputStream#write([BII)V
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorOutputStream#flushBuffer()V
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V

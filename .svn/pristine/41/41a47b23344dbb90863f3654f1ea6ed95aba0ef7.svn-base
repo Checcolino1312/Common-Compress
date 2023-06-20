@@ -1,0 +1,27 @@
+
+Horg.apache.commons.compress.archivers.cpio.CpioArchiveEntry#isNetwork()Zy
+mC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveEntry.javaú ú("1*Ã
+1
+û û(Ö
+Ó
+
+û û(&
+
+%0long"@org.apache.commons.compress.archivers.cpio.CpioUtil#fileType(J)J*S
+
+__unknown_file (7"5
+3org.apache.commons.compress.archivers.cpio.CpioUtil*"
+
+__unknown_file (
+""C
+A
+
+û* û(1	
+%1int"__id*"
+
+__unknown_file (
+"""
+
+û û(2
+""B?=
+;org.apache.commons.compress.archivers.cpio.CpioArchiveEntryHP

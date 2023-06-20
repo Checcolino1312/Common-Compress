@@ -1,0 +1,9 @@
+org.apache.commons.compress.harmony.unpack200.IcTuple#toString()Ljava/lang/String;
+java.lang.StringBuilder#instance-init#
+java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#<init>()V
+java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#toString()Ljava/lang/String;
+==
+simpleClassName org.apache.commons.compress.harmony.unpack200.IcTuple#simpleClassName()Ljava/lang/String;
+outerClassString org.apache.commons.compress.harmony.unpack200.IcTuple#outerClassString()Ljava/lang/String;

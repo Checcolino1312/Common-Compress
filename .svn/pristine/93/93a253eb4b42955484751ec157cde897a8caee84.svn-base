@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#checkWinAttributesProperty(Ljava/nio/ByteBuffer;I)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#skipBytesFully(Ljava/nio/ByteBuffer;J)J
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readAllOrBits(Ljava/nio/ByteBuffer;I)Ljava/util/BitSet;
+org.apache.commons.compress.archivers.sevenz.SevenZFile#getUnsignedByte(Ljava/nio/ByteBuffer;)I

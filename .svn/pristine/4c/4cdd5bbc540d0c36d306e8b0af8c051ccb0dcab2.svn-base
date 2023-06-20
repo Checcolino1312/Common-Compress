@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#skipDummyProperty(Ljava/nio/ByteBuffer;J)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#skipBytesFully(Ljava/nio/ByteBuffer;J)J

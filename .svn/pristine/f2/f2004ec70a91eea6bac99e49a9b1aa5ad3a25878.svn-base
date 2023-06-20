@@ -1,0 +1,52 @@
+
+h	java:S112‰"FDefine and throw a dedicated exception instead of using a generic one.(â®¿Ôøÿÿÿÿ8ÔêÆàˆ1
+h	java:S112’"FDefine and throw a dedicated exception instead of using a generic one.(â®¿Ôøÿÿÿÿ8ñŞÈàˆ1
+c	java:S112¼"FDefine and throw a dedicated exception instead of using a generic one.(‚¾×û8ñŞÈàˆ1
+c	java:S112Æ"FDefine and throw a dedicated exception instead of using a generic one.(‚¾×û8¤¢Éàˆ1
+c	java:S112Ğ"FDefine and throw a dedicated exception instead of using a generic one.(‚¾×û8¤¢Éàˆ1
+c	java:S112´"FDefine and throw a dedicated exception instead of using a generic one.(‚¾×û8ë¼Éàˆ1
+c	java:S112½"FDefine and throw a dedicated exception instead of using a generic one.(‚¾×û8ë¼Éàˆ1
+h
+java:S1192I"RDefine a constant instead of duplicating this literal "Not yet supported" 3 times.(¤¼“ß
+ƒ
+java:S1192¼"eUse already-defined constant 'UNKNOWN_ATTRIBUTE_ERROR_MESSAGE' instead of duplicating its value here.(‚¾×û8ì¼Éàˆ1
+†
+java:S1192—"cDefine a constant instead of duplicating this literal "Unexpected attribute encountered: " 3 times.(¬Ù°ûüÿÿÿÿ8ì¼Éàˆ1
+i
+java:S1104Î"SMake ASM_API a static final constant or non-public and provide accessors if needed.(÷·î
+C
+java:S1444Î"-Make this "public static ASM_API" field final(÷·î
+h
+java:S3008Î"RRename this field "ASM_API" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷·î
+o
+java:S1450Ö"XRemove the "fileBands" field and declare it as a local variable in the relevant methods.(¼©¹
+‰
+java:S1450à"mRemove the "nonStandardAttributePrototypes" field and declare it as a local variable in the relevant methods.(Ÿœ”òúÿÿÿÿ
+—
+java:S1186X"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½ë¯À
+N
+java:S1854B"8Remove this useless assignment to local variable "name".(×æ«¹
+˜
+java:S1186¾"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½ë¯À
+R	java:S125´"<This block of commented-out lines of code should be removed.(„§ñ£
+R	java:S125º"<This block of commented-out lines of code should be removed.(„§ñ£
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½ë¯À
+i
+java:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÁŞ¢¹
+N
+java:S1135í"2Complete the task associated to this TODO comment.(ÑëÓàøÿÿÿÿ
+V
+java:S6213ò":Rename this variable to not match a restricted identifier.(û‘Ù‘ùÿÿÿÿ
+a
+java:S1874©"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(£¦Ğ˜
+Q
+java:S6213È":Rename this variable to not match a restricted identifier.(ÈÛ³§
+I
+java:S1135©"2Complete the task associated to this TODO comment.(âÇè×
+I
+java:S1135­"2Complete the task associated to this TODO comment.(ÆÑûÚ
+I
+java:S1135Œ"2Complete the task associated to this TODO comment.(©‘¾
+E
+java:S1874•")Remove this use of "b"; it is deprecated.(Õ¥Ö¾ÿÿÿÿÿ

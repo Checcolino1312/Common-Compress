@@ -1,0 +1,35 @@
+
+­org.apache.commons.compress.archivers.zip.StreamCompressor#create(Ljava/io/OutputStream;Ljava/util/zip/Deflater;)Lorg/apache/commons/compress/archivers/zip/StreamCompressor;x
+lC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/StreamCompressor.java• •(""1*Í
+1
+–* –(2»¸
+
+– –()W
+%0Qorg.apache.commons.compress.archivers.zip.StreamCompressor$OutputStreamCompressor"Qorg.apache.commons.compress.archivers.zip.StreamCompressor$OutputStreamCompressor”
+‘
+
+– –(7
+%1"‰org.apache.commons.compress.archivers.zip.StreamCompressor$OutputStreamCompressor#<init>(Ljava/util/zip/Deflater;Ljava/io/OutputStream;)V*u
+
+__unknown_file (Y
+W
+%0Qorg.apache.commons.compress.archivers.zip.StreamCompressor$OutputStreamCompressor*@
+
+__unknown_file ($
+"
+deflaterjava.util.zip.Deflater*8
+
+__unknown_file (
+
+osjava.io.OutputStream"g
+
+– –(8Y
+W
+%0Qorg.apache.commons.compress.archivers.zip.StreamCompressor$OutputStreamCompressor:(
+
+•# •(9
+osjava.io.OutputStream:0
+
+•: •(Q"
+deflaterjava.util.zip.DeflaterB>"<
+:org.apache.commons.compress.archivers.zip.StreamCompressor

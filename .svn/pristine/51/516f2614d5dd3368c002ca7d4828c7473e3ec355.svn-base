@@ -1,0 +1,64 @@
+
+Jorg.apache.commons.compress.compressors.xz.XZCompressorInputStream#read()Iç
+ÄC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/xz/XZCompressorInputStream.javaù ù("10*%
+5
+° °("
+
+° °(
+""*í
+6
+† †(%˚¯
+
+† †(%
+
+%5void"Gorg.apache.commons.compress.compressors.CompressorInputStream#count(I)V*b
+
+__unknown_file (FD
+Borg.apache.commons.compress.compressors.xz.XZCompressorInputStream*'
+
+__unknown_file (
+	
+%2int2count(I)*
+5*^
+7
+†# †($H
+F
+
+†# †($	
+%2int"__id*'
+
+__unknown_file (
+	
+%4int*
+6*^
+8
+† †( H
+F
+
+† †( 	
+%2int"__id*'
+
+__unknown_file (
+	
+%3int*
+6*∞
+10
+ü ü(ú
+ô
+
+ü ü(
+%0java.io.InputStream"__id*j
+
+__unknown_file (N*LD
+Borg.apache.commons.compress.compressors.xz.XZCompressorInputStream"
+inwu
+
+ü ü(%	
+%1int"java.io.InputStream#read()I*7
+
+__unknown_file (
+
+%0java.io.InputStream2read()*
+7
+8BFD
+Borg.apache.commons.compress.compressors.xz.XZCompressorInputStreamHP

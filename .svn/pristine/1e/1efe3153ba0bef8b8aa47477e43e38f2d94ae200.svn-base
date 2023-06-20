@@ -1,0 +1,11 @@
+org.apache.commons.compress.harmony.pack200.BHSDCodec#encode(II)[B
+java.util.ArrayList#<init>()V
+org.apache.commons.compress.harmony.pack200.BHSDCodec#isSigned()Z
+java.lang.Byte#byteValue()B
+org.apache.commons.compress.harmony.pack200.BHSDCodec#encodes(J)Z
+org.apache.commons.compress.harmony.pack200.Pack200Exception#<init>(Ljava/lang/String;)V
+java.util.ArrayList#instance-init#
+org.apache.commons.compress.harmony.pack200.Pack200Exception#instance-init#
+org.apache.commons.compress.harmony.pack200.BHSDCodec#isDelta()Z
+java.lang.Byte#valueOf(B)Ljava/lang/Byte;
+java.lang.Math#min(JJ)J

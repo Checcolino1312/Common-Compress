@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.sevenz.BoundedSeekableByteChannelInputStream#read([BII)I
+java.nio.ByteBuffer#allocate(I)Ljava/nio/ByteBuffer;
+org.apache.commons.compress.archivers.sevenz.BoundedSeekableByteChannelInputStream#read(I)I
+java.nio.Buffer#capacity()I

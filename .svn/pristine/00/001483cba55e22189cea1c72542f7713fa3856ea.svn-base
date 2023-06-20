@@ -1,0 +1,5 @@
+org.apache.commons.compress.harmony.pack200.CpBands#finaliseBands()V
+org.apache.commons.compress.harmony.pack200.CpBands#removeSignaturesFromCpUTF8()V
+org.apache.commons.compress.harmony.pack200.CpBands#addIndices()V
+==
+addCPUtf8 org.apache.commons.compress.harmony.pack200.CpBands#addCPUtf8(Ljava/lang/String;)V

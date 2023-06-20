@@ -1,0 +1,42 @@
+
+jorg.apache.commons.compress.utils.Charsets#toCharset(Ljava/nio/charset/Charset;)Ljava/nio/charset/Charset;h
+\C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/utils/Charsets.javaö ö(#"2"3*ç
+2
+õ< õ(Cw
+u
+
+õ< õ(C
+%0java.nio.charset.Charset"__id*A
+
+__unknown_file (%
+#
+charsetjava.nio.charset.Charset*
+1*π
+3
+õ! õ((Æ
+´
+
+õ! õ(9
+%1java.nio.charset.Charset"Cjava.nio.charset.Charset#defaultCharset()Ljava/nio/charset/Charset;*8
+
+__unknown_file ("
+java.nio.charset.Charsetr
+p
+
+õ! õ(9
+%0java.nio.charset.Charset"__id*<
+
+__unknown_file ( 
+
+%1java.nio.charset.Charset*
+1*?
+1
+õ õ(D".
+
+õ õ(D 
+
+%0java.nio.charset.Charset:1
+
+ö$ ö(9#
+charsetjava.nio.charset.CharsetB.",
+*org.apache.commons.compress.utils.CharsetsH

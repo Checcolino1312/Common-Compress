@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#skipBlock()V
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#readSize()I
+org.apache.commons.compress.utils.IOUtils#skip(Ljava/io/InputStream;J)J
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V

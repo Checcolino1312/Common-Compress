@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#canReadEntryData(Lorg/apache/commons/compress/archivers/ArchiveEntry;)Z
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#supportsDataDescriptorFor(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z
+org.apache.commons.compress.archivers.zip.ZipUtil#canHandleEntryData(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#supportsCompressedSizeFor(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z

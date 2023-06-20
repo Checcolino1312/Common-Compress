@@ -1,0 +1,10 @@
+org.apache.commons.compress.harmony.pack200.FileBands#<init>(Lorg/apache/commons/compress/harmony/pack200/CpBands;Lorg/apache/commons/compress/harmony/pack200/SegmentHeader;Lorg/apache/commons/compress/harmony/pack200/PackingOptions;Lorg/apache/commons/compress/harmony/pack200/Archive$SegmentUnit;I)V
+java.util.HashSet#<init>()V
+java.lang.String#length()I
+org.apache.commons.compress.utils.ExactMath#add(IJ)I
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.lang.String#endsWith(Ljava/lang/String;)Z
+java.lang.String#substring(II)Ljava/lang/String;
+java.util.TimeZone#getDefault()Ljava/util/TimeZone;
+java.util.HashSet#instance-init#
+java.util.Arrays#fill([II)V

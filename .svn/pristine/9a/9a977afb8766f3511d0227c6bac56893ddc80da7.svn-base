@@ -1,0 +1,48 @@
+
+j
+java:S3824£"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(¬¤ øÿÿÿÿ
+d
+java:S3824n"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ÕòÎ”
+d
+java:S3824w"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ÕòÎ”
+j
+java:S3824”"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(¶¥ñÄıÿÿÿÿ
+e
+java:S3824ä"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(à±İì
+e
+java:S3824­"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(Ø¥Œµ
+j
+java:S3824¼"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(‘È¶÷ıÿÿÿÿ
+j
+java:S3824ğ"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ÿ„²ƒıÿÿÿÿ
+e
+java:S3824…"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(Êğœ‚
+j
+java:S3824Ê"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(‘È¶÷ıÿÿÿÿ
+
+java:S1186ó"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡·ïûÿÿÿÿ
+v
+java:S14507"`Remove the "cpFieldDescriptor" field and declare it as a local variable in the relevant methods.(Á“ ·
+w
+java:S1450<"bRemove the "cpIMethodDescriptor" field and declare it as a local variable in the relevant methods.(š‚İ\
+H
+java:S1135W"2Complete the task associated to this TODO comment.(æÙãÜ
+R
+java:S1117n"<Rename "cpString" which hides the field declared at line 71.(ÕòÎ”
+R
+java:S1117w"<Rename "cpString" which hides the field declared at line 71.(ÕòÎ”
+S
+java:S1117…"<Rename "cpDouble" which hides the field declared at line 53.(Êğœ‚
+W
+java:S1117”";Rename "cpFloat" which hides the field declared at line 58.(¶¥ñÄıÿÿÿÿ
+Q
+java:S1117­":Rename "cpLong" which hides the field declared at line 64.(Ø¥Œµ
+Q
+java:S1117ä":Rename "cpUTF8" which hides the field declared at line 73.(à±İì
+X
+java:S1117ğ"<Rename "cpString" which hides the field declared at line 71.(ÿ„²ƒıÿÿÿÿ
+N
+java:S1135Ù"2Complete the task associated to this TODO comment.(Œó úÿÿÿÿ
+W	java:S125…"<This block of commented-out lines of code should be removed.(şİ­òÿÿÿÿÿ
+h
+java:S3776›"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ëÿ¿

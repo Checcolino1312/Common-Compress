@@ -1,0 +1,4 @@
+org.apache.commons.compress.utils.IOUtils#copyRange(Ljava/io/InputStream;JLjava/io/OutputStream;I)J
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.Math#min(JJ)J
+java.lang.IllegalArgumentException#instance-init#

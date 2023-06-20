@@ -1,0 +1,45 @@
+
+org.apache.commons.compress.archivers.dump.DumpArchiveUtil#decode(Lorg/apache/commons/compress/archivers/zip/ZipEncoding;[BII)Ljava/lang/String;v
+lC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveUtil.javaT T("1*±
+1V V(æ
+ã
+V V(J
+%0byte[]"$java.util.Arrays#copyOfRange([BII)[B*0
+
+__unknown_file ("
+java.util.Arrays*)
+
+__unknown_file (
+
+bbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""’
+V V(K
+%1java.lang.String"Rorg.apache.commons.compress.archivers.zip.ZipEncoding#decode([B)Ljava/lang/String;*_
+
+__unknown_file (C
+A
+encoding5org.apache.commons.compress.archivers.zip.ZipEncoding**
+
+__unknown_file (
+
+%0byte[]2
+decode([B)"$
+V V(L
+
+%1java.lang.String:M
+T T(4A
+encoding5org.apache.commons.compress.archivers.zip.ZipEncoding:
+T5 T(D
+bbyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B>"<
+:org.apache.commons.compress.archivers.dump.DumpArchiveUtil

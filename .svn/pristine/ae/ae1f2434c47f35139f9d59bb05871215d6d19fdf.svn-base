@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.unpack200.SegmentConstantPool#matchSpecificPoolEntryIndex([Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;I)I
+java.lang.Integer#intValue()I
+org.apache.commons.compress.harmony.unpack200.SegmentConstantPool#regexMatches(Ljava/lang/String;Ljava/lang/String;)Z

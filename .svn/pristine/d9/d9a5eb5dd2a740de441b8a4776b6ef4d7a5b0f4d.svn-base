@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFileOptions#builder()Lorg/apache/commons/compress/archivers/sevenz/SevenZFileOptions$Builder;
+org.apache.commons.compress.archivers.sevenz.SevenZFileOptions$Builder#instance-init#
+org.apache.commons.compress.archivers.sevenz.SevenZFileOptions$Builder#<init>()V

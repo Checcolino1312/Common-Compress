@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.X7875_NewUnix#setGID(J)V
+org.apache.commons.compress.archivers.zip.ZipUtil#longToBig(J)Ljava/math/BigInteger;

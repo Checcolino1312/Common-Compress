@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#closeCopiedEntry(Z)V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#preClose()V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#checkIfNeedsZip64(Lorg/apache/commons/compress/archivers/zip/Zip64Mode;)Z
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#getEffectiveZip64Mode(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Lorg/apache/commons/compress/archivers/zip/Zip64Mode;
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#closeEntry(ZZ)V

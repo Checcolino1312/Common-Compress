@@ -1,0 +1,15 @@
+org.apache.commons.compress.changes.ChangeSetPerformer#perform(Lorg/apache/commons/compress/changes/ChangeSetPerformer$ArchiveEntryIterator;Lorg/apache/commons/compress/archivers/ArchiveOutputStream;)Lorg/apache/commons/compress/changes/ChangeSetResults;
+org.apache.commons.compress.changes.ChangeSetPerformer#copyStream(Ljava/io/InputStream;Lorg/apache/commons/compress/archivers/ArchiveOutputStream;Lorg/apache/commons/compress/archivers/ArchiveEntry;)V
+org.apache.commons.compress.changes.ChangeSetPerformer#doNothingMethod(Lorg/apache/commons/compress/changes/ChangeSetResults;Ljava/util/Set;Lorg/apache/commons/compress/archivers/ArchiveOutputStream;)V
+org.apache.commons.compress.changes.ChangeSetPerformer#isDeletedLater(Ljava/util/Set;Lorg/apache/commons/compress/archivers/ArchiveEntry;)Z
+org.apache.commons.compress.changes.ChangeSetPerformer#addRemainingFiles(Ljava/util/Set;Lorg/apache/commons/compress/archivers/ArchiveOutputStream;Lorg/apache/commons/compress/changes/ChangeSetResults;)V
+org.apache.commons.compress.changes.ChangeSetResults#instance-init#
+org.apache.commons.compress.changes.ChangeSetResults#<init>()V
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.util.LinkedHashSet#<init>(Ljava/util/Collection;)V
+java.util.LinkedHashSet#instance-init#
+java.lang.String#startsWith(Ljava/lang/String;)Z
+==
+getInputStream org.apache.commons.compress.changes.ChangeSetPerformer$ArchiveEntryIterator#getInputStream()Ljava/io/InputStream;
+hasNext org.apache.commons.compress.changes.ChangeSetPerformer$ArchiveEntryIterator#hasNext()Z
+next org.apache.commons.compress.changes.ChangeSetPerformer$ArchiveEntryIterator#next()Lorg/apache/commons/compress/archivers/ArchiveEntry;

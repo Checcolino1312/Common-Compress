@@ -1,0 +1,3 @@
+org.apache.commons.compress.changes.ChangeSet#getChanges()Ljava/util/Set;
+java.util.LinkedHashSet#<init>(Ljava/util/Collection;)V
+java.util.LinkedHashSet#instance-init#

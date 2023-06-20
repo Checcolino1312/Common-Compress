@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#cacheBytesRead(Ljava/io/ByteArrayOutputStream;III)I
+java.nio.ByteBuffer#array()[B
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V

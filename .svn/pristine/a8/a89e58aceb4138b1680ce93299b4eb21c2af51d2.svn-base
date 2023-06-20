@@ -1,0 +1,9 @@
+
+€org.apache.commons.compress.archivers.ArchiveInputStream#canReadEntryData(Lorg/apache/commons/compress/archivers/ArchiveEntry;)Zt
+jC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/ArchiveInputStream.java= =(#"1*!
+1> >("
+> >(
+"":N
+=$ =(CB
+archiveEntry2org.apache.commons.compress.archivers.ArchiveEntryB<:
+8org.apache.commons.compress.archivers.ArchiveInputStreamHP

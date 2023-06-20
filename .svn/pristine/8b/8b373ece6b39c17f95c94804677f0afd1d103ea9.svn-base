@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.pack200.RunCodec#decodeInts(ILjava/io/InputStream;)[I
+org.apache.commons.compress.harmony.pack200.RunCodec#normalise([ILorg/apache/commons/compress/harmony/pack200/Codec;)V
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V

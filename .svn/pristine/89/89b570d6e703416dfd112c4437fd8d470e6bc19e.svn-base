@@ -1,0 +1,7 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#addRawArchiveEntry(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;Ljava/io/InputStream;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#instance-init#
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#hasZip64Extra(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#copyFromZipInputStream(Ljava/io/InputStream;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#<init>(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#closeCopiedEntry(Z)V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#putArchiveEntry(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;Z)V

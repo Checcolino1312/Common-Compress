@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.sevenz.AES256SHA256Decoder#sha256Password([CI[B)[B
+org.apache.commons.compress.archivers.sevenz.AES256SHA256Decoder#sha256Password([BI[B)[B
+org.apache.commons.compress.archivers.sevenz.AES256SHA256Decoder#utf16Decode([C)[B

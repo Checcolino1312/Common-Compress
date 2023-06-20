@@ -1,0 +1,13 @@
+org.apache.commons.compress.archivers.tar.TarFile#buildSparseInputStreams()V
+java.util.ArrayList#<init>()V
+org.apache.commons.compress.utils.BoundedSeekableByteChannelInputStream#instance-init#
+org.apache.commons.compress.utils.BoundedInputStream#instance-init#
+java.util.ArrayList#instance-init#
+org.apache.commons.compress.archivers.tar.TarArchiveSparseZeroInputStream#<init>()V
+org.apache.commons.compress.utils.BoundedSeekableByteChannelInputStream#<init>(JJLjava/nio/channels/SeekableByteChannel;)V
+org.apache.commons.compress.utils.BoundedInputStream#<init>(Ljava/io/InputStream;J)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.tar.TarArchiveStructSparse#getOffset()J
+org.apache.commons.compress.archivers.tar.TarArchiveStructSparse#getNumbytes()J
+org.apache.commons.compress.archivers.tar.TarArchiveSparseZeroInputStream#instance-init#

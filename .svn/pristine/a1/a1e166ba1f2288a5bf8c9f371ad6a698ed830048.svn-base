@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.tar.TarUtils#formatLongOctalOrBinaryBytes(J[BII)I
+org.apache.commons.compress.archivers.tar.TarUtils#formatLongOctalBytes(J[BII)I
+org.apache.commons.compress.archivers.tar.TarUtils#formatLongBinary(J[BIIZ)V
+org.apache.commons.compress.archivers.tar.TarUtils#formatBigIntegerBinary(J[BIIZ)V

@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorOutputStream#write([BII)V
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorOutputStream#flushBlock()V
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V

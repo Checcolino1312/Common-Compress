@@ -1,0 +1,6 @@
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#doCompress([BII)V
+org.apache.commons.compress.compressors.lz77support.Parameters#getMinBackReferenceLength()I
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#initialize()V
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#compress()V
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#slide()V
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V

@@ -1,0 +1,7 @@
+org.apache.commons.compress.archivers.zip.AsiExtraField#getLocalFileDataLength()Lorg/apache/commons/compress/archivers/zip/ZipShort;
+java.nio.charset.Charset#defaultCharset()Ljava/nio/charset/Charset;
+java.lang.String#getBytes(Ljava/nio/charset/Charset;)[B
+org.apache.commons.compress.archivers.zip.ZipShort#instance-init#
+org.apache.commons.compress.archivers.zip.ZipShort#<init>(I)V
+==
+getLinkedFile org.apache.commons.compress.archivers.zip.AsiExtraField#getLinkedFile()Ljava/lang/String;

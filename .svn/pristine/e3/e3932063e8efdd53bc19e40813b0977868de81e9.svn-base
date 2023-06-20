@@ -1,0 +1,62 @@
+
+Ñorg.apache.commons.compress.archivers.zip.AsiExtraField#getLocalFileDataLength()Lorg/apache/commons/compress/archivers/zip/ZipShort;Å
+uC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/AsiExtraField.java∫ ∫(*"1*«	
+1
+º º( C
+A
+
+º º( 	
+%0int"__id*"
+
+__unknown_file (
+""C
+A
+
+æ æ( 	
+%1int"__id*"
+
+__unknown_file (
+""ÏÈ
+
+¡ ¡(+
+%2java.lang.String"Yorg.apache.commons.compress.archivers.zip.AsiExtraField#getLinkedFile()Ljava/lang/String;*W
+
+__unknown_file (;9
+7org.apache.commons.compress.archivers.zip.AsiExtraField2getLinkedFile()Æ
+´
+
+¡5 ¡(M
+%3java.nio.charset.Charset"Cjava.nio.charset.Charset#defaultCharset()Ljava/nio/charset/Charset;*8
+
+__unknown_file ("
+java.nio.charset.CharsetÌ
+
+¡ ¡(N
+%4byte[]"7java.lang.String#getBytes(Ljava/nio/charset/Charset;)[B*4
+
+__unknown_file (
+
+%2java.lang.String*<
+
+__unknown_file ( 
+
+%3java.nio.charset.Charset2$getBytes(Ljava/nio/charset/Charset;)|z
+
+º º(8
+%52org.apache.commons.compress.archivers.zip.ZipShort"2org.apache.commons.compress.archivers.zip.ZipShort–
+Õ
+
+º ¡(V
+%6"=org.apache.commons.compress.archivers.zip.ZipShort#<init>(I)V*V
+
+__unknown_file (:
+8
+%52org.apache.commons.compress.archivers.zip.ZipShort*"
+
+__unknown_file (
+"""H
+
+º ¡(W:
+8
+%52org.apache.commons.compress.archivers.zip.ZipShortB;9
+7org.apache.commons.compress.archivers.zip.AsiExtraFieldH

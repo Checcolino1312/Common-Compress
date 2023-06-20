@@ -1,0 +1,48 @@
+
+€org.apache.commons.compress.harmony.pack200.PackingOptions#getUnknownMethodAttributeAction(Ljava/lang/String;)Ljava/lang/String;„
+xC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/pack200/PackingOptions.java­ ­(1"1*¼
+1
+® ®(¢
+Ÿ
+
+® ®(2
+%0java.util.Map"__id*v
+
+__unknown_file (Z*X<
+:org.apache.commons.compress.harmony.pack200.PackingOptions"
+methodAttributeActions¥
+¢
+
+®: ®(P
+%1java.lang.String"__id*v
+
+__unknown_file (Z*X<
+:org.apache.commons.compress.harmony.pack200.PackingOptions"
+unknownAttributeActionµ
+²
+
+® ®(Q
+%2java.lang.String"Žorg.apache.commons.compress.harmony.pack200.PackingOptions#getOrDefault(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*Z
+
+__unknown_file (><
+:org.apache.commons.compress.harmony.pack200.PackingOptions*1
+
+__unknown_file (
+
+%0java.util.Map*6
+
+__unknown_file (
+
+typejava.lang.String*4
+
+__unknown_file (
+
+%1java.lang.String"&
+
+® ®(R
+
+%2java.lang.String:&
+
+­2 ­(C
+typejava.lang.StringB><
+:org.apache.commons.compress.harmony.pack200.PackingOptionsH

@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder#<init>(Ljava/io/InputStream;)V
+org.apache.commons.compress.utils.BitInputStream#<init>(Ljava/io/InputStream;Ljava/nio/ByteOrder;)V
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder$InitialState#instance-init#
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder$InitialState#<init>()V
+org.apache.commons.compress.utils.BitInputStream#instance-init#

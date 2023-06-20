@@ -1,0 +1,58 @@
+
+morg.apache.commons.compress.archivers.zip.ZipFile$BoundedFileChannelInputStream#read(JLjava/nio/ByteBuffer;)Im
+cC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.javad d("startingBlock*ä
+startingBlockd d(@ç
+ä
+c c(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*8
+
+__unknown_file (
+
+bufjava.nio.ByteBufferZ
+X
+d< d(?
+bufjava.nio.ByteBuffer"__annotation*"
+
+__unknown_file (
+
+%3*
+1*è
+1e e($∂
+≥
+e e($#
+%0java.nio.channels.FileChannel"__id*|
+
+__unknown_file (`*^Q
+Oorg.apache.commons.compress.archivers.zip.ZipFile$BoundedFileChannelInputStream"	
+archiveîë
+e e(3	
+%1int";java.nio.channels.FileChannel#read(Ljava/nio/ByteBuffer;J)I*A
+
+__unknown_file (%
+#
+%0java.nio.channels.FileChannel*8
+
+__unknown_file (
+
+bufjava.nio.ByteBuffer*"
+
+__unknown_file (
+""2read(Ljava/nio/ByteBuffer;J)õò
+f f(
+%2java.nio.ByteBuffer"/java.nio.ByteBuffer#flip()Ljava/nio/ByteBuffer;*8
+
+__unknown_file (
+
+bufjava.nio.ByteBuffer2flip()"
+g g(
+"": 
+
+__unknown_file (
+"":&
+d+ d(?
+bufjava.nio.ByteBufferBSQ
+Oorg.apache.commons.compress.archivers.zip.ZipFile$BoundedFileChannelInputStreamP

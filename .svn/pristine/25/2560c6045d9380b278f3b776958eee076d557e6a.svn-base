@@ -1,0 +1,59 @@
+
+a
+java:S1596Å">Replace "Collections.EMPTY_LIST" by "Collections.emptyList()".(´‘†êúÿÿÿÿ8Ğø¸Ğ‚1
+Ÿ
+java:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ïğ¿¬8äù¸Ğ‚1
+O
+java:S1135A"2Complete the task associated to this TODO comment.(§¸Šø8æù¸Ğ‚1
+O
+java:S1135B"2Complete the task associated to this TODO comment.(­®Í´8æù¸Ğ‚1
+P
+java:S1135†"2Complete the task associated to this TODO comment.(­®Í´8éù¸Ğ‚1
+P
+java:S1135"2Complete the task associated to this TODO comment.(Ğ Ä©8éù¸Ğ‚1
+p
+java:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ë°ãŠ8ëù¸Ğ‚1
+?	java:S131‘""Add a default case to this switch.(äßØì8ïù¸Ğ‚1
+|
+java:S1450´"YRemove the "caseCounts" field and declare it as a local variable in the relevant methods.(üˆõØÿÿÿÿÿ8ùù¸Ğ‚1
+u
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÑšĞüÿÿÿÿ8ûù¸Ğ‚1
+U
+java:S1135î"2Complete the task associated to this TODO comment.(¥¨ƒÈúÿÿÿÿ8ÿù¸Ğ‚1
+P
+java:S1135…"2Complete the task associated to this TODO comment.(Í”Ûà8ÿù¸Ğ‚1
+P
+java:S1135†"2Complete the task associated to this TODO comment.(£İİ¶8ÿù¸Ğ‚1
+L
+java:S1940©")Use the opposite operator ("!=") instead.(„ø•Ğıÿÿÿÿ8ú¸Ğ‚1
+U
+java:S1135µ"2Complete the task associated to this TODO comment.(÷ó¼€ùÿÿÿÿ8ú¸Ğ‚1
+P
+java:S1135¸"2Complete the task associated to this TODO comment.(ÆÑûÚ8‚ú¸Ğ‚1
+p
+java:S3776ş"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(×ô×¶8±’İÑ‚1
+b
+java:S1854Ÿ"?Remove this useless assignment to local variable "skippedChar".(–¼˜ùÿÿÿÿ8„ú¸Ğ‚1
+e
+java:S1854°"BRemove this useless assignment to local variable "openingBracket".(ßÂµÏüÿÿÿÿ8²’İÑ‚1
+i
+java:S1854¯"FRemove this useless assignment to local variable "closingParentheses".(§Îøşÿÿÿÿ8”çûÑ‚1
+i
+java:S1854®"FRemove this useless assignment to local variable "openingParentheses".(¾í©°şÿÿÿÿ8×ÁÒ‚1
+h
+java:S1854Á"JRemove this useless assignment to local variable "closingParenthesesCall".(ÁÊÕ¦8‹ Ò‚1
+?	java:S131ƒ""Add a default case to this switch.(õü“¡8…ú¸Ğ‚1
+S
+java:S1481Ÿ"0Remove this unused "skippedChar" local variable.(–¼˜ùÿÿÿÿ8‡ú¸Ğ‚1
+Z
+java:S1481®"7Remove this unused "openingParentheses" local variable.(¾í©°şÿÿÿÿ8 Ò‚1
+Z
+java:S1481¯"7Remove this unused "closingParentheses" local variable.(§Îøşÿÿÿÿ8ÚÁÒ‚1
+V
+java:S1481°"3Remove this unused "openingBracket" local variable.(ßÂµÏüÿÿÿÿ8˜çûÑ‚1
+Y
+java:S1481Á";Remove this unused "closingParenthesesCall" local variable.(ÁÊÕ¦8¶’İÑ‚1
+L
+java:S1940º")Use the opposite operator ("!=") instead.(„ø•Ğıÿÿÿÿ8ú¸Ğ‚1
+p
+java:S3776×"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(›‡­‘8ú¸Ğ‚1

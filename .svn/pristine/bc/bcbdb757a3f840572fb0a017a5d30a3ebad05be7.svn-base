@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.deflate.DeflateCompressorInputStream#skip(J)J
+org.apache.commons.compress.utils.IOUtils#skip(Ljava/io/InputStream;J)J

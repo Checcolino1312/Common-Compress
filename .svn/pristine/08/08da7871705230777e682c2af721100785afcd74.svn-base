@@ -1,0 +1,2 @@
+org.apache.commons.compress.utils.FixedLengthBlockOutputStream#<init>(Ljava/nio/channels/WritableByteChannel;I)V
+java.nio.ByteBuffer#allocateDirect(I)Ljava/nio/ByteBuffer;

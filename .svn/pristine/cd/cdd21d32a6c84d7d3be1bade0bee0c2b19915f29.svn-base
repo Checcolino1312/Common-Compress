@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readFully(Ljava/nio/ByteBuffer;)V
+org.apache.commons.compress.utils.IOUtils#readFully(Ljava/nio/channels/ReadableByteChannel;Ljava/nio/ByteBuffer;)V

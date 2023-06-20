@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.ar.ArArchiveInputStream#asInt([BIII)I
+org.apache.commons.compress.archivers.ar.ArArchiveInputStream#asInt([BIIIZ)I

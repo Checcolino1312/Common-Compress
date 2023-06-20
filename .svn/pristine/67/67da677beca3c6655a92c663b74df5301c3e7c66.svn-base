@@ -1,0 +1,144 @@
+
+Ùorg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#getZip64Extra(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Lorg/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField;~
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java÷ ÷("8*‰
+2
+†	 †	(:±®
+
+†	 †	(8R
+%6Lorg.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField"Lorg.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldß
+Ü
+
+†	 †	(:
+%7"Vorg.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField#<init>()V*p
+
+__unknown_file (T
+R
+%6Lorg.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldÜ
+Ù
+
+†	 †	(:S
+z64Lorg.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField"__id*p
+
+__unknown_file (T
+R
+%6Lorg.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField*
+1*ö
+3
+ý þ(@Ü
+Ù
+
+ý þ(@S
+z64Lorg.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField"__id*p
+
+__unknown_file (T
+R
+%4Lorg.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField*
+2
+1*°
+4
+þ; þ(?™
+–
+
+þ; þ(?R
+%4Lorg.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField"__id*.
+
+__unknown_file (
+
+%5
+<nulltype>*
+3*¬
+5
+þ3 þ(8É
+Æ
+
+þ3 þ(8R
+%4Lorg.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField"__id*^
+
+__unknown_file (B
+@
+extra7org.apache.commons.compress.archivers.zip.ZipExtraFieldÉ
+Æ
+
+þ þ(8R
+%4Lorg.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField"__id*^
+
+__unknown_file (B
+@
+extra7org.apache.commons.compress.archivers.zip.ZipExtraField*
+3*È
+6
+û û(r
+p
+
+ü5 ü(a8
+%22org.apache.commons.compress.archivers.zip.ZipShort"__id*"
+
+__unknown_file (
+""ƒ€
+
+ü$ ü(b=
+%37org.apache.commons.compress.archivers.zip.ZipExtraField"¶org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getExtraField(Lorg/apache/commons/compress/archivers/zip/ZipShort;)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;*]
+
+__unknown_file (A
+?
+ze9org.apache.commons.compress.archivers.zip.ZipArchiveEntry*V
+
+__unknown_file (:
+8
+%22org.apache.commons.compress.archivers.zip.ZipShort2CgetExtraField(Lorg/apache/commons/compress/archivers/zip/ZipShort;)´
+±
+
+ü ü(c@
+extra7org.apache.commons.compress.archivers.zip.ZipExtraField"__id*[
+
+__unknown_file (?
+=
+%37org.apache.commons.compress.archivers.zip.ZipExtraField*
+4
+5*î
+7
+ù ù(×
+Ô
+
+ù ù(S
+%1Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"__id*k
+
+__unknown_file (O*MB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"
+entry*
+6*ñ
+8
+ø ø(×
+Ô
+
+ø ø(S
+%0Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"__id*k
+
+__unknown_file (O*MB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"
+entry*
+6
+7*Â
+1
+Š	 Š	(
+ËÈ
+
+Š	 Š	($
+
+%8void"Šorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#addAsFirstExtraField(Lorg/apache/commons/compress/archivers/zip/ZipExtraField;)V*]
+
+__unknown_file (A
+?
+ze9org.apache.commons.compress.archivers.zip.ZipArchiveEntry*q
+
+__unknown_file (U
+S
+z64Lorg.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField2OaddAsFirstExtraField(Lorg/apache/commons/compress/archivers/zip/ZipExtraField;)"c
+
+Œ	 Œ	(U
+S
+z64Lorg.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField:M
+
+÷ ÷(.?
+ze9org.apache.commons.compress.archivers.zip.ZipArchiveEntryBDB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream

@@ -1,0 +1,81 @@
+
+Morg.apache.commons.compress.archivers.tar.TarArchiveInputStream#getRecord()[B}
+qC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.javaù ù("4*°
+2
+° °('‹
+Ÿ
+
+° °()
+
+%4void"^org.apache.commons.compress.archivers.tar.TarArchiveInputStream#tryToConsumeSecondEOFRecord()V*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStream‹
+Ÿ
+
+¢ ¢()
+
+%5void"^org.apache.commons.compress.archivers.tar.TarArchiveInputStream#consumeRemainderOfLastBlock()V*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStreamM
+K
+
+£ £(
+	headerBufbyte[]"__id*"
+
+__unknown_file (
+""*
+1*≈
+4
+û û(%‹Ÿ
+
+û û('
+%0byte[]"Norg.apache.commons.compress.archivers.tar.TarArchiveInputStream#readRecord()[B*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStream2readRecord()U
+S
+
+û û((
+	headerBufbyte[]"__id**
+
+__unknown_file (
+
+%0byte[]ïí
+
+ü ü('
+%1boolean"Porg.apache.commons.compress.archivers.tar.TarArchiveInputStream#isEOFRecord([B)Z*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStream*1
+
+__unknown_file (
+
+	headerBufbyte[]2isEOFRecord([B)ÑÅ
+
+ü ü((
+
+%2void"Lorg.apache.commons.compress.archivers.tar.TarArchiveInputStream#setAtEOF(Z)V*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStream*+
+
+__unknown_file (
+
+%1boolean2setAtEOF(Z)÷”
+
+† †(
+%3boolean"Jorg.apache.commons.compress.archivers.tar.TarArchiveInputStream#isAtEOF()Z*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStream2	isAtEOF()*
+2
+1*4
+1
+• •("#
+
+• •(
+
+	headerBufbyte[]BCA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStream

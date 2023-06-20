@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestamp#reset()V
+==
+setFlags org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestamp#setFlags(B)V

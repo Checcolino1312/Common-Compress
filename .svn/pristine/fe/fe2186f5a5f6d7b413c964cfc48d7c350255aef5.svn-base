@@ -1,0 +1,2 @@
+org.apache.commons.compress.utils.SeekableInMemoryByteChannel#isOpen()Z
+java.util.concurrent.atomic.AtomicBoolean#get()Z

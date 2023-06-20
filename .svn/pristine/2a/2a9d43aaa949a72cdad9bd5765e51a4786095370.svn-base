@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveUtil#decode(Lorg/apache/commons/compress/archivers/zip/ZipEncoding;[BII)Ljava/lang/String;
+java.util.Arrays#copyOfRange([BII)[B

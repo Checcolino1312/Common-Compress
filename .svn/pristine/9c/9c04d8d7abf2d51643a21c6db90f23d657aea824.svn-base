@@ -1,0 +1,11 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#addUnicodeExtraFields(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;ZLjava/nio/ByteBuffer;)V
+org.apache.commons.compress.archivers.zip.UnicodeCommentExtraField#<init>(Ljava/lang/String;[BII)V
+org.apache.commons.compress.archivers.zip.UnicodePathExtraField#instance-init#
+org.apache.commons.compress.archivers.zip.UnicodePathExtraField#<init>(Ljava/lang/String;[BII)V
+java.nio.Buffer#position()I
+java.lang.String#isEmpty()Z
+org.apache.commons.compress.archivers.zip.UnicodeCommentExtraField#instance-init#
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#getEntryEncoding(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Lorg/apache/commons/compress/archivers/zip/ZipEncoding;
+java.nio.Buffer#limit()I
+java.nio.ByteBuffer#array()[B
+java.nio.ByteBuffer#arrayOffset()I

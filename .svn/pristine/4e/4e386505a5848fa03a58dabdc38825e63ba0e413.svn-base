@@ -1,0 +1,5 @@
+org.apache.commons.compress.harmony.unpack200.NewAttributeBands#readUpToMatchingBracket(Ljava/io/StringReader;)Ljava/lang/String;
+java.lang.StringBuilder#instance-init#
+java.lang.StringBuilder#<init>()V
+java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#toString()Ljava/lang/String;

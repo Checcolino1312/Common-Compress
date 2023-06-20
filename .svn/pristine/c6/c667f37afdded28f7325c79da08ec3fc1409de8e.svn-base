@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.arj.ArjArchiveEntry#<init>()V
+org.apache.commons.compress.archivers.arj.LocalFileHeader#instance-init#
+org.apache.commons.compress.archivers.arj.LocalFileHeader#<init>()V

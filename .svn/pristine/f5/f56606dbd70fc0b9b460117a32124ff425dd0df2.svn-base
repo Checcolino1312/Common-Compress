@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#bsGetBit(Lorg/apache/commons/compress/utils/BitInputStream;)Z
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#bsR(Lorg/apache/commons/compress/utils/BitInputStream;I)I

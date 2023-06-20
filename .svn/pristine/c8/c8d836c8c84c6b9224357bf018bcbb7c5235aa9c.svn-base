@@ -1,0 +1,56 @@
+
+}org.apache.commons.compress.archivers.zip.ZipFile#getDataOffset(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Jo
+cC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java¿ ¿("3*Ð
+2
+Â Â(Î
+Ë
+
+Â Â(
+%2int[]"~org.apache.commons.compress.archivers.zip.ZipFile#setDataOffset(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)[I*Q
+
+__unknown_file (53
+1org.apache.commons.compress.archivers.zip.ZipFile*]
+
+__unknown_file (A
+?
+ze9org.apache.commons.compress.archivers.zip.ZipArchiveEntry×Ô
+
+Ã Ã(%
+
+%3long"Jorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getDataOffset()J*]
+
+__unknown_file (A
+?
+ze9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getDataOffset()"
+
+Ã Ã(&
+""*·
+3
+À À(×Ô
+
+À À()
+
+%0long"Jorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getDataOffset()J*]
+
+__unknown_file (A
+?
+ze9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getDataOffset()D
+B
+
+Á Á(2
+
+%1long"__id*"
+
+__unknown_file (
+""*
+2
+1*%
+1
+Å Å("
+
+Å Å(
+"":M
+
+¿ ¿(7?
+ze9org.apache.commons.compress.archivers.zip.ZipArchiveEntryB53
+1org.apache.commons.compress.archivers.zip.ZipFileP

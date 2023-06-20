@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#internalRemoveExtraField(Lorg/apache/commons/compress/archivers/zip/ZipShort;)V
+java.util.ArrayList#<init>()V
+org.apache.commons.compress.archivers.zip.ZipShort#equals(Ljava/lang/Object;)Z
+java.util.ArrayList#instance-init#

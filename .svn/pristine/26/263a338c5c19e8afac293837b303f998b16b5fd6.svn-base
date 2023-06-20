@@ -1,0 +1,4 @@
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#slide()V
+org.apache.commons.compress.compressors.lz77support.Parameters#getWindowSize()I
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#flushLiteralBlock()V
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V

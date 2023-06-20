@@ -1,0 +1,3 @@
+org.apache.commons.compress.utils.IOUtils#skip(Ljava/io/InputStream;J)J
+org.apache.commons.compress.utils.IOUtils#readFully(Ljava/io/InputStream;[BII)I
+java.lang.Math#min(JJ)J

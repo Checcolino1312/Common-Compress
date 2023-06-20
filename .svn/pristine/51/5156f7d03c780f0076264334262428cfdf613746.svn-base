@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#writeEntryHeaderOptionalTimeField(Ljava/nio/file/attribute/FileTime;I[BI)I
+org.apache.commons.compress.utils.TimeUtils#toUnixTime(Ljava/nio/file/attribute/FileTime;)J
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#writeEntryHeaderField(J[BIIZ)I
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#fill(II[BI)I

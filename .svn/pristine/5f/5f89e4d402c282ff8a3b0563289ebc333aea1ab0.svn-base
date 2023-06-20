@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.ClassBands#addClassAttribute(Lorg/apache/commons/compress/harmony/pack200/NewAttribute;)V
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#

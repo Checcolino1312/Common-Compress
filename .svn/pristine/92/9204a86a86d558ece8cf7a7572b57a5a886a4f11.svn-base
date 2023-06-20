@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.zip.StreamCompressor#deflate(Ljava/io/InputStream;I)V
+==
+reset org.apache.commons.compress.archivers.zip.StreamCompressor#reset()V
+write org.apache.commons.compress.archivers.zip.StreamCompressor#write([BIII)J
+flushDeflater org.apache.commons.compress.archivers.zip.StreamCompressor#flushDeflater()V

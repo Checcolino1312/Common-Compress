@@ -1,0 +1,150 @@
+
+I__sonar_lambda_73$org.apache.commons.compress.archivers.examples.ExpanderÅ
+uC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/examples/Expander.javaÁ Ì(	"startingBlock*—
+2
+Í Í(O∑
+¥
+
+Í Í(OA
+next9org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*]
+
+__unknown_file (A
+?
+%89org.apache.commons.compress.archivers.zip.ZipArchiveEntry*
+6
+1*û
+3
+ÍK Í(Oá
+Ñ
+
+ÍK Í(O?
+%89org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*/
+
+__unknown_file (
+
+%10
+<nulltype>*
+2*ô
+startingBlock
+Á Ì(	´
+®
+
+__unknown_file ( 
+entriesjava.util.Enumeration"__id*d
+
+__unknown_file (H*F9
+7org.apache.commons.compress.archivers.examples.Expander"	
+entries«
+ƒ
+
+__unknown_file (<
+archive1org.apache.commons.compress.archivers.zip.ZipFile"__id*d
+
+__unknown_file (H*F9
+7org.apache.commons.compress.archivers.examples.Expander"	
+archive*
+11*•
+4
+Í3 Í(:÷”
+
+Í3 Í(H?
+%99org.apache.commons.compress.archivers.zip.ZipArchiveEntry"5java.util.Enumeration#nextElement()Ljava/lang/Object;*>
+
+__unknown_file ("
+ 
+entriesjava.util.Enumeration2nextElement()µ
+≤
+
+Í3 Í(H?
+%89org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*]
+
+__unknown_file (A
+?
+%99org.apache.commons.compress.archivers.zip.ZipArchiveEntry*
+2*µ
+5
+Í Í(õò
+
+Í Í(0
+%7boolean"(java.util.Enumeration#hasMoreElements()Z*>
+
+__unknown_file ("
+ 
+entriesjava.util.Enumeration2hasMoreElements()*
+3
+4*«
+6
+È$ È(+≠™
+
+È$ È(B
+%6boolean"Äorg.apache.commons.compress.archivers.zip.ZipFile#canReadEntryData(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z*Z
+
+__unknown_file (>
+<
+archive1org.apache.commons.compress.archivers.zip.ZipFile*_
+
+__unknown_file (C
+A
+next9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2McanReadEntryData(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)*
+5
+1*—
+8
+Ë Ë(\∑
+¥
+
+Ë Ë(\A
+next9org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*]
+
+__unknown_file (A
+?
+%39org.apache.commons.compress.archivers.zip.ZipArchiveEntry*
+6
+1*ù
+9
+ËW Ë([Ü
+É
+
+ËW Ë([?
+%39org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*.
+
+__unknown_file (
+
+%5
+<nulltype>*
+8*¶
+10
+Ë? Ë(F÷”
+
+Ë? Ë(T?
+%49org.apache.commons.compress.archivers.zip.ZipArchiveEntry"5java.util.Enumeration#nextElement()Ljava/lang/Object;*>
+
+__unknown_file ("
+ 
+entriesjava.util.Enumeration2nextElement()µ
+≤
+
+Ë? Ë(T?
+%39org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*]
+
+__unknown_file (A
+?
+%49org.apache.commons.compress.archivers.zip.ZipArchiveEntry*
+8*∑
+11
+Ë# Ë(*õò
+
+Ë# Ë(<
+%2boolean"(java.util.Enumeration#hasMoreElements()Z*>
+
+__unknown_file ("
+ 
+entriesjava.util.Enumeration2hasMoreElements()*
+9
+10*b
+1
+Ï Ï("Q
+
+Ï Ï(C
+A
+next9org.apache.commons.compress.archivers.zip.ZipArchiveEntryBPN
+Lorg.apache.commons.compress.archivers.examples.Expander$ArchiveEntrySupplier

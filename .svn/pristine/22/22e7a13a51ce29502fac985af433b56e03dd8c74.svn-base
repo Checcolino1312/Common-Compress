@@ -1,0 +1,69 @@
+
+Sorg.apache.commons.compress.archivers.tar.TarFile#readRecord()Ljava/nio/ByteBuffer;o
+cC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/tar/TarFile.java© ©(!"3*%
+2
+­ ­("
+
+­ ­(
+""*‘
+3
+ª ª(•
+’
+
+ª ª(
+%0java.nio.ByteBuffer"__id*c
+
+__unknown_file (G*E3
+1org.apache.commons.compress.archivers.tar.TarFile"
+recordBuffer 
+
+ª ª(
+%1java.nio.ByteBuffer"1java.nio.ByteBuffer#rewind()Ljava/nio/ByteBuffer;*7
+
+__unknown_file (
+
+%0java.nio.ByteBuffer2rewind()¢
+Ÿ
+
+« «(#+
+%2%java.nio.channels.SeekableByteChannel"__id*^
+
+__unknown_file (B*@3
+1org.apache.commons.compress.archivers.tar.TarFile"	
+archive•
+’
+
+«) «(5
+%3java.nio.ByteBuffer"__id*c
+
+__unknown_file (G*E3
+1org.apache.commons.compress.archivers.tar.TarFile"
+recordBufferÿü
+
+« «(6	
+%4int"Bjava.nio.channels.SeekableByteChannel#read(Ljava/nio/ByteBuffer;)I*I
+
+__unknown_file (-
++
+%2%java.nio.channels.SeekableByteChannel*7
+
+__unknown_file (
+
+%3java.nio.ByteBuffer2read(Ljava/nio/ByteBuffer;)*
+2
+1*Ò
+1
+¯ ¯(•
+’
+
+¯ ¯(
+%5java.nio.ByteBuffer"__id*c
+
+__unknown_file (G*E3
+1org.apache.commons.compress.archivers.tar.TarFile"
+recordBuffer")
+
+¯ ¯(
+
+%5java.nio.ByteBufferB53
+1org.apache.commons.compress.archivers.tar.TarFile

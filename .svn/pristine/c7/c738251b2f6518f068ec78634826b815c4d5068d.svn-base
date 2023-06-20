@@ -1,0 +1,5 @@
+org.apache.commons.compress.harmony.pack200.CodecEncoding#decodeBHSDCodec(Ljava/io/InputStream;)Lorg/apache/commons/compress/harmony/pack200/BHSDCodec;
+java.io.EOFException#instance-init#
+org.apache.commons.compress.harmony.pack200.BHSDCodec#instance-init#
+org.apache.commons.compress.harmony.pack200.BHSDCodec#<init>(IIII)V
+java.io.EOFException#<init>(Ljava/lang/String;)V

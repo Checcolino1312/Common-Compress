@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.unpack200.BcBands#addExceptionTableEntries(I[[I[[I[[I[[ILjava/util/List;)V
+org.apache.commons.compress.harmony.unpack200.bytecode.ExceptionTableEntry#instance-init#
+org.apache.commons.compress.harmony.unpack200.bytecode.ExceptionTableEntry#<init>(IIILorg/apache/commons/compress/harmony/unpack200/bytecode/CPClass;)V

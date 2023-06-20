@@ -1,0 +1,137 @@
+
+forg.apache.commons.compress.archivers.zip.NioZipEncoding#newEncoder()Ljava/nio/charset/CharsetEncoder;v
+jC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/NioZipEncoding.javaÍ Í(%"2"1*Ç
+2
+Ï Ï(œ
+™
+
+Ï Ï(
+%0java.nio.charset.Charset"__id*e
+
+__unknown_file (I*G:
+8org.apache.commons.compress.archivers.zip.NioZipEncoding"	
+charsetÊÇ
+
+Ï Ï('%
+%1java.nio.charset.CharsetEncoder"Fjava.nio.charset.Charset#newEncoder()Ljava/nio/charset/CharsetEncoder;*<
+
+__unknown_file ( 
+
+%0java.nio.charset.Charset2newEncoder()b
+`
+
+Ð" Ð(;(
+%2"java.nio.charset.CodingErrorAction"__id*"
+
+__unknown_file (
+""ôñ
+
+Ï Ð(<%
+%3java.nio.charset.CharsetEncoder"wjava.nio.charset.CharsetEncoder#onMalformedInput(Ljava/nio/charset/CodingErrorAction;)Ljava/nio/charset/CharsetEncoder;*C
+
+__unknown_file ('
+%
+%1java.nio.charset.CharsetEncoder*F
+
+__unknown_file (*
+(
+%2"java.nio.charset.CodingErrorAction26onMalformedInput(Ljava/nio/charset/CodingErrorAction;)b
+`
+
+Ñ' Ñ(@(
+%4"java.nio.charset.CodingErrorAction"__id*"
+
+__unknown_file (
+""þû
+
+Ï Ñ(A%
+%5java.nio.charset.CharsetEncoder"|java.nio.charset.CharsetEncoder#onUnmappableCharacter(Ljava/nio/charset/CodingErrorAction;)Ljava/nio/charset/CharsetEncoder;*C
+
+__unknown_file ('
+%
+%3java.nio.charset.CharsetEncoder*F
+
+__unknown_file (*
+(
+%4"java.nio.charset.CodingErrorAction2;onUnmappableCharacter(Ljava/nio/charset/CodingErrorAction;)F
+D
+
+Ò Ò(.
+%6byte[]"__id*"
+
+__unknown_file (
+""Š‡
+
+Ï Ò(/%
+%7java.nio.charset.CharsetEncoder"Pjava.nio.charset.CharsetEncoder#replaceWith([B)Ljava/nio/charset/CharsetEncoder;*C
+
+__unknown_file ('
+%
+%5java.nio.charset.CharsetEncoder**
+
+__unknown_file (
+
+%6byte[]2replaceWith([B)"5
+
+Ï Ò(0'
+%
+%7java.nio.charset.CharsetEncoder*ú
+
+1
+Ô Ô(œ
+™
+
+Ô Ô(
+%8java.nio.charset.Charset"__id*e
+
+__unknown_file (I*G:
+8org.apache.commons.compress.archivers.zip.NioZipEncoding"	
+charsetÊÇ
+
+Ô Ô(#%
+%9java.nio.charset.CharsetEncoder"Fjava.nio.charset.Charset#newEncoder()Ljava/nio/charset/CharsetEncoder;*<
+
+__unknown_file ( 
+
+%8java.nio.charset.Charset2newEncoder()c
+a
+
+Õ Õ(6)
+%10"java.nio.charset.CodingErrorAction"__id*"
+
+__unknown_file (
+""öó
+
+Ô Õ(7&
+%11java.nio.charset.CharsetEncoder"wjava.nio.charset.CharsetEncoder#onMalformedInput(Ljava/nio/charset/CodingErrorAction;)Ljava/nio/charset/CharsetEncoder;*C
+
+__unknown_file ('
+%
+%9java.nio.charset.CharsetEncoder*G
+
+__unknown_file (+
+)
+%10"java.nio.charset.CodingErrorAction26onMalformedInput(Ljava/nio/charset/CodingErrorAction;)c
+a
+
+Ö# Ö(;)
+%12"java.nio.charset.CodingErrorAction"__id*"
+
+__unknown_file (
+""þ
+
+Ô Ö(<&
+%13java.nio.charset.CharsetEncoder"|java.nio.charset.CharsetEncoder#onUnmappableCharacter(Ljava/nio/charset/CodingErrorAction;)Ljava/nio/charset/CharsetEncoder;*D
+
+__unknown_file ((
+&
+%11java.nio.charset.CharsetEncoder*G
+
+__unknown_file (+
+)
+%12"java.nio.charset.CodingErrorAction2;onUnmappableCharacter(Ljava/nio/charset/CodingErrorAction;)"6
+
+Ô Ö(=(
+&
+%13java.nio.charset.CharsetEncoderB<:
+8org.apache.commons.compress.archivers.zip.NioZipEncoding

@@ -1,0 +1,100 @@
+
+R
+java:S3740“"/Provide the parametrized type for this generic.(‡ñ¶®úÿÿÿÿ8ÛÒË‚‰1
+R
+java:S3740“"/Provide the parametrized type for this generic.(‡ñ¶®úÿÿÿÿ8ÜÒË‚‰1
+R
+java:S3740”"/Provide the parametrized type for this generic.(äÏªÛıÿÿÿÿ8ÜÒË‚‰1
+R
+java:S3740”"/Provide the parametrized type for this generic.(äÏªÛıÿÿÿÿ8ÜÒË‚‰1
+M
+java:S3740•"/Provide the parametrized type for this generic.(š¬¼È8ÜÒË‚‰1
+M
+java:S3740•"/Provide the parametrized type for this generic.(š¬¼È8ÜÒË‚‰1
+R
+java:S3740š"/Provide the parametrized type for this generic.(İî¹©úÿÿÿÿ8ÜÒË‚‰1
+R
+java:S3740š"/Provide the parametrized type for this generic.(İî¹©úÿÿÿÿ8ÜÒË‚‰1
+R
+java:S3740"/Provide the parametrized type for this generic.(ï¾õŸıÿÿÿÿ8ÜÒË‚‰1
+R
+java:S3740"/Provide the parametrized type for this generic.(ï¾õŸıÿÿÿÿ8ÜÒË‚‰1
+R
+java:S3740"/Provide the parametrized type for this generic.(Í›ôûûÿÿÿÿ8ÜÒË‚‰1
+R
+java:S3740"/Provide the parametrized type for this generic.(Í›ôûûÿÿÿÿ8ÜÒË‚‰1
+M
+java:S3740£"/Provide the parametrized type for this generic.(¨ğ›Ì8ÜÒË‚‰1
+M
+java:S3740£"/Provide the parametrized type for this generic.(¨ğ›Ì8ÜÒË‚‰1
+R
+java:S3740¤"/Provide the parametrized type for this generic.(â§½¦øÿÿÿÿ8ÜÒË‚‰1
+R
+java:S3740¤"/Provide the parametrized type for this generic.(â§½¦øÿÿÿÿ8ÜÒË‚‰1
+z
+java:S1192ş"\Define a constant instead of duplicating this literal "No suitable definition for " 4 times.(ïø®·8ãÒË‚‰1
+m
+java:S1192æ"JDefine a constant instead of duplicating this literal "Synthetic" 3 times.(é•¼¸ûÿÿÿÿ8ãÒË‚‰1
+q
+java:S3824â"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ˆÚ²æûÿÿÿÿ8šÛË‚‰1
+v	java:S116o"URename this field "class_this" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò©í»üÿÿÿÿ8ÛË‚‰1
+r	java:S116p"VRename this field "class_super" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×›Úå8ÛË‚‰1
+{	java:S116r"ZRename this field "class_interface" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äğ´Şúÿÿÿÿ8ÛË‚‰1
+|	java:S116t"`Rename this field "class_interface_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—”µ8ÛË‚‰1
+z	java:S116u"YRename this field "major_versions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«å½¤ùÿÿÿÿ8ÛË‚‰1
+q	java:S116v"VRename this field "class_flags" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï£¥u8ÛË‚‰1
+w	java:S116w"[Rename this field "class_attr_calls" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÍ•²8ÛË‚‰1
+~	java:S116€"\Rename this field "class_field_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÈÍ„øÿÿÿÿ8ÛË‚‰1
+s	java:S116"VRename this field "field_descr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æˆì8ÛË‚‰1
+s	java:S116‚"VRename this field "field_flags" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¦¼½8ÛË‚‰1
+x	java:S116ƒ"[Rename this field "field_attr_calls" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ç•8ÛË‚‰1
+	java:S116‡"]Rename this field "class_method_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ú²¸ùÿÿÿÿ8ÛË‚‰1
+y	java:S116ˆ"WRename this field "method_descr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ŒÈ±şÿÿÿÿ8ÛË‚‰1
+t	java:S116‰"WRename this field "method_flags" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¿å©8ÛË‚‰1
+y	java:S116Š"\Rename this field "method_attr_calls" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Ì¯€8ÛË‚‰1
+w	java:S116˜"ZRename this field "code_attr_calls" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öı‘í8ÛË‚‰1
+|	java:S116©"ZRename this field "class_RVA_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úŸİ¹ÿÿÿÿÿ8ÛË‚‰1
+w	java:S116ª"ZRename this field "class_RIA_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç‘¢²8ÛË‚‰1
+|	java:S116«"ZRename this field "field_RVA_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßŒÇşÿÿÿÿ8ÛË‚‰1
+w	java:S116¬"ZRename this field "field_RIA_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó•Üú8ÛË‚‰1
+x	java:S116­"[Rename this field "method_RVA_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÕà˜8ÛË‚‰1
+}	java:S116®"[Rename this field "method_RIA_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÀñöüÿÿÿÿ8 ÛË‚‰1
+x	java:S116¯"\Rename this field "method_RVPA_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ñ­8¢ÛË‚‰1
+~	java:S116±"\Rename this field "method_RIPA_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¡¹üşÿÿÿÿ8¢ÛË‚‰1
+|	java:S116²"ZRename this field "method_AD_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£åáÓıÿÿÿÿ8¢ÛË‚‰1
+	java:S116Ê"_Rename this field "class_InnerClasses_N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÔ‘§úÿÿÿÿ8¢ÛË‚‰1
+‚	java:S116Ë"`Rename this field "class_InnerClasses_RC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ìÒ¬üÿÿÿÿ8¢ÛË‚‰1
+	java:S116Ì"_Rename this field "class_InnerClasses_F" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıŞëØşÿÿÿÿ8¢ÛË‚‰1
+_	java:S107ü"=Method has 10 parameters, which is greater than 7 authorized.(×ÔŒ±úÿÿÿÿ8­ÛË‚‰1
+^	java:S107Œ"<Method has 9 parameters, which is greater than 7 authorized.(ñ¤¶úÿÿÿÿ8¡©…Ò‰1
+Y	java:S107¢"<Method has 9 parameters, which is greater than 7 authorized.(êá•8¡©…Ò‰1
+Y	java:S107º"<Method has 9 parameters, which is greater than 7 authorized.(—Ä„8¢©…Ò‰1
+_	java:S107¨"=Method has 10 parameters, which is greater than 7 authorized.(åÇ™úÿÿÿÿ8®ÛË‚‰1
+]	java:S107<"<Method has 9 parameters, which is greater than 7 authorized.(¶ÔÀ÷úÿÿÿÿ8¯ÛË‚‰1
+^	java:S125ç"<This block of commented-out lines of code should be removed.(„Å‘¿ùÿÿÿÿ8ÀÛË‚‰1
+D	java:S131ÿ""Add a default case to this switch.(•˜ÂÜûÿÿÿÿ8¼©…Ò‰1
+Y	java:S125é"<This block of commented-out lines of code should be removed.(ó¥¥Ğ8úÛË‚‰1
+O
+java:S1135ô"2Complete the task associated to this TODO comment.(¡¾£Q8ıÛË‚‰1
+K
+java:S1940Ş"(Use the opposite operator ("<") instead.(ÙÍ‚ïûÿÿÿÿ8¡ÜË‚‰1
+a
+java:S1155®">Use isEmpty() to check whether the collection is empty or not.(ŒÎø¨ùÿÿÿÿ8¨ÜË‚‰1
+p
+java:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 84 to the 15 allowed.(ÆâÛ©8¿ÜË‚‰1
+G
+java:S5413Á")Verify that "remove()" is used correctly.(Ûšù˜8õÜË‚‰1
+L
+java:S5413Î")Verify that "remove()" is used correctly.(Ğ£Úûÿÿÿÿÿ8ˆİË‚‰1
+]
+java:S1117Ê":Rename "index" which hides the field declared at line 200.(¥ÀÂŞùÿÿÿÿ8‹İË‚‰1
+G
+java:S5413İ")Verify that "remove()" is used correctly.(ô½º±8˜İË‚‰1
+G
+java:S5413ï")Verify that "remove()" is used correctly.(¾ƒ×ß8šİË‚‰1
+L
+java:S5413ø")Verify that "remove()" is used correctly.(Â–©öúÿÿÿÿ8œİË‚‰1
+P
+java:S1135¥	"2Complete the task associated to this TODO comment.(‹°…Ñ8¨İË‚‰1
+å
+java:S6541¾"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 165 to 64, Complexity from 48 to 14, Nesting Level from 4 to 2, Number of Variables from 36 to 6.(ÆâÛ©8×İË‚‰1

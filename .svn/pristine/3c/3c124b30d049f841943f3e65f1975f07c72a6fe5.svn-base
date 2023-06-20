@@ -1,0 +1,43 @@
+
+iorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#isSkippableFrameSignature([B)Z“
+ˆC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/lz4/FramedLZ4CompressorInputStream.java? ?(4"8*!
+3E E("
+E E(
+""*^
+4D D(D
+B
+D D(/
+%2byte[]"__id*"
+
+__unknown_file (
+""*	
+3
+4
+1*!
+7A A("
+A A(
+""* 
+8@ @(B
+@
+@ @(4
+
+%0byte"__id*"
+
+__unknown_file (
+""B
+@
+@9 @(Y
+
+%1byte"__id*"
+
+__unknown_file (
+""*	
+4
+7
+1*!
+1H H("
+H H(
+"":
+?5 ?(C
+bbyte[]BN"L
+Jorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamP

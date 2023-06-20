@@ -1,0 +1,14 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#sanityCheckFolder(Ljava/nio/ByteBuffer;Lorg/apache/commons/compress/archivers/sevenz/SevenZFile$ArchiveStatistics;)I
+org.apache.commons.compress.archivers.sevenz.SevenZFile#checkOutIndex(IJ)V
+java.util.BitSet#instance-init#
+org.apache.commons.compress.archivers.sevenz.SevenZFile#checkSinglePackedStream(ILjava/util/BitSet;)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+java.util.BitSet#<init>(I)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#checkNumCoders(I)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#processAttributes(ZLjava/nio/ByteBuffer;)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#assertFitsIntoNonNegativeInt(Ljava/lang/String;J)I
+org.apache.commons.compress.archivers.sevenz.SevenZFile#get(Ljava/nio/ByteBuffer;[B)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readUint64(Ljava/nio/ByteBuffer;)J
+org.apache.commons.compress.archivers.sevenz.SevenZFile#getUnsignedByte(Ljava/nio/ByteBuffer;)I
+org.apache.commons.compress.archivers.sevenz.SevenZFile#checkForAlternativeMethods(Z)V

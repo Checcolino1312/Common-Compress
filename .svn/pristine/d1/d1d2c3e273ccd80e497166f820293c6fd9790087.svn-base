@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#write(Ljava/io/InputStream;)V
+==
+write org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#write([BII)V

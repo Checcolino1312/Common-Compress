@@ -1,0 +1,79 @@
+
+Xorg.apache.commons.compress.compressors.deflate.DeflateCompressorInputStream#read([BII)Iï
+äC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/deflate/DeflateCompressorInputStream.java ("startingBlock*%
+2
+Å Å("
+
+Å Å(
+""*Ò
+startingBlock (C
+}
+~ ~(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*+
+
+__unknown_file (
+
+bufbyte[]M
+K
+! ($
+bufbyte[]"__annotation*"
+
+__unknown_file (
+
+%3*
+2
+1*…
+1
+É É(¶
+£
+
+É É(
+%0java.io.InputStream"__id*t
+
+__unknown_file (X*VN
+Lorg.apache.commons.compress.compressors.deflate.DeflateCompressorInputStream"
+inıÚ
+
+É É(.	
+%1int"java.io.InputStream#read([BII)I*7
+
+__unknown_file (
+
+%0java.io.InputStream*+
+
+__unknown_file (
+
+bufbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2
+read([BII)Ä˝
+
+Ñ Ñ(
+
+%2void"Gorg.apache.commons.compress.compressors.CompressorInputStream#count(I)V*l
+
+__unknown_file (PN
+Lorg.apache.commons.compress.compressors.deflate.DeflateCompressorInputStream*"
+
+__unknown_file (
+""2count(I)"
+
+Ö Ö(
+"":
+ (%
+bufbyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BPN
+Lorg.apache.commons.compress.compressors.deflate.DeflateCompressorInputStreamHP

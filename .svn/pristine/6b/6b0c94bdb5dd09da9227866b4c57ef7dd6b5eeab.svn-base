@@ -1,0 +1,6 @@
+org.apache.commons.compress.compressors.pack200.TempFileCachingStreamBridge#<init>()V
+java.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;
+java.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;
+java.nio.file.Files#newOutputStream(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/io/OutputStream;
+java.nio.file.Files#createDirectories(Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path;
+java.nio.file.Files#createTempFile(Ljava/nio/file/Path;Ljava/lang/String;Ljava/lang/String;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path;

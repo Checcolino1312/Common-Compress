@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.lz4.XXHash32#getValue()J
+java.lang.Integer#rotateLeft(II)I
+org.apache.commons.compress.compressors.lz4.XXHash32#getInt([BI)I

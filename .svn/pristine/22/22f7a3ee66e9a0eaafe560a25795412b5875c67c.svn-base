@@ -1,0 +1,15 @@
+
+Zorg.apache.commons.compress.compressors.gzip.GzipParameters#getComment()Ljava/lang/String;ƒ
+yC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/gzip/GzipParameters.java4 4("1*Ë
+15 5(•
+’
+5 5(
+%0java.lang.String"__id*h
+
+__unknown_file (L*J=
+;org.apache.commons.compress.compressors.gzip.GzipParameters"	
+comment"$
+5 5(
+
+%0java.lang.StringB?=
+;org.apache.commons.compress.compressors.gzip.GzipParametersH

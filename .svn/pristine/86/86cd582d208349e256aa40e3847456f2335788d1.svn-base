@@ -1,0 +1,5 @@
+org.apache.commons.compress.harmony.pack200.SegmentHeader#instance-init#
+org.apache.commons.compress.harmony.pack200.SegmentHeader$Counter#instance-init#
+org.apache.commons.compress.harmony.pack200.SegmentHeader$Counter#<init>()V
+org.apache.commons.compress.harmony.pack200.IntList#<init>()V
+org.apache.commons.compress.harmony.pack200.IntList#instance-init#

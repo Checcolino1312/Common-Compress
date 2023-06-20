@@ -1,0 +1,144 @@
+
+§org.apache.commons.compress.harmony.unpack200.NewAttributeBands#getOneAttribute(ILjava/util/List;)Lorg/apache/commons/compress/harmony/unpack200/bytecode/Attribute;}
+qC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/NewAttributeBands.javaâ â(%"5*ï
+2
+å å(1ú
+ô
+
+å å(1a
+elementVorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$AttributeLayoutElement"__id*"
+
+__unknown_file (
+""‹
+Ÿ
+
+å å(1a
+elementVorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$AttributeLayoutElement"
+__arrayGet*8
+
+__unknown_file (
+
+elementsjava.util.List*"
+
+__unknown_file (
+""*
+3
+1*–
+3
+ç ç(π∂
+
+ç ç(4
+
+%9void"Æorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$AttributeLayoutElement#addToAttribute(ILorg/apache/commons/compress/harmony/unpack200/bytecode/NewAttribute;)V*
+
+__unknown_file (c
+a
+elementVorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$AttributeLayoutElement*"
+
+__unknown_file (
+""*n
+
+__unknown_file (R
+P
+	attributeCorg.apache.commons.compress.harmony.unpack200.bytecode.NewAttribute2VaddToAttribute(ILorg/apache/commons/compress/harmony/unpack200/bytecode/NewAttribute;)*
+2*¨
+5
+ä8 ä(?¿
+Ω
+
+ä8 ä(?;
+%05org.apache.commons.compress.harmony.unpack200.Segment"__id*l
+
+__unknown_file (P*NA
+?org.apache.commons.compress.harmony.unpack200.NewAttributeBands"	
+segment∞≠
+
+ä8 ä(L;
+%15org.apache.commons.compress.harmony.unpack200.CpBands"yorg.apache.commons.compress.harmony.unpack200.Segment#getCpBands()Lorg/apache/commons/compress/harmony/unpack200/CpBands;*Y
+
+__unknown_file (=
+;
+%05org.apache.commons.compress.harmony.unpack200.Segment2getCpBands()–
+Õ
+
+äY ä(hC
+%2=org.apache.commons.compress.harmony.unpack200.AttributeLayout"__id*t
+
+__unknown_file (X*VA
+?org.apache.commons.compress.harmony.unpack200.NewAttributeBands"
+attributeLayoutÌ
+
+äY ä(r
+%3java.lang.String"Yorg.apache.commons.compress.harmony.unpack200.AttributeLayout#getName()Ljava/lang/String;*a
+
+__unknown_file (E
+C
+%2=org.apache.commons.compress.harmony.unpack200.AttributeLayout2	getName()ùö
+
+ä8 ä(sC
+%4=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8"îorg.apache.commons.compress.harmony.unpack200.CpBands#cpUTF8Value(Ljava/lang/String;)Lorg/apache/commons/compress/harmony/unpack200/bytecode/CPUTF8;*Y
+
+__unknown_file (=
+;
+%15org.apache.commons.compress.harmony.unpack200.CpBands*4
+
+__unknown_file (
+
+%3java.lang.String2cpUTF8Value(Ljava/lang/String;)–
+Õ
+
+ã ã(C
+%5=org.apache.commons.compress.harmony.unpack200.AttributeLayout"__id*t
+
+__unknown_file (X*VA
+?org.apache.commons.compress.harmony.unpack200.NewAttributeBands"
+attributeLayout‘—
+
+ã ã(&	
+%6int"Iorg.apache.commons.compress.harmony.unpack200.AttributeLayout#getIndex()I*a
+
+__unknown_file (E
+C
+%5=org.apache.commons.compress.harmony.unpack200.AttributeLayout2
+getIndex()üú
+
+ä+ ä(7I
+%7Corg.apache.commons.compress.harmony.unpack200.bytecode.NewAttribute"Corg.apache.commons.compress.harmony.unpack200.bytecode.NewAttributeö
+ó
+
+ä' ã('
+%8"çorg.apache.commons.compress.harmony.unpack200.bytecode.NewAttribute#<init>(Lorg/apache/commons/compress/harmony/unpack200/bytecode/CPUTF8;I)V*g
+
+__unknown_file (K
+I
+%7Corg.apache.commons.compress.harmony.unpack200.bytecode.NewAttribute*a
+
+__unknown_file (E
+C
+%4=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8*'
+
+__unknown_file (
+	
+%6int–
+Õ
+
+ä ã((P
+	attributeCorg.apache.commons.compress.harmony.unpack200.bytecode.NewAttribute"__id*g
+
+__unknown_file (K
+I
+%7Corg.apache.commons.compress.harmony.unpack200.bytecode.NewAttribute*
+2*q
+1
+è è("`
+
+è è(R
+P
+	attributeCorg.apache.commons.compress.harmony.unpack200.bytecode.NewAttribute: 
+
+__unknown_file (
+"":(
+
+â7 â(b
+elementsjava.util.ListBCA
+?org.apache.commons.compress.harmony.unpack200.NewAttributeBands

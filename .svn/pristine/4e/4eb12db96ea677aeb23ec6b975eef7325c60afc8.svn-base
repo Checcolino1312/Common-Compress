@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#closeEntry(ZZ)V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#rewriteSizesAndCrc(Z)V
+==
+writeDataDescriptor org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#writeDataDescriptor(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)V

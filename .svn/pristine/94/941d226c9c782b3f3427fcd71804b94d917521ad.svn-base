@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.sevenz.SevenZMethod#byId([B)Lorg/apache/commons/compress/archivers/sevenz/SevenZMethod;
+java.util.Arrays#equals([B[B)Z

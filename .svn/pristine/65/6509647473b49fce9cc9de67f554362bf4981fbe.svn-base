@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.snappy.SnappyCompressorOutputStream#createParameterBuilder(I)Lorg/apache/commons/compress/compressors/lz77support/Parameters$Builder;
+org.apache.commons.compress.compressors.lz77support.Parameters#builder(I)Lorg/apache/commons/compress/compressors/lz77support/Parameters$Builder;

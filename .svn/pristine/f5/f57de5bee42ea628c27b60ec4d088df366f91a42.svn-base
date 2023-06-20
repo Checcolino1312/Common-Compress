@@ -1,0 +1,101 @@
+
+[org.apache.commons.compress.harmony.unpack200.bytecode.CPMethod#equals(Ljava/lang/Object;)Z{
+qC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPMethod.java3 3("startingBlock*
+2;/ ;(3É
+Æ
+;/ ;(>C
+%3=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8"__id*o
+
+__unknown_file (S*QA
+?org.apache.commons.compress.harmony.unpack200.bytecode.CPMethod"
+
+descriptorÐ
+Í
+;F ;(VC
+%4=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8"__id*v
+
+__unknown_file (Z*X
+H
+other?org.apache.commons.compress.harmony.unpack200.bytecode.CPMethod"
+
+descriptorÙÖ
+;/ ;(W
+%5boolean"Yorg.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8#equals(Ljava/lang/Object;)Z*a
+
+__unknown_file (E
+C
+%3=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8*a
+
+__unknown_file (E
+C
+%4=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF82equals(Ljava/lang/Object;)*
+1*›
+3:$ :('”
+‘
+: :((H
+other?org.apache.commons.compress.harmony.unpack200.bytecode.CPMethod"__id*5
+
+__unknown_file (
+
+objjava.lang.ObjectÃ
+À
+; ;(C
+%0=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8"__id*i
+
+__unknown_file (M*KA
+?org.apache.commons.compress.harmony.unpack200.bytecode.CPMethod"
+nameÊ
+Ç
+;  ;(*C
+%1=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8"__id*p
+
+__unknown_file (T*R
+H
+other?org.apache.commons.compress.harmony.unpack200.bytecode.CPMethod"
+nameÙÖ
+; ;(+
+%2boolean"Yorg.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8#equals(Ljava/lang/Object;)Z*a
+
+__unknown_file (E
+C
+%0=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8*a
+
+__unknown_file (E
+C
+%1=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF82equals(Ljava/lang/Object;)*
+2
+1*Š
+startingBlock3 3(%Š
+‡
+2 2(
+%6"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectW
+U
+3! 3($
+objjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%6*	
+3
+4
+6*!
+48 8("
+8 8(
+""*!
+65 5("
+5 5(
+""*!
+1; ;(X"
+; ;(X
+"":#
+3 3($
+objjava.lang.ObjectBCA
+?org.apache.commons.compress.harmony.unpack200.bytecode.CPMethodHP

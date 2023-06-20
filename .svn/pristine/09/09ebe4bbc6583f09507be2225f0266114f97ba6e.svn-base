@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#instance-init#
+java.util.LinkedList#<init>()V
+java.util.HashMap#<init>()V
+org.apache.commons.compress.archivers.zip.ZipEncodingHelper#getZipEncoding(Ljava/lang/String;)Lorg/apache/commons/compress/archivers/zip/ZipEncoding;
+java.util.LinkedList#instance-init#
+java.util.HashMap#instance-init#

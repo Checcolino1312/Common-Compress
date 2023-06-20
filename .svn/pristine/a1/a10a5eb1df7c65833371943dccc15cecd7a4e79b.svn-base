@@ -1,0 +1,48 @@
+
+borg.apache.commons.compress.utils.IOUtils#copyRange(Ljava/io/InputStream;JLjava/io/OutputStream;)Js
+gC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/utils/IOUtils.javaå å( "1*ˇ
+1
+é é(C
+A
+
+é- é(:	
+%0int"__id*"
+
+__unknown_file (
+""í
+è
+
+é é(;
+
+%1long"corg.apache.commons.compress.utils.IOUtils#copyRange(Ljava/io/InputStream;JLjava/io/OutputStream;I)J*I
+
+__unknown_file (-"+
+)org.apache.commons.compress.utils.IOUtils*:
+
+__unknown_file (
+
+inputjava.io.InputStream*"
+
+__unknown_file (
+""*<
+
+__unknown_file ( 
+
+outputjava.io.OutputStream*'
+
+__unknown_file (
+	
+%0int"
+
+é é(<
+"":*
+
+å! å(9
+inputjava.io.InputStream: 
+
+__unknown_file (
+"":,
+
+åJ å(c
+outputjava.io.OutputStreamB-"+
+)org.apache.commons.compress.utils.IOUtilsHP

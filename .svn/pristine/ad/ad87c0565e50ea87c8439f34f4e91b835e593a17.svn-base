@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.pack200.CPDouble#compareTo(Lorg/apache/commons/compress/harmony/pack200/CPDouble;)I
+java.lang.Double#compare(DD)I

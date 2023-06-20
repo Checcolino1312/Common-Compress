@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.CompressorInputStream#getUncompressedCount()J
+==
+getBytesRead org.apache.commons.compress.compressors.CompressorInputStream#getBytesRead()J

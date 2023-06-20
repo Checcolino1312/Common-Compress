@@ -1,0 +1,4 @@
+package org.apache.commons.compress.benchmark.jmh_generated;
+public class FramedLZ4CompressorRoundtripBenchmark_jmhType extends FramedLZ4CompressorRoundtripBenchmark_jmhType_B3 {
+}
+

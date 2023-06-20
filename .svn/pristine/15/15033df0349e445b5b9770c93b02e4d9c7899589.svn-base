@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.sevenz.LZMA2Decoder#getOptionsFromCoder(Lorg/apache/commons/compress/archivers/sevenz/Coder;Ljava/io/InputStream;)Ljava/lang/Object;
+org.apache.commons.compress.archivers.sevenz.LZMA2Decoder#getDictionarySize(Lorg/apache/commons/compress/archivers/sevenz/Coder;)I

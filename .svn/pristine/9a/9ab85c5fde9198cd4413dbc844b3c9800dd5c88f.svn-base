@@ -1,0 +1,81 @@
+
+Oorg.apache.commons.compress.compressors.lzw.LZWInputStream#readFromStack([BII)Ix
+lC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/lzw/LZWInputStream.javaö ö("3*¿
+2
+ù" ù(&«
+¨
+
+ù" ù(A	
+%1int"java.lang.Math#min(II)I*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""
+
+
+ú ú((
+%2byte[]"__id*k
+
+__unknown_file (O*M<
+:org.apache.commons.compress.compressors.lzw.LZWInputStream"
+outputStackÖ
+Ó
+
+ú ú(Q
+
+%3void"Djava.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V*0
+
+__unknown_file ("
+java.lang.System**
+
+__unknown_file (
+
+%2byte[]*"
+
+__unknown_file (
+""*)
+
+__unknown_file (
+
+bbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""
+
+ü ü(
+""*ª
+3
+÷% ÷(0
+
+
+÷% ÷(0
+%0byte[]"__id*k
+
+__unknown_file (O*M<
+:org.apache.commons.compress.compressors.lzw.LZWInputStream"
+outputStack*
+2
+1*%
+1
+ş ş("
+
+ş ş(
+"":
+
+ö ö(-
+bbyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B><
+:org.apache.commons.compress.compressors.lzw.LZWInputStreamP

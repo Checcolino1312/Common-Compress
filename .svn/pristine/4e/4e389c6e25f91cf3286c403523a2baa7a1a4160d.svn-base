@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#<init>([BLorg/apache/commons/compress/archivers/zip/ZipEncoding;ZJ)V
+==
+TarArchiveEntry org.apache.commons.compress.archivers.tar.TarArchiveEntry#<init>([BLorg/apache/commons/compress/archivers/zip/ZipEncoding;Z)V
+setDataOffset org.apache.commons.compress.archivers.tar.TarArchiveEntry#setDataOffset(J)V

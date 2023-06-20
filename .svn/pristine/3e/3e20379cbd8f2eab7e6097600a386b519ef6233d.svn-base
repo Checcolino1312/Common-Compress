@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.sevenz.LZMADecoder#getOptionsAsProperties(Ljava/lang/Object;)[B
+org.apache.commons.compress.archivers.sevenz.LZMADecoder#getOptions(Ljava/lang/Object;)Lorg/tukaani/xz/LZMA2Options;
+org.apache.commons.compress.utils.ByteUtils#toLittleEndian([BJII)V

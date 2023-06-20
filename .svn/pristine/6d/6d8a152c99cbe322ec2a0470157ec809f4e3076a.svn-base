@@ -1,0 +1,7 @@
+org.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCache#cacheArray([Ljava/lang/String;)V
+org.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCache$CachedArray#instance-init#
+org.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCache$CachedArray#<init>(Lorg/apache/commons/compress/harmony/unpack200/SegmentConstantPoolArrayCache;[Ljava/lang/String;)V
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#
+==
+arrayIsCached org.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCache#arrayIsCached([Ljava/lang/String;)Z

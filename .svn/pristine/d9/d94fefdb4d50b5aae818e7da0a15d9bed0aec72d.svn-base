@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#reopenFolderInputStream(ILorg/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry;)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#buildDecoderStack(Lorg/apache/commons/compress/archivers/sevenz/Folder;JILorg/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry;)Ljava/io/InputStream;

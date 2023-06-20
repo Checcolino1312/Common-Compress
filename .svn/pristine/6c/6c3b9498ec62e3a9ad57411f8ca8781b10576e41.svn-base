@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#parseTarHeader([BLorg/apache/commons/compress/archivers/zip/ZipEncoding;)V
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#parseTarHeader([BLorg/apache/commons/compress/archivers/zip/ZipEncoding;ZZ)V

@@ -1,0 +1,28 @@
+
+Aorg.apache.commons.compress.compressors.lz4.XXHash32#getInt([BI)Ip
+fC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/lz4/XXHash32.java, ,("1*Å
+1- -(&¡
+ž
+- -(6
+
+%0long"Corg.apache.commons.compress.utils.ByteUtils#fromLittleEndian([BII)J*K
+
+__unknown_file (/"-
++org.apache.commons.compress.utils.ByteUtils*.
+
+__unknown_file (
+
+bufferbyte[]*"
+
+__unknown_file (
+""* 
+
+__unknown_file (2"
+- -(F
+"":
+, ,(2
+bufferbyte[]: 
+
+__unknown_file (
+""B8"6
+4org.apache.commons.compress.compressors.lz4.XXHash32P

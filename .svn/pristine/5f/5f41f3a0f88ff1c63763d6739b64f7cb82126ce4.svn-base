@@ -1,0 +1,7 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readUnpackInfo(Ljava/nio/ByteBuffer;Lorg/apache/commons/compress/archivers/sevenz/Archive;)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readFolder(Ljava/nio/ByteBuffer;)Lorg/apache/commons/compress/archivers/sevenz/Folder;
+org.apache.commons.compress.archivers.sevenz.SevenZFile#assertFitsIntoNonNegativeInt(Ljava/lang/String;J)I
+org.apache.commons.compress.archivers.sevenz.SevenZFile#getInt(Ljava/nio/ByteBuffer;)I
+org.apache.commons.compress.archivers.sevenz.SevenZFile#getUnsignedByte(Ljava/nio/ByteBuffer;)I
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readUint64(Ljava/nio/ByteBuffer;)J
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readAllOrBits(Ljava/nio/ByteBuffer;I)Ljava/util/BitSet;

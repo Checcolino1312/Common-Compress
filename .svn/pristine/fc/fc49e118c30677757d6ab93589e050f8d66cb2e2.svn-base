@@ -1,0 +1,28 @@
+
+aorg.apache.commons.compress.archivers.arj.ArjArchiveInputStream#read8(Ljava/io/DataInputStream;)I‰
+}C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/arj/ArjArchiveInputStream.java´ ´("1*³
+1
+µ µ( œ™
+
+µ µ(3	
+%0int"+java.io.DataInputStream#readUnsignedByte()I*?
+
+__unknown_file (#
+!
+dataInjava.io.DataInputStream2readUnsignedByte()ìé
+
+¶ ¶(
+
+%1void"Borg.apache.commons.compress.archivers.ArchiveInputStream#count(I)V*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStream* 
+
+__unknown_file (22count(I)"
+
+· ·(
+"":/
+
+´ ´(2!
+dataInjava.io.DataInputStreamBCA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStreamP

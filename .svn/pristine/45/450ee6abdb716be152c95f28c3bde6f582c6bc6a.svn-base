@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.GeneralPurposeBit#useStrongEncryption(Z)V
+org.apache.commons.compress.archivers.zip.GeneralPurposeBit#useEncryption(Z)V

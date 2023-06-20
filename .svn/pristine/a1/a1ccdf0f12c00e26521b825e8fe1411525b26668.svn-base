@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#<init>(Ljava/io/InputStream;Lorg/apache/commons/compress/compressors/snappy/FramedSnappyDialect;)V
+==
+FramedSnappyCompressorInputStream org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#<init>(Ljava/io/InputStream;ILorg/apache/commons/compress/compressors/snappy/FramedSnappyDialect;)V

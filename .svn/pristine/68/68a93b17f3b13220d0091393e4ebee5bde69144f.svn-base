@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#readCrc()J
+org.apache.commons.compress.utils.ByteUtils#fromLittleEndian([B)J
+org.apache.commons.compress.utils.IOUtils#readFully(Ljava/io/InputStream;[B)I
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V

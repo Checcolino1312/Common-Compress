@@ -1,0 +1,86 @@
+
+‡org.apache.commons.compress.archivers.sevenz.Coders$BZIP2Decoder#encode(Ljava/io/OutputStream;Ljava/lang/Object;)Ljava/io/OutputStream;o
+eC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/Coders.javaT T("startingBlock*ú
+startingBlockT T(IŽ
+‹
+S S(
+%4"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*9
+
+__unknown_file (
+
+outjava.io.OutputStream[
+Y
+T/ T(2
+outjava.io.OutputStream"__annotation*"
+
+__unknown_file (
+
+%4Ž
+‹
+S S(
+%5"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*9
+
+__unknown_file (
+
+optionsjava.lang.Object[
+Y
+TA T(H
+optionsjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%5*
+1*Þ
+1V" V('A
+?
+V1 V(Z	
+%0int"__id*"
+
+__unknown_file (
+""°
+­
+V" V([	
+%1int"Vorg.apache.commons.compress.archivers.sevenz.AbstractCoder#toInt(Ljava/lang/Object;I)I*Z
+
+__unknown_file (>"<
+:org.apache.commons.compress.archivers.sevenz.AbstractCoder*9
+
+__unknown_file (
+
+optionsjava.lang.Object*'
+
+__unknown_file (
+	
+%0int©¦
+W W(2O
+%2Iorg.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream"Iorg.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStreamÍ
+Ê
+W W(B
+%3"jorg.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#<init>(Ljava/io/OutputStream;I)V*m
+
+__unknown_file (Q
+O
+%2Iorg.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream*9
+
+__unknown_file (
+
+outjava.io.OutputStream*"
+
+__unknown_file (
+"""]
+W W(CQ
+O
+%2Iorg.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream:'
+T T(3
+outjava.io.OutputStream:'
+T4 T(H
+optionsjava.lang.ObjectBDB
+@org.apache.commons.compress.archivers.sevenz.Coders$BZIP2Decoder

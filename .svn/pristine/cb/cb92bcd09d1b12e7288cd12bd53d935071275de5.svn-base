@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorOutputStream#finish()V
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorOutputStream#flushBuffer()V

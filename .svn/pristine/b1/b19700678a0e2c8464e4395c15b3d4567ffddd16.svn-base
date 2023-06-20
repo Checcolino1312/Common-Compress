@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.X000A_NTFS#hashCode()I
+java.lang.Integer#rotateLeft(II)I
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#hashCode()I

@@ -1,0 +1,32 @@
+
+lorg.apache.commons.compress.changes.ChangeSetPerformer$ZipFileIterator#getInputStream()Ljava/io/InputStream;~
+tC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/changes/ChangeSetPerformer.java[ [()"1*„
+1\ \(¼
+¹
+\ \(7
+%01org.apache.commons.compress.archivers.zip.ZipFile"__id*n
+
+__unknown_file (R*PH
+Forg.apache.commons.compress.changes.ChangeSetPerformer$ZipFileIterator"
+inÉ
+Æ
+\% \(,?
+%19org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*s
+
+__unknown_file (W*UH
+Forg.apache.commons.compress.changes.ChangeSetPerformer$ZipFileIterator"	
+currentÀ½
+\ \(-
+%2java.io.InputStream"’org.apache.commons.compress.archivers.zip.ZipFile#getInputStream(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Ljava/io/InputStream;*U
+
+__unknown_file (9
+7
+%01org.apache.commons.compress.archivers.zip.ZipFile*]
+
+__unknown_file (A
+?
+%19org.apache.commons.compress.archivers.zip.ZipArchiveEntry2KgetInputStream(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)"'
+\ \(.
+
+%2java.io.InputStreamBJH
+Forg.apache.commons.compress.changes.ChangeSetPerformer$ZipFileIteratorH

@@ -1,0 +1,5 @@
+org.apache.commons.compress.harmony.unpack200.AttributeLayout#getValue(JLjava/lang/String;Lorg/apache/commons/compress/harmony/unpack200/SegmentConstantPool;)Lorg/apache/commons/compress/harmony/unpack200/bytecode/ClassFileEntry;
+java.lang.String#substring(I)Ljava/lang/String;
+java.lang.String#equals(Ljava/lang/Object;)Z
+org.apache.commons.compress.harmony.unpack200.AttributeLayout#getValue(Ljava/lang/String;JLorg/apache/commons/compress/harmony/unpack200/SegmentConstantPool;)Lorg/apache/commons/compress/harmony/unpack200/bytecode/ClassFileEntry;
+java.lang.String#startsWith(Ljava/lang/String;)Z

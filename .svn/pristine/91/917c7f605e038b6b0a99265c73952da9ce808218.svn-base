@@ -1,0 +1,7 @@
+org.apache.commons.compress.harmony.pack200.Archive#splitIntoSegments(Ljava/util/List;)Ljava/util/List;
+java.util.ArrayList#<init>()V
+org.apache.commons.compress.harmony.pack200.Archive#addJarEntry(Lorg/apache/commons/compress/harmony/pack200/Archive$PackingFile;Ljava/util/List;Ljava/util/List;)Z
+java.util.ArrayList#instance-init#
+org.apache.commons.compress.harmony.pack200.Archive$SegmentUnit#instance-init#
+org.apache.commons.compress.harmony.pack200.Archive#estimateSize(Lorg/apache/commons/compress/harmony/pack200/Archive$PackingFile;)J
+org.apache.commons.compress.harmony.pack200.Archive$SegmentUnit#<init>(Ljava/util/List;Ljava/util/List;)V

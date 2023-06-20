@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#encodeExtendedPaxHeadersContents(Ljava/util/Map;)[B
+java.io.StringWriter#<init>()V
+java.lang.String#getBytes(Ljava/nio/charset/Charset;)[B
+java.io.StringWriter#instance-init#

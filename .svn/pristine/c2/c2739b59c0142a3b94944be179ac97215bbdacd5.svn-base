@@ -1,0 +1,25 @@
+
+Torg.apache.commons.compress.archivers.zip.ExplodingInputStream#getCompressedCount()J|
+pC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ExplodingInputStream.java   (""1*«
+1
+¡ ¡(º
+·
+
+¡ ¡(9
+%03org.apache.commons.compress.archivers.zip.BitStream"__id*h
+
+__unknown_file (L*J@
+>org.apache.commons.compress.archivers.zip.ExplodingInputStream"
+bitsÆÃ
+
+¡ ¡("
+
+%1long"@org.apache.commons.compress.utils.BitInputStream#getBytesRead()J*W
+
+__unknown_file (;
+9
+%03org.apache.commons.compress.archivers.zip.BitStream2getBytesRead()"
+
+¡ ¡(/
+""BB@
+>org.apache.commons.compress.archivers.zip.ExplodingInputStreamHP

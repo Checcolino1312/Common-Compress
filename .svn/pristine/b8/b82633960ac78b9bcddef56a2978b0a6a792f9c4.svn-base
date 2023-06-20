@@ -1,0 +1,103 @@
+
+Èorg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#getEffectiveZip64Mode(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Lorg/apache/commons/compress/archivers/zip/Zip64Mode;~
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.javaÊ Ê(+"6*ž
+2
+Ï Ï(Á
+¾
+
+Ï Ï(9
+%73org.apache.commons.compress.archivers.zip.Zip64Mode"__id*o
+
+__unknown_file (S*QB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"
+	zip64Mode"I
+
+Ï Ï(;
+9
+%73org.apache.commons.compress.archivers.zip.Zip64Mode*¯
+3
+Î Î(ÏÌ
+
+Î Î(
+
+%5long"Forg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getSpazio()J*]
+
+__unknown_file (A
+?
+ze9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getSpazio()D
+B
+
+Î! Î(:
+
+%6long"__id*"
+
+__unknown_file (
+""*
+2
+1*­
+4
+Í Í(ÎË
+
+Í Í(	
+%3int"Forg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getMethod()I*]
+
+__unknown_file (A
+?
+ze9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getMethod()C
+A
+
+Í! Í()	
+%4int"__id*"
+
+__unknown_file (
+""*
+2
+3*Ë
+5
+Ì Ì(±
+®
+
+Ì Ì(+
+%2%java.nio.channels.SeekableByteChannel"__id*m
+
+__unknown_file (Q*OB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"	
+channel*
+2
+4*Ð
+6
+Ë Ë(Á
+¾
+
+Ë Ë(9
+%03org.apache.commons.compress.archivers.zip.Zip64Mode"__id*o
+
+__unknown_file (S*QB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"
+	zip64Modes
+q
+
+Ë Ë(+9
+%13org.apache.commons.compress.archivers.zip.Zip64Mode"__id*"
+
+__unknown_file (
+""*
+2
+5*Ï
+1
+Ñ Ñ(s
+q
+
+Ñ Ñ(9
+%83org.apache.commons.compress.archivers.zip.Zip64Mode"__id*"
+
+__unknown_file (
+"""I
+
+Ñ Ñ(;
+9
+%83org.apache.commons.compress.archivers.zip.Zip64Mode:M
+
+Ê, Ê(D?
+ze9org.apache.commons.compress.archivers.zip.ZipArchiveEntryBDB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream

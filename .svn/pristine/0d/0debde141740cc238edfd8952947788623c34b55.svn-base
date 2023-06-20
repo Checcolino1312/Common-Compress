@@ -1,0 +1,47 @@
+
+Ïorg.apache.commons.compress.archivers.zip.ZipArchiveEntry$ExtraFieldParsingMode#createExtraField(Lorg/apache/commons/compress/archivers/zip/ZipShort;)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;w
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java¼ ¼(-"startingBlock*Ù
+startingBlock
+¼- ¼(F³
+°
+
+» »(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*\
+
+__unknown_file (@
+>
+headerId2org.apache.commons.compress.archivers.zip.ZipShort€
+~
+
+¼= ¼(E>
+headerId2org.apache.commons.compress.archivers.zip.ZipShort"__annotation*"
+
+__unknown_file (
+
+%1*
+1*¤
+1
+¾ ¾("Ã
+À
+
+¾ ¾(==
+%07org.apache.commons.compress.archivers.zip.ZipExtraField"¹org.apache.commons.compress.archivers.zip.ExtraFieldUtils#createExtraField(Lorg/apache/commons/compress/archivers/zip/ZipShort;)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;*Y
+
+__unknown_file (=";
+9org.apache.commons.compress.archivers.zip.ExtraFieldUtils*\
+
+__unknown_file (@
+>
+headerId2org.apache.commons.compress.archivers.zip.ZipShort"M
+
+¾ ¾(>?
+=
+%07org.apache.commons.compress.archivers.zip.ZipExtraField:L
+
+¼. ¼(E>
+headerId2org.apache.commons.compress.archivers.zip.ZipShortBSQ
+Oorg.apache.commons.compress.archivers.zip.ZipArchiveEntry$ExtraFieldParsingModeH

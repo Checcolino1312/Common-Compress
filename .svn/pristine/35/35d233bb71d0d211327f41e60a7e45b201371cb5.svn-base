@@ -1,0 +1,31 @@
+
+norg.apache.commons.compress.archivers.ArchiveStreamFactory#archiveStreamProviderIterable()Ljava/lang/Iterable;x
+lC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java¾3 ¾(P"1*“
+1
+¿ ¿(¨
+¥
+
+¿? ¿(a
+%0java.lang.ClassLoader"Cjava.lang.ClassLoader#getSystemClassLoader()Ljava/lang/ClassLoader;*5
+
+__unknown_file ("
+java.lang.ClassLoader§
+¤
+
+¿ ¿(b
+%1java.util.ServiceLoader"_java.util.ServiceLoader#load(Ljava/lang/Class;Ljava/lang/ClassLoader;)Ljava/util/ServiceLoader;*7
+
+__unknown_file ("
+java.util.ServiceLoader*"
+
+__unknown_file (
+""*9
+
+__unknown_file (
+
+%0java.lang.ClassLoader"-
+
+¿ ¿(c
+
+%1java.util.ServiceLoaderB>"<
+:org.apache.commons.compress.archivers.ArchiveStreamFactory

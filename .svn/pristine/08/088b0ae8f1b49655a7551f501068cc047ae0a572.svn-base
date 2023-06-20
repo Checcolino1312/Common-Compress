@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.arj.ArjArchiveEntry#isHostOsUnix()Z
+==
+getHostOs org.apache.commons.compress.archivers.arj.ArjArchiveEntry#getHostOs()I

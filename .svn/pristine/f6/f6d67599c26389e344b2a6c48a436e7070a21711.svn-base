@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.zip.X7875_NewUnix#getLocalFileDataData()[B
+org.apache.commons.compress.archivers.zip.ZipUtil#reverse([B)[B
+org.apache.commons.compress.archivers.zip.ZipUtil#unsignedIntToSignedByte(I)B
+org.apache.commons.compress.archivers.zip.X7875_NewUnix#trimLeadingZeroesForceMinLength([B)[B
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V

@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.lzma.LZMACompressorInputStream#<init>(Ljava/io/InputStream;)V
+org.tukaani.xz.LZMAInputStream#instance-init#
+org.apache.commons.compress.utils.CountingInputStream#<init>(Ljava/io/InputStream;)V
+org.apache.commons.compress.utils.CountingInputStream#instance-init#
+org.tukaani.xz.LZMAInputStream#<init>(Ljava/io/InputStream;I)V

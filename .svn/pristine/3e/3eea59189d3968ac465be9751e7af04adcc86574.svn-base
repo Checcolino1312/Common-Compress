@@ -1,0 +1,8 @@
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#prefill([B)V
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#insertString(I)I
+org.apache.commons.compress.compressors.lz77support.Parameters#getWindowSize()I
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#initialize()V
+java.lang.IllegalStateException#instance-init#
+java.lang.IllegalStateException#<init>(Ljava/lang/String;)V
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+java.lang.Math#min(II)I

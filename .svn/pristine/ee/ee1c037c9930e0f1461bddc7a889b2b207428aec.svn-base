@@ -1,0 +1,6 @@
+org.apache.commons.compress.harmony.pack200.SegmentHeader#pack(Ljava/io/OutputStream;)V
+org.apache.commons.compress.harmony.pack200.SegmentHeader#calculateArchiveOptions()V
+org.apache.commons.compress.harmony.pack200.SegmentHeader#writeArchiveFileCounts(Ljava/io/OutputStream;)V
+org.apache.commons.compress.harmony.pack200.SegmentHeader#writeCpCounts(Ljava/io/OutputStream;)V
+org.apache.commons.compress.harmony.pack200.SegmentHeader#writeClassCounts(Ljava/io/OutputStream;)V
+org.apache.commons.compress.harmony.pack200.SegmentHeader#writeArchiveSpecialCounts(Ljava/io/OutputStream;)V

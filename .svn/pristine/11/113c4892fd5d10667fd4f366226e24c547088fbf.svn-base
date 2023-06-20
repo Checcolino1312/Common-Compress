@@ -1,0 +1,23 @@
+
+‚
+java:S1192¡"fDefine a constant instead of duplicating this literal "The entry doesn't have this timestamp" 3 times.(öƒşÿÿÿÿ
+—
+java:S1186T"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›’Ñ
+F
+java:S1659N"+Declare "compressedCrc" on a separate line.(–ÚÅÑùÿÿÿÿ
+B
+java:S1659P",Declare "compressedSize" on a separate line.(ÓâØ
+P
+java:S11330"5Do not forget to remove this deprecated code someday.(¬öÔùÿÿÿÿ
+K
+java:S1133="5Do not forget to remove this deprecated code someday.(å·«
+Q
+java:S1133«"5Do not forget to remove this deprecated code someday.(ÓÈëŸúÿÿÿÿ
+=
+java:S1452Ğ"&Remove usage of generic wildcard type.(´‰
+L
+java:S1133Ú"5Do not forget to remove this deprecated code someday.(Ù…´„
+Q
+java:S1133·"5Do not forget to remove this deprecated code someday.(·¾Õöüÿÿÿÿ
+Q
+java:S1133ı"5Do not forget to remove this deprecated code someday.(¸Œšöıÿÿÿÿ

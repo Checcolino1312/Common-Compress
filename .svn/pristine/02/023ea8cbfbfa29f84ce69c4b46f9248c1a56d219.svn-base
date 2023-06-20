@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ZipUtil#setNameAndCommentFromExtraFields(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;[B[B)V
+org.apache.commons.compress.archivers.zip.ZipUtil#getUnicodeStringIfOriginalMatches(Lorg/apache/commons/compress/archivers/zip/AbstractUnicodeExtraField;[B)Ljava/lang/String;

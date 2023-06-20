@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.X000A_NTFS#setModifyFileTime(Ljava/nio/file/attribute/FileTime;)V
+org.apache.commons.compress.archivers.zip.X000A_NTFS#fileTimeToZip(Ljava/nio/file/attribute/FileTime;)Lorg/apache/commons/compress/archivers/zip/ZipEightByteInteger;
+==
+setModifyTime org.apache.commons.compress.archivers.zip.X000A_NTFS#setModifyTime(Lorg/apache/commons/compress/archivers/zip/ZipEightByteInteger;)V

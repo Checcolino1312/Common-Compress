@@ -1,0 +1,7 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#readNextEntry()Lorg/apache/commons/compress/archivers/dump/DumpArchiveEntry;
+org.apache.commons.compress.archivers.dump.DumpArchiveEntry#parse([B)Lorg/apache/commons/compress/archivers/dump/DumpArchiveEntry;
+org.apache.commons.compress.archivers.dump.DumpArchiveUtil#verify([B)Z
+org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#readDirectoryEntry(Lorg/apache/commons/compress/archivers/dump/DumpArchiveEntry;)V
+org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#processPreviousSegment(I)I
+org.apache.commons.compress.archivers.dump.InvalidFormatException#instance-init#
+org.apache.commons.compress.archivers.dump.InvalidFormatException#<init>()V

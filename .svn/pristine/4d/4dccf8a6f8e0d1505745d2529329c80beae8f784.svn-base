@@ -1,0 +1,25 @@
+
+Morg.apache.commons.compress.archivers.dump.DumpArchiveEntry#getHeaderHoles()I…
+yC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveEntry.javaò ò("1*ò
+1
+ó ó(Ó
+Ð
+
+ó ó(S
+%0Morg.apache.commons.compress.archivers.dump.DumpArchiveEntry$TapeSegmentHeader"__id*g
+
+__unknown_file (K*I=
+;org.apache.commons.compress.archivers.dump.DumpArchiveEntry"
+headerôñ
+
+ó ó( 	
+%1int"Yorg.apache.commons.compress.archivers.dump.DumpArchiveEntry$TapeSegmentHeader#getHoles()I*q
+
+__unknown_file (U
+S
+%0Morg.apache.commons.compress.archivers.dump.DumpArchiveEntry$TapeSegmentHeader2
+getHoles()"
+
+ó ó(!
+""B?=
+;org.apache.commons.compress.archivers.dump.DumpArchiveEntryHP

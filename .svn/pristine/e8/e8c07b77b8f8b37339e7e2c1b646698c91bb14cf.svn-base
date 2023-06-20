@@ -1,0 +1,7 @@
+org.apache.commons.compress.utils.IOUtils#readRange(Ljava/nio/channels/ReadableByteChannel;I)[B
+java.nio.ByteBuffer#allocate(I)Ljava/nio/ByteBuffer;
+java.io.ByteArrayOutputStream#<init>()V
+java.io.ByteArrayOutputStream#instance-init#
+java.nio.ByteBuffer#array()[B
+java.lang.Math#min(II)I
+java.nio.Buffer#capacity()I

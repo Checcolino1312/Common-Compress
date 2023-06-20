@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.tar.TarFile#skipRecordPadding()V
+org.apache.commons.compress.archivers.tar.TarFile#isDirectory()Z
+org.apache.commons.compress.archivers.tar.TarFile#repositionForwardBy(J)V
+org.apache.commons.compress.archivers.tar.TarFile#throwExceptionIfPositionIsNotInArchive()V

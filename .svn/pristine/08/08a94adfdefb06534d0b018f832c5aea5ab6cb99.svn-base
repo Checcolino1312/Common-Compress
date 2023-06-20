@@ -1,0 +1,46 @@
+
+šorg.apache.commons.compress.compressors.deflate64.HuffmanDecoder$UncompressedState#state()Lorg/apache/commons/compress/compressors/deflate64/HuffmanState;~
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/deflate64/HuffmanDecoder.java   ("2"3*Ö
+2
+¡1 ¡(8~
+|
+
+¡1 ¡(8D
+%2>org.apache.commons.compress.compressors.deflate64.HuffmanState"__id*"
+
+__unknown_file (
+""¿
+¼
+
+¡1 ¡(8D
+%0>org.apache.commons.compress.compressors.deflate64.HuffmanState"__id*b
+
+__unknown_file (F
+D
+%2>org.apache.commons.compress.compressors.deflate64.HuffmanState*
+1*Ö
+3
+¡( ¡(.~
+|
+
+¡( ¡(.D
+%1>org.apache.commons.compress.compressors.deflate64.HuffmanState"__id*"
+
+__unknown_file (
+""¿
+¼
+
+¡( ¡(.D
+%0>org.apache.commons.compress.compressors.deflate64.HuffmanState"__id*b
+
+__unknown_file (F
+D
+%1>org.apache.commons.compress.compressors.deflate64.HuffmanState*
+1*e
+1
+¡ ¡(9"T
+
+¡ ¡(9F
+D
+%0>org.apache.commons.compress.compressors.deflate64.HuffmanStateBVT
+Rorg.apache.commons.compress.compressors.deflate64.HuffmanDecoder$UncompressedState

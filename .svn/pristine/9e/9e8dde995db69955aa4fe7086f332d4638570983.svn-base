@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#putArchiveEntry(Lorg/apache/commons/compress/archivers/ArchiveEntry;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#putArchiveEntry(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;Z)V

@@ -1,0 +1,35 @@
+
+Oorg.apache.commons.compress.harmony.pack200.PackingOptions#isKeepDeflateHint()Z„
+xC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/pack200/PackingOptions.javaµ µ($"1*í
+1
+¶ ¶(R
+P
+
+¶ ¶(
+%0java.lang.String"__id*$
+
+__unknown_file (
+keepš
+—
+
+¶ ¶(&
+%1java.lang.String"__id*k
+
+__unknown_file (O*M<
+:org.apache.commons.compress.harmony.pack200.PackingOptions"
+deflateHintÔÑ
+
+¶ ¶('
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*4
+
+__unknown_file (
+
+%0java.lang.String*4
+
+__unknown_file (
+
+%1java.lang.String2equals(Ljava/lang/Object;)"
+
+¶ ¶((
+""B><
+:org.apache.commons.compress.harmony.pack200.PackingOptionsHP

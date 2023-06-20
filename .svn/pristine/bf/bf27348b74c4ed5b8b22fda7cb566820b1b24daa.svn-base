@@ -1,0 +1,5 @@
+org.apache.commons.compress.harmony.pack200.PopulationCodec#decodeInts(ILjava/io/InputStream;)[I
+org.apache.commons.compress.harmony.pack200.PopulationCodec#checkTokenCodec(Lorg/apache/commons/compress/harmony/pack200/Codec;Ljava/lang/Object;Ljava/lang/Object;)V
+org.apache.commons.compress.harmony.pack200.PopulationCodec#checkBreakCondition(IIII)Z
+java.lang.Math#abs(I)I
+org.apache.commons.compress.harmony.pack200.PopulationCodec#checkTokenCodec()V

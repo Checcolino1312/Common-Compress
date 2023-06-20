@@ -1,0 +1,3 @@
+org.apache.commons.compress.utils.CountingInputStream#read([B)I
+==
+read org.apache.commons.compress.utils.CountingInputStream#read([BII)I

@@ -1,0 +1,18 @@
+
+Ÿorg.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField#getCompressedSize()Lorg/apache/commons/compress/archivers/zip/ZipEightByteInteger;Š
+~C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.java’ ’(0"1*Ä
+1
+“ “(Ý
+Ú
+
+“ “(C
+%0=org.apache.commons.compress.archivers.zip.ZipEightByteInteger"__id*€
+
+__unknown_file (d*bN
+Lorg.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField"
+compressedSize"S
+
+“ “(E
+C
+%0=org.apache.commons.compress.archivers.zip.ZipEightByteIntegerBPN
+Lorg.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldH

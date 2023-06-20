@@ -1,0 +1,4 @@
+package org.apache.commons.compress.benchmark.jmh_generated;
+public class SevenZFileBenchmark_jmhType extends SevenZFileBenchmark_jmhType_B3 {
+}
+

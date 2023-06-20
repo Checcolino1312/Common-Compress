@@ -1,0 +1,141 @@
+
+Rorg.apache.commons.compress.harmony.pack200.BHSDCodec#toString()Ljava/lang/String;s
+gC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/BHSDCodec.javaÔ Ô("6*Í
+2
+ß ß(ÙÖ
+
+ß ß(
+%8java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*?
+
+__unknown_file (#
+!
+bufferjava.lang.StringBuilder*!
+
+__unknown_file (
+,2	append(C)Ú×
+
+à à(
+%9java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*?
+
+__unknown_file (#
+!
+bufferjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(I)*
+1*Ð
+4
+Û Û(ÙÖ
+
+Û Û(
+%6java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*?
+
+__unknown_file (#
+!
+bufferjava.lang.StringBuilder*!
+
+__unknown_file (
+,2	append(C)Ú×
+
+Ü Ü(
+%7java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*?
+
+__unknown_file (#
+!
+bufferjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(I)*
+2
+1*å	
+6
+Õ7 Õ(9FD
+
+Õ) Õ(6
+%0java.lang.StringBuilder"java.lang.StringBuilder˜
+•
+
+Õ% Õ(:
+%1""java.lang.StringBuilder#<init>(I)V*;
+
+__unknown_file (
+
+%0java.lang.StringBuilder* 
+
+__unknown_file (2t
+r
+
+Õ Õ(;!
+bufferjava.lang.StringBuilder"__id*;
+
+__unknown_file (
+
+%0java.lang.StringBuilderÙÖ
+
+Ö Ö(
+%2java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*?
+
+__unknown_file (#
+!
+bufferjava.lang.StringBuilder*!
+
+__unknown_file (
+(2	append(C)Ú×
+
+× ×(
+%3java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*?
+
+__unknown_file (#
+!
+bufferjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(I)ÙÖ
+
+Ø Ø(
+%4java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*?
+
+__unknown_file (#
+!
+bufferjava.lang.StringBuilder*!
+
+__unknown_file (
+,2	append(C)Ú×
+
+Ù Ù(
+%5java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*?
+
+__unknown_file (#
+!
+bufferjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(I)*	
+2
+4
+1*Ã
+1
+â â(Ú×
+
+â â(
+%10java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*?
+
+__unknown_file (#
+!
+bufferjava.lang.StringBuilder*!
+
+__unknown_file (
+)2	append(C)«¨
+
+ã ã( 
+%11java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*?
+
+__unknown_file (#
+!
+bufferjava.lang.StringBuilder2
+toString()"'
+
+ã ã(!
+
+%11java.lang.StringB97
+5org.apache.commons.compress.harmony.pack200.BHSDCodecH

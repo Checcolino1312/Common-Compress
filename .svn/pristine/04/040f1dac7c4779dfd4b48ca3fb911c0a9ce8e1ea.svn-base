@@ -1,0 +1,7 @@
+org.apache.commons.compress.compressors.gzip.GzipCompressorInputStream#instance-init#
+java.util.zip.Inflater#instance-init#
+org.apache.commons.compress.compressors.gzip.GzipParameters#instance-init#
+java.util.zip.Inflater#<init>(Z)V
+java.util.zip.CRC32#<init>()V
+org.apache.commons.compress.compressors.gzip.GzipParameters#<init>()V
+java.util.zip.CRC32#instance-init#

@@ -1,0 +1,25 @@
+
+ùorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager#globalConstantPool()Lorg/apache/commons/compress/harmony/unpack200/SegmentConstantPool;É
+wC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/OperandManager.javaÅ Å(1"1*á
+1
+Ç Ç(∆
+√
+
+Ç Ç(;
+%05org.apache.commons.compress.harmony.unpack200.Segment"__id*r
+
+__unknown_file (V*TG
+Eorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager"	
+segment”–
+
+Ç Ç((G
+%1Aorg.apache.commons.compress.harmony.unpack200.SegmentConstantPool"äorg.apache.commons.compress.harmony.unpack200.Segment#getConstantPool()Lorg/apache/commons/compress/harmony/unpack200/SegmentConstantPool;*Y
+
+__unknown_file (=
+;
+%05org.apache.commons.compress.harmony.unpack200.Segment2getConstantPool()"W
+
+Ç Ç()I
+G
+%1Aorg.apache.commons.compress.harmony.unpack200.SegmentConstantPoolBIG
+Eorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManagerH

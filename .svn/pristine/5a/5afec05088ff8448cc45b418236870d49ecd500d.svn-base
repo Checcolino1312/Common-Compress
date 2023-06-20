@@ -1,0 +1,13 @@
+org.apache.commons.compress.harmony.archive.internal.nls.Messages#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+java.lang.StringBuilder#instance-init#
+java.lang.String#length()I
+java.lang.String#substring(I)Ljava/lang/String;
+java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#<init>(I)V
+java.util.Arrays#setAll([Ljava/lang/Object;Ljava/util/function/IntFunction;)V
+java.lang.String#charAt(I)C
+java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;
+java.lang.String#substring(II)Ljava/lang/String;
+java.lang.StringBuilder#toString()Ljava/lang/String;
+java.lang.String#indexOf(II)I
+java.lang.Character#digit(CI)I

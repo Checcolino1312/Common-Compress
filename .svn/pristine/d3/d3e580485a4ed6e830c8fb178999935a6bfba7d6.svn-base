@@ -1,0 +1,48 @@
+
+_org.apache.commons.compress.archivers.sevenz.SevenZFile#skipBytesFully(Ljava/nio/ByteBuffer;J)J
+uC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZFile.javaù ù(&"3"4*—
+3
+ý ý(!~|
+
+ý ý(,	
+%0int"java.nio.Buffer#position()I*:
+
+__unknown_file (
+
+inputjava.nio.ByteBuffer2
+position()€~
+
+þ þ(-	
+%1int"java.nio.Buffer#remaining()I*:
+
+__unknown_file (
+
+inputjava.nio.ByteBuffer2remaining()*
+1*%
+4
+û û("
+
+û û(
+""*õ
+1
+‚ ‚(ÍÊ
+
+‚ ‚(3
+%2java.nio.ByteBuffer"4java.nio.ByteBuffer#position(I)Ljava/nio/ByteBuffer;*:
+
+__unknown_file (
+
+inputjava.nio.ByteBuffer*"
+
+__unknown_file (
+""2position(I)"
+
+ƒ ƒ(
+"":*
+
+ù' ù(>
+inputjava.nio.ByteBuffer: 
+
+__unknown_file (
+""B;"9
+7org.apache.commons.compress.archivers.sevenz.SevenZFileP

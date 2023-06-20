@@ -1,0 +1,41 @@
+
+sorg.apache.commons.compress.harmony.pack200.CPLong#compareTo(Lorg/apache/commons/compress/harmony/pack200/CPLong;)Iz
+pC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/pack200/CPLong.java ("startingBlock*È
+startingBlock (*¬
+©
+ (
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*W
+
+__unknown_file (;
+9
+obj2org.apache.commons.compress.harmony.pack200.CPLongy
+w
+& ()9
+obj2org.apache.commons.compress.harmony.pack200.CPLong"__annotation*"
+
+__unknown_file (
+
+%1*
+1*Ñ
+1   (­
+ª
+   (1	
+%0int"java.lang.Long#compare(JJ)I*.
+
+__unknown_file ("
+java.lang.Long*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""
+   (2
+"":E
+ ()9
+obj2org.apache.commons.compress.harmony.pack200.CPLongB64
+2org.apache.commons.compress.harmony.pack200.CPLongHP

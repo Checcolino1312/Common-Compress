@@ -1,0 +1,130 @@
+
+Öorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#createUnrecognizedExtraField(Lorg/apache/commons/compress/archivers/zip/ZipExtraField;[BZ)Lorg/apache/commons/compress/archivers/zip/UnrecognizedExtraField;w
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java—# —(?"4*Ð
+2
+ž ž(êç
+
+ž# ž(B
+%7byte[]"Porg.apache.commons.compress.archivers.zip.ZipExtraField#getLocalFileDataData()[B*a
+
+__unknown_file (E
+C
+existing7org.apache.commons.compress.archivers.zip.ZipExtraField2getLocalFileDataData()¢Ÿ
+
+ž ž(C
+
+%8void"Zorg.apache.commons.compress.archivers.zip.UnrecognizedExtraField#setLocalFileDataData([B)V*c
+
+__unknown_file (G
+E
+u@org.apache.commons.compress.archivers.zip.UnrecognizedExtraField**
+
+__unknown_file (
+
+%7byte[]2setLocalFileDataData([B)§¤
+
+Ÿ Ÿ((
+
+%9void"]org.apache.commons.compress.archivers.zip.UnrecognizedExtraField#setCentralDirectoryData([B)V*c
+
+__unknown_file (G
+E
+u@org.apache.commons.compress.archivers.zip.UnrecognizedExtraField*)
+
+__unknown_file (
+
+bbyte[]2setCentralDirectoryData([B)*
+1*Ö
+3
+› ›(¡ž
+
+› ›(%
+
+%4void"Zorg.apache.commons.compress.archivers.zip.UnrecognizedExtraField#setLocalFileDataData([B)V*c
+
+__unknown_file (G
+E
+u@org.apache.commons.compress.archivers.zip.UnrecognizedExtraField*)
+
+__unknown_file (
+
+bbyte[]2setLocalFileDataData([B)ðí
+
+œ& œ(H
+%5byte[]"Sorg.apache.commons.compress.archivers.zip.ZipExtraField#getCentralDirectoryData()[B*a
+
+__unknown_file (E
+C
+existing7org.apache.commons.compress.archivers.zip.ZipExtraField2getCentralDirectoryData()¨¥
+
+œ œ(I
+
+%6void"]org.apache.commons.compress.archivers.zip.UnrecognizedExtraField#setCentralDirectoryData([B)V*c
+
+__unknown_file (G
+E
+u@org.apache.commons.compress.archivers.zip.UnrecognizedExtraField**
+
+__unknown_file (
+
+%5byte[]2setCentralDirectoryData([B)*
+1*Ÿ
+
+4
+˜) ˜(E™–
+
+˜- ˜(CF
+%0@org.apache.commons.compress.archivers.zip.UnrecognizedExtraField"@org.apache.commons.compress.archivers.zip.UnrecognizedExtraFieldÇ
+Ä
+
+˜) ˜(E
+%1"Jorg.apache.commons.compress.archivers.zip.UnrecognizedExtraField#<init>()V*d
+
+__unknown_file (H
+F
+%0@org.apache.commons.compress.archivers.zip.UnrecognizedExtraFieldÂ
+¿
+
+˜ ˜(FE
+u@org.apache.commons.compress.archivers.zip.UnrecognizedExtraField"__id*d
+
+__unknown_file (H
+F
+%0@org.apache.commons.compress.archivers.zip.UnrecognizedExtraField¶³
+
+™ ™(,8
+%22org.apache.commons.compress.archivers.zip.ZipShort"yorg.apache.commons.compress.archivers.zip.ZipExtraField#getHeaderId()Lorg/apache/commons/compress/archivers/zip/ZipShort;*a
+
+__unknown_file (E
+C
+existing7org.apache.commons.compress.archivers.zip.ZipExtraField2getHeaderId()¡ž
+
+™ ™(-
+
+%3void"ƒorg.apache.commons.compress.archivers.zip.UnrecognizedExtraField#setHeaderId(Lorg/apache/commons/compress/archivers/zip/ZipShort;)V*c
+
+__unknown_file (G
+E
+u@org.apache.commons.compress.archivers.zip.UnrecognizedExtraField*V
+
+__unknown_file (:
+8
+%22org.apache.commons.compress.archivers.zip.ZipShort2AsetHeaderId(Lorg/apache/commons/compress/archivers/zip/ZipShort;)*
+2
+3*f
+1
+¡ ¡("U
+
+¡ ¡(G
+E
+u@org.apache.commons.compress.archivers.zip.UnrecognizedExtraField:Q
+
+—@ —(]C
+existing7org.apache.commons.compress.archivers.zip.ZipExtraField:
+
+—^ —(m
+bbyte[]: 
+
+__unknown_file (
+""B=;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry

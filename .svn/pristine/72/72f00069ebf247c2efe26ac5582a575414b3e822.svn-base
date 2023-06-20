@@ -1,0 +1,39 @@
+
+@org.apache.commons.compress.archivers.tar.TarFile#isDirectory()Z{
+oC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/tar/TarFile.java¹ ¹("3*¨
+2
+º$ º(-¸
+µ
+
+º$ º(-?
+%19org.apache.commons.compress.archivers.tar.TarArchiveEntry"__id*`
+
+__unknown_file (D*B3
+1org.apache.commons.compress.archivers.tar.TarFile"
+	currEntryÖÓ
+
+º$ º(;
+%2boolean"Horg.apache.commons.compress.archivers.tar.TarArchiveEntry#isDirectory()Z*]
+
+__unknown_file (A
+?
+%19org.apache.commons.compress.archivers.tar.TarArchiveEntry2isDirectory()*
+1*Ò
+3
+º º(¸
+µ
+
+º º(?
+%09org.apache.commons.compress.archivers.tar.TarArchiveEntry"__id*`
+
+__unknown_file (D*B3
+1org.apache.commons.compress.archivers.tar.TarFile"
+	currEntry*
+2
+1*%
+1
+º º(<"
+
+º º(<
+""B53
+1org.apache.commons.compress.archivers.tar.TarFileP

@@ -1,0 +1,6 @@
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorOutputStream#writeCrc()V
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorOutputStream#writeLittleEndian(IJ)V
+org.apache.commons.compress.compressors.snappy.PureJavaCrc32C#update([BII)V
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorOutputStream#mask(J)J
+org.apache.commons.compress.compressors.snappy.PureJavaCrc32C#getValue()J
+org.apache.commons.compress.compressors.snappy.PureJavaCrc32C#reset()V

@@ -1,0 +1,41 @@
+
+Sorg.apache.commons.compress.utils.ByteUtils#fromLittleEndian(Ljava/io/DataInput;I)Ji
+]C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/utils/ByteUtils.java¤ ¤('"5*¦
+3
+© ©(Œ‰
+
+© ©(0	
+%1int"%java.io.DataInput#readUnsignedByte()I*5
+
+__unknown_file (
+
+injava.io.DataInput2readUnsignedByte()*
+3
+1*ç
+5
+¦ ¦(Í
+Ê
+
+¦ ¦(
+
+%0void"?org.apache.commons.compress.utils.ByteUtils#checkReadLength(I)V*K
+
+__unknown_file (/"-
++org.apache.commons.compress.utils.ByteUtils*"
+
+__unknown_file (
+""*
+3
+1*%
+1
+¬ ¬("
+
+¬ ¬(
+"":%
+
+¤( ¤(;
+injava.io.DataInput: 
+
+__unknown_file (
+""B/"-
++org.apache.commons.compress.utils.ByteUtilsHP

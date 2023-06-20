@@ -1,0 +1,87 @@
+
+torg.apache.commons.compress.archivers.tar.TarArchiveOutputStream#encodeExtendedPaxHeadersContents(Ljava/util/Map;)[B~
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.javaø ø(3"1*…
+1
+ù ù(1@>
+
+ù# ù(/
+%0java.io.StringWriter"java.io.StringWritern
+l
+
+ù ù(1
+%1"java.io.StringWriter#<init>()V*8
+
+__unknown_file (
+
+%0java.io.StringWriteri
+g
+
+ù ù(2
+wjava.io.StringWriter"__id*8
+
+__unknown_file (
+
+%0java.io.StringWriter»
+¸
+
+ú ‹(	#
+%2java.util.function.BiConsumer"__declareFunction*r
+
+__unknown_file (VT
+R__sonar_lambda_16$org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamˆ
+…
+
+__unknown_file (*
+#
+%2java.util.function.BiConsumer"
+w"__id*7
+
+__unknown_file (
+
+wjava.io.StringWriterú÷
+
+ú ‹(
+
+%20void"7java.util.Map#forEach(Ljava/util/function/BiConsumer;)V*6
+
+__unknown_file (
+
+headersjava.util.Map*A
+
+__unknown_file (%
+#
+%2java.util.function.BiConsumer2(forEach(Ljava/util/function/BiConsumer;) 
+
+Œ Œ(
+%21java.lang.String"1java.io.StringWriter#toString()Ljava/lang/String;*7
+
+__unknown_file (
+
+wjava.io.StringWriter2
+toString()Y
+W
+
+Œ% Œ(*
+%22java.nio.charset.Charset"__id*"
+
+__unknown_file (
+""óğ
+
+Œ Œ(+
+%23byte[]"7java.lang.String#getBytes(Ljava/nio/charset/Charset;)[B*5
+
+__unknown_file (
+
+%21java.lang.String*=
+
+__unknown_file (!
+
+%22java.nio.charset.Charset2$getBytes(Ljava/nio/charset/Charset;)"
+
+Œ Œ(,
+
+%23byte[]:&
+
+ø4 ø(U
+headersjava.util.MapBDB
+@org.apache.commons.compress.archivers.tar.TarArchiveOutputStream

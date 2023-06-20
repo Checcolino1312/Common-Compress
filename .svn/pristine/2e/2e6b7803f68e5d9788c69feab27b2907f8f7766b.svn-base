@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#setEncoding(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.zip.ZipEncodingHelper#getZipEncoding(Ljava/lang/String;)Lorg/apache/commons/compress/archivers/zip/ZipEncoding;
+org.apache.commons.compress.archivers.zip.ZipEncodingHelper#isUTF8(Ljava/lang/String;)Z

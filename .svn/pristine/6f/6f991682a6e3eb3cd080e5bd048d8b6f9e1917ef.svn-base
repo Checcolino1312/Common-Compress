@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#getUnsignedByte(Ljava/nio/ByteBuffer;)I
+java.io.EOFException#instance-init#
+java.nio.Buffer#hasRemaining()Z
+java.io.EOFException#<init>()V

@@ -1,0 +1,11 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#rewriteSizesAndCrc(Z)V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#hasZip64Extra(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#getName(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Ljava/nio/ByteBuffer;
+java.nio.Buffer#position()I
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#versionNeededToExtract(IZZ)I
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#writeOut([B)V
+java.nio.Buffer#limit()I
+org.apache.commons.compress.archivers.zip.ZipShort#getBytes(I)[B
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#getBytes(J)[B
+org.apache.commons.compress.archivers.zip.ZipLong#getBytes(J)[B
+org.apache.commons.compress.archivers.zip.ZipLong#getBytes()[B

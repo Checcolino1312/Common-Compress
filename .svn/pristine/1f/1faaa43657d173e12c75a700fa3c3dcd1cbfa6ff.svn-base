@@ -1,0 +1,7 @@
+org.apache.commons.compress.utils.BoundedArchiveInputStream#read([BII)I
+java.nio.ByteBuffer#wrap([BII)Ljava/nio/ByteBuffer;
+java.lang.IndexOutOfBoundsException#instance-init#
+java.lang.IndexOutOfBoundsException#<init>(Ljava/lang/String;)V
+java.lang.Math#min(JJ)J
+==
+read org.apache.commons.compress.utils.BoundedArchiveInputStream#read(JLjava/nio/ByteBuffer;)I

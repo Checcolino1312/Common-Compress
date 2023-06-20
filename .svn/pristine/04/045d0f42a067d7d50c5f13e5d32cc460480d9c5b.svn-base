@@ -1,0 +1,6 @@
+org.apache.commons.compress.harmony.pack200.RunCodec#normalise(ILorg/apache/commons/compress/harmony/pack200/Codec;)I
+org.apache.commons.compress.harmony.pack200.BHSDCodec#largest()J
+org.apache.commons.compress.harmony.pack200.BHSDCodec#smallest()J
+org.apache.commons.compress.harmony.pack200.BHSDCodec#cardinality()J
+org.apache.commons.compress.utils.ExactMath#add(IJ)I
+org.apache.commons.compress.harmony.pack200.BHSDCodec#isDelta()Z

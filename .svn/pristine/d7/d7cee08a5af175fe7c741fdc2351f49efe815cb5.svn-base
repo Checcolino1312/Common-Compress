@@ -1,0 +1,3 @@
+org.apache.commons.compress.utils.BitInputStream#<init>(Ljava/io/InputStream;Ljava/nio/ByteOrder;)V
+org.apache.commons.compress.utils.CountingInputStream#<init>(Ljava/io/InputStream;)V
+org.apache.commons.compress.utils.CountingInputStream#instance-init#

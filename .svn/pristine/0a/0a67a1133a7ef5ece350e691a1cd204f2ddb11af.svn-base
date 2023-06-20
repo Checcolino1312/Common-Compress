@@ -1,0 +1,28 @@
+
+Jorg.apache.commons.compress.archivers.dump.DumpArchiveUtil#convert16([BI)I‚
+xC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveUtil.java7 7(%"1*Å
+18 8(¡
+ž
+8 8(B
+
+%0long"Corg.apache.commons.compress.utils.ByteUtils#fromLittleEndian([BII)J*K
+
+__unknown_file (/"-
++org.apache.commons.compress.utils.ByteUtils*.
+
+__unknown_file (
+
+bufferbyte[]*"
+
+__unknown_file (
+""* 
+
+__unknown_file (2"
+8 8(C
+"":
+7& 7(:
+bufferbyte[]: 
+
+__unknown_file (
+""B>"<
+:org.apache.commons.compress.archivers.dump.DumpArchiveUtilHP

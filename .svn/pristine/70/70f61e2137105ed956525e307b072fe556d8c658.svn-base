@@ -1,0 +1,20 @@
+
+Gorg.apache.commons.compress.utils.SeekableInMemoryByteChannel#isOpen()Zy
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/utils/SeekableInMemoryByteChannel.javaf f("1*ú
+1g g(¯
+¬
+g g(/
+%0)java.util.concurrent.atomic.AtomicBoolean"__id*i
+
+__unknown_file (M*K?
+=org.apache.commons.compress.utils.SeekableInMemoryByteChannel"
+closed¤¡
+g g(
+%1boolean"0java.util.concurrent.atomic.AtomicBoolean#get()Z*M
+
+__unknown_file (1
+/
+%0)java.util.concurrent.atomic.AtomicBoolean2get()"
+g g(
+""BA?
+=org.apache.commons.compress.utils.SeekableInMemoryByteChannelHP

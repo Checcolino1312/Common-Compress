@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.ExtraFieldUtils#mergeLocalFileDataData([Lorg/apache/commons/compress/archivers/zip/ZipExtraField;)[B
+org.apache.commons.compress.archivers.zip.ZipShort#getBytes()[B
+org.apache.commons.compress.archivers.zip.ZipShort#getValue()I
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V

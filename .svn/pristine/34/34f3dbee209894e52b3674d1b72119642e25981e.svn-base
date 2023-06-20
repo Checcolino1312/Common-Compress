@@ -1,0 +1,22 @@
+
+[org.apache.commons.compress.harmony.unpack200.bytecode.CPFloat#toString()Ljava/lang/String;†
+|C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPFloat.java   ("1*–
+1! !(ñî
+! !(%
+%0java.lang.Object"^org.apache.commons.compress.harmony.unpack200.bytecode.CPConstant#getValue()Ljava/lang/Object;*^
+
+__unknown_file (B@
+>org.apache.commons.compress.harmony.unpack200.bytecode.CPFloat2
+getValue()m
+k
+! !(%
+%1java.lang.String"__concat*
+! !(	
+Float: *$
+! !(%
+
+%0java.lang.Object"$
+! !(&
+
+%1java.lang.StringBB@
+>org.apache.commons.compress.harmony.unpack200.bytecode.CPFloatH

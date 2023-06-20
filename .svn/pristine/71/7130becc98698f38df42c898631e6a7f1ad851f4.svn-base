@@ -1,0 +1,115 @@
+
+»org.apache.commons.compress.archivers.sevenz.Coders$BCJDecoder#decode(Ljava/lang/String;Ljava/io/InputStream;JLorg/apache/commons/compress/archivers/sevenz/Coder;[BI)Ljava/io/InputStream;{
+qC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/sevenz/Coders.java5 5("startingBlock*6
+38 8(/"'
+8 8(/
+
+%1java.io.InputStream*Š
+startingBlock5 6(W’
+
+4 4(
+%7"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*=
+
+__unknown_file (!
+
+archiveNamejava.lang.String_
+]
+5( 5(3
+archiveNamejava.lang.String"__annotation*"
+
+__unknown_file (
+
+%7Œ
+‰
+4 4(
+%8"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*7
+
+__unknown_file (
+
+injava.io.InputStreamY
+W
+5G 5(I
+injava.io.InputStream"__annotation*"
+
+__unknown_file (
+
+%8®
+«
+4 4(
+%9"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*Y
+
+__unknown_file (=
+;
+coder2org.apache.commons.compress.archivers.sevenz.Coder{
+y
+6 6(!;
+coder2org.apache.commons.compress.archivers.sevenz.Coder"__annotation*"
+
+__unknown_file (
+
+%9†
+ƒ
+4 4(
+%10"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*0
+
+__unknown_file (
+
+passwordbyte[]S
+Q
+60 6(8
+passwordbyte[]"__annotation*#
+
+__unknown_file (
+
+%10*
+4*Ü
+48 8(¡
+ž
+8 8("
+%0org.tukaani.xz.FilterOptions"__id*h
+
+__unknown_file (L*J@
+>org.apache.commons.compress.archivers.sevenz.Coders$BCJDecoder"
+opts£ 
+8 8(.
+%1java.io.InputStream"Worg.tukaani.xz.FilterOptions#getInputStream(Ljava/io/InputStream;)Ljava/io/InputStream;*@
+
+__unknown_file ($
+"
+%0org.tukaani.xz.FilterOptions*7
+
+__unknown_file (
+
+injava.io.InputStream2%getInputStream(Ljava/io/InputStream;)*
+3:+
+5 5(4
+archiveNamejava.lang.String:%
+55 5(J
+injava.io.InputStream: 
+
+__unknown_file (
+"":G
+6 6(";
+coder2org.apache.commons.compress.archivers.sevenz.Coder:
+6# 6(9
+passwordbyte[]: 
+
+__unknown_file (
+""BB@
+>org.apache.commons.compress.archivers.sevenz.Coders$BCJDecoder

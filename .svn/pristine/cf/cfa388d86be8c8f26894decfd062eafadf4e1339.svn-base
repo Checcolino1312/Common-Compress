@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.pack200.BandSet#encodeScalar(ILorg/apache/commons/compress/harmony/pack200/BHSDCodec;)[B
+org.apache.commons.compress.harmony.pack200.BHSDCodec#encode(I)[B

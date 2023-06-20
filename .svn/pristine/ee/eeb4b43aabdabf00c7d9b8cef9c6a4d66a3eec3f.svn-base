@@ -1,0 +1,42 @@
+
+Eorg.apache.commons.compress.archivers.tar.TarArchiveEntry#isSparse()Zƒ
+wC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.javaî
+ î
+("3*ë
+2
+ï
+  ï
+(,ÔÑ
+
+ï
+  ï
+(.
+%1boolean"Iorg.apache.commons.compress.archivers.tar.TarArchiveEntry#isStarSparse()Z*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntry2isStarSparse()*
+1*ì
+3
+ï
+ ï
+(ÒÏ
+
+ï
+ ï
+(
+%0boolean"Horg.apache.commons.compress.archivers.tar.TarArchiveEntry#isGNUSparse()Z*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntry2isGNUSparse()*
+2
+1*%
+1
+ï
+ ï
+(/"
+
+ï
+ ï
+(/
+""B=;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntryHP

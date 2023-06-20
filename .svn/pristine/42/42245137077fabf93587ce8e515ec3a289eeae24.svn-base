@@ -1,0 +1,35 @@
+
+¾org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm#createFieldRefForm(ILjava/lang/String;[I)Lorg/apache/commons/compress/harmony/unpack200/bytecode/forms/ByteCodeForm;’
+‡C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/forms/ByteCodeForm.java3 3(1"1*‡
+14  4(&©¦
+4 4(O
+%0Iorg.apache.commons.compress.harmony.unpack200.bytecode.forms.FieldRefForm"Iorg.apache.commons.compress.harmony.unpack200.bytecode.forms.FieldRefFormì
+é
+4 4(6
+%1"horg.apache.commons.compress.harmony.unpack200.bytecode.forms.FieldRefForm#<init>(ILjava/lang/String;[I)V*m
+
+__unknown_file (Q
+O
+%0Iorg.apache.commons.compress.harmony.unpack200.bytecode.forms.FieldRefForm*"
+
+__unknown_file (
+""*6
+
+__unknown_file (
+
+namejava.lang.String*"
+
+__unknown_file (
+"""]
+4 4(7Q
+O
+%0Iorg.apache.commons.compress.harmony.unpack200.bytecode.forms.FieldRefForm: 
+
+__unknown_file (
+"":$
+3> 3(J
+namejava.lang.String: 
+
+__unknown_file (
+""BM"K
+Iorg.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeFormH

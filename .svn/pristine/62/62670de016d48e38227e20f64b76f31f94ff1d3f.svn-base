@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.arj.ArjArchiveInputStream#readExtraData(ILjava/io/DataInputStream;Lorg/apache/commons/compress/archivers/arj/LocalFileHeader;)V
+org.apache.commons.compress.archivers.arj.ArjArchiveInputStream#read32(Ljava/io/DataInputStream;)I

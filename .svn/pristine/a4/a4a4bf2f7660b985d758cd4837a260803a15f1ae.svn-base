@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#equals(Lorg/apache/commons/compress/archivers/tar/TarArchiveEntry;)Z
+java.lang.String#equals(Ljava/lang/Object;)Z
+==
+getName org.apache.commons.compress.archivers.tar.TarArchiveEntry#getName()Ljava/lang/String;

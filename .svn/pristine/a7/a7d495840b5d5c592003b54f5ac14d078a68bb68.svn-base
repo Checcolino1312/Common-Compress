@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="maven-antrun-" default="main">
+  <target name="main">
+    <untar src="C:\Users\KR_Ma\Desktop\Modelli prog\common/src/test/resources/zstd-tests.tar" dest="C:\Users\KR_Ma\Desktop\Modelli prog\common\target\test-classes" />
+  </target>
+</project>

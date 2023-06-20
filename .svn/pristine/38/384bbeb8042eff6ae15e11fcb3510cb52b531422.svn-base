@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#getNextEntry([B)Lorg/apache/commons/compress/archivers/dump/DumpArchiveEntry;
+org.apache.commons.compress.archivers.dump.DumpArchiveEntry#parse([B)Lorg/apache/commons/compress/archivers/dump/DumpArchiveEntry;

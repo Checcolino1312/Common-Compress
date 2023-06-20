@@ -1,0 +1,5 @@
+org.apache.commons.compress.harmony.pack200.IcBands#addToMap(Ljava/lang/String;Lorg/apache/commons/compress/harmony/pack200/IcBands$IcTuple;)V
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+==
+equals org.apache.commons.compress.harmony.pack200.IcBands$IcTuple#equals(Ljava/lang/Object;)Z

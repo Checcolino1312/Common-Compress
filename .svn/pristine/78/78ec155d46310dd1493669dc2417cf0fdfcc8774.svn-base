@@ -1,0 +1,83 @@
+
+Rorg.apache.commons.compress.archivers.tar.TarFile#getRecord()Ljava/nio/ByteBuffer;o
+cC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/tar/TarFile.java© ©( "4*ö
+2
+® ®('À
+½
+
+® ®()
+
+%4void"Porg.apache.commons.compress.archivers.tar.TarFile#tryToConsumeSecondEOFRecord()V*Q
+
+__unknown_file (53
+1org.apache.commons.compress.archivers.tar.TarFileÀ
+½
+
+¯ ¯()
+
+%5void"Porg.apache.commons.compress.archivers.tar.TarFile#consumeRemainderOfLastBlock()V*Q
+
+__unknown_file (53
+1org.apache.commons.compress.archivers.tar.TarFileZ
+X
+
+° °( 
+	headerBufjava.nio.ByteBuffer"__id*"
+
+__unknown_file (
+""*
+1*
+4
+ª ª()Ò
+Ï
+
+ª ª(+
+%0java.nio.ByteBuffer"Sorg.apache.commons.compress.archivers.tar.TarFile#readRecord()Ljava/nio/ByteBuffer;*Q
+
+__unknown_file (53
+1org.apache.commons.compress.archivers.tar.TarFileo
+m
+
+ª ª(, 
+	headerBufjava.nio.ByteBuffer"__id*7
+
+__unknown_file (
+
+%0java.nio.ByteBufferˆ
+…
+
+« «('
+%1boolean"Uorg.apache.commons.compress.archivers.tar.TarFile#isEOFRecord(Ljava/nio/ByteBuffer;)Z*Q
+
+__unknown_file (53
+1org.apache.commons.compress.archivers.tar.TarFile*>
+
+__unknown_file ("
+ 
+	headerBufjava.nio.ByteBufferèå
+
+« «((
+
+%2void">org.apache.commons.compress.archivers.tar.TarFile#setAtEOF(Z)V*Q
+
+__unknown_file (53
+1org.apache.commons.compress.archivers.tar.TarFile*+
+
+__unknown_file (
+
+%1boolean2setAtEOF(Z)º·
+
+¬ ¬(
+%3boolean"<org.apache.commons.compress.archivers.tar.TarFile#isAtEOF()Z*Q
+
+__unknown_file (53
+1org.apache.commons.compress.archivers.tar.TarFile2	isAtEOF()*
+2
+1*A
+1
+² ²("0
+
+² ²("
+ 
+	headerBufjava.nio.ByteBufferB53
+1org.apache.commons.compress.archivers.tar.TarFile

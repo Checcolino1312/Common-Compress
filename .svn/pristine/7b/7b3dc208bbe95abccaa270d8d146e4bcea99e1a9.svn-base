@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.sevenz.Folder#getUnpackSize()J
+==
+findBindPairForOutStream org.apache.commons.compress.archivers.sevenz.Folder#findBindPairForOutStream(I)I

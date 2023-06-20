@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.zip.ZipFile#positionAtCentralDirectory32()V
+org.apache.commons.compress.archivers.zip.ZipFile#skipBytes(I)V
+org.apache.commons.compress.archivers.zip.ZipLong#getValue([B)J
+java.lang.Long#max(JJ)J
+org.apache.commons.compress.archivers.zip.ZipShort#getValue([B)I
+org.apache.commons.compress.utils.IOUtils#readFully(Ljava/nio/channels/ReadableByteChannel;Ljava/nio/ByteBuffer;)V

@@ -1,0 +1,15 @@
+org.apache.commons.compress.archivers.zip.NioZipEncoding#encode(Ljava/lang/String;)Ljava/nio/ByteBuffer;
+java.nio.ByteBuffer#allocate(I)Ljava/nio/ByteBuffer;
+java.nio.Buffer#hasRemaining()Z
+java.nio.Buffer#position()I
+org.apache.commons.compress.archivers.zip.NioZipEncoding#estimateInitialBufferSize(Ljava/nio/charset/CharsetEncoder;I)I
+org.apache.commons.compress.archivers.zip.NioZipEncoding#estimateIncrementalEncodingSize(Ljava/nio/charset/CharsetEncoder;I)I
+org.apache.commons.compress.archivers.zip.NioZipEncoding#newEncoder()Ljava/nio/charset/CharsetEncoder;
+java.nio.CharBuffer#allocate(I)Ljava/nio/CharBuffer;
+java.nio.Buffer#limit()I
+org.apache.commons.compress.archivers.zip.NioZipEncoding#encodeSurrogate(Ljava/nio/CharBuffer;C)Ljava/nio/CharBuffer;
+org.apache.commons.compress.archivers.zip.NioZipEncoding#encodeFully(Ljava/nio/charset/CharsetEncoder;Ljava/nio/CharBuffer;Ljava/nio/ByteBuffer;)Ljava/nio/ByteBuffer;
+java.nio.Buffer#remaining()I
+java.nio.charset.CharsetEncoder#encode(Ljava/nio/CharBuffer;Ljava/nio/ByteBuffer;Z)Ljava/nio/charset/CoderResult;
+java.nio.CharBuffer#wrap(Ljava/lang/CharSequence;)Ljava/nio/CharBuffer;
+org.apache.commons.compress.archivers.zip.ZipEncodingHelper#growBufferBy(Ljava/nio/ByteBuffer;I)Ljava/nio/ByteBuffer;

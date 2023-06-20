@@ -1,0 +1,22 @@
+
+\org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm#getRewriteCopy()[I”
+‡C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/forms/ByteCodeForm.java” ”("1*Þ
+1
+• •(¶
+³
+
+• •(5
+%0int[]"java.util.Arrays#copyOf([II)[I*0
+
+__unknown_file ("
+java.util.Arrays*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""
+
+• •(6
+""BMK
+Iorg.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeFormH

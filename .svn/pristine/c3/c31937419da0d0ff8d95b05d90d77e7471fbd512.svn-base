@@ -1,0 +1,25 @@
+
+Qorg.apache.commons.compress.archivers.dump.DumpArchiveInputStream#getBytesRead()J
+sC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveInputStream.java¸ ¸("1*Å
+1
+¹ ¹(Ã
+À
+
+¹ ¹(@
+%0:org.apache.commons.compress.archivers.dump.TapeInputStream"__id*j
+
+__unknown_file (N*LC
+Aorg.apache.commons.compress.archivers.dump.DumpArchiveInputStream"
+raw×Ô
+
+¹ ¹(!
+
+%1long"Jorg.apache.commons.compress.archivers.dump.TapeInputStream#getBytesRead()J*^
+
+__unknown_file (B
+@
+%0:org.apache.commons.compress.archivers.dump.TapeInputStream2getBytesRead()"
+
+¹ ¹("
+""BEC
+Aorg.apache.commons.compress.archivers.dump.DumpArchiveInputStreamHP

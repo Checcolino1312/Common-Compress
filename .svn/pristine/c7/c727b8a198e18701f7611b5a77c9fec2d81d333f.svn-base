@@ -1,0 +1,55 @@
+
+Worg.apache.commons.compress.compressors.deflate64.HuffmanDecoder#readDynamicTables()[[I~
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/deflate64/HuffmanDecoder.java¶ ¶(%"1*ı
+1
+ß' ß((Ó
+Î
+
+®$ ®(/
+
+%0long"Morg.apache.commons.compress.compressors.deflate64.HuffmanDecoder#readBits(I)J*`
+
+__unknown_file (DB
+@org.apache.commons.compress.compressors.deflate64.HuffmanDecoder* 
+
+__unknown_file (2Ó
+Î
+
+´% ´(0
+
+%1long"Morg.apache.commons.compress.compressors.deflate64.HuffmanDecoder#readBits(I)J*`
+
+__unknown_file (DB
+@org.apache.commons.compress.compressors.deflate64.HuffmanDecoder* 
+
+__unknown_file (2ª
+∏
+
+Æ Æ($6
+%20org.apache.commons.compress.utils.BitInputStream"__id*l
+
+__unknown_file (P*NB
+@org.apache.commons.compress.compressors.deflate64.HuffmanDecoder"
+reader≠
+™
+
+Æ Æ(;
+
+%3void"èorg.apache.commons.compress.compressors.deflate64.HuffmanDecoder#populateDynamicTables(Lorg/apache/commons/compress/utils/BitInputStream;[I[I)V*`
+
+__unknown_file (D"B
+@org.apache.commons.compress.compressors.deflate64.HuffmanDecoder*T
+
+__unknown_file (8
+6
+%20org.apache.commons.compress.utils.BitInputStream*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""
+
+Ø Ø(
+""BDB
+@org.apache.commons.compress.compressors.deflate64.HuffmanDecoder

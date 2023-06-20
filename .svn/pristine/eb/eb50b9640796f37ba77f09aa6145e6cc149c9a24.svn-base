@@ -1,0 +1,26 @@
+
+|org.apache.commons.compress.harmony.pack200.BandSet#encodeScalar(ILorg/apache/commons/compress/harmony/pack200/BHSDCodec;)[Bq
+eC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/BandSet.java— —("1*
+1
+˜ ˜(íê
+
+˜ ˜("
+%0byte[]"Aorg.apache.commons.compress.harmony.pack200.BHSDCodec#encode(I)[B*\
+
+__unknown_file (@
+>
+codec5org.apache.commons.compress.harmony.pack200.BHSDCodec*"
+
+__unknown_file (
+""2	encode(I)"
+
+˜ ˜(#
+
+%0byte[]: 
+
+__unknown_file (
+"":L
+
+—0 —(E>
+codec5org.apache.commons.compress.harmony.pack200.BHSDCodecB75
+3org.apache.commons.compress.harmony.pack200.BandSetH

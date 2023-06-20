@@ -1,0 +1,41 @@
+
+qorg.apache.commons.compress.harmony.pack200.CPInt#compareTo(Lorg/apache/commons/compress/harmony/pack200/CPInt;)Im
+cC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/CPInt.java ("startingBlock*Æ
+startingBlock ()«
+¨
+ (
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*V
+
+__unknown_file (:
+8
+obj1org.apache.commons.compress.harmony.pack200.CPIntx
+v
+% ((8
+obj1org.apache.commons.compress.harmony.pack200.CPInt"__annotation*"
+
+__unknown_file (
+
+%1*
+1*×
+1   (³
+°
+   (2	
+%0int"java.lang.Integer#compare(II)I*1
+
+__unknown_file ("
+java.lang.Integer*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""
+   (3
+"":D
+ ((8
+obj1org.apache.commons.compress.harmony.pack200.CPIntB53
+1org.apache.commons.compress.harmony.pack200.CPIntHP

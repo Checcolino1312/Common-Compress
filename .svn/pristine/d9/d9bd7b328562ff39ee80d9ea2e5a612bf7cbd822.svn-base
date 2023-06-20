@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#write([B)V
+==
+write org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#write([BII)V

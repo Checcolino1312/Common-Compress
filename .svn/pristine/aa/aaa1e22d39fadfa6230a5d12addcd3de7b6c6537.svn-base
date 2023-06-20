@@ -1,0 +1,17 @@
+
+Žorg.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField#getHeaderId()Lorg/apache/commons/compress/archivers/zip/ZipShort;Š
+~C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField.javaŸ Ÿ("1*Í
+1
+   (r
+p
+
+   (8
+%02org.apache.commons.compress.archivers.zip.ZipShort"__id*"
+
+__unknown_file (
+"""H
+
+   (:
+8
+%02org.apache.commons.compress.archivers.zip.ZipShortBPN
+Lorg.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldH

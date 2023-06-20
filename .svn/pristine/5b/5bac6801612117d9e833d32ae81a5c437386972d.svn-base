@@ -1,0 +1,7 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#<init>(Ljava/io/InputStream;Z)V
+org.apache.commons.compress.utils.CloseShieldFilterInputStream#instance-init#
+org.apache.commons.compress.utils.BitInputStream#<init>(Ljava/io/InputStream;Ljava/nio/ByteOrder;)V
+org.apache.commons.compress.utils.BitInputStream#instance-init#
+org.apache.commons.compress.utils.CloseShieldFilterInputStream#<init>(Ljava/io/InputStream;)V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#initBlock()V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#init(Z)Z

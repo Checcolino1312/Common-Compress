@@ -1,0 +1,25 @@
+
+\org.apache.commons.compress.compressors.gzip.GzipCompressorInputStream#getCompressedCount()J‘
+„C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/gzip/GzipCompressorInputStream.javaÕ Õ(""1*Æ
+1
+Ö Ö(Î
+Ë
+
+Ö Ö(;
+%05org.apache.commons.compress.utils.CountingInputStream"__id*z
+
+__unknown_file (^*\H
+Forg.apache.commons.compress.compressors.gzip.GzipCompressorInputStream"
+countingStreamÍÊ
+
+Ö Ö(,
+
+%1long"Eorg.apache.commons.compress.utils.CountingInputStream#getBytesRead()J*Y
+
+__unknown_file (=
+;
+%05org.apache.commons.compress.utils.CountingInputStream2getBytesRead()"
+
+Ö Ö(-
+""BJH
+Forg.apache.commons.compress.compressors.gzip.GzipCompressorInputStreamHP

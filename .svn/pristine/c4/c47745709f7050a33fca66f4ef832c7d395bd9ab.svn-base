@@ -1,0 +1,6 @@
+org.apache.commons.compress.utils.MultiReadOnlySeekableByteChannel#forPaths([Ljava/nio/file/Path;)Ljava/nio/channels/SeekableByteChannel;
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+org.apache.commons.compress.utils.MultiReadOnlySeekableByteChannel#instance-init#
+java.nio.file.Files#newByteChannel(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/nio/channels/SeekableByteChannel;
+org.apache.commons.compress.utils.MultiReadOnlySeekableByteChannel#<init>(Ljava/util/List;)V

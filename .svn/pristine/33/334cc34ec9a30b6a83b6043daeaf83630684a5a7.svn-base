@@ -1,0 +1,42 @@
+
+borg.apache.commons.compress.utils.FileNameUtils#getExtension(Ljava/lang/String;)Ljava/lang/String;k
+aC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/utils/FileNameUtils.javah h(%"2"1*!
+2j j("
+j j(
+""*º
+1l l(".,
+l' l(+
+%0java.io.File"java.io.File«
+¨
+l# l(5
+%1"(java.io.File#<init>(Ljava/lang/String;)V*0
+
+__unknown_file (
+
+%0java.io.File*:
+
+__unknown_file (
+
+filenamejava.lang.StringŒ‰
+l# l(?
+%2java.lang.String"(java.io.File#getName()Ljava/lang/String;*0
+
+__unknown_file (
+
+%0java.io.File2	getName()—
+”
+l l(@
+%3java.lang.String"iorg.apache.commons.compress.utils.FileNameUtils#fileNameToExtension(Ljava/lang/String;)Ljava/lang/String;*O
+
+__unknown_file (3"1
+/org.apache.commons.compress.utils.FileNameUtils*4
+
+__unknown_file (
+
+%2java.lang.String"$
+l l(A
+
+%3java.lang.String:(
+h& h(;
+filenamejava.lang.StringB3"1
+/org.apache.commons.compress.utils.FileNameUtilsH

@@ -1,0 +1,28 @@
+
+@org.apache.commons.compress.archivers.zip.ZipLong#getValue([BI)Jm
+cC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipLong.javac c("1*ƒ
+1d d(†
+ù
+d d(;
+
+%0long"Corg.apache.commons.compress.utils.ByteUtils#fromLittleEndian([BII)J*K
+
+__unknown_file (/"-
++org.apache.commons.compress.utils.ByteUtils*-
+
+__unknown_file (
+
+bytesbyte[]*"
+
+__unknown_file (
+""* 
+
+__unknown_file (2"
+d d(<
+"":
+c  c(3
+bytesbyte[]: 
+
+__unknown_file (
+""B5"3
+1org.apache.commons.compress.archivers.zip.ZipLongHP

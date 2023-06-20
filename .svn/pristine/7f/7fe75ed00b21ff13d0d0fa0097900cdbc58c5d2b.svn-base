@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#createHuffmanDecodingTables(II)V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#hbCreateDecodeTables([I[I[I[CIII)V

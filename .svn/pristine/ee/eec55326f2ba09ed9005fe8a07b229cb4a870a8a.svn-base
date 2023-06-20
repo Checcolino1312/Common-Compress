@@ -1,0 +1,6 @@
+org.apache.commons.compress.harmony.pack200.BHSDCodec#toString()Ljava/lang/String;
+java.lang.StringBuilder#instance-init#
+java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#<init>(I)V
+java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#toString()Ljava/lang/String;

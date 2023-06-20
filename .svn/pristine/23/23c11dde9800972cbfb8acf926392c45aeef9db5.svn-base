@@ -1,0 +1,7 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.ClassConstantPool#initialSort()V
+java.util.TreeSet#<init>(Ljava/util/Comparator;)V
+java.util.Comparator#comparing(Ljava/util/function/Function;)Ljava/util/Comparator;
+java.util.TreeSet#instance-init#
+java.lang.Error#<init>(Ljava/lang/String;)V
+java.util.Comparator#comparingInt(Ljava/util/function/ToIntFunction;)Ljava/util/Comparator;
+java.lang.Error#instance-init#

@@ -1,0 +1,3 @@
+org.apache.commons.compress.utils.CRC32VerifyingInputStream#<init>(Ljava/io/InputStream;JJ)V
+java.util.zip.CRC32#<init>()V
+java.util.zip.CRC32#instance-init#

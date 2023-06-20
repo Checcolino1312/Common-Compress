@@ -1,0 +1,36 @@
+
+Worg.apache.commons.compress.harmony.pack200.BandSet#longListToArray(Ljava/util/List;)[Jq
+eC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/BandSet.javaå å($"1*’
+1
+æ æ(ª§
+
+æ æ( 
+%0java.util.stream.Stream"6java.util.Collection#stream()Ljava/util/stream/Stream;*8
+
+__unknown_file (
+
+longListjava.util.List2stream()¨¥
+
+æ æ(;!
+%1java.util.stream.LongStream"cjava.util.stream.Stream#mapToLong(Ljava/util/function/ToLongFunction;)Ljava/util/stream/LongStream;*;
+
+__unknown_file (
+
+%0java.util.stream.Stream*"
+
+__unknown_file (
+""2.mapToLong(Ljava/util/function/ToLongFunction;)’
+
+æ æ(E
+%2long[]"'java.util.stream.LongStream#toArray()[J*?
+
+__unknown_file (#
+!
+%1java.util.stream.LongStream2	toArray()"
+
+æ æ(F
+"":(
+
+å% å(>
+longListjava.util.ListB75
+3org.apache.commons.compress.harmony.pack200.BandSet

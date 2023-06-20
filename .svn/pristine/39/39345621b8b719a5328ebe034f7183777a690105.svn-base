@@ -1,0 +1,42 @@
+
+¶org.apache.commons.compress.archivers.ArchiveStreamFactory#createArchiveInputStream(Ljava/lang/String;Ljava/io/InputStream;)Lorg/apache/commons/compress/archivers/ArchiveInputStream;„
+xC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java­ ­(6"1*û
+1
+® ®('œ
+™
+
+®: ®(G
+%0java.lang.String"__id*m
+
+__unknown_file (Q*O<
+:org.apache.commons.compress.archivers.ArchiveStreamFactory"
+entryEncodingú÷
+
+® ®(H>
+%18org.apache.commons.compress.archivers.ArchiveInputStream"Èorg.apache.commons.compress.archivers.ArchiveStreamFactory#createArchiveInputStream(Ljava/lang/String;Ljava/io/InputStream;Ljava/lang/String;)Lorg/apache/commons/compress/archivers/ArchiveInputStream;*Z
+
+__unknown_file (><
+:org.apache.commons.compress.archivers.ArchiveStreamFactory*>
+
+__unknown_file ("
+ 
+archiverNamejava.lang.String*7
+
+__unknown_file (
+
+injava.io.InputStream*4
+
+__unknown_file (
+
+%0java.lang.String2ScreateArchiveInputStream(Ljava/lang/String;Ljava/io/InputStream;Ljava/lang/String;)"N
+
+® ®(I@
+>
+%18org.apache.commons.compress.archivers.ArchiveInputStream:.
+
+­7 ­(Q 
+archiverNamejava.lang.String:'
+
+­R ­(f
+injava.io.InputStreamB><
+:org.apache.commons.compress.archivers.ArchiveStreamFactoryH

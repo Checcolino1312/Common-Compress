@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#sendMTFValues3(II)V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#hbAssignCodes([I[BIII)V

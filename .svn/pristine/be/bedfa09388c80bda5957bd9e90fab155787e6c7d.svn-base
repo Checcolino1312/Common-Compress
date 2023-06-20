@@ -1,0 +1,29 @@
+
+ñorg.apache.commons.compress.archivers.zip.ZipArchiveEntryRequest#createZipArchiveEntryRequest(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;Lorg/apache/commons/compress/parallel/InputStreamSupplier;)Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntryRequest;|
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntryRequest.java$) $(E"1*í
+1%* %(9óî
+% %()F
+%0@org.apache.commons.compress.archivers.zip.ZipArchiveEntryRequest"@org.apache.commons.compress.archivers.zip.ZipArchiveEntryRequestí
+è
+% %(K
+%1"øorg.apache.commons.compress.archivers.zip.ZipArchiveEntryRequest#<init>(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;Lorg/apache/commons/compress/parallel/InputStreamSupplier;)V*d
+
+__unknown_file (H
+F
+%0@org.apache.commons.compress.archivers.zip.ZipArchiveEntryRequest*j
+
+__unknown_file (N
+L
+zipArchiveEntry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry*i
+
+__unknown_file (M
+K
+payloadSupplier8org.apache.commons.compress.parallel.InputStreamSupplier"T
+% %(LH
+F
+%0@org.apache.commons.compress.archivers.zip.ZipArchiveEntryRequest:X
+$F $(lL
+zipArchiveEntry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry:X
+	$m $(ñK
+payloadSupplier8org.apache.commons.compress.parallel.InputStreamSupplierBD"B
+@org.apache.commons.compress.archivers.zip.ZipArchiveEntryRequestH

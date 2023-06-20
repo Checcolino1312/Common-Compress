@@ -1,0 +1,22 @@
+
+horg.apache.commons.compress.compressors.zstandard.ZstdCompressorInputStream#toString()Ljava/lang/String;‡
+}C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/zstandard/ZstdCompressorInputStream.java} }("1*œ
+1~ ~(¸
+µ
+~ ~(+
+%0%com.github.luben.zstd.ZstdInputStream"__id*v
+
+__unknown_file (Z*XM
+Korg.apache.commons.compress.compressors.zstandard.ZstdCompressorInputStream"
+decIS«¨
+~ ~(
+%1java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*I
+
+__unknown_file (-
++
+%0%com.github.luben.zstd.ZstdInputStream2
+toString()"$
+~ ~( 
+
+%1java.lang.StringBOM
+Korg.apache.commons.compress.compressors.zstandard.ZstdCompressorInputStreamH

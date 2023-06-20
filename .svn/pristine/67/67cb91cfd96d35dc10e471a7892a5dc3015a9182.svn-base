@@ -1,0 +1,6 @@
+org.apache.commons.compress.compressors.snappy.SnappyCompressorOutputStream#writeBackReference(Lorg/apache/commons/compress/compressors/lz77support/LZ77Compressor$BackReference;)V
+org.apache.commons.compress.compressors.snappy.SnappyCompressorOutputStream#writeBackReferenceWithTwoOffsetBytes(II)V
+org.apache.commons.compress.compressors.snappy.SnappyCompressorOutputStream#writeBackReferenceWithOneOffsetByte(II)V
+org.apache.commons.compress.compressors.snappy.SnappyCompressorOutputStream#writeBackReferenceWithFourOffsetBytes(II)V
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor$BackReference#getLength()I
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor$BackReference#getOffset()I

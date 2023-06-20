@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readAsciiLong(II)J
+java.lang.Long#parseLong(Ljava/lang/String;I)J
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readRange(I)[B
+org.apache.commons.compress.utils.ArchiveUtils#toAsciiString([B)Ljava/lang/String;

@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.lzw.LZWInputStream#expandCodeToOutputStack(IZ)I
+==
+addEntry org.apache.commons.compress.compressors.lzw.LZWInputStream#addEntry(IB)I

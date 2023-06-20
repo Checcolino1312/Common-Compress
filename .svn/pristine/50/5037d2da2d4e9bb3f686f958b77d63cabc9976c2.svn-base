@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#isGNUSparse()Z
+==
+isPaxGNUSparse org.apache.commons.compress.archivers.tar.TarArchiveEntry#isPaxGNUSparse()Z
+isOldGNUSparse org.apache.commons.compress.archivers.tar.TarArchiveEntry#isOldGNUSparse()Z

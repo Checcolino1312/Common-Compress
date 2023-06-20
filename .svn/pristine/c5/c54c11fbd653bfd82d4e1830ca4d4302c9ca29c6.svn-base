@@ -1,0 +1,8 @@
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#writeHeader(Lorg/apache/commons/compress/archivers/cpio/CpioArchiveEntry;)V
+org.apache.commons.compress.utils.ArchiveUtils#toAsciiBytes(Ljava/lang/String;)[B
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#writeOldAsciiEntry(Lorg/apache/commons/compress/archivers/cpio/CpioArchiveEntry;)V
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#writeBinaryLong(JIZ)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#writeNewEntry(Lorg/apache/commons/compress/archivers/cpio/CpioArchiveEntry;)V
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#writeOldBinaryEntry(Lorg/apache/commons/compress/archivers/cpio/CpioArchiveEntry;Z)V

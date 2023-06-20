@@ -1,0 +1,52 @@
+
+Worg.apache.commons.compress.archivers.zip.NioZipEncoding#canEncode(Ljava/lang/String;)Z€
+vC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/NioZipEncoding.javau u("startingBlock*†
+startingBlocku u(/‹
+ˆ
+t t(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*6
+
+__unknown_file (
+
+namejava.lang.StringX
+V
+u* u(.
+namejava.lang.String"__annotation*"
+
+__unknown_file (
+
+%2*
+1*£
+1v# v(-ö
+ó
+v# v(/%
+%0java.nio.charset.CharsetEncoder"forg.apache.commons.compress.archivers.zip.NioZipEncoding#newEncoder()Ljava/nio/charset/CharsetEncoder;*X
+
+__unknown_file (<:
+8org.apache.commons.compress.archivers.zip.NioZipEncoding
+}
+v v(0&
+encjava.nio.charset.CharsetEncoder"__id*C
+
+__unknown_file ('
+%
+%0java.nio.charset.CharsetEncoder…‚
+x x("
+%1boolean"Djava.nio.charset.CharsetEncoder#canEncode(Ljava/lang/CharSequence;)Z*D
+
+__unknown_file ((
+&
+encjava.nio.charset.CharsetEncoder*6
+
+__unknown_file (
+
+namejava.lang.String2#canEncode(Ljava/lang/CharSequence;)"
+x x(#
+"":$
+u u(.
+namejava.lang.StringB<:
+8org.apache.commons.compress.archivers.zip.NioZipEncodingHP

@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.cpio.CpioArchiveEntry#setRemoteDevice(J)V
+org.apache.commons.compress.archivers.cpio.CpioArchiveEntry#checkOldFormat()V

@@ -1,0 +1,5 @@
+org.apache.commons.compress.harmony.pack200.BcBands#visitEnd()V
+java.lang.IllegalStateException#instance-init#
+java.lang.Integer#valueOf(I)Ljava/lang/Integer;
+java.lang.Integer#intValue()I
+java.lang.IllegalStateException#<init>(Ljava/lang/String;)V

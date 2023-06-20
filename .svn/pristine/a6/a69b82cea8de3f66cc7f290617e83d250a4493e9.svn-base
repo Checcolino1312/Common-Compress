@@ -1,0 +1,49 @@
+
+forg.apache.commons.compress.archivers.sevenz.LZMA2Decoder#getOptionsAsProperties(Ljava/lang/Object;)[Bu
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/LZMA2Decoder.java\ \(!"startingBlock*†
+startingBlock\! \(4‹
+ˆ
+[ [(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*6
+
+__unknown_file (
+
+optsjava.lang.ObjectX
+V
+\/ \(3
+optsjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%2*
+1*É
+1] ]((‡
+„
+] ](.	
+%0int"Zorg.apache.commons.compress.archivers.sevenz.LZMA2Decoder#getDictSize(Ljava/lang/Object;)I*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.sevenz.LZMA2Decoder*6
+
+__unknown_file (
+
+optsjava.lang.Object›
+˜
+^ ^(?	
+%1int"*java.lang.Integer#numberOfLeadingZeros(I)I*1
+
+__unknown_file ("
+java.lang.Integer*"
+
+__unknown_file (
+"""
+` b(
+
+"":$
+\" \(3
+optsjava.lang.ObjectB=;
+9org.apache.commons.compress.archivers.sevenz.LZMA2Decoder

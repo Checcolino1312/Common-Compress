@@ -1,0 +1,88 @@
+
+^org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#matches([BI)Z™
+ŽC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/snappy/FramedSnappyCompressorInputStream.javaI I(!"5*÷
+2Q Q(!D
+B
+Q4 Q(@
+%2byte[]"__id*"
+
+__unknown_file (
+""Ä
+Á
+Q Q(H
+%3byte[]"java.util.Arrays#copyOf([BI)[B*0
+
+__unknown_file ("
+java.util.Arrays*1
+
+__unknown_file (
+
+	signaturebyte[]*"
+
+__unknown_file (
+""V
+T
+Q Q(H
+shortenedSigbyte[]"__id**
+
+__unknown_file (
+
+%3byte[]*
+1*º
+3O O(']
+[
+O O((
+shortenedSigbyte[]"__id*1
+
+__unknown_file (
+
+	signaturebyte[]D
+B
+P P(+
+%1byte[]"__id*"
+
+__unknown_file (
+""*
+2
+1*!
+4L L("
+L L(
+""*[
+5K K(D
+B
+K K(!
+%0byte[]"__id*"
+
+__unknown_file (
+""*
+3
+4*º
+1T T(D
+B
+T+ T(7
+%4byte[]"__id*"
+
+__unknown_file (
+""Ð
+Í
+T T(8
+%5boolean"java.util.Arrays#equals([B[B)Z*0
+
+__unknown_file ("
+java.util.Arrays*4
+
+__unknown_file (
+
+shortenedSigbyte[]**
+
+__unknown_file (
+
+%4byte[]"
+T T(9
+"":
+I" I(9
+	signaturebyte[]: 
+
+__unknown_file (
+""BT"R
+Porg.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStreamHP

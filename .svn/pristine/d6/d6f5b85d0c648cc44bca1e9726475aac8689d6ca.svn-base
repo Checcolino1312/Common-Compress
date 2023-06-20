@@ -1,0 +1,109 @@
+
+Ωorg.apache.commons.compress.archivers.sevenz.Coders$BZIP2Decoder#decode(Ljava/lang/String;Ljava/io/InputStream;JLorg/apache/commons/compress/archivers/sevenz/Coder;[BI)Ljava/io/InputStream;{
+qC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/sevenz/Coders.javaN N("startingBlock*à
+startingBlockN O(Wí
+è
+M M(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*=
+
+__unknown_file (!
+
+archiveNamejava.lang.String_
+]
+N( N(3
+archiveNamejava.lang.String"__annotation*"
+
+__unknown_file (
+
+%2å
+â
+M M(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*7
+
+__unknown_file (
+
+injava.io.InputStreamY
+W
+NG N(I
+injava.io.InputStream"__annotation*"
+
+__unknown_file (
+
+%3Æ
+´
+M M(
+%4"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*Y
+
+__unknown_file (=
+;
+coder2org.apache.commons.compress.archivers.sevenz.Coder{
+y
+O O(!;
+coder2org.apache.commons.compress.archivers.sevenz.Coder"__annotation*"
+
+__unknown_file (
+
+%4Ö
+Ç
+M M(
+%5"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*0
+
+__unknown_file (
+
+passwordbyte[]R
+P
+O0 O(8
+passwordbyte[]"__annotation*"
+
+__unknown_file (
+
+%5*
+1*ª
+1Q2 Q(4ß§
+Q Q(1N
+%0Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream"Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream£
+†
+Q Q(5
+%1"gorg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#<init>(Ljava/io/InputStream;)V*l
+
+__unknown_file (P
+N
+%0Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream*7
+
+__unknown_file (
+
+injava.io.InputStream"\
+Q Q(6P
+N
+%0Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream:+
+N N(4
+archiveNamejava.lang.String:%
+N5 N(J
+injava.io.InputStream: 
+
+__unknown_file (
+"":G
+O O(";
+coder2org.apache.commons.compress.archivers.sevenz.Coder:
+O# O(9
+passwordbyte[]: 
+
+__unknown_file (
+""BDB
+@org.apache.commons.compress.archivers.sevenz.Coders$BZIP2Decoder

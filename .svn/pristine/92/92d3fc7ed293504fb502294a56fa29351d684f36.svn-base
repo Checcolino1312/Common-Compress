@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.pack200.ClassBands#removeCodeAttributes()V
+org.apache.commons.compress.harmony.pack200.ClassBands#removeCodeDebugAttributes()V

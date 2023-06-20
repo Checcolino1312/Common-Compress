@@ -1,0 +1,6 @@
+org.apache.commons.compress.harmony.pack200.ClassBands#finaliseBands()V
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+org.apache.commons.compress.harmony.pack200.IntList#<init>()V
+java.lang.Long#valueOf(J)Ljava/lang/Long;
+org.apache.commons.compress.harmony.pack200.IntList#instance-init#

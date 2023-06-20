@@ -1,0 +1,27 @@
+
+___sonar_lambda_32$org.apache.commons.compress.harmony.unpack200.bytecode.forms.LookupSwitchForm‰
+C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/forms/LookupSwitchForm.java. .(>"startingBlock*¡
+startingBlock. .(>€
+ý
+
+__unknown_file (W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager"__id*
+
+__unknown_file (e*cO
+Morg.apache.commons.compress.harmony.unpack200.bytecode.forms.LookupSwitchForm"
+operandManager*
+1*™
+1.$ .(2ðí
+.$ .(>	
+%6int"Rorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager#nextLabel()I*u
+
+__unknown_file (Y
+W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager2nextLabel()"
+.$ .(>
+	
+%6int: 
+
+__unknown_file (
+""B'%
+#java.util.function.IntUnaryOperator

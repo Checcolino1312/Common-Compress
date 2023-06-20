@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#<init>(Ljava/io/File;[B)V
+java.nio.file.Files#newByteChannel(Ljava/nio/file/Path;Ljava/util/Set;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/channels/SeekableByteChannel;
+java.util.EnumSet#of(Ljava/lang/Enum;)Ljava/util/EnumSet;
+org.apache.commons.compress.archivers.sevenz.SevenZFile#<init>(Ljava/nio/channels/SeekableByteChannel;Ljava/lang/String;[BZLorg/apache/commons/compress/archivers/sevenz/SevenZFileOptions;)V

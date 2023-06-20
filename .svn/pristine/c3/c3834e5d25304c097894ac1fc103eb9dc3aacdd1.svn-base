@@ -1,0 +1,99 @@
+
+‡org.apache.commons.compress.archivers.tar.TarUtils#parsePaxHeaders(Ljava/io/InputStream;Ljava/util/List;Ljava/util/Map;)Ljava/util/Map;p
+dC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.javaÎ) Î(8"startingBlock*¢
+startingBlockÎ8 Î(µ™
+–
+
+Í Í(
+%1"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*@
+
+__unknown_file ($
+"
+inputStreamjava.io.InputStreamd
+b
+
+ÎK Î(V"
+inputStreamjava.io.InputStream"__annotation*"
+
+__unknown_file (
+
+%1–
+“
+
+Í Í(
+%2"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*=
+
+__unknown_file (!
+
+sparseHeadersjava.util.Listb
+`
+Î{ Î(ˆ
+sparseHeadersjava.util.List"__annotation*"
+
+__unknown_file (
+
+%2˜
+•
+
+Í Í(
+%3"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*?
+
+__unknown_file (#
+!
+globalPaxHeadersjava.util.Mape
+c
+Î¤ Î(´!
+globalPaxHeadersjava.util.Map"__annotation*"
+
+__unknown_file (
+
+%3*
+1* 
+1
+Ð Ð(é
+æ
+
+Ð Ð(P
+%0java.util.Map"ˆorg.apache.commons.compress.archivers.tar.TarUtils#parsePaxHeaders(Ljava/io/InputStream;Ljava/util/List;Ljava/util/Map;J)Ljava/util/Map;*R
+
+__unknown_file (6"4
+2org.apache.commons.compress.archivers.tar.TarUtils*@
+
+__unknown_file ($
+"
+inputStreamjava.io.InputStream*=
+
+__unknown_file (!
+
+sparseHeadersjava.util.List*?
+
+__unknown_file (#
+!
+globalPaxHeadersjava.util.Map*"
+
+__unknown_file (
+"""#
+
+Ð Ð(Q
+
+%0java.util.Map:0
+
+Î9 Î(W"
+inputStreamjava.io.InputStream:.
+ÎX Î(‰
+sparseHeadersjava.util.List:1
+ÎŠ Î(´!
+globalPaxHeadersjava.util.MapB6"4
+2org.apache.commons.compress.archivers.tar.TarUtils

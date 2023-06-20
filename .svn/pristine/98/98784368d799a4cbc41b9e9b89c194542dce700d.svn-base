@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestamp#dateToZipLong(Ljava/util/Date;)Lorg/apache/commons/compress/archivers/zip/ZipLong;
+org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestamp#unixTimeToZipLong(J)Lorg/apache/commons/compress/archivers/zip/ZipLong;

@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.z.ZCompressorInputStream#reAlignReading()V
+==
+readNextCode org.apache.commons.compress.compressors.z.ZCompressorInputStream#readNextCode()I

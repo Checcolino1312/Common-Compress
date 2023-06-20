@@ -1,0 +1,7 @@
+org.apache.commons.compress.harmony.pack200.CodecEncoding#decodeRunCodec(ILjava/io/InputStream;Lorg/apache/commons/compress/harmony/pack200/Codec;)Lorg/apache/commons/compress/harmony/pack200/RunCodec;
+org.apache.commons.compress.harmony.pack200.Pack200Exception#<init>(Ljava/lang/String;)V
+java.lang.Math#pow(DD)D
+org.apache.commons.compress.harmony.pack200.RunCodec#<init>(ILorg/apache/commons/compress/harmony/pack200/Codec;Lorg/apache/commons/compress/harmony/pack200/Codec;)V
+org.apache.commons.compress.harmony.pack200.Pack200Exception#instance-init#
+org.apache.commons.compress.harmony.pack200.CodecEncoding#getCodec(ILjava/io/InputStream;Lorg/apache/commons/compress/harmony/pack200/Codec;)Lorg/apache/commons/compress/harmony/pack200/Codec;
+org.apache.commons.compress.harmony.pack200.RunCodec#instance-init#

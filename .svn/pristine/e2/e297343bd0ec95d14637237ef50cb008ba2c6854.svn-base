@@ -1,0 +1,3 @@
+org.apache.commons.compress.utils.MultiReadOnlySeekableByteChannel#write(Ljava/nio/ByteBuffer;)I
+java.nio.channels.NonWritableChannelException#instance-init#
+java.nio.channels.NonWritableChannelException#<init>()V

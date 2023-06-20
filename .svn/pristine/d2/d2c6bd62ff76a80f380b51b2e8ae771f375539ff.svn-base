@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.CodeAttribute#<init>(II[BLorg/apache/commons/compress/harmony/unpack200/Segment;Lorg/apache/commons/compress/harmony/unpack200/bytecode/OperandManager;Ljava/util/List;)V
+java.lang.Integer#valueOf(I)Ljava/lang/Integer;
+java.lang.Integer#intValue()I
+org.apache.commons.compress.harmony.unpack200.bytecode.ByteCode#getByteCode(I)Lorg/apache/commons/compress/harmony/unpack200/bytecode/ByteCode;

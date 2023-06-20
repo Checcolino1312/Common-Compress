@@ -1,0 +1,228 @@
+
+[org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry#equals(Ljava/lang/Object;)Z{
+qC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry.javaX X("startingBlock*Ò
+35_> _(Aî
+ë
+_ _(BH
+other?org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry"__id*5
+
+__unknown_file (
+
+objjava.lang.Objectñ
+ì
+a a(
+%2java.lang.String"__id*i
+
+__unknown_file (M*KA
+?org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry"
+nameù
+ö
+a! a(+
+%3java.lang.String"__id*p
+
+__unknown_file (T*R
+H
+other?org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry"
+name¸
+˘
+a a(,
+%4boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*4
+
+__unknown_file (
+
+%2java.lang.String*4
+
+__unknown_file (
+
+%3java.lang.String*
+2
+18
+20
+22
+1*◊
+2r r(£
+†
+r r(-
+%14java.lang.Iterable"__id*s
+
+__unknown_file (W*UA
+?org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry"
+contentMethods™
+ß
+r/ r(C
+%15java.lang.Iterable"__id*z
+
+__unknown_file (^*\
+H
+other?org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry"
+contentMethodsÔ
+Ï
+r r(D
+%16boolean"}org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry#equalSevenZMethods(Ljava/lang/Iterable;Ljava/lang/Iterable;)Z*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry*7
+
+__unknown_file (
+
+%14java.lang.Iterable*7
+
+__unknown_file (
+
+%15java.lang.Iterable*
+1*"
+36] ]("
+] ](
+""*è
+startingBlockX X(+ã
+à
+W W(
+%17"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectX
+V
+X' X(*
+objjava.lang.Object"__annotation*#
+
+__unknown_file (
+
+%17*
+36
+37
+39*Ú
+37\ \(#øº
+\ \(%
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry2
+getClass()ïí
+\) \(7
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*5
+
+__unknown_file (
+
+objjava.lang.Object2
+getClass()*
+35
+36*"
+39Z Z("
+Z Z(
+""*ü
+18j j(≠
+™
+j j(%'
+%11 java.nio.file.attribute.FileTime"__id*o
+
+__unknown_file (S*QA
+?org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry"
+
+accessDate¥
+±
+j' j(7'
+%12 java.nio.file.attribute.FileTime"__id*v
+
+__unknown_file (Z*X
+H
+other?org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry"
+
+accessDateü
+ú
+j j(8
+%13boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*E
+
+__unknown_file ()
+'
+%11 java.nio.file.attribute.FileTime*E
+
+__unknown_file ()
+'
+%12 java.nio.file.attribute.FileTime*
+2
+1*´
+20i i(≤
+Ø
+i i(+&
+%8 java.nio.file.attribute.FileTime"__id*u
+
+__unknown_file (Y*WA
+?org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry"
+lastModifiedDateπ
+∂
+i- i(C&
+%9 java.nio.file.attribute.FileTime"__id*|
+
+__unknown_file (`*^
+H
+other?org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry"
+lastModifiedDateù
+ö
+i i(D
+%10boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*D
+
+__unknown_file ((
+&
+%8 java.nio.file.attribute.FileTime*D
+
+__unknown_file ((
+&
+%9 java.nio.file.attribute.FileTime*
+
+2
+18
+1*¶
+22h h(Æ
+´
+h h('&
+%5 java.nio.file.attribute.FileTime"__id*q
+
+__unknown_file (U*SA
+?org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry"
+creationDateµ
+≤
+h) h(;&
+%6 java.nio.file.attribute.FileTime"__id*x
+
+__unknown_file (\*Z
+H
+other?org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry"
+creationDateú
+ô
+h h(<
+%7boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*D
+
+__unknown_file ((
+&
+%5 java.nio.file.attribute.FileTime*D
+
+__unknown_file ((
+&
+%6 java.nio.file.attribute.FileTime*
+2
+18
+20
+1*!
+1` r(E"
+` r(E
+"":#
+X X(*
+objjava.lang.ObjectBCA
+?org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntryHP

@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.zip.PKWareExtraHeader#assertMinimalLength(II)V
+java.lang.Object#getClass()Ljava/lang/Class;
+java.util.zip.ZipException#instance-init#
+java.lang.Class#getName()Ljava/lang/String;
+java.util.zip.ZipException#<init>(Ljava/lang/String;)V

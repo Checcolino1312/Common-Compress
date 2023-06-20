@@ -1,0 +1,4 @@
+org.apache.commons.compress.utils.ServiceLoaderIterator#remove()V
+java.lang.Class#getName()Ljava/lang/String;
+java.lang.UnsupportedOperationException#instance-init#
+java.lang.UnsupportedOperationException#<init>(Ljava/lang/String;)V

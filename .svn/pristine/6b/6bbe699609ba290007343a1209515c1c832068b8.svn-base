@@ -1,0 +1,83 @@
+
+¤org.apache.commons.compress.archivers.zip.ScatterZipOutputStream$CompressedEntry#transferToArchiveEntry()Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;|
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ScatterZipOutputStream.javaH H(5"1*Ø
+1I* I(@ê
+ç
+I* I(@F
+%0@org.apache.commons.compress.archivers.zip.ZipArchiveEntryRequest"__id*Œ
+
+__unknown_file (p*nR
+Porg.apache.commons.compress.archivers.zip.ScatterZipOutputStream$CompressedEntry"
+zipArchiveEntryRequestÝÚ
+I* I(U?
+%19org.apache.commons.compress.archivers.zip.ZipArchiveEntry"org.apache.commons.compress.archivers.zip.ZipArchiveEntryRequest#getZipArchiveEntry()Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;*d
+
+__unknown_file (H
+F
+%0@org.apache.commons.compress.archivers.zip.ZipArchiveEntryRequest2getZipArchiveEntry()¶
+³
+I I(VB
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*]
+
+__unknown_file (A
+?
+%19org.apache.commons.compress.archivers.zip.ZipArchiveEntryãà
+J J(3
+
+%2void",java.util.zip.ZipEntry#setCompressedSize(J)V*`
+
+__unknown_file (D
+B
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry*"
+
+__unknown_file (
+""2setCompressedSize(J)òï
+K K(
+
+%3void"Eorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#setSize(J)V*`
+
+__unknown_file (D
+B
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry*"
+
+__unknown_file (
+""2
+setSize(J)ÍÊ
+L L(
+
+%4void"!java.util.zip.ZipEntry#setCrc(J)V*`
+
+__unknown_file (D
+B
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry*"
+
+__unknown_file (
+""2	setCrc(J)ê
+ç
+M M(2F
+%5@org.apache.commons.compress.archivers.zip.ZipArchiveEntryRequest"__id*Œ
+
+__unknown_file (p*nR
+Porg.apache.commons.compress.archivers.zip.ScatterZipOutputStream$CompressedEntry"
+zipArchiveEntryRequestÚ×
+M M(>	
+%6int"Morg.apache.commons.compress.archivers.zip.ZipArchiveEntryRequest#getMethod()I*d
+
+__unknown_file (H
+F
+%5@org.apache.commons.compress.archivers.zip.ZipArchiveEntryRequest2getMethod()ûø
+M M(?
+
+%7void"Gorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#setMethod(I)V*`
+
+__unknown_file (D
+B
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry*'
+
+__unknown_file (
+	
+%6int2setMethod(I)"P
+N N(D
+B
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntryBTR
+Porg.apache.commons.compress.archivers.zip.ScatterZipOutputStream$CompressedEntryH

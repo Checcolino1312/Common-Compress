@@ -1,0 +1,100 @@
+
+Oorg.apache.commons.compress.harmony.unpack200.ClassBands#getCallCount([[I[[JI)Iv
+jC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/ClassBands.java† †("3"15"1*Í
+3
+–/ –(6Ä
+Á
+
+–/ –(6F
+%3@org.apache.commons.compress.harmony.unpack200.AttributeLayoutMap"__id*e
+
+__unknown_file (I*G:
+8org.apache.commons.compress.harmony.unpack200.ClassBands"	
+attrMap³°
+
+–/ –(UC
+%4=org.apache.commons.compress.harmony.unpack200.AttributeLayout"–org.apache.commons.compress.harmony.unpack200.AttributeLayoutMap#getAttributeLayout(II)Lorg/apache/commons/compress/harmony/unpack200/AttributeLayout;*d
+
+__unknown_file (H
+F
+%3@org.apache.commons.compress.harmony.unpack200.AttributeLayoutMap*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2getAttributeLayout(II)Á
+¾
+
+– –(VG
+layout=org.apache.commons.compress.harmony.unpack200.AttributeLayout"__id*a
+
+__unknown_file (E
+C
+%4=org.apache.commons.compress.harmony.unpack200.AttributeLayoutòï
+
+— —(;	
+%5int"Vorg.apache.commons.compress.harmony.unpack200.AttributeLayout#numBackwardsCallables()I*e
+
+__unknown_file (I
+G
+layout=org.apache.commons.compress.harmony.unpack200.AttributeLayout2numBackwardsCallables()*
+3
+1*Ò
+15
+Š/ Š(6Ä
+Á
+
+Š/ Š(6F
+%0@org.apache.commons.compress.harmony.unpack200.AttributeLayoutMap"__id*e
+
+__unknown_file (I*G:
+8org.apache.commons.compress.harmony.unpack200.ClassBands"	
+attrMap³°
+
+Š/ Š(YC
+%1=org.apache.commons.compress.harmony.unpack200.AttributeLayout"–org.apache.commons.compress.harmony.unpack200.AttributeLayoutMap#getAttributeLayout(II)Lorg/apache/commons/compress/harmony/unpack200/AttributeLayout;*d
+
+__unknown_file (H
+F
+%0@org.apache.commons.compress.harmony.unpack200.AttributeLayoutMap*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2getAttributeLayout(II)Á
+¾
+
+Š Š(ZG
+layout=org.apache.commons.compress.harmony.unpack200.AttributeLayout"__id*a
+
+__unknown_file (E
+C
+%1=org.apache.commons.compress.harmony.unpack200.AttributeLayoutòï
+
+‹ ‹(;	
+%2int"Vorg.apache.commons.compress.harmony.unpack200.AttributeLayout#numBackwardsCallables()I*e
+
+__unknown_file (I
+G
+layout=org.apache.commons.compress.harmony.unpack200.AttributeLayout2numBackwardsCallables()*
+
+3
+15
+1*%
+1
+š š("
+
+š š(
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B<:
+8org.apache.commons.compress.harmony.unpack200.ClassBandsP

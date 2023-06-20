@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.ArchiveStreamFactory#findAvailableArchiveInputStreamProviders()Ljava/util/SortedMap;
+java.security.AccessController#doPrivileged(Ljava/security/PrivilegedAction;)Ljava/lang/Object;

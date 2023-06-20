@@ -1,0 +1,11 @@
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readOldBinaryEntry(Z)Lorg/apache/commons/compress/archivers/cpio/CpioArchiveEntry;
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#skip(I)V
+java.lang.String#equals(Ljava/lang/Object;)Z
+org.apache.commons.compress.archivers.cpio.CpioArchiveEntry#instance-init#
+org.apache.commons.compress.archivers.cpio.CpioUtil#fileType(J)J
+org.apache.commons.compress.utils.ArchiveUtils#sanitize(Ljava/lang/String;)Ljava/lang/String;
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.cpio.CpioArchiveEntry#<init>(S)V
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readBinaryLong(IZ)J
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readCString(I)Ljava/lang/String;

@@ -1,0 +1,64 @@
+
+]org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#chooseBlockSize(J)I‡
+{C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream.javaÕ Õ(%"2"3*£
+2
+×2 ×(?C
+A
+
+×2 ×(?	
+%2int"__id*"
+
+__unknown_file (
+""H
+F
+
+×2 ×(?	
+%0int"__id*'
+
+__unknown_file (
+	
+%2int*
+1*×
+3
+Ö) Ö(-ª
+§
+
+Ö) ×(/
+
+%1long"java.lang.Math#min(JJ)J*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""* 
+
+__unknown_file (2	I
+G
+
+Ö) ×(/	
+%0int"__id*(
+
+__unknown_file (
+
+
+%1longI
+G
+
+Ö# ×(/	
+%0int"__id*(
+
+__unknown_file (
+
+
+%1long*
+1*%
+1
+Ö ×(@"
+
+Ö ×(@
+"": 
+
+__unknown_file (
+""BM"K
+Iorg.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStreamHP

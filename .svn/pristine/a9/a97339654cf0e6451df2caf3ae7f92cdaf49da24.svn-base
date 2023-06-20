@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.ZipFile#getEntriesInPhysicalOrder()Ljava/util/Enumeration;
+java.util.Arrays#sort([Ljava/lang/Object;Ljava/util/Comparator;)V
+java.util.Collections#enumeration(Ljava/util/Collection;)Ljava/util/Enumeration;
+java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;

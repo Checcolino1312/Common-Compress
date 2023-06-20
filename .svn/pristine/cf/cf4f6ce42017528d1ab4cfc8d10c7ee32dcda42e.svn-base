@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.ClassFile#instance-init#
+org.apache.commons.compress.harmony.unpack200.bytecode.ClassConstantPool#instance-init#
+org.apache.commons.compress.harmony.unpack200.bytecode.ClassConstantPool#<init>()V

@@ -1,0 +1,96 @@
+
+ºorg.apache.commons.compress.archivers.sevenz.Coders$CopyDecoder#decode(Ljava/lang/String;Ljava/io/InputStream;JLorg/apache/commons/compress/archivers/sevenz/Coder;[BI)Ljava/io/InputStream;o
+eC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/Coders.java] ]("startingBlock*à
+startingBlock] ^(Wí
+è
+\ \(
+%0"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*=
+
+__unknown_file (!
+
+archiveNamejava.lang.String_
+]
+]( ](3
+archiveNamejava.lang.String"__annotation*"
+
+__unknown_file (
+
+%0å
+â
+\ \(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*7
+
+__unknown_file (
+
+injava.io.InputStreamY
+W
+]G ](I
+injava.io.InputStream"__annotation*"
+
+__unknown_file (
+
+%1Æ
+´
+\ \(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*Y
+
+__unknown_file (=
+;
+coder2org.apache.commons.compress.archivers.sevenz.Coder{
+y
+^ ^(!;
+coder2org.apache.commons.compress.archivers.sevenz.Coder"__annotation*"
+
+__unknown_file (
+
+%2Ö
+Ç
+\ \(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*0
+
+__unknown_file (
+
+passwordbyte[]R
+P
+^0 ^(8
+passwordbyte[]"__annotation*"
+
+__unknown_file (
+
+%3*
+1*6
+1_ _("'
+_ _(
+
+injava.io.InputStream:+
+] ](4
+archiveNamejava.lang.String:%
+]5 ](J
+injava.io.InputStream: 
+
+__unknown_file (
+"":G
+^ ^(";
+coder2org.apache.commons.compress.archivers.sevenz.Coder:
+^# ^(9
+passwordbyte[]: 
+
+__unknown_file (
+""BCA
+?org.apache.commons.compress.archivers.sevenz.Coders$CopyDecoder

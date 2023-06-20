@@ -1,0 +1,35 @@
+
+Ÿorg.apache.commons.compress.harmony.unpack200.bytecode.forms.IMethodRefForm#getOffset(Lorg/apache/commons/compress/harmony/unpack200/bytecode/OperandManager;)I‡
+}C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/forms/IMethodRefForm.java# #("startingBlock*†
+startingBlock# #(@Ê
+Ç
+" "(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*u
+
+__unknown_file (Y
+W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager˜
+•
+#1 #(?W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager"__annotation*"
+
+__unknown_file (
+
+%1*
+1*ž
+1$ $(ú÷
+$ $(.	
+%0int"Worg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager#nextIMethodRef()I*u
+
+__unknown_file (Y
+W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager2nextIMethodRef()"
+$ $(/
+"":c
+# #(?W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManagerBOM
+Korg.apache.commons.compress.harmony.unpack200.bytecode.forms.IMethodRefFormP

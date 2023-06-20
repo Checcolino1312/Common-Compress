@@ -1,0 +1,20 @@
+
+corg.apache.commons.compress.utils.FixedLengthBlockOutputStream$BufferAtATimeOutputChannel#isOpen()Z†
+|C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/utils/FixedLengthBlockOutputStream.javaK K("1*—
+1L L(Ì
+É
+L L(/
+%0)java.util.concurrent.atomic.AtomicBoolean"__id*…
+
+__unknown_file (i*g[
+Yorg.apache.commons.compress.utils.FixedLengthBlockOutputStream$BufferAtATimeOutputChannel"
+closed¤¡
+L L( 
+%1boolean"0java.util.concurrent.atomic.AtomicBoolean#get()Z*M
+
+__unknown_file (1
+/
+%0)java.util.concurrent.atomic.AtomicBoolean2get()"
+L L(!
+""B][
+Yorg.apache.commons.compress.utils.FixedLengthBlockOutputStream$BufferAtATimeOutputChannelHP

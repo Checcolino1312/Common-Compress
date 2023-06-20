@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.IcBands#pack(Ljava/io/OutputStream;)V
+org.apache.commons.compress.harmony.pack200.PackingUtils#log(Ljava/lang/String;)V
+java.util.ArrayList#instance-init#
+java.util.ArrayList#<init>(Ljava/util/Collection;)V

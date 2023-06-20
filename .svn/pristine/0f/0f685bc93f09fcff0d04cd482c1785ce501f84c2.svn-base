@@ -1,0 +1,6 @@
+org.apache.commons.compress.utils.TimeUtils#ntfsTimeToFileTime(J)Ljava/nio/file/attribute/FileTime;
+java.lang.Math#addExact(JJ)J
+java.lang.Math#floorMod(JJ)J
+java.nio.file.attribute.FileTime#from(Ljava/time/Instant;)Ljava/nio/file/attribute/FileTime;
+java.lang.Math#floorDiv(JJ)J
+java.time.Instant#ofEpochSecond(JJ)Ljava/time/Instant;

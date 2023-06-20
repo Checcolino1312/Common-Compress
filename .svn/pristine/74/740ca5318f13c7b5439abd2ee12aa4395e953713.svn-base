@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.arj.ArjArchiveInputStream#read32(Ljava/io/DataInputStream;)I
+java.io.DataInputStream#readInt()I
+java.lang.Integer#reverseBytes(I)I

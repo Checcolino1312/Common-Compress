@@ -1,0 +1,8 @@
+org.apache.commons.compress.harmony.pack200.Pack200PackerAdapter#firePropertyChange(Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V
+java.lang.Boolean#parseBoolean(Ljava/lang/String;)Z
+java.lang.String#length()I
+java.lang.String#substring(I)Ljava/lang/String;
+java.lang.Integer#parseInt(Ljava/lang/String;)I
+java.lang.Long#parseLong(Ljava/lang/String;)J
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.lang.String#startsWith(Ljava/lang/String;)Z

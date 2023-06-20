@@ -1,0 +1,582 @@
+/*
+ *  Licensed to the Apache Software Foundation (ASF) under one or more
+ *  contributor license agreements.  See the NOTICE file distributed with
+ *  this work for additional information regarding copyright ownership.
+ *  The ASF licenses this file to You under the Apache License, Version 2.0
+ *  (the "License"); you may not use this file except in compliance with
+ *  the License.  You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ *  Unless required by applicable law or agreed to in writing, software
+ *  distributed under the License is distributed on an "AS IS" BASIS,
+ *  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ *  See the License for the specific language governing permissions and
+ *  limitations under the License.
+ */
+package org.apache.commons.compress.harmony.unpack200.bytecode.forms;
+
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
+
+import org.apache.commons.compress.harmony.unpack200.bytecode.ByteCode;
+import org.apache.commons.compress.harmony.unpack200.bytecode.CodeAttribute;
+import org.apache.commons.compress.harmony.unpack200.bytecode.OperandManager;
+
+public abstract class ByteCodeForm {
+
+    protected static final boolean WIDENED = true;
+
+    protected static final ByteCodeForm[] byteCodeArray = new ByteCodeForm[256];
+
+    public static ByteCodeForm createLocalForm(int opcode, String name, int[] rewrite) {
+        return new LocalForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm createNoArgumentForm(int opcode, String name) {
+        return new NoArgumentForm(opcode, name);
+    }
+    public static ByteCodeForm createLabelForm(int opcode, String name, int[] rewrite) {
+        return new LabelForm(opcode, name, rewrite);
+    }
+    public static ByteCodeForm createTableSwitchForm(int opcode, String name) {
+        return new TableSwitchForm(opcode, name);
+    }
+
+    public static ByteCodeForm createLookupSwitchForm(int opcode, String name) {
+        return new LookupSwitchForm(opcode, name);
+    }
+
+    public static ByteCodeForm createFieldRefForm(int opcode, String name, int[] rewrite) {
+        return new FieldRefForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm createMethodRefForm(int opcode, String name, int[] rewrite) {
+        return new MethodRefForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm createIMethodRefForm(int opcode, String name, int[] rewrite) {
+        return new IMethodRefForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm createNewClassRefForm(int opcode, String name, int[] rewrite) {
+        return new NewClassRefForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm createByteForm(int opcode, String name, int[] rewrite) {
+        return new ByteForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm createClassRefForm(int opcode, String name, int[] rewrite) {
+        return new ClassRefForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm createCheckCastForm(int opcode, String name, int[] rewrite) {
+        return new ClassRefForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm createInstanceOfForm(int opcode, String name, int[] rewrite) {
+        return new ClassRefForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm createWideForm(int opcode, String name) {
+        return new WideForm(opcode, name);
+    }
+
+    public static ByteCodeForm createMultiANewArrayForm(int opcode, String name, int[] rewrite) {
+        return new MultiANewArrayForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm createThisMethodRefForm(int opcode, String name, int[] rewrite) {
+        return new ThisMethodRefForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm createSuperFieldRefForm(int opcode, String name, int[] rewrite) {
+        return new SuperFieldRefForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm createSuperMethodRefForm(int opcode, String name, int[] rewrite) {
+        return new SuperMethodRefForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm createThisInitMethodRefForm(int opcode, String name, int[] rewrite) {
+        return new ThisInitMethodRefForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm createSuperInitMethodRefForm(int opcode, String name, int[] rewrite) {
+        return new SuperInitMethodRefForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm createNewInitMethodRefForm(int opcode, String name, int[] rewrite) {
+        return new NewInitMethodRefForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm createNarrowClassRefForm(int opcode, String name, int[] rewrite) {
+        return new NarrowClassRefForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm createIntRefForm(int opcode, String name, int[] rewrite) {
+        return new IntRefForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm createFloatRefForm(int opcode, String name, int[] rewrite) {
+        return new FloatRefForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm createShortForm(int opcode, String name, int[] rewrite) {
+        return new ShortForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm createStringRefForm(int opcode, String name, int[] rewrite) {
+        return new StringRefForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm createStringRefForm(int opcode, String name, int[] rewrite, boolean widened) {
+        return new StringRefForm(opcode, name, rewrite, widened);
+    }
+
+    protected static final Map<String, ByteCodeForm> byteCodesByName = new HashMap<>(256);
+    static {
+        byteCodeArray[0] = ByteCodeForm.createNoArgumentForm(0, "nop");
+        byteCodeArray[1] = ByteCodeForm.createNoArgumentForm(1, "aconst_null");
+        byteCodeArray[2] = ByteCodeForm.createNoArgumentForm(2, "iconst_m1");
+        byteCodeArray[3] = ByteCodeForm.createNoArgumentForm(3, "iconst_0");
+        byteCodeArray[4] = ByteCodeForm.createNoArgumentForm(4, "iconst_1");
+        byteCodeArray[5] = ByteCodeForm.createNoArgumentForm(5, "iconst_2");
+        byteCodeArray[6] = ByteCodeForm.createNoArgumentForm(6, "iconst_3");
+        byteCodeArray[7] = ByteCodeForm.createNoArgumentForm(7, "iconst_4");
+        byteCodeArray[8] = ByteCodeForm.createNoArgumentForm(8, "iconst_5");
+        byteCodeArray[9] = ByteCodeForm.createNoArgumentForm(9, "lconst_0");
+        byteCodeArray[10] = ByteCodeForm.createNoArgumentForm(10, "lconst_1");
+        byteCodeArray[11] = ByteCodeForm.createNoArgumentForm(11, "fconst_0");
+        byteCodeArray[12] = ByteCodeForm.createNoArgumentForm(12, "fconst_1");
+        byteCodeArray[13] = ByteCodeForm.createNoArgumentForm(13, "fconst_2");
+        byteCodeArray[14] = ByteCodeForm.createNoArgumentForm(14, "dconst_0");
+        byteCodeArray[15] = ByteCodeForm.createNoArgumentForm(15, "dconst_1");
+        byteCodeArray[16] = ByteCodeForm.createByteForm(16, "bipush", new int[] {16, -1});
+        byteCodeArray[17] = ByteCodeForm.createShortForm(17, "sipush", new int[] {17, -1, -1});
+        byteCodeArray[18] = ByteCodeForm.createStringRefForm(18, "ldc", new int[] {18, -1});
+        byteCodeArray[19] = ByteCodeForm.createStringRefForm(19, "ldc_w", new int[] {19, -1, -1}, WIDENED);
+        byteCodeArray[20] = ByteCodeForm.createLongForm(20, "ldc2_w", new int[] {20, -1, -1});
+        byteCodeArray[21] = ByteCodeForm.createLocalForm(21, "iload", new int[] {21, -1});
+        byteCodeArray[22] = ByteCodeForm.createLocalForm(22, "lload", new int[] {22, -1});
+        byteCodeArray[23] = ByteCodeForm.createLocalForm(23, "fload", new int[] {23, -1});
+        byteCodeArray[24] = ByteCodeForm.createLocalForm(24, "dload", new int[] {24, -1});
+        byteCodeArray[25] = ByteCodeForm.createLocalForm(25, "aload", new int[] {25, -1});
+        byteCodeArray[26] = ByteCodeForm.createNoArgumentForm(26, "iload_0");
+        byteCodeArray[27] = ByteCodeForm.createNoArgumentForm(27, "iload_1");
+        byteCodeArray[28] = ByteCodeForm.createNoArgumentForm(28, "iload_2");
+        byteCodeArray[29] = ByteCodeForm.createNoArgumentForm(29, "iload_3");
+        byteCodeArray[30] = ByteCodeForm.createNoArgumentForm(30, "lload_0");
+        byteCodeArray[31] = ByteCodeForm.createNoArgumentForm(31, "lload_1");
+        byteCodeArray[32] = ByteCodeForm.createNoArgumentForm(32, "lload_2");
+        byteCodeArray[33] = ByteCodeForm.createNoArgumentForm(33, "lload_3");
+        byteCodeArray[34] = ByteCodeForm.createNoArgumentForm(34, "fload_0");
+        byteCodeArray[35] = ByteCodeForm.createNoArgumentForm(35, "fload_1");
+        byteCodeArray[36] = ByteCodeForm.createNoArgumentForm(36, "fload_2");
+        byteCodeArray[37] = ByteCodeForm.createNoArgumentForm(37, "fload_3");
+        byteCodeArray[38] = ByteCodeForm.createNoArgumentForm(38, "dload_0");
+        byteCodeArray[39] = ByteCodeForm.createNoArgumentForm(39, "dload_1");
+        byteCodeArray[40] = ByteCodeForm.createNoArgumentForm(40, "dload_2");
+        byteCodeArray[41] = ByteCodeForm.createNoArgumentForm(41, "dload_3");
+        byteCodeArray[42] = ByteCodeForm.createNoArgumentForm(42, "aload_0");
+        byteCodeArray[43] = ByteCodeForm.createNoArgumentForm(43, "aload_1");
+        byteCodeArray[44] = ByteCodeForm.createNoArgumentForm(44, "aload_2");
+        byteCodeArray[45] = ByteCodeForm.createNoArgumentForm(45, "aload_3");
+        byteCodeArray[46] = ByteCodeForm.createNoArgumentForm(46, "iaload");
+        byteCodeArray[47] = ByteCodeForm.createNoArgumentForm(47, "laload");
+        byteCodeArray[48] = ByteCodeForm.createNoArgumentForm(48, "faload");
+        byteCodeArray[49] = ByteCodeForm.createNoArgumentForm(49, "daload");
+        byteCodeArray[50] = ByteCodeForm.createNoArgumentForm(50, "aaload");
+        byteCodeArray[51] = ByteCodeForm.createNoArgumentForm(51, "baload");
+        byteCodeArray[52] = ByteCodeForm.createNoArgumentForm(52, "caload");
+        byteCodeArray[53] = ByteCodeForm.createNoArgumentForm(53, "saload");
+        byteCodeArray[54] = ByteCodeForm.createLocalForm(54, "istore", new int[] {54, -1});
+        byteCodeArray[55] = ByteCodeForm.createLocalForm(55, "lstore", new int[] {55, -1});
+        byteCodeArray[56] = ByteCodeForm.createLocalForm(56, "fstore", new int[] {56, -1});
+        byteCodeArray[57] = ByteCodeForm.createLocalForm(57, "dstore", new int[] {57, -1});
+        byteCodeArray[58] = ByteCodeForm.createLocalForm(58, "astore", new int[] {58, -1});
+        byteCodeArray[59] = ByteCodeForm.createNoArgumentForm(59, "istore_0");
+        byteCodeArray[60] = ByteCodeForm.createNoArgumentForm(60, "istore_1");
+        byteCodeArray[61] = ByteCodeForm.createNoArgumentForm(61, "istore_2");
+        byteCodeArray[62] = ByteCodeForm.createNoArgumentForm(62, "istore_3");
+        byteCodeArray[63] = ByteCodeForm.createNoArgumentForm(63, "lstore_0");
+        byteCodeArray[64] = ByteCodeForm.createNoArgumentForm(64, "lstore_1");
+        byteCodeArray[65] = ByteCodeForm.createNoArgumentForm(65, "lstore_2");
+        byteCodeArray[66] = ByteCodeForm.createNoArgumentForm(66, "lstore_3");
+        byteCodeArray[67] = ByteCodeForm.createNoArgumentForm(67, "fstore_0");
+        byteCodeArray[68] = ByteCodeForm.createNoArgumentForm(68, "fstore_1");
+        byteCodeArray[69] = ByteCodeForm.createNoArgumentForm(69, "fstore_2");
+        byteCodeArray[70] = ByteCodeForm.createNoArgumentForm(70, "fstore_3");
+        byteCodeArray[71] = ByteCodeForm.createNoArgumentForm(71, "dstore_0");
+        byteCodeArray[72] = ByteCodeForm.createNoArgumentForm(72, "dstore_1");
+        byteCodeArray[73] = ByteCodeForm.createNoArgumentForm(73, "dstore_2");
+        byteCodeArray[74] = ByteCodeForm.createNoArgumentForm(74, "dstore_3");
+        byteCodeArray[75] = ByteCodeForm.createNoArgumentForm(75, "astore_0");
+        byteCodeArray[76] = ByteCodeForm.createNoArgumentForm(76, "astore_1");
+        byteCodeArray[77] = ByteCodeForm.createNoArgumentForm(77, "astore_2");
+        byteCodeArray[78] = ByteCodeForm.createNoArgumentForm(78, "astore_3");
+        byteCodeArray[79] = ByteCodeForm.createNoArgumentForm(79, "iastore");
+        byteCodeArray[80] = ByteCodeForm.createNoArgumentForm(80, "lastore");
+        byteCodeArray[81] = ByteCodeForm.createNoArgumentForm(81, "fastore");
+        byteCodeArray[82] = ByteCodeForm.createNoArgumentForm(82, "dastore");
+        byteCodeArray[83] = ByteCodeForm.createNoArgumentForm(83, "aastore");
+        byteCodeArray[84] = ByteCodeForm.createNoArgumentForm(84, "bastore");
+        byteCodeArray[85] = ByteCodeForm.createNoArgumentForm(85, "castore");
+        byteCodeArray[86] = ByteCodeForm.createNoArgumentForm(86, "sastore");
+        byteCodeArray[87] = ByteCodeForm.createNoArgumentForm(87, "pop");
+        byteCodeArray[88] = ByteCodeForm.createNoArgumentForm(88, "pop2");
+        byteCodeArray[89] = ByteCodeForm.createNoArgumentForm(89, "dup");
+        byteCodeArray[90] = ByteCodeForm.createNoArgumentForm(90, "dup_x1");
+        byteCodeArray[91] = ByteCodeForm.createNoArgumentForm(91, "dup_x2");
+        byteCodeArray[92] = ByteCodeForm.createNoArgumentForm(92, "dup2");
+        byteCodeArray[93] = ByteCodeForm.createNoArgumentForm(93, "dup2_x1");
+        byteCodeArray[94] = ByteCodeForm.createNoArgumentForm(94, "dup2_x2");
+        byteCodeArray[95] = ByteCodeForm.createNoArgumentForm(95, "swap");
+        byteCodeArray[96] = ByteCodeForm.createNoArgumentForm(96, "iadd");
+        byteCodeArray[97] = ByteCodeForm.createNoArgumentForm(97, "ladd");
+        byteCodeArray[98] = ByteCodeForm.createNoArgumentForm(98, "fadd");
+        byteCodeArray[99] = ByteCodeForm.createNoArgumentForm(99, "dadd");
+        byteCodeArray[100] = ByteCodeForm.createNoArgumentForm(100, "isub");
+        byteCodeArray[101] = ByteCodeForm.createNoArgumentForm(101, "lsub");
+        byteCodeArray[102] = ByteCodeForm.createNoArgumentForm(102, "fsub");
+        byteCodeArray[103] = ByteCodeForm.createNoArgumentForm(103, "dsub");
+        byteCodeArray[104] = ByteCodeForm.createNoArgumentForm(104, "imul");
+        byteCodeArray[105] = ByteCodeForm.createNoArgumentForm(105, "lmul");
+        byteCodeArray[106] = ByteCodeForm.createNoArgumentForm(106, "fmul");
+        byteCodeArray[107] = ByteCodeForm.createNoArgumentForm(107, "dmul");
+        byteCodeArray[108] = ByteCodeForm.createNoArgumentForm(108, "idiv");
+        byteCodeArray[109] = ByteCodeForm.createNoArgumentForm(109, "ldiv");
+        byteCodeArray[110] = ByteCodeForm.createNoArgumentForm(110, "fdiv");
+        byteCodeArray[111] = ByteCodeForm.createNoArgumentForm(111, "ddiv");
+        byteCodeArray[112] = ByteCodeForm.createNoArgumentForm(112, "irem");
+        byteCodeArray[113] = ByteCodeForm.createNoArgumentForm(113, "lrem");
+        byteCodeArray[114] = ByteCodeForm.createNoArgumentForm(114, "frem");
+        byteCodeArray[115] = ByteCodeForm.createNoArgumentForm(115, "drem");
+        byteCodeArray[116] = ByteCodeForm.createNoArgumentForm(116, "");
+        byteCodeArray[117] = ByteCodeForm.createNoArgumentForm(117, "lneg");
+        byteCodeArray[118] = ByteCodeForm.createNoArgumentForm(118, "fneg");
+        byteCodeArray[119] = ByteCodeForm.createNoArgumentForm(119, "dneg");
+        byteCodeArray[120] = ByteCodeForm.createNoArgumentForm(120, "ishl");
+        byteCodeArray[121] = ByteCodeForm.createNoArgumentForm(121, "lshl");
+        byteCodeArray[122] = ByteCodeForm.createNoArgumentForm(122, "ishr");
+        byteCodeArray[123] = ByteCodeForm.createNoArgumentForm(123, "lshr");
+        byteCodeArray[124] = ByteCodeForm.createNoArgumentForm(124, "iushr");
+        byteCodeArray[125] = ByteCodeForm.createNoArgumentForm(125, "lushr");
+        byteCodeArray[126] = ByteCodeForm.createNoArgumentForm(126, "iand");
+        byteCodeArray[127] = ByteCodeForm.createNoArgumentForm(127, "land");
+        byteCodeArray[128] = ByteCodeForm.createNoArgumentForm(128, "ior");
+        byteCodeArray[129] = ByteCodeForm.createNoArgumentForm(129, "lor");
+        byteCodeArray[130] = ByteCodeForm.createNoArgumentForm(130, "ixor");
+        byteCodeArray[131] = ByteCodeForm.createNoArgumentForm(131, "lxor");
+        byteCodeArray[132] = ByteCodeForm.createIincForm(132, "iinc", new int[] {132, -1, -1});
+        byteCodeArray[133] = ByteCodeForm.createNoArgumentForm(133, "i2l");
+        byteCodeArray[134] = ByteCodeForm.createNoArgumentForm(134, "i2f");
+        byteCodeArray[135] = ByteCodeForm.createNoArgumentForm(135, "i2d");
+        byteCodeArray[136] = ByteCodeForm.createNoArgumentForm(136, "l2i");
+        byteCodeArray[137] = ByteCodeForm.createNoArgumentForm(137, "l2f");
+        byteCodeArray[138] = ByteCodeForm.createNoArgumentForm(138, "l2d");
+        byteCodeArray[139] = ByteCodeForm.createNoArgumentForm(139, "f2i");
+        byteCodeArray[140] = ByteCodeForm.createNoArgumentForm(140, "f2l");
+        byteCodeArray[141] = ByteCodeForm.createNoArgumentForm(141, "f2d");
+        byteCodeArray[142] = ByteCodeForm.createNoArgumentForm(142, "d2i");
+        byteCodeArray[143] = ByteCodeForm.createNoArgumentForm(143, "d2l");
+        byteCodeArray[144] = ByteCodeForm.createNoArgumentForm(144, "d2f");
+        byteCodeArray[145] = ByteCodeForm.createNoArgumentForm(145, "i2b");
+        byteCodeArray[146] = ByteCodeForm.createNoArgumentForm(146, "i2c");
+        byteCodeArray[147] = ByteCodeForm.createNoArgumentForm(147, "i2s");
+        byteCodeArray[148] = ByteCodeForm.createNoArgumentForm(148, "lcmp");
+        byteCodeArray[149] = ByteCodeForm.createNoArgumentForm(149, "fcmpl");
+        byteCodeArray[150] = ByteCodeForm.createNoArgumentForm(150, "fcmpg");
+        byteCodeArray[151] = ByteCodeForm.createNoArgumentForm(151, "dcmpl");
+        byteCodeArray[152] = ByteCodeForm.createNoArgumentForm(152, "dcmpg");
+        byteCodeArray[153] = ByteCodeForm.createLabelForm(153, "ifeq", new int[] {153, -1, -1});
+        byteCodeArray[154] = ByteCodeForm.createLabelForm(154, "ifne", new int[] {154, -1, -1});
+        byteCodeArray[155] = ByteCodeForm.createLabelForm(155, "iflt", new int[] {155, -1, -1});
+        byteCodeArray[156] = ByteCodeForm.createLabelForm(156, "ifge", new int[] {156, -1, -1});
+        byteCodeArray[157] = ByteCodeForm.createLabelForm(157, "ifgt", new int[] {157, -1, -1});
+        byteCodeArray[158] = ByteCodeForm.createLabelForm(158, "ifle", new int[] {158, -1, -1});
+        byteCodeArray[159] = ByteCodeForm.createLabelForm(159, "if_icmpeq", new int[] {159, -1, -1});
+        byteCodeArray[160] = ByteCodeForm.createLabelForm(160, "if_icmpne", new int[] {160, -1, -1});
+        byteCodeArray[161] = ByteCodeForm.createLabelForm(161, "if_icmplt", new int[] {161, -1, -1});
+        byteCodeArray[162] = ByteCodeForm.createLabelForm(162, "if_icmpge", new int[] {162, -1, -1});
+        byteCodeArray[163] = ByteCodeForm.createLabelForm(163, "if_icmpgt", new int[] {163, -1, -1});
+        byteCodeArray[164] = ByteCodeForm.createLabelForm(164, "if_icmple", new int[] {164, -1, -1});
+        byteCodeArray[165] = ByteCodeForm.createLabelForm(165, "if_acmpeq", new int[] {165, -1, -1});
+        byteCodeArray[166] = ByteCodeForm.createLabelForm(166, "if_acmpne", new int[] {166, -1, -1});
+        byteCodeArray[167] = ByteCodeForm.createLabelForm(167, "goto", new int[] {167, -1, -1});
+        byteCodeArray[168] = ByteCodeForm.createLabelForm(168, "jsr", new int[] {168, -1, -1});
+        byteCodeArray[169] = ByteCodeForm.createLocalForm(169, "ret", new int[] {169, -1});
+        byteCodeArray[170] = ByteCodeForm.createTableSwitchForm(170, "tableswitch");
+        byteCodeArray[171] = ByteCodeForm.createLookupSwitchForm(171, "lookupswitch");
+        byteCodeArray[172] = ByteCodeForm.createNoArgumentForm(172, "ireturn");
+        byteCodeArray[173] = ByteCodeForm.createNoArgumentForm(173, "lreturn");
+        byteCodeArray[174] = ByteCodeForm.createNoArgumentForm(174, "freturn");
+        byteCodeArray[175] = ByteCodeForm.createNoArgumentForm(175, "dreturn");
+        byteCodeArray[176] = ByteCodeForm.createNoArgumentForm(176, "areturn");
+        byteCodeArray[177] = ByteCodeForm.createNoArgumentForm(177, "return");
+        byteCodeArray[178] = ByteCodeForm.createFieldRefForm(178, "getstatic", new int[] {178, -1, -1});
+        byteCodeArray[179] = ByteCodeForm.createFieldRefForm(179, "putstatic", new int[] {179, -1, -1});
+        byteCodeArray[180] = ByteCodeForm.createFieldRefForm(180, "getfield", new int[] {180, -1, -1});
+        byteCodeArray[181] = ByteCodeForm.createFieldRefForm(181, "putfield", new int[] {181, -1, -1});
+        byteCodeArray[182] = ByteCodeForm.createMethodRefForm(182, "invokevirtual", new int[] {182, -1, -1});
+        byteCodeArray[183] = ByteCodeForm.createMethodRefForm(183, "invokespecial", new int[] {183, -1, -1});
+        byteCodeArray[184] = ByteCodeForm.createMethodRefForm(184, "invokestatic", new int[] {184, -1, -1});
+        byteCodeArray[185] = ByteCodeForm.createIMethodRefForm(185, "invokeinterface", new int[] {185, -1, -1, /* count */-1, 0});
+        byteCodeArray[186] = ByteCodeForm.createNoArgumentForm(186, "xxxunusedxxx");
+        byteCodeArray[187] = ByteCodeForm.createNewClassRefForm(187, "new", new int[] {187, -1, -1});
+        byteCodeArray[188] = ByteCodeForm.createByteForm(188, "newarray", new int[] {188, -1});
+        byteCodeArray[189] = ByteCodeForm.createClassRefForm(189, "anewarray", new int[] {189, -1, -1});
+        byteCodeArray[190] = ByteCodeForm.createNoArgumentForm(190, "arraylength");
+        byteCodeArray[191] = ByteCodeForm.createNoArgumentForm(191, "athrow");
+        byteCodeArray[192] = ByteCodeForm.createCheckCastForm(192, "checkcast", new int[] {192, -1, -1});
+        byteCodeArray[193] = ByteCodeForm.createInstanceOfForm(193, "instanceof", new int[] {193, -1, -1});
+        byteCodeArray[194] = ByteCodeForm.createNoArgumentForm(194, "monitorenter");
+        byteCodeArray[195] = ByteCodeForm.createNoArgumentForm(195, "monitorexit");
+        byteCodeArray[196] = ByteCodeForm.createWideForm(196, "wide");
+        byteCodeArray[197] = ByteCodeForm.createMultiANewArrayForm(197, "multianewarray", new int[] {197, -1, -1, -1});
+        byteCodeArray[198] = ByteCodeForm.createLabelForm(198, "ifnull", new int[] {198, -1, -1});
+        byteCodeArray[199] = ByteCodeForm.createLabelForm(199, "ifnonnull", new int[] {199, -1, -1});
+        byteCodeArray[200] = ByteCodeForm.createLabelForm(200, "goto_w", new int[] {200, -1, -1, -1, -1});
+        byteCodeArray[201] = ByteCodeForm.createLabelForm(201, "jsr_w", new int[] {201, -1, -1, -1, -1});
+
+
+        // Extra ones defined by pack200
+        byteCodeArray[202] = ByteCodeForm.createThisFieldRefForm(202, "getstatic_this", new int[] {178, -1, -1});
+        byteCodeArray[203] = ByteCodeForm.createThisFieldRefForm(203, "putstatic_this", new int[] {179, -1, -1});
+        byteCodeArray[204] = ByteCodeForm.createThisFieldRefForm(204, "getfield_this", new int[] {180, -1, -1});
+        byteCodeArray[205] = ByteCodeForm.createThisFieldRefForm(205, "putfield_this", new int[] {181, -1, -1});
+        byteCodeArray[206] = ByteCodeForm.createThisMethodRefForm(206, "invokevirtual_this", new int[] {182, -1, -1});
+        byteCodeArray[207] = ByteCodeForm.createThisMethodRefForm(207, "invokespecial_this", new int[] {183, -1, -1});
+        byteCodeArray[208] = ByteCodeForm.createThisMethodRefForm(208, "invokestatic_this", new int[] {184, -1, -1});
+        byteCodeArray[209] = ByteCodeForm.createThisFieldRefForm(209, "aload_0_getstatic_this", new int[] {42, 178, -1, -1});
+        byteCodeArray[210] = ByteCodeForm.createThisFieldRefForm(210, "aload_0_putstatic_this", new int[] {42, 179, -1, -1});
+        byteCodeArray[211] = ByteCodeForm.createThisFieldRefForm(211, "aload_0_getfield_this", new int[] {42, 180, -1, -1});
+        byteCodeArray[212] = ByteCodeForm.createThisFieldRefForm(212, "aload_0_putfield_this", new int[] {42, 181, -1, -1});
+        byteCodeArray[213] = ByteCodeForm.createThisMethodRefForm(213, "aload_0_invokevirtual_this", new int[] {42, 182, -1, -1});
+        byteCodeArray[214] = ByteCodeForm.createThisMethodRefForm(214, "aload_0_invokespecial_this", new int[] {42, 183, -1, -1});
+        byteCodeArray[215] = ByteCodeForm.createThisMethodRefForm(215, "aload_0_invokestatic_this", new int[] {42, 184, -1, -1});
+        byteCodeArray[216] = ByteCodeForm.createSuperFieldRefForm(216, "getstatic_super", new int[] {178, -1, -1});
+        byteCodeArray[217] = ByteCodeForm.createSuperFieldRefForm(217, "putstatic_super", new int[] {179, -1, -1});
+        byteCodeArray[218] = ByteCodeForm.createSuperFieldRefForm(218, "getfield_super", new int[] {180, -1, -1});
+        byteCodeArray[219] = ByteCodeForm.createSuperFieldRefForm(219, "putfield_super", new int[] {181, -1, -1});
+        byteCodeArray[220] = ByteCodeForm.createSuperMethodRefForm(220, "invokevirtual_super", new int[] {182, -1, -1});
+        byteCodeArray[221] = ByteCodeForm.createSuperMethodRefForm(221, "invokespecial_super", new int[] {183, -1, -1});
+        byteCodeArray[222] = ByteCodeForm.createSuperMethodRefForm(222, "invokestatic_super", new int[] {184, -1, -1});
+        byteCodeArray[223] = ByteCodeForm.createSuperFieldRefForm(223, "aload_0_getstatic_super", new int[] {42, 178, -1, -1});
+        byteCodeArray[224] = ByteCodeForm.createSuperFieldRefForm(224, "aload_0_putstatic_super", new int[] {42, 179, -1, -1});
+        byteCodeArray[225] = ByteCodeForm.createSuperFieldRefForm(225, "aload_0_getfield_super", new int[] {42, 180, -1, -1});
+        byteCodeArray[226] = ByteCodeForm.createSuperFieldRefForm(226, "aload_0_putfield_super", new int[] {42, 181, -1, -1});
+        byteCodeArray[227] = ByteCodeForm.createSuperMethodRefForm(227, "aload_0_invokevirtual_super", new int[] {42, 182, -1, -1});
+        byteCodeArray[228] = ByteCodeForm.createSuperMethodRefForm(228, "aload_0_invokespecial_super", new int[] {42, 183, -1, -1});
+        byteCodeArray[229] = ByteCodeForm.createSuperMethodRefForm(229, "aload_0_invokestatic_super", new int[] {42, 184, -1, -1});
+        byteCodeArray[230] = ByteCodeForm.createThisInitMethodRefForm(230, "invokespecial_this_init", new int[] {183, -1, -1});
+        byteCodeArray[231] = ByteCodeForm.createSuperInitMethodRefForm(231, "invokespecial_super_init", new int[] {183, -1, -1});
+        byteCodeArray[232] = ByteCodeForm.createNewInitMethodRefForm(232, "invokespecial_new_init", new int[] {183, -1, -1});
+        byteCodeArray[233] = ByteCodeForm.createNarrowClassRefForm(233, "cldc", new int[] {18, -1});
+        byteCodeArray[234] = ByteCodeForm.createIntRefForm(234, "ildc", new int[] {18, -1});
+        byteCodeArray[235] = ByteCodeForm.createFloatRefForm(235, "fldc", new int[] {18, -1});
+        byteCodeArray[236] = ByteCodeForm.createNarrowClassRefForm(236, "cldc_w", new int[] {19, -1, -1}, WIDENED);
+        byteCodeArray[237] = ByteCodeForm.createIntRefForm(237, "ildc_w", new int[] {19, -1, -1}, WIDENED);
+        byteCodeArray[238] = ByteCodeForm.createFloatRefForm(238, "fldc_w", new int[] {19, -1, -1}, WIDENED);
+        byteCodeArray[239] = ByteCodeForm.createDoubleForm(239, "dldc2_w", new int[] {20, -1, -1});
+
+                                                              
+        // Reserved bytecodes
+        byteCodeArray[254] = ByteCodeForm.createNoArgumentForm(254, "impdep1");
+        byteCodeArray[255] = ByteCodeForm.createNoArgumentForm(255, "impdep2");
+
+        // Bytecodes that aren't defined in the spec but are useful when
+        // unpacking (all must be >255)
+        // maybe wide versions of the others? etc.
+
+        // Put all the bytecodes in a HashMap so we can
+        // get them by either name or number
+        for (final ByteCodeForm byteCode : byteCodeArray) {
+            if (byteCode != null) {
+                byteCodesByName.put(byteCode.getName(), byteCode);
+            }
+        }
+    }
+
+    public static ByteCodeForm createLongForm(int opcode, String name, int[] rewrite) {
+        return new LongForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm createIincForm(int opcode, String name, int[] rewrite) {
+        return new IincForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm createDoubleForm(int opcode, String name, int[] rewrite) {
+        return new DoubleForm(opcode, name, rewrite);
+    }
+    public static ByteCodeForm createNarrowClassRefForm(int opcode, String name, int[] rewrite, boolean widened) {
+        return new NarrowClassRefForm(opcode, name, rewrite, widened);
+    }
+
+    public static ByteCodeForm createIntRefForm(int opcode, String name, int[] rewrite, boolean widened) {
+        return new IntRefForm(opcode, name, rewrite, widened);
+    }
+
+    public static ByteCodeForm createFloatRefForm(int opcode, String name, int[] rewrite, boolean widened) {
+        return new FloatRefForm(opcode, name, rewrite, widened);
+    }
+
+    public static ByteCodeForm createThisFieldRefForm(int opcode, String name, int[] rewrite) {
+        return new ThisFieldRefForm(opcode, name, rewrite);
+    }
+
+    public static ByteCodeForm get(final int opcode) {
+        return byteCodeArray[opcode];
+    }
+    private final int opcode;
+    private final String name;
+    private final int[] rewrite;
+    private int firstOperandIndex;
+
+    private int operandLength;
+
+    /**
+     * Answer a new instance of this class with the specified opcode and name. Assume no rewrite.
+     *
+     * @param opcode int corresponding to the opcode's value
+     * @param name String printable name of the opcode
+     */
+    public ByteCodeForm(final int opcode, final String name) {
+        this(opcode, name, new int[] {opcode});
+    }
+
+    /**
+     * Answer a new instance of this class with the specified opcode, name, operandType and rewrite
+     *
+     * @param opcode int corresponding to the opcode's value
+     * @param name String printable name of the opcode
+     * @param rewrite int[] Array of ints. Operand positions (which will later be rewritten in ByteCodes) are indicated
+     *        by -1.
+     */
+    public ByteCodeForm(final int opcode, final String name, final int[] rewrite) {
+        this.opcode = opcode;
+        this.name = name;
+        this.rewrite = rewrite;
+        calculateOperandPosition();
+    }
+
+    protected void calculateOperandPosition() {
+        firstOperandIndex = -1;
+        operandLength = -1;
+
+        // Find the first negative number in the rewrite array
+        int iterationIndex = 0;
+        while (iterationIndex < rewrite.length) {
+            if (rewrite[iterationIndex] < 0) {
+                // Found the first opcode to substitute
+                firstOperandIndex = iterationIndex;
+                iterationIndex = rewrite.length;
+            } else {
+                iterationIndex++;
+            }
+        }
+
+        if (firstOperandIndex == -1) {
+            // Nothing more to do since the opcode has no operands
+            return;
+        }
+
+        // Find the last negative number in the rewrite array
+        int lastOperandIndex = -1;
+        iterationIndex = firstOperandIndex;
+        while (iterationIndex < rewrite.length) {
+            if (rewrite[iterationIndex] < 0) {
+                lastOperandIndex = iterationIndex;
+            }
+            iterationIndex++;
+        }
+
+        // Now we have the first index and the last index.
+        final int difference = lastOperandIndex - firstOperandIndex;
+
+        // If last < first, something is wrong.
+        if (difference < 0) {
+            throw new Error("Logic error: not finding rewrite operands correctly");
+        }
+        operandLength = difference + 1;
+    }
+
+    public int firstOperandIndex() {
+        return firstOperandIndex;
+    }
+
+    /**
+     * The ByteCodeForm knows how to fix up a bytecode if it needs to be fixed up because it holds a Label bytecode.
+     *
+     * @param byteCode a ByteCode to be fixed up
+     * @param codeAttribute a CodeAttribute used to determine how the ByteCode should be fixed up.
+     */
+    public void fixUpByteCodeTargets(final ByteCode byteCode, final CodeAttribute codeAttribute) {
+        // Most ByteCodeForms don't have any fixing up to do.
+        return;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public int getOpcode() {
+        return opcode;
+    }
+
+    public int[] getRewrite() {
+        return rewrite;
+    }
+
+    public int[] getRewriteCopy() {
+        return Arrays.copyOf(rewrite, rewrite.length);
+    }
+
+    /**
+     * This method will answer true if the receiver is a multi-bytecode instruction (such as aload0_putfield_super);
+     * otherwise, it will answer false.
+     *
+     * @return boolean true if multibytecode, false otherwise
+     */
+    public boolean hasMultipleByteCodes() {
+        // Currently, all multi-bytecode instructions
+        // begin with aload_0, so this is how we test.
+        if ((rewrite.length > 1) && (rewrite[0] == 42)) {
+            // If there's an instruction (not a negative
+            // number, which is an operand) after the
+            // aload_0, it's a multibytecode instruction.
+            return (rewrite[1] > 0);
+        }
+        return false;
+    }
+
+    public boolean hasNoOperand() {
+        return false;
+    }
+
+    public boolean nestedMustStartClassPool() {
+        return false;
+    }
+
+    public int operandLength() {
+        return operandLength;
+    }
+
+    /**
+     * When passed a byteCode, an OperandTable and a SegmentConstantPool, this method will set the rewrite of the
+     * byteCode appropriately.
+     *
+     * @param byteCode ByteCode to be updated (!)
+     * @param operandManager OperandTable from which to draw info
+     * @param codeLength Length of bytes (excluding this bytecode) from the beginning of the method. Used in calculating
+     *        padding for some variable-length bytecodes (such as lookupswitch, tableswitch).
+     */
+    public abstract void setByteCodeOperands(ByteCode byteCode, OperandManager operandManager, int codeLength);
+
+    @Override
+    public String toString() {
+        return this.getClass().getName() + "(" + getName() + ")";
+    }
+}

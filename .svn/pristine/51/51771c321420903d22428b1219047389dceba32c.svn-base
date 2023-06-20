@@ -1,0 +1,32 @@
+
+Yorg.apache.commons.compress.compressors.pack200.Pack200CompressorInputStream#available()I—
+ŠC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/pack200/Pack200CompressorInputStream.javaá á("1*þ
+1
+â â(Ù
+Ö
+
+â â(B
+%0<org.apache.commons.compress.compressors.pack200.StreamBridge"__id*~
+
+__unknown_file (b*`N
+Lorg.apache.commons.compress.compressors.pack200.Pack200CompressorInputStream"
+streamBridgeöó
+
+â â(&
+%1java.io.InputStream"\org.apache.commons.compress.compressors.pack200.StreamBridge#getInput()Ljava/io/InputStream;*`
+
+__unknown_file (D
+B
+%0<org.apache.commons.compress.compressors.pack200.StreamBridge2
+getInput()
+
+â â(2	
+%2int" java.io.InputStream#available()I*7
+
+__unknown_file (
+
+%1java.io.InputStream2available()"
+
+â â(3
+""BPN
+Lorg.apache.commons.compress.compressors.pack200.Pack200CompressorInputStreamHP

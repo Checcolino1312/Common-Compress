@@ -1,0 +1,2 @@
+org.apache.commons.compress.utils.ChecksumCalculatingInputStream#<init>(Ljava/util/zip/Checksum;Ljava/io/InputStream;)V
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;

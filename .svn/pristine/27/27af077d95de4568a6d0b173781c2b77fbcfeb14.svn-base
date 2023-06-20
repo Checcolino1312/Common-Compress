@@ -1,0 +1,156 @@
+
+¬org.apache.commons.compress.harmony.pack200.Segment#visitMethod(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;)Lorg/objectweb/asm/MethodVisitor;}
+qC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/pack200/Segment.javaØ Ø($"startingBlock*ê
+startingBlock
+Ø$ Ù("
+Š
+
+× ×(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*6
+
+__unknown_file (
+
+namejava.lang.StringZ
+X
+
+ØC Ø(G
+namejava.lang.String"__annotation*"
+
+__unknown_file (
+
+%3
+Š
+
+× ×(
+%4"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*6
+
+__unknown_file (
+
+descjava.lang.StringZ
+X
+
+ØV Ø(Z
+descjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%4’
+
+
+× ×(
+%5"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*;
+
+__unknown_file (
+
+	signaturejava.lang.String_
+]
+
+Øi Ø(r
+	signaturejava.lang.String"__annotation*"
+
+__unknown_file (
+
+%5•
+’
+
+× ×(
+%6"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*>
+
+__unknown_file ("
+ 
+
+exceptionsjava.lang.String[]b
+`
+
+Ù Ù(! 
+
+exceptionsjava.lang.String[]"__annotation*"
+
+__unknown_file (
+
+%6*
+1*ì
+1
+Ú Ú(¸
+µ
+
+Ú Ú(<
+%06org.apache.commons.compress.harmony.pack200.ClassBands"__id*c
+
+__unknown_file (G*E5
+3org.apache.commons.compress.harmony.pack200.Segment"
+
+classBandsïì
+
+Ú Ú(F
+
+%1void"org.apache.commons.compress.harmony.pack200.ClassBands#addMethod(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;)V*Z
+
+__unknown_file (>
+<
+%06org.apache.commons.compress.harmony.pack200.ClassBands*"
+
+__unknown_file (
+""*6
+
+__unknown_file (
+
+namejava.lang.String*6
+
+__unknown_file (
+
+descjava.lang.String*;
+
+__unknown_file (
+
+	signaturejava.lang.String*>
+
+__unknown_file ("
+ 
+
+exceptionsjava.lang.String[]2UaddMethod(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;)Í
+Ê
+
+Û Û(N
+%2Horg.apache.commons.compress.harmony.pack200.Segment$SegmentMethodVisitor"__id*f
+
+__unknown_file (J*H5
+3org.apache.commons.compress.harmony.pack200.Segment"
+methodVisitor"^
+
+Û Û(P
+N
+%2Horg.apache.commons.compress.harmony.pack200.Segment$SegmentMethodVisitor: 
+
+__unknown_file (
+"":&
+
+Ø6 Ø(H
+namejava.lang.String:&
+
+ØI Ø([
+descjava.lang.String:+
+
+Ø\ Ø(s
+	signaturejava.lang.String:.
+
+Ù Ù(! 
+
+exceptionsjava.lang.String[]B75
+3org.apache.commons.compress.harmony.pack200.SegmentH

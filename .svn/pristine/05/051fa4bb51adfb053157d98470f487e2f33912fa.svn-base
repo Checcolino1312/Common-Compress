@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.unpack200.SegmentHeader#getBandHeadersInputStream()Ljava/io/InputStream;
+java.io.ByteArrayInputStream#instance-init#
+java.io.ByteArrayInputStream#<init>([B)V

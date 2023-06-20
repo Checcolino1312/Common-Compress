@@ -1,0 +1,132 @@
+
+Worg.apache.commons.compress.harmony.pack200.IcBands$IcTuple#equals(Ljava/lang/Object;)Zo
+eC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/IcBands.java6 6("startingBlock*!
+29 :(2"
+9 :(2
+""*Â
+3: :(±
+®
+:' :((8
+%62org.apache.commons.compress.harmony.pack200.CPUTF8"__id*b
+
+__unknown_file (F*D=
+;org.apache.commons.compress.harmony.pack200.IcBands$IcTuple"
+N¶
+³
+:* :(/8
+%72org.apache.commons.compress.harmony.pack200.CPUTF8"__id*g
+
+__unknown_file (K*I
+B
+icT;org.apache.commons.compress.harmony.pack200.IcBands$IcTuple"
+NÀ
+½
+: :(0
+%8boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*V
+
+__unknown_file (:
+8
+%62org.apache.commons.compress.harmony.pack200.CPUTF8*V
+
+__unknown_file (:
+8
+%72org.apache.commons.compress.harmony.pack200.CPUTF8*
+2*ƒ
+startingBlock6 6(-ˆ
+…
+5 5(
+%9"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+6+ 6(,
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%9*
+8
+1*Ë
+599 9(@³
+°
+9H 9(J9
+%33org.apache.commons.compress.harmony.pack200.CPClass"__id*c
+
+__unknown_file (G*E=
+;org.apache.commons.compress.harmony.pack200.IcBands$IcTuple"
+C2¸
+µ
+9L 9(R9
+%43org.apache.commons.compress.harmony.pack200.CPClass"__id*h
+
+__unknown_file (L*J
+B
+icT;org.apache.commons.compress.harmony.pack200.IcBands$IcTuple"
+C2Â
+¿
+99 9(S
+%5boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*W
+
+__unknown_file (;
+9
+%33org.apache.commons.compress.harmony.pack200.CPClass*W
+
+__unknown_file (;
+9
+%43org.apache.commons.compress.harmony.pack200.CPClass*
+2
+3*±
+88. 8(/Œ
+‰
+8 8(0B
+icT;org.apache.commons.compress.harmony.pack200.IcBands$IcTuple"__id*3
+
+__unknown_file (
+
+ojava.lang.Object²
+¯
+9 9(9
+%03org.apache.commons.compress.harmony.pack200.CPClass"__id*b
+
+__unknown_file (F*D=
+;org.apache.commons.compress.harmony.pack200.IcBands$IcTuple"
+C·
+´
+9  9(%9
+%13org.apache.commons.compress.harmony.pack200.CPClass"__id*g
+
+__unknown_file (K*I
+B
+icT;org.apache.commons.compress.harmony.pack200.IcBands$IcTuple"
+C˜•
+9 9(&
+%2boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*W
+
+__unknown_file (;
+9
+%03org.apache.commons.compress.harmony.pack200.CPClass*W
+
+__unknown_file (;
+9
+%13org.apache.commons.compress.harmony.pack200.CPClass2equals(Ljava/lang/Object;)*	
+2
+3
+5*!
+1< <("
+< <(
+"":!
+6 6(,
+ojava.lang.ObjectB?=
+;org.apache.commons.compress.harmony.pack200.IcBands$IcTupleHP

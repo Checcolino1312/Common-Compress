@@ -1,0 +1,228 @@
+
+`org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#readOnce([BII)Iõ
+éC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/snappy/FramedSnappyCompressorInputStream.java£ £("7"11*√
+2
+∫ ∫(€
+ÿ
+
+∫ ∫(D
+%14=org.apache.commons.compress.compressors.snappy.PureJavaCrc32C"__id*~
+
+__unknown_file (b*`R
+Porg.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream"
+
+checksumŒÀ
+
+∫ ∫()
+%15void"Korg.apache.commons.compress.compressors.snappy.PureJavaCrc32C#update([BII)V*b
+
+__unknown_file (F
+D
+%14=org.apache.commons.compress.compressors.snappy.PureJavaCrc32C*)
+
+__unknown_file (
+
+bbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2update([BII)*
+1*à
+4
+∂ ∂(˜
+Ù
+
+∂ ∂(,Q
+%11Jorg.apache.commons.compress.compressors.snappy.SnappyCompressorInputStream"__id*å
+
+__unknown_file (p*nR
+Porg.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream"
+currentCompressedChunkÏÈ
+
+∂ ∂(;
+%12long"Morg.apache.commons.compress.compressors.CompressorInputStream#getBytesRead()J*o
+
+__unknown_file (S
+Q
+%11Jorg.apache.commons.compress.compressors.snappy.SnappyCompressorInputStream2getBytesRead()ÖÇ
+
+∂ ∂(E
+%13void"Gorg.apache.commons.compress.compressors.CompressorInputStream#count(J)V*p
+
+__unknown_file (TR
+Porg.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream*"
+
+__unknown_file (
+""2count(J)*
+2
+1*¥
+5
+≥ ≥(&ˆ
+Û
+
+≥ ≥(&P
+%9Jorg.apache.commons.compress.compressors.snappy.SnappyCompressorInputStream"__id*å
+
+__unknown_file (p*nR
+Porg.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream"
+currentCompressedChunkıÚ
+
+≥ ≥(.
+%10void"^org.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream#close()V*n
+
+__unknown_file (R
+P
+%9Jorg.apache.commons.compress.compressors.snappy.SnappyCompressorInputStream2close()©
+¶
+
+¥ ¥(-nR
+Porg.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream"
+currentCompressedChunk"__id*"
+
+__unknown_file (
+""*
+2
+1*⁄
+6
+∞  ∞(6ˆ
+Û
+
+∞  ∞(6P
+%5Jorg.apache.commons.compress.compressors.snappy.SnappyCompressorInputStream"__id*å
+
+__unknown_file (p*nR
+Porg.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream"
+currentCompressedChunkÍÁ
+
+∞  ∞(E
+
+%6long"Morg.apache.commons.compress.compressors.CompressorInputStream#getBytesRead()J*n
+
+__unknown_file (R
+P
+%5Jorg.apache.commons.compress.compressors.snappy.SnappyCompressorInputStream2getBytesRead()ˆ
+Û
+
+± ±()P
+%7Jorg.apache.commons.compress.compressors.snappy.SnappyCompressorInputStream"__id*å
+
+__unknown_file (p*nR
+Porg.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream"
+currentCompressedChunk·ﬁ
+
+± ±(;	
+%8int"Vorg.apache.commons.compress.compressors.snappy.SnappyCompressorInputStream#read([BII)I*n
+
+__unknown_file (R
+P
+%7Jorg.apache.commons.compress.compressors.snappy.SnappyCompressorInputStream*)
+
+__unknown_file (
+
+bbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2
+read([BII)*
+4
+5*ì
+7
+Ø Ø()ˆ
+Û
+
+Ø Ø()P
+%4Jorg.apache.commons.compress.compressors.snappy.SnappyCompressorInputStream"__id*å
+
+__unknown_file (p*nR
+Porg.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream"
+currentCompressedChunk*	
+2
+6
+1*û
+8
+¨ ¨(*ÑÅ
+
+≠ ≠(
+
+%3void"Gorg.apache.commons.compress.compressors.CompressorInputStream#count(I)V*p
+
+__unknown_file (TR
+Porg.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream*"
+
+__unknown_file (
+""2count(I)*
+2
+1*ﬂ
+9
+™ ™(º
+π
+
+™ ™(!
+%1java.io.PushbackInputStream"__id*Å
+
+__unknown_file (e*cR
+Porg.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream"
+inputStreamÉÄ
+
+™ ™(3	
+%2int"'java.io.PushbackInputStream#read([BII)I*?
+
+__unknown_file (#
+!
+%1java.io.PushbackInputStream*)
+
+__unknown_file (
+
+bbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2
+read([BII)*	
+2
+8
+1*&
+10
+® ®("
+
+® ®(
+""*«
+11
+¶ ¶(#´
+®
+
+¶ ¶(H	
+%0int"java.lang.Math#min(II)I*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+9
+10*%
+1
+º º("
+
+º º(
+"":
+
+£ £((
+bbyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BTR
+Porg.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStreamP

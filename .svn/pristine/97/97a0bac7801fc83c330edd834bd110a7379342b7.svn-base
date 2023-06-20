@@ -1,0 +1,35 @@
+
+õorg.apache.commons.compress.harmony.unpack200.bytecode.forms.DoubleForm#getOffset(Lorg/apache/commons/compress/harmony/unpack200/bytecode/OperandManager;)Iê
+ÖC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/forms/DoubleForm.java! !("startingBlock*Ü
+startingBlock! !(@ 
+«
+   (
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*u
+
+__unknown_file (Y
+W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManagerò
+ï
+!1 !(?W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager"__annotation*"
+
+__unknown_file (
+
+%1*
+1*ú
+1" "(¯ı
+" "(-	
+%0int"Vorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager#nextDoubleRef()I*u
+
+__unknown_file (Y
+W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager2nextDoubleRef()"
+" "(.
+"":c
+! !(?W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManagerBKI
+Gorg.apache.commons.compress.harmony.unpack200.bytecode.forms.DoubleFormP

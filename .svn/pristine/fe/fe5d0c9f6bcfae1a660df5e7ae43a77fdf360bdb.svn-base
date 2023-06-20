@@ -1,0 +1,60 @@
+
+Norg.apache.commons.compress.compressors.xz.XZUtils#isXZCompressionAvailable()Zn
+dC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/xz/XZUtils.java| |(2"3*Ø
+2 (Ñ
+Å
+# (5K
+%3Eorg.apache.commons.compress.compressors.xz.XZUtils$CachedAvailability"__id*"
+
+__unknown_file (
+""Ñ
+Å
+# (FK
+%4Eorg.apache.commons.compress.compressors.xz.XZUtils$CachedAvailability"__id*"
+
+__unknown_file (
+"""
+ (G
+""*Ã
+3}0 }(DŒ
+À
+}0 }(DK
+%0Eorg.apache.commons.compress.compressors.xz.XZUtils$CachedAvailability"__id*l
+
+__unknown_file (P*N4
+2org.apache.commons.compress.compressors.xz.XZUtils"
+cachedXZAvailability’
+“
+} }(EU
+cachedResultEorg.apache.commons.compress.compressors.xz.XZUtils$CachedAvailability"__id*i
+
+__unknown_file (M
+K
+%0Eorg.apache.commons.compress.compressors.xz.XZUtils$CachedAvailabilityÑ
+Å
+~ ~(.K
+%1Eorg.apache.commons.compress.compressors.xz.XZUtils$CachedAvailability"__id*"
+
+__unknown_file (
+""Ñ
+Å
+~ ~(9K
+%2Eorg.apache.commons.compress.compressors.xz.XZUtils$CachedAvailability"__id*"
+
+__unknown_file (
+""*
+2
+1*Ú
+1
+Å Å(/ 
+«
+
+Å Å(1
+%5boolean"Vorg.apache.commons.compress.compressors.xz.XZUtils#internalIsXZCompressionAvailable()Z*R
+
+__unknown_file (6"4
+2org.apache.commons.compress.compressors.xz.XZUtils"
+
+Å Å(2
+""B6"4
+2org.apache.commons.compress.compressors.xz.XZUtilsHP

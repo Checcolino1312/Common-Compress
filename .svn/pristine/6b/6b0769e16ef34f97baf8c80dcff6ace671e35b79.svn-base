@@ -1,0 +1,99 @@
+
+gorg.apache.commons.compress.harmony.unpack200.bytecode.CPInterfaceMethodRef#equals(Ljava/lang/Object;)Z”
+‰C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPInterfaceMethodRef.java. .("startingBlock*Ë
+264 6(?Ý
+Ú
+64 6(?J
+%3Dorg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType"__id*|
+
+__unknown_file (`*^M
+Korg.apache.commons.compress.harmony.unpack200.bytecode.CPInterfaceMethodRef"
+nameAndTypeå
+â
+6G 6(XJ
+%4Dorg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType"__id*ƒ
+
+__unknown_file (g*e
+T
+otherKorg.apache.commons.compress.harmony.unpack200.bytecode.CPInterfaceMethodRef"
+nameAndTypeîë
+64 6(Y
+%5boolean"`org.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType#equals(Ljava/lang/Object;)Z*h
+
+__unknown_file (L
+J
+%3Dorg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType*h
+
+__unknown_file (L
+J
+%4Dorg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType2equals(Ljava/lang/Object;)*
+1*Ï
+35< 5(? 
+
+5 5(@T
+otherKorg.apache.commons.compress.harmony.unpack200.bytecode.CPInterfaceMethodRef"__id*5
+
+__unknown_file (
+
+objjava.lang.ObjectÕ
+Ò
+6 6(D
+%0>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass"__id*z
+
+__unknown_file (^*\M
+Korg.apache.commons.compress.harmony.unpack200.bytecode.CPInterfaceMethodRef"
+	classNameÝ
+Ú
+6  6(/D
+%1>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass"__id*
+
+__unknown_file (e*c
+T
+otherKorg.apache.commons.compress.harmony.unpack200.bytecode.CPInterfaceMethodRef"
+	classNameÜÙ
+6 6(0
+%2boolean"Zorg.apache.commons.compress.harmony.unpack200.bytecode.CPClass#equals(Ljava/lang/Object;)Z*b
+
+__unknown_file (F
+D
+%0>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass*b
+
+__unknown_file (F
+D
+%1>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass2equals(Ljava/lang/Object;)*
+2
+1*Š
+startingBlock. .(%Š
+‡
+- -(
+%6"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectW
+U
+.! .($
+objjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%6*	
+3
+4
+6*!
+43 3("
+3 3(
+""*!
+60 0("
+0 0(
+""*!
+16 6(Z"
+6 6(Z
+"":#
+. .($
+objjava.lang.ObjectBOM
+Korg.apache.commons.compress.harmony.unpack200.bytecode.CPInterfaceMethodRefHP

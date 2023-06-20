@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream#skipRecordPadding()V
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream#getActuallySkipped(JJJ)J
+org.apache.commons.compress.utils.IOUtils#skip(Ljava/io/InputStream;J)J
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream#isDirectory()Z

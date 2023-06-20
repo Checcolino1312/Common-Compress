@@ -1,0 +1,25 @@
+
+`org.apache.commons.compress.compressors.gzip.GzipUtils#isCompressedFilename(Ljava/lang/String;)Z~
+tC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/gzip/GzipUtils.javad d(."1*Ô
+1e e(r
+p
+e e(:
+%04org.apache.commons.compress.compressors.FileNameUtil"__id*"
+
+__unknown_file (
+""¼¹
+e e(:
+%1boolean"^org.apache.commons.compress.compressors.FileNameUtil#isCompressedFilename(Ljava/lang/String;)Z*X
+
+__unknown_file (<
+:
+%04org.apache.commons.compress.compressors.FileNameUtil*:
+
+__unknown_file (
+
+fileNamejava.lang.String2(isCompressedFilename(Ljava/lang/String;)"
+e e(;
+"":(
+d/ d(D
+fileNamejava.lang.StringB:"8
+6org.apache.commons.compress.compressors.gzip.GzipUtilsHP

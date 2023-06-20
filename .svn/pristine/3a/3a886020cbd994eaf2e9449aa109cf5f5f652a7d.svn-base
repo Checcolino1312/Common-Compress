@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.pack200.PopulationCodec#encode(II)[B
+org.apache.commons.compress.harmony.pack200.Pack200Exception#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.harmony.pack200.Pack200Exception#instance-init#

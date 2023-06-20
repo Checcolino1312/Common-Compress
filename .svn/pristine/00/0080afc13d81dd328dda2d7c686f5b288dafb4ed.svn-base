@@ -1,0 +1,57 @@
+
+Yorg.apache.commons.compress.compressors.zstandard.ZstdUtils#isZstdCompressionAvailable()Zw
+mC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/zstandard/ZstdUtils.javaI I(4"3*¡
+2L L(ç
+ä
+L# L(5T
+%3Norg.apache.commons.compress.compressors.zstandard.ZstdUtils$CachedAvailability"__id*"
+
+__unknown_file (
+""ç
+ä
+L# L(FT
+%4Norg.apache.commons.compress.compressors.zstandard.ZstdUtils$CachedAvailability"__id*"
+
+__unknown_file (
+"""
+L L(G
+""*Ñ
+3J0 J(F‚
+ﬂ
+J0 J(FT
+%0Norg.apache.commons.compress.compressors.zstandard.ZstdUtils$CachedAvailability"__id*w
+
+__unknown_file ([*Y=
+;org.apache.commons.compress.compressors.zstandard.ZstdUtils"
+cachedZstdAvailabilityÁ
+‰
+J J(G^
+cachedResultNorg.apache.commons.compress.compressors.zstandard.ZstdUtils$CachedAvailability"__id*r
+
+__unknown_file (V
+T
+%0Norg.apache.commons.compress.compressors.zstandard.ZstdUtils$CachedAvailabilityç
+ä
+K K(.T
+%1Norg.apache.commons.compress.compressors.zstandard.ZstdUtils$CachedAvailability"__id*"
+
+__unknown_file (
+""ç
+ä
+K K(9T
+%2Norg.apache.commons.compress.compressors.zstandard.ZstdUtils$CachedAvailability"__id*"
+
+__unknown_file (
+""*
+2
+1*Ä
+1N N(1‹
+Ÿ
+N N(3
+%5boolean"aorg.apache.commons.compress.compressors.zstandard.ZstdUtils#internalIsZstdCompressionAvailable()Z*[
+
+__unknown_file (?"=
+;org.apache.commons.compress.compressors.zstandard.ZstdUtils"
+N N(4
+""B?"=
+;org.apache.commons.compress.compressors.zstandard.ZstdUtilsHP

@@ -1,0 +1,99 @@
+
+^org.apache.commons.compress.harmony.unpack200.bytecode.CPMethodRef#equals(Ljava/lang/Object;)Z~
+tC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPMethodRef.java6 6("startingBlock*¸
+2>4 >(?Ô
+Ñ
+>4 >(?J
+%3Dorg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType"__id*s
+
+__unknown_file (W*UD
+Borg.apache.commons.compress.harmony.unpack200.bytecode.CPMethodRef"
+nameAndTypeÛ
+Ø
+>G >(XJ
+%4Dorg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType"__id*z
+
+__unknown_file (^*\
+K
+otherBorg.apache.commons.compress.harmony.unpack200.bytecode.CPMethodRef"
+nameAndTypeîë
+>4 >(Y
+%5boolean"`org.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType#equals(Ljava/lang/Object;)Z*h
+
+__unknown_file (L
+J
+%3Dorg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType*h
+
+__unknown_file (L
+J
+%4Dorg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType2equals(Ljava/lang/Object;)*
+1*³
+3=* =(-—
+”
+= =(.K
+otherBorg.apache.commons.compress.harmony.unpack200.bytecode.CPMethodRef"__id*5
+
+__unknown_file (
+
+objjava.lang.ObjectÌ
+É
+> >(D
+%0>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass"__id*q
+
+__unknown_file (U*SD
+Borg.apache.commons.compress.harmony.unpack200.bytecode.CPMethodRef"
+	classNameÓ
+Ð
+>  >(/D
+%1>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass"__id*x
+
+__unknown_file (\*Z
+K
+otherBorg.apache.commons.compress.harmony.unpack200.bytecode.CPMethodRef"
+	classNameÜÙ
+> >(0
+%2boolean"Zorg.apache.commons.compress.harmony.unpack200.bytecode.CPClass#equals(Ljava/lang/Object;)Z*b
+
+__unknown_file (F
+D
+%0>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass*b
+
+__unknown_file (F
+D
+%1>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass2equals(Ljava/lang/Object;)*
+2
+1*Š
+startingBlock6 6(%Š
+‡
+5 5(
+%6"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectW
+U
+6! 6($
+objjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%6*	
+3
+4
+6*!
+4; ;("
+; ;(
+""*!
+68 8("
+8 8(
+""*!
+1> >(Z"
+> >(Z
+"":#
+6 6($
+objjava.lang.ObjectBFD
+Borg.apache.commons.compress.harmony.unpack200.bytecode.CPMethodRefHP

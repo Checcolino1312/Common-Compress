@@ -1,0 +1,41 @@
+
+uorg.apache.commons.compress.harmony.pack200.CPFloat#compareTo(Lorg/apache/commons/compress/harmony/pack200/CPFloat;)I{
+qC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/pack200/CPFloat.java ("startingBlock*Ê
+startingBlock (+­
+ª
+ (
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*X
+
+__unknown_file (<
+:
+obj3org.apache.commons.compress.harmony.pack200.CPFloatz
+x
+' (*:
+obj3org.apache.commons.compress.harmony.pack200.CPFloat"__annotation*"
+
+__unknown_file (
+
+%1*
+1*Ó
+1   (¯
+¬
+   (4	
+%0int"java.lang.Float#compare(FF)I*/
+
+__unknown_file ("
+java.lang.Float*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""
+   (5
+"":F
+ (*:
+obj3org.apache.commons.compress.harmony.pack200.CPFloatB75
+3org.apache.commons.compress.harmony.pack200.CPFloatHP

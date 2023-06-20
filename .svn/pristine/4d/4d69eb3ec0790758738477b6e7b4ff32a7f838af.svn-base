@@ -1,0 +1,8 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#readFirstLocalFileHeader()V
+org.apache.commons.compress.archivers.zip.UnsupportedZipFeatureException#<init>(Lorg/apache/commons/compress/archivers/zip/UnsupportedZipFeatureException$Feature;)V
+org.apache.commons.compress.archivers.zip.ZipLong#equals(Ljava/lang/Object;)Z
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#readFully([B)V
+org.apache.commons.compress.archivers.zip.ZipLong#<init>([B)V
+org.apache.commons.compress.archivers.zip.UnsupportedZipFeatureException#instance-init#
+org.apache.commons.compress.archivers.zip.ZipLong#instance-init#
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V

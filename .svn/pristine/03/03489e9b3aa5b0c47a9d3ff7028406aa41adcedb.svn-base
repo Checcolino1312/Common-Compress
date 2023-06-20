@@ -1,0 +1,80 @@
+
+S__sonar_lambda_27$org.apache.commons.compress.archivers.dump.DumpArchiveInputStream
+sC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveInputStream.java£ ©("4*q
+2
+¥ ¥(&D
+B
+
+¥ ¥(0
+
+%30int"__id*"
+
+__unknown_file (
+"""
+
+¥ ¥(1
+
+
+%30int*–
+3
+¤7 ¤(8üù
+
+¤7 ¤(J
+%29java.lang.String"_org.apache.commons.compress.archivers.dump.DumpArchiveEntry#getOriginalName()Ljava/lang/String;*^
+
+__unknown_file (B
+@
+q;org.apache.commons.compress.archivers.dump.DumpArchiveEntry2getOriginalName()*
+2
+1*–
+4
+¤ ¤(üù
+
+¤ ¤(+
+%28java.lang.String"_org.apache.commons.compress.archivers.dump.DumpArchiveEntry#getOriginalName()Ljava/lang/String;*^
+
+__unknown_file (B
+@
+p;org.apache.commons.compress.archivers.dump.DumpArchiveEntry2getOriginalName()*
+2
+3*…
+1
+¨ ¨(üù
+
+¨ ¨(.
+%31java.lang.String"_org.apache.commons.compress.archivers.dump.DumpArchiveEntry#getOriginalName()Ljava/lang/String;*^
+
+__unknown_file (B
+@
+p;org.apache.commons.compress.archivers.dump.DumpArchiveEntry2getOriginalName()üù
+
+¨9 ¨(L
+%32java.lang.String"_org.apache.commons.compress.archivers.dump.DumpArchiveEntry#getOriginalName()Ljava/lang/String;*^
+
+__unknown_file (B
+@
+q;org.apache.commons.compress.archivers.dump.DumpArchiveEntry2getOriginalName()ÙÖ
+
+¨ ¨(M
+
+%33int"/java.lang.String#compareTo(Ljava/lang/String;)I*5
+
+__unknown_file (
+
+%31java.lang.String*5
+
+__unknown_file (
+
+%32java.lang.String2compareTo(Ljava/lang/String;)"
+
+¨ ¨(N
+
+
+%33int:N
+
+£ £(@
+p;org.apache.commons.compress.archivers.dump.DumpArchiveEntry:N
+
+£ £(@
+q;org.apache.commons.compress.archivers.dump.DumpArchiveEntryB
+java.util.Comparator

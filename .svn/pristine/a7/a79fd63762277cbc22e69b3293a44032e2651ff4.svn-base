@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveEntry#getHeaderType()Lorg/apache/commons/compress/archivers/dump/DumpArchiveConstants$SEGMENT_TYPE;
+==
+getType org.apache.commons.compress.archivers.dump.DumpArchiveEntry$TapeSegmentHeader#getType()Lorg/apache/commons/compress/archivers/dump/DumpArchiveConstants$SEGMENT_TYPE;

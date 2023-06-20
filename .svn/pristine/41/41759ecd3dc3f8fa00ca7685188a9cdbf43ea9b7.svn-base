@@ -1,0 +1,4 @@
+org.apache.commons.compress.utils.OsgiUtils#isBundleReference(Ljava/lang/Class;)Z
+java.lang.Class#isAssignableFrom(Ljava/lang/Class;)Z
+java.lang.Class#getSuperclass()Ljava/lang/Class;
+org.apache.commons.compress.utils.OsgiUtils#isBundleReference(Ljava/lang/Class;)Z

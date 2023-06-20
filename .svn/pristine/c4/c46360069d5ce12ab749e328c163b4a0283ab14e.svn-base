@@ -1,0 +1,82 @@
+
+Ïorg.apache.commons.compress.archivers.zip.ZipArchiveEntry$ExtraFieldParsingMode$1#fill(Lorg/apache/commons/compress/archivers/zip/ZipExtraField;[BIIZ)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;u
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.javar! r(%"startingBlock*«
+startingBlock	r% r(†³
+°
+q q(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*^
+
+__unknown_file (B
+@
+field7org.apache.commons.compress.archivers.zip.ZipExtraField€
+~
+r: r(?@
+field7org.apache.commons.compress.archivers.zip.ZipExtraField"__annotation*"
+
+__unknown_file (
+
+%1€
+~
+q q(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*,
+
+__unknown_file (
+
+databyte[]N
+L
+rN r(R
+databyte[]"__annotation*"
+
+__unknown_file (
+
+%2*
+1*þ
+1s s(5¡
+ž
+s s(S=
+%07org.apache.commons.compress.archivers.zip.ZipExtraField"çorg.apache.commons.compress.archivers.zip.ZipArchiveEntry$ExtraFieldParsingMode#fillAndMakeUnrecognizedOnError(Lorg/apache/commons/compress/archivers/zip/ZipExtraField;[BIIZ)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;*o
+
+__unknown_file (S"Q
+Oorg.apache.commons.compress.archivers.zip.ZipArchiveEntry$ExtraFieldParsingMode*^
+
+__unknown_file (B
+@
+field7org.apache.commons.compress.archivers.zip.ZipExtraField*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""K
+s s(T?
+=
+%07org.apache.commons.compress.archivers.zip.ZipExtraField:L
+r& r(@@
+field7org.apache.commons.compress.archivers.zip.ZipExtraField:
+rA r(S
+databyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BUS
+Qorg.apache.commons.compress.archivers.zip.ZipArchiveEntry$ExtraFieldParsingMode$1H

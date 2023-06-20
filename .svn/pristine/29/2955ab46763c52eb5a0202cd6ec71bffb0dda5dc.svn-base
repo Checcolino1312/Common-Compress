@@ -1,0 +1,9 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#buildDecodingStream(IZ)V
+org.apache.commons.compress.utils.BoundedInputStream#instance-init#
+org.apache.commons.compress.archivers.sevenz.SevenZFile#reopenFolderInputStream(ILorg/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry;)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#skipEntriesWhenNeeded(IZI)Z
+org.apache.commons.compress.utils.BoundedInputStream#<init>(Ljava/io/InputStream;J)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.utils.CRC32VerifyingInputStream#<init>(Ljava/io/InputStream;JJ)V
+org.apache.commons.compress.utils.CRC32VerifyingInputStream#instance-init#

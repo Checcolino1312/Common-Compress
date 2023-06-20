@@ -1,0 +1,40 @@
+
+=org.apache.commons.compress.utils.BoundedInputStream#skip(J)Jp
+fC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/utils/BoundedInputStream.javaX X("1*ı
+1Y! Y(%ª
+§
+Y! Y(<
+
+%0long"java.lang.Math#min(JJ)J*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""Œ
+‰
+Z" Z($
+%1java.io.InputStream"__id*\
+
+__unknown_file (@*>6
+4org.apache.commons.compress.utils.BoundedInputStream"
+inš
+Z" Z(6
+
+%2long"java.io.InputStream#skip(J)J*7
+
+__unknown_file (
+
+%1java.io.InputStream*"
+
+__unknown_file (
+""2skip(J)"
+] ](
+"": 
+
+__unknown_file (
+""B86
+4org.apache.commons.compress.utils.BoundedInputStreamHP

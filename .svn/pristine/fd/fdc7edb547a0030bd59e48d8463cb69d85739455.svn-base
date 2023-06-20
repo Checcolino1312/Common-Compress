@@ -1,0 +1,39 @@
+
+Xorg.apache.commons.compress.archivers.zip.ScatterStatistics#toString()Ljava/lang/String;w
+mC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ScatterStatistics.java4 4("1*ë
+15 5($g
+e
+5 5(9
+%0java.lang.String"__concat*#
+5 5($
+compressionElapsed=*
+5' 5(9
+""y
+w
+5 5(Q
+%1java.lang.String"__concat*$
+5 5(9
+
+%0java.lang.String*#
+5< 5(Q
+ms, mergingElapsed=h
+f
+5 5(b
+%2java.lang.String"__concat*$
+5 5(Q
+
+%1java.lang.String*
+5T 5(b
+""h
+f
+5 5(i
+%3java.lang.String"__concat*$
+5 5(b
+
+%2java.lang.String*
+5e 5(i
+ms"$
+5 5(j
+
+%3java.lang.StringB?=
+;org.apache.commons.compress.archivers.zip.ScatterStatisticsH

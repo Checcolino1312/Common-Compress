@@ -1,0 +1,3 @@
+org.apache.commons.compress.utils.ChecksumVerifyingInputStream#skip(J)J
+==
+read org.apache.commons.compress.utils.ChecksumVerifyingInputStream#read()I

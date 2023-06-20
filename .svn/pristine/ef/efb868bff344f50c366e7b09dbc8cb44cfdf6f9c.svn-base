@@ -1,0 +1,116 @@
+
+Éorg.apache.commons.compress.harmony.unpack200.CpBands#cpLongValue(I)Lorg/apache/commons/compress/harmony/unpack200/bytecode/CPLong;s
+gC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/CpBands.java´ ´("3*‡
+2
+Ø  Ø(!ìê
+
+Ø Ø(C
+%3=org.apache.commons.compress.harmony.unpack200.bytecode.CPLong"=org.apache.commons.compress.harmony.unpack200.bytecode.CPLong©
+¶
+
+Ø Ø(6
+%4"Xorg.apache.commons.compress.harmony.unpack200.bytecode.CPLong#<init>(Ljava/lang/Long;I)V*a
+
+__unknown_file (E
+C
+%3=org.apache.commons.compress.harmony.unpack200.bytecode.CPLong*1
+
+__unknown_file (
+
+ljava.lang.Long*"
+
+__unknown_file (
+""¡
+æ
+
+Ø Ø(6G
+cpLong=org.apache.commons.compress.harmony.unpack200.bytecode.CPLong"__id*a
+
+__unknown_file (E
+C
+%3=org.apache.commons.compress.harmony.unpack200.bytecode.CPLongï
+í
+
+∞ ∞(
+%5java.util.Map"__id*i
+
+__unknown_file (M*K7
+5org.apache.commons.compress.harmony.unpack200.CpBands"
+longsToCPLongs´
+®
+
+∞ ∞()C
+%6=org.apache.commons.compress.harmony.unpack200.bytecode.CPLong"__mapSet*1
+
+__unknown_file (
+
+%5java.util.Map*1
+
+__unknown_file (
+
+ljava.lang.Long*e
+
+__unknown_file (I
+G
+cpLong=org.apache.commons.compress.harmony.unpack200.bytecode.CPLong*
+1*¿
+3
+¨ ¨(§
+°
+
+¨ ¨(2
+%0java.lang.Long")java.lang.Long#valueOf(J)Ljava/lang/Long;*.
+
+__unknown_file ("
+java.lang.Long*"
+
+__unknown_file (
+""]
+[
+
+¨ ¨(3
+ljava.lang.Long"__id*2
+
+__unknown_file (
+
+%0java.lang.Longï
+í
+
+≠ ≠(&
+%1java.util.Map"__id*i
+
+__unknown_file (M*K7
+5org.apache.commons.compress.harmony.unpack200.CpBands"
+longsToCPLongsƒ
+¡
+
+≠ ≠(-C
+%2=org.apache.commons.compress.harmony.unpack200.bytecode.CPLong"__mapGet*1
+
+__unknown_file (
+
+%1java.util.Map*1
+
+__unknown_file (
+
+ljava.lang.Long¡
+æ
+
+≠ ≠(.G
+cpLong=org.apache.commons.compress.harmony.unpack200.bytecode.CPLong"__id*a
+
+__unknown_file (E
+C
+%2=org.apache.commons.compress.harmony.unpack200.bytecode.CPLong*
+2
+1*h
+1
+≤ ≤("W
+
+≤ ≤(I
+G
+cpLong=org.apache.commons.compress.harmony.unpack200.bytecode.CPLong: 
+
+__unknown_file (
+""B97
+5org.apache.commons.compress.harmony.unpack200.CpBandsH

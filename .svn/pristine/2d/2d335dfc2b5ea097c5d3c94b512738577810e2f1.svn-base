@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#isZip64Required(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;Lorg/apache/commons/compress/archivers/zip/Zip64Mode;)Z
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#isTooLargeForZip32(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z

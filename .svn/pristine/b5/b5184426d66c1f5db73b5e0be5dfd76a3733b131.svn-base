@@ -1,0 +1,64 @@
+
+forg.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm#toString()Ljava/lang/String;á
+{C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/forms/ByteCodeForm.javaª ª("1*Ñ
+1
+º º(À»
+
+º º(
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*i
+
+__unknown_file (MK
+Iorg.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm2
+getClass()îë
+
+º º((
+%1java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*3
+
+__unknown_file (
+
+%0java.lang.Class2	getName()m
+k
+
+º º(.
+%2java.lang.String"__concat*&
+
+º º((
+
+%1java.lang.String*
+
+º+ º(.
+(ÑÅ
+
+º1 º(:
+%3java.lang.String"eorg.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm#getName()Ljava/lang/String;*i
+
+__unknown_file (MK
+Iorg.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm2	getName()Ä
+~
+
+º º(:
+%4java.lang.String"__concat*&
+
+º º(.
+
+%2java.lang.String*&
+
+º1 º(:
+
+%3java.lang.Stringm
+k
+
+º º(@
+%5java.lang.String"__concat*&
+
+º º(:
+
+%4java.lang.String*
+
+º= º(@
+)"&
+
+º º(A
+
+%5java.lang.StringBMK
+Iorg.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeFormH

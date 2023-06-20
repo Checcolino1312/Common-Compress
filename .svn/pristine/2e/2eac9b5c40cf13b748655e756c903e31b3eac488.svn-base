@@ -1,0 +1,50 @@
+
+norg.apache.commons.compress.archivers.tar.TarUtils#parsePAX01SparseHeaders(Ljava/lang/String;)Ljava/util/List;p
+dC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.javaý2 ý(I"startingBlock*˜
+startingBlock
+ýI ý(a”
+‘
+
+ü ü(
+%4"
+__annotate*4
+
+__unknown_file (
+java.lang.Deprecated*;
+
+__unknown_file (
+
+	sparseMapjava.lang.String_
+]
+
+ýW ý(`
+	sparseMapjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%4*
+5*5
+4
+ÿ ÿ(:"$
+
+ÿ ÿ(:
+
+%0java.util.List*Á
+5
+ÿ ÿ(.ª
+§
+
+ÿ ÿ(9
+%0java.util.List"rorg.apache.commons.compress.archivers.tar.TarUtils#parseFromPAX01SparseHeaders(Ljava/lang/String;)Ljava/util/List;*R
+
+__unknown_file (6"4
+2org.apache.commons.compress.archivers.tar.TarUtils*;
+
+__unknown_file (
+
+	sparseMapjava.lang.String*
+4:+
+
+ýJ ý(`
+	sparseMapjava.lang.StringB6"4
+2org.apache.commons.compress.archivers.tar.TarUtils

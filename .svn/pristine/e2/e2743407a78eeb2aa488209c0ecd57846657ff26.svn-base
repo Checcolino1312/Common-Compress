@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField#<init>(Ljava/lang/String;[BII)V
+java.lang.String#getBytes(Ljava/nio/charset/Charset;)[B
+java.util.zip.CRC32#<init>()V
+java.util.zip.CRC32#instance-init#

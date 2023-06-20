@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#fillGNUSparse0xData(Ljava/util/Map;)V
+java.lang.Integer#parseInt(Ljava/lang/String;)I

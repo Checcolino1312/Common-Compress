@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#writeFolder(Ljava/io/DataOutput;Lorg/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry;)V
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#writeUint64(Ljava/io/DataOutput;J)V
+java.io.ByteArrayOutputStream#<init>()V
+java.io.ByteArrayOutputStream#instance-init#
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#writeSingleCodec(Lorg/apache/commons/compress/archivers/sevenz/SevenZMethodConfiguration;Ljava/io/OutputStream;)V
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#getContentMethods(Lorg/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry;)Ljava/lang/Iterable;

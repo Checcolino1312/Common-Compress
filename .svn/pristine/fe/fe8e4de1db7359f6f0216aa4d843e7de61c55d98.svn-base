@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.bzip2.BlockSort#fvswap([IIII)V
+org.apache.commons.compress.compressors.bzip2.BlockSort#fswap([III)V

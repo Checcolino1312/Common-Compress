@@ -1,0 +1,71 @@
+
+Iorg.apache.commons.compress.harmony.unpack200.AttributeLayout#hashCode()I{
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/AttributeLayout.javaÎ Î("5*ª
+2
+Õ Õ(˜
+•
+
+Õ Õ("
+%4java.lang.String"__id*i
+
+__unknown_file (M*K?
+=org.apache.commons.compress.harmony.unpack200.AttributeLayout"
+layoutyw
+
+Õ Õ(-	
+%5int"java.lang.String#hashCode()I*4
+
+__unknown_file (
+
+%4java.lang.String2
+hashCode()*
+1*²
+3
+Ô Ô(˜
+•
+
+Ô Ô(
+%3java.lang.String"__id*i
+
+__unknown_file (M*K?
+=org.apache.commons.compress.harmony.unpack200.AttributeLayout"
+layout*
+2
+1*¨
+4
+Ò Ò(–
+“
+
+Ò Ò( 
+%1java.lang.String"__id*g
+
+__unknown_file (K*I?
+=org.apache.commons.compress.harmony.unpack200.AttributeLayout"
+nameyw
+
+Ò Ò(+	
+%2int"java.lang.String#hashCode()I*4
+
+__unknown_file (
+
+%1java.lang.String2
+hashCode()*
+3*°
+5
+Ï Ï(–
+“
+
+Ñ Ñ(
+%0java.lang.String"__id*g
+
+__unknown_file (K*I?
+=org.apache.commons.compress.harmony.unpack200.AttributeLayout"
+name*
+3
+4*%
+1
+× ×("
+
+Ù Ù(
+""BA?
+=org.apache.commons.compress.harmony.unpack200.AttributeLayoutHP

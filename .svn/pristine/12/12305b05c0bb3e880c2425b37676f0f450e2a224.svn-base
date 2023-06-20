@@ -1,0 +1,30 @@
+
+Corg.apache.commons.compress.archivers.zip.ZipFile$Entry#hashCode()Io
+cC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java‚ ‚("1*ñ
+1
+ƒ ƒ(…
+‚
+
+ƒ ƒ('	
+%0int"Eorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#hashCode()I*"
+
+__unknown_file (
+""ßÜ
+
+„ „(.
+
+%1long"Qorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getLocalHeaderOffset()J*W
+
+__unknown_file (;9
+7org.apache.commons.compress.archivers.zip.ZipFile$Entry2getLocalHeaderOffset()ßÜ
+
+„5 „(K
+
+%2long"Qorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getLocalHeaderOffset()J*W
+
+__unknown_file (;9
+7org.apache.commons.compress.archivers.zip.ZipFile$Entry2getLocalHeaderOffset()"
+
+ƒ „(Q
+""B;9
+7org.apache.commons.compress.archivers.zip.ZipFile$EntryHP

@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#closeArchiveEntry()V
+java.util.Arrays#setAll([JLjava/util/function/IntToLongFunction;)V

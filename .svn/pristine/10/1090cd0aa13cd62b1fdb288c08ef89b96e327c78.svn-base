@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#getCurrentOutputStream()Ljava/io/OutputStream;
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#setupFileOutputStream()Lorg/apache/commons/compress/utils/CountingOutputStream;

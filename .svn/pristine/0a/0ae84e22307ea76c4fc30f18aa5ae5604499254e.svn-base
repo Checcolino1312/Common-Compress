@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.pack200.Pack200ClassReader#readUTF8(I[C)Ljava/lang/String;
+java.lang.String#equals(Ljava/lang/Object;)Z

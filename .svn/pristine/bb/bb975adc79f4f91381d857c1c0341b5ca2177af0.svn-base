@@ -1,0 +1,89 @@
+
+Norg.apache.commons.compress.compressors.xz.XZCompressorInputStream#read([BII)Iç
+ÄC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/xz/XZCompressorInputStream.java® ®("startingBlock*¯
+startingBlock
+® ®(CÅ
+
+
+ß ß(
+%7"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*+
+
+__unknown_file (
+
+bufbyte[]O
+M
+
+®! ®($
+bufbyte[]"__annotation*"
+
+__unknown_file (
+
+%7*
+7
+9*%
+5
+Ø Ø("
+
+Ø Ø(
+""*ç
+6
+≠ ≠(3ˆÛ
+
+Æ Æ(
+
+%2void"Gorg.apache.commons.compress.compressors.CompressorInputStream#count(I)V*b
+
+__unknown_file (FD
+Borg.apache.commons.compress.compressors.xz.XZCompressorInputStream*"
+
+__unknown_file (
+""2count(I)*
+5*´
+7
+≠ ≠(ú
+ô
+
+≠ ≠(
+%0java.io.InputStream"__id*j
+
+__unknown_file (N*LD
+Borg.apache.commons.compress.compressors.xz.XZCompressorInputStream"
+inıÚ
+
+≠ ≠(2	
+%1int"java.io.InputStream#read([BII)I*7
+
+__unknown_file (
+
+%0java.io.InputStream*+
+
+__unknown_file (
+
+bufbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2
+read([BII)*
+6*%
+9
+™ ™("
+
+™ ™(
+"":
+
+® ®(%
+bufbyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BFD
+Borg.apache.commons.compress.compressors.xz.XZCompressorInputStreamHP

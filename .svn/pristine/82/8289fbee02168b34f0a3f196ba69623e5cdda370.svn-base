@@ -1,0 +1,44 @@
+
+Iorg.apache.commons.compress.archivers.dump.DumpArchiveSummary#hashCode()I{
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveSummary.java¯ ¯("1*ì
+1
+° °(™
+–
+
+° °(#
+%0java.lang.String"__id*j
+
+__unknown_file (N*L?
+=org.apache.commons.compress.archivers.dump.DumpArchiveSummary"	
+devnameš
+—
+
+°/ °(7
+%1java.lang.String"__id*k
+
+__unknown_file (O*M?
+=org.apache.commons.compress.archivers.dump.DumpArchiveSummary"
+
+hostname‹
+ˆ
+
+° °(8	
+%2int",java.util.Objects#hash([Ljava/lang/Object;)I*1
+
+__unknown_file ("
+java.util.Objects*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+""*4
+
+__unknown_file (
+
+%1java.lang.String"
+
+° °(9
+""BA?
+=org.apache.commons.compress.archivers.dump.DumpArchiveSummaryHP

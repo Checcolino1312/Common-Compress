@@ -1,0 +1,12 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#read([BII)I
+org.apache.commons.compress.archivers.dump.DumpArchiveEntry#parse([B)Lorg/apache/commons/compress/archivers/dump/DumpArchiveEntry;
+java.io.EOFException#instance-init#
+org.apache.commons.compress.archivers.dump.DumpArchiveUtil#verify([B)Z
+java.lang.IllegalStateException#instance-init#
+java.lang.IllegalStateException#<init>(Ljava/lang/String;)V
+java.io.EOFException#<init>()V
+org.apache.commons.compress.archivers.dump.InvalidFormatException#instance-init#
+java.util.Arrays#fill([BB)V
+org.apache.commons.compress.archivers.dump.InvalidFormatException#<init>()V
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+java.lang.Math#min(II)I

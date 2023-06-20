@@ -1,0 +1,6 @@
+org.apache.commons.compress.compressors.gzip.GzipCompressorInputStream#<init>(Ljava/io/InputStream;Z)V
+org.apache.commons.compress.utils.CountingInputStream#<init>(Ljava/io/InputStream;)V
+org.apache.commons.compress.utils.CountingInputStream#instance-init#
+org.apache.commons.compress.compressors.gzip.GzipCompressorInputStream#init(Z)Z
+java.io.BufferedInputStream#instance-init#
+java.io.BufferedInputStream#<init>(Ljava/io/InputStream;)V

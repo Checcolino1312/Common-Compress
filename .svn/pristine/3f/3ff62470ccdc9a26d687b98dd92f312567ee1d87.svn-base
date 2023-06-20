@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.InnerClassesAttribute#writeBody(Ljava/io/DataOutputStream;)V
+java.io.DataOutputStream#writeShort(I)V
+==
+write org.apache.commons.compress.harmony.unpack200.bytecode.InnerClassesAttribute$InnerClassesEntry#write(Ljava/io/DataOutputStream;)V

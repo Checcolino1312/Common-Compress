@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.gzip.GzipCompressorOutputStream#writeHeader(Lorg/apache/commons/compress/compressors/gzip/GzipParameters;)V
+java.nio.ByteBuffer#order(Ljava/nio/ByteOrder;)Ljava/nio/ByteBuffer;
+java.nio.ByteBuffer#allocate(I)Ljava/nio/ByteBuffer;
+org.apache.commons.compress.compressors.gzip.GzipCompressorOutputStream#getBytes(Ljava/lang/String;)[B
+java.nio.ByteBuffer#array()[B

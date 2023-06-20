@@ -1,0 +1,7 @@
+org.apache.commons.compress.archivers.zip.ZipFile#positionAtCentralDirectory()V
+org.apache.commons.compress.archivers.zip.ZipFile#skipBytes(I)V
+org.apache.commons.compress.archivers.zip.ZipFile#positionAtCentralDirectory64()V
+org.apache.commons.compress.archivers.zip.ZipFile#positionAtCentralDirectory32()V
+org.apache.commons.compress.archivers.zip.ZipFile#positionAtEndOfCentralDirectoryRecord()V
+java.util.Arrays#equals([B[B)Z
+org.apache.commons.compress.utils.IOUtils#readFully(Ljava/nio/channels/ReadableByteChannel;Ljava/nio/ByteBuffer;)V

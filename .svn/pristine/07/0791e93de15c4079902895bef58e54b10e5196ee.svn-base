@@ -1,0 +1,106 @@
+
+\org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#setupNoRandPartA()I†
+zC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream.javaæ æ( "2"1*ü
+2
+è è(!Þ
+Û
+
+é% é(.S
+%0Morg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream$Data"__id*r
+
+__unknown_file (V*TJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream"
+dataŸ
+œ
+
+é% é(2
+%1byte[]"__id*z
+
+__unknown_file (^*\
+S
+%0Morg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream$Data"
+ll8Þ
+Û
+
+ë& ë(/S
+%2Morg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream$Data"__id*r
+
+__unknown_file (V*TJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream"
+dataã
+à
+
+ë ë(E
+
+%3void"korg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#checkBounds(IILjava/lang/String;)V*h
+
+__unknown_file (L"J
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*'
+
+__unknown_file (	
+su_tPosÞ
+Û
+
+ì ì($S
+%4Morg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream$Data"__id*r
+
+__unknown_file (V*TJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream"
+dataÁ
+¾
+
+ï ï(7
+%51org.apache.commons.compress.compressors.bzip2.CRC"__id*q
+
+__unknown_file (U*SJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream"
+crcåâ
+
+ï ï(,
+
+%6void"?org.apache.commons.compress.compressors.bzip2.CRC#updateCRC(I)V*U
+
+__unknown_file (9
+7
+%51org.apache.commons.compress.compressors.bzip2.CRC*"
+
+__unknown_file (
+""2updateCRC(I)"
+
+ð ð( 
+""*Á
+1
+ò ò(0Û
+Ø
+
+ó ó(
+
+%7void"Torg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#endBlock()V*h
+
+__unknown_file (LJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStreamÜ
+Ù
+
+ô ô(
+
+%8void"Uorg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#initBlock()V*h
+
+__unknown_file (LJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStreamÜ
+Ù
+
+õ õ(	
+%9int"Vorg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#setupBlock()I*h
+
+__unknown_file (LJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream"
+
+õ õ(
+""BLJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStreamP

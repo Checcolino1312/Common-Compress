@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.pack200.ClassBands#isInnerClass(Ljava/lang/String;)Z
+java.lang.String#indexOf(I)I

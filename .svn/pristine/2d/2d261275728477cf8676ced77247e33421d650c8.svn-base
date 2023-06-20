@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveEntry#<init>(Ljava/lang/String;Ljava/lang/String;ILorg/apache/commons/compress/archivers/dump/DumpArchiveEntry$TYPE;)V
+org.apache.commons.compress.archivers.dump.DumpArchiveEntry#setName(Ljava/lang/String;)V
+==
+setType org.apache.commons.compress.archivers.dump.DumpArchiveEntry#setType(Lorg/apache/commons/compress/archivers/dump/DumpArchiveEntry$TYPE;)V

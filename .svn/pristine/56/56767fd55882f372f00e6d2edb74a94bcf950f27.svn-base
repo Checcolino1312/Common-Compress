@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.NewAttribute#addToBody(ILjava/lang/Object;)V
+java.lang.Integer#valueOf(I)Ljava/lang/Integer;

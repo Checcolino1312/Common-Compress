@@ -1,0 +1,68 @@
+
+dorg.apache.commons.compress.archivers.tar.TarUtils$1#encode(Ljava/lang/String;)Ljava/nio/ByteBuffer;z
+pC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.javaM M($"startingBlock*µ
+3S S(ùö
+S$ S(2
+
+%1char"java.lang.String#charAt(I)C*6
+
+__unknown_file (
+
+namejava.lang.String*"
+
+__unknown_file (
+""2	charAt(I)*
+3
+1*Ü
+startingBlockM$ M(7ã
+à
+L L(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*6
+
+__unknown_file (
+
+namejava.lang.StringX
+V
+M2 M(6
+namejava.lang.String"__annotation*"
+
+__unknown_file (
+
+%3*
+5*”
+5N# N('us
+N# N(0	
+%0int"java.lang.String#length()I*6
+
+__unknown_file (
+
+namejava.lang.String2length()E
+C
+O O(4
+bufbyte[]"__id*"
+
+__unknown_file (
+""*
+3
+1*ˆ
+1U U(!Ω
+∫
+U U(+
+%2java.nio.ByteBuffer"1java.nio.ByteBuffer#wrap([B)Ljava/nio/ByteBuffer;*3
+
+__unknown_file ("
+java.nio.ByteBuffer*+
+
+__unknown_file (
+
+bufbyte[]"'
+U U(,
+
+%2java.nio.ByteBuffer:$
+M% M(6
+namejava.lang.StringB86
+4org.apache.commons.compress.archivers.tar.TarUtils$1H

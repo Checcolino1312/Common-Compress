@@ -1,0 +1,114 @@
+
+°org.apache.commons.compress.archivers.zip.ZipSplitReadOnlySeekableByteChannel#forFiles(Ljava/io/File;Ljava/lang/Iterable;)Ljava/nio/channels/SeekableByteChannel;ã
+C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipSplitReadOnlySeekableByteChannel.javaô& ô(."1*ö
+1
+ö ö(ò
+ï
+
+ö ö(.
+%0java.lang.Iterable"Xjava.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;*1
+
+__unknown_file ("
+java.util.Objects*9
+
+__unknown_file (
+
+filesjava.lang.Iterable*%
+
+__unknown_file (	
+files†
+ù
+
+õ õ(B
+%1java.io.File"Xjava.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;*1
+
+__unknown_file ("
+java.util.Objects*=
+
+__unknown_file (!
+
+lastSegmentFilejava.io.File*/
+
+__unknown_file (
+lastSegmentFile><
+
+ù) ù(4
+%2java.util.ArrayList"java.util.ArrayListl
+j
+
+ù% ù(6
+%3"java.util.ArrayList#<init>()V*7
+
+__unknown_file (
+
+%2java.util.ArrayListj
+h
+
+ù ù(7
+	filesListjava.util.List"__id*7
+
+__unknown_file (
+
+%2java.util.ArrayListx
+v
+
+û û(4!
+%4java.util.function.Consumer"__declareFunction*2
+
+__unknown_file (
+__sonar_lambda_18$ê
+ç
+
+__unknown_file (0
+!
+%4java.util.function.Consumer"
+	filesList"__id*9
+
+__unknown_file (
+
+	filesListjava.util.List˚¯
+
+û û(5
+
+%7void":java.lang.Iterable#forEach(Ljava/util/function/Consumer;)V*9
+
+__unknown_file (
+
+filesjava.lang.Iterable*?
+
+__unknown_file (#
+!
+%4java.util.function.Consumer2&forEach(Ljava/util/function/Consumer;)ùö
+
+† †(0
+%8java.nio.file.Path")java.io.File#toPath()Ljava/nio/file/Path;*=
+
+__unknown_file (!
+
+lastSegmentFilejava.io.File2toPath()»
+≈
+
+† †(<+
+%9%java.nio.channels.SeekableByteChannel"ßorg.apache.commons.compress.archivers.zip.ZipSplitReadOnlySeekableByteChannel#forPaths(Ljava/nio/file/Path;Ljava/lang/Iterable;)Ljava/nio/channels/SeekableByteChannel;*m
+
+__unknown_file (Q"O
+Morg.apache.commons.compress.archivers.zip.ZipSplitReadOnlySeekableByteChannel*6
+
+__unknown_file (
+
+%8java.nio.file.Path*9
+
+__unknown_file (
+
+	filesListjava.util.List";
+
+† †(=-
++
+%9%java.nio.channels.SeekableByteChannel:-
+
+ô/ ô(J
+lastSegmentFilejava.io.File:)
+
+ôK ô(e
+filesjava.lang.IterableBQ"O
+Morg.apache.commons.compress.archivers.zip.ZipSplitReadOnlySeekableByteChannelH

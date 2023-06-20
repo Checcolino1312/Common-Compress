@@ -1,0 +1,91 @@
+
+Íorg.apache.commons.compress.archivers.zip.ZipArchiveEntry$ExtraFieldParsingMode#fill(Lorg/apache/commons/compress/archivers/zip/ZipExtraField;[BIIZ)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;ƒ
+wC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.javaÂ Â(!"startingBlock*·
+startingBlockÂ! Â(‚µ
+²
+
+Á Á(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*^
+
+__unknown_file (B
+@
+field7org.apache.commons.compress.archivers.zip.ZipExtraFieldƒ
+€
+
+Â6 Â(;@
+field7org.apache.commons.compress.archivers.zip.ZipExtraField"__annotation*"
+
+__unknown_file (
+
+%1ƒ
+€
+
+Á Á(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*,
+
+__unknown_file (
+
+databyte[]P
+N
+
+ÂJ Â(N
+databyte[]"__annotation*"
+
+__unknown_file (
+
+%2*
+1*È
+1
+Ä Ä("ç
+ä
+
+Ä Ä(O=
+%07org.apache.commons.compress.archivers.zip.ZipExtraField"Áorg.apache.commons.compress.archivers.zip.ExtraFieldUtils#fillExtraField(Lorg/apache/commons/compress/archivers/zip/ZipExtraField;[BIIZ)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;*Y
+
+__unknown_file (=";
+9org.apache.commons.compress.archivers.zip.ExtraFieldUtils*^
+
+__unknown_file (B
+@
+field7org.apache.commons.compress.archivers.zip.ZipExtraField*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""M
+
+Ä Ä(P?
+=
+%07org.apache.commons.compress.archivers.zip.ZipExtraField:N
+
+Â" Â(<@
+field7org.apache.commons.compress.archivers.zip.ZipExtraField:
+
+Â= Â(O
+databyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BSQ
+Oorg.apache.commons.compress.archivers.zip.ZipArchiveEntry$ExtraFieldParsingModeH

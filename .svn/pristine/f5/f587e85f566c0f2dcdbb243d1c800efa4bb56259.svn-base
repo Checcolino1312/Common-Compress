@@ -1,0 +1,17 @@
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#readNextBlock()V
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#verifyLastChecksumAndReset()V
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#readStreamIdentifier()V
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#readOneByte()I
+org.apache.commons.compress.utils.BoundedInputStream#instance-init#
+org.apache.commons.compress.utils.BoundedInputStream#<init>(Ljava/io/InputStream;J)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.compressors.snappy.FramedSnappyDialect#usesChecksumWithCompressedChunks()Z
+java.lang.Integer#toHexString(I)Ljava/lang/String;
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#unmask(J)J
+org.apache.commons.compress.compressors.snappy.SnappyCompressorInputStream#<init>(Ljava/io/InputStream;I)V
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#skipBlock()V
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#readSize()I
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#readNextBlock()V
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#readCrc()J
+org.apache.commons.compress.compressors.snappy.SnappyCompressorInputStream#instance-init#

@@ -1,0 +1,8 @@
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#longestMatch(I)I
+org.apache.commons.compress.compressors.lz77support.Parameters#getMinBackReferenceLength()I
+org.apache.commons.compress.compressors.lz77support.Parameters#getMaxBackReferenceLength()I
+org.apache.commons.compress.compressors.lz77support.Parameters#getMaxOffset()I
+java.lang.Math#max(II)I
+org.apache.commons.compress.compressors.lz77support.Parameters#getMaxCandidates()I
+org.apache.commons.compress.compressors.lz77support.Parameters#getNiceBackReferenceLength()I
+java.lang.Math#min(II)I

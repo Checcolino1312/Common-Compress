@@ -1,0 +1,4 @@
+org.apache.commons.compress.compressors.lzw.LZWInputStream#read([BII)I
+org.apache.commons.compress.compressors.lzw.LZWInputStream#readFromStack([BII)I
+==
+decompressNextSymbol org.apache.commons.compress.compressors.lzw.LZWInputStream#decompressNextSymbol()I

@@ -1,0 +1,144 @@
+
+Xorg.apache.commons.compress.harmony.unpack200.bytecode.CPRef#equals(Ljava/lang/Object;)Zx
+nC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPRef.java4 4("startingBlock*!
+2F F("
+F F(
+""*¯
+3E E(Î
+Ë
+E E(J
+%7Dorg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType"__id*m
+
+__unknown_file (Q*O>
+<org.apache.commons.compress.harmony.unpack200.bytecode.CPRef"
+nameAndTypeÕ
+Ò
+E  E(1J
+%8Dorg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType"__id*t
+
+__unknown_file (X*V
+E
+other<org.apache.commons.compress.harmony.unpack200.bytecode.CPRef"
+nameAndTypeîë
+E E(2
+%9boolean"`org.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType#equals(Ljava/lang/Object;)Z*h
+
+__unknown_file (L
+J
+%7Dorg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType*h
+
+__unknown_file (L
+J
+%8Dorg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType2equals(Ljava/lang/Object;)*
+2
+1*Ž
+startingBlock4 4(+‹
+ˆ
+3 3(
+%10"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectX
+V
+4' 4(*
+objjava.lang.Object"__annotation*#
+
+__unknown_file (
+
+%10*
+9
+10
+12*!
+4C C("
+C C(
+""*¡
+5A$ A('‘
+Ž
+A A((E
+other<org.apache.commons.compress.harmony.unpack200.bytecode.CPRef"__id*5
+
+__unknown_file (
+
+objjava.lang.ObjectÆ
+Ã
+B B(D
+%4>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass"__id*k
+
+__unknown_file (O*M>
+<org.apache.commons.compress.harmony.unpack200.bytecode.CPRef"
+	classNameÍ
+Ê
+B B(-D
+%5>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass"__id*r
+
+__unknown_file (V*T
+E
+other<org.apache.commons.compress.harmony.unpack200.bytecode.CPRef"
+	classNameÜÙ
+B B(.
+%6boolean"Zorg.apache.commons.compress.harmony.unpack200.bytecode.CPClass#equals(Ljava/lang/Object;)Z*b
+
+__unknown_file (F
+D
+%4>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass*b
+
+__unknown_file (F
+D
+%5>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass2equals(Ljava/lang/Object;)*
+3
+4*!
+6? ?("
+? ?(
+""*Þ
+7> >(ÌÉ
+> >(	
+%2int"Horg.apache.commons.compress.harmony.unpack200.bytecode.CPRef#hashCode()I*\
+
+__unknown_file (@>
+<org.apache.commons.compress.harmony.unpack200.bytecode.CPRef2
+hashCode()xv
+> >(-	
+%3int"java.lang.Object#hashCode()I*5
+
+__unknown_file (
+
+objjava.lang.Object2
+hashCode()*
+5
+6*!
+8< <("
+< <(
+""*ì
+9; ;(¼¹
+; ;(
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*\
+
+__unknown_file (@>
+<org.apache.commons.compress.harmony.unpack200.bytecode.CPRef2
+getClass()•’
+; ;((
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*5
+
+__unknown_file (
+
+objjava.lang.Object2
+getClass()*
+7
+8*"
+109 9("
+9 9(
+""*"
+126 6("
+6 6(
+""*!
+1H H("
+H H(
+"":#
+4 4(*
+objjava.lang.ObjectB@>
+<org.apache.commons.compress.harmony.unpack200.bytecode.CPRefHP

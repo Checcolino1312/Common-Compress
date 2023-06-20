@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.zip.ParallelScatterZipCreator#<init>()V
+java.lang.Runtime#getRuntime()Ljava/lang/Runtime;
+java.util.concurrent.Executors#newFixedThreadPool(I)Ljava/util/concurrent/ExecutorService;
+==
+ParallelScatterZipCreator org.apache.commons.compress.archivers.zip.ParallelScatterZipCreator#<init>(Ljava/util/concurrent/ExecutorService;)V

@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.CompressorStreamFactory#archiveStreamProviderIterable()Ljava/lang/Iterable;
+java.lang.ClassLoader#getSystemClassLoader()Ljava/lang/ClassLoader;
+java.util.ServiceLoader#load(Ljava/lang/Class;Ljava/lang/ClassLoader;)Ljava/util/ServiceLoader;

@@ -1,0 +1,11 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#writeCentralDirectoryEnd()V
+java.nio.Buffer#position()I
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#validateIfZip64IsNeededInEOCD()V
+java.lang.Math#min(JJ)J
+java.nio.Buffer#limit()I
+org.apache.commons.compress.archivers.zip.ZipShort#getBytes(I)[B
+java.nio.ByteBuffer#array()[B
+java.nio.ByteBuffer#arrayOffset()I
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#writeCounted([B)V
+java.lang.Math#min(II)I
+org.apache.commons.compress.archivers.zip.ZipLong#getBytes(J)[B

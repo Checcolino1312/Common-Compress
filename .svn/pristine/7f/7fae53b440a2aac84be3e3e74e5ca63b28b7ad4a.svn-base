@@ -1,0 +1,135 @@
+
+Äorg.apache.commons.compress.archivers.sevenz.DeltaDecoder#encode(Ljava/io/OutputStream;Ljava/lang/Object;)Ljava/io/OutputStream;u
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/DeltaDecoder.java( (("startingBlock*¸
+startingBlock( ((Eñ
+ì
+& &(!
+%9"
+__annotate*:
+
+__unknown_file (
+java.lang.SuppressWarnings*9
+
+__unknown_file (
+
+outjava.io.OutputStreamè
+å
+' '(
+%10"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*9
+
+__unknown_file (
+
+outjava.io.OutputStreamÄ
+~
+(+ ((.
+outjava.io.OutputStream"__annotation*"
+
+__unknown_file (
+
+%9*#
+
+__unknown_file (
+
+%10ó
+î
+& &(!
+%11"
+__annotate*:
+
+__unknown_file (
+java.lang.SuppressWarnings*9
+
+__unknown_file (
+
+optionsjava.lang.Objectè
+å
+' '(
+%12"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*9
+
+__unknown_file (
+
+optionsjava.lang.ObjectÅ
+
+(= ((D
+optionsjava.lang.Object"__annotation*#
+
+__unknown_file (
+
+%11*#
+
+__unknown_file (
+
+%12*
+8*H
+4+ +(f"9
++ +(f-
++
+%5%org.tukaani.xz.FinishableOutputStream*ö
+5+ +(eÖÇ
++ +(e+
+%5%org.tukaani.xz.FinishableOutputStream"|org.tukaani.xz.FilterOptions#getOutputStream(Lorg/tukaani/xz/FinishableOutputStream;)Lorg/tukaani/xz/FinishableOutputStream;*?
+
+__unknown_file (#
+!
+%1org.tukaani.xz.DeltaOptions*P
+
+__unknown_file (4
+2
+%3,org.tukaani.xz.FinishableWrapperOutputStream28getOutputStream(Lorg/tukaani/xz/FinishableOutputStream;)*
+4*Û
+6+` +(cnl
++B +(_2
+%3,org.tukaani.xz.FinishableWrapperOutputStream",org.tukaani.xz.FinishableWrapperOutputStreamÓ
+Î
++> +(d
+%4"Lorg.tukaani.xz.FinishableWrapperOutputStream#<init>(Ljava/io/OutputStream;)V*P
+
+__unknown_file (4
+2
+%3,org.tukaani.xz.FinishableWrapperOutputStream*9
+
+__unknown_file (
+
+outjava.io.OutputStream*
+5*É
+7+$ +(,LJ
++ +(#!
+%1org.tukaani.xz.DeltaOptions"org.tukaani.xz.DeltaOptions†
+ù
++ +(-
+%2"&org.tukaani.xz.DeltaOptions#<init>(I)V*?
+
+__unknown_file (#
+!
+%1org.tukaani.xz.DeltaOptions*"
+
+__unknown_file (
+""*
+6*æ
+8) )("©
+¶
+) )(.	
+%0int"Vorg.apache.commons.compress.archivers.sevenz.AbstractCoder#toInt(Ljava/lang/Object;I)I*Z
+
+__unknown_file (>"<
+:org.apache.commons.compress.archivers.sevenz.AbstractCoder*9
+
+__unknown_file (
+
+optionsjava.lang.Object* 
+
+__unknown_file (2*
+7:'
+( ((/
+outjava.io.OutputStream:'
+(0 ((D
+optionsjava.lang.ObjectB=;
+9org.apache.commons.compress.archivers.sevenz.DeltaDecoder

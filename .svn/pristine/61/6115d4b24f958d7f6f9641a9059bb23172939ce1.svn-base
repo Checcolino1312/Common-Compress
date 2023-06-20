@@ -1,0 +1,33 @@
+
+Åorg.apache.commons.compress.archivers.sevenz.LZMADecoder#getDictionarySize(Lorg/apache/commons/compress/archivers/sevenz/Coder;)IÄ
+vC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/sevenz/LZMADecoder.javaA A(!"1*Œ
+1B B(å
+â
+B0 B(@
+%0byte[]"__id*i
+
+__unknown_file (M*K
+;
+coder2org.apache.commons.compress.archivers.sevenz.Coder"
+
+propertiesõ
+ò
+B B(G
+
+%1long"Corg.apache.commons.compress.utils.ByteUtils#fromLittleEndian([BII)J*K
+
+__unknown_file (/"-
++org.apache.commons.compress.utils.ByteUtils**
+
+__unknown_file (
+
+%0byte[]* 
+
+__unknown_file (2* 
+
+__unknown_file (2"
+B B(H
+"":G
+A" A(3;
+coder2org.apache.commons.compress.archivers.sevenz.CoderB<:
+8org.apache.commons.compress.archivers.sevenz.LZMADecoderP

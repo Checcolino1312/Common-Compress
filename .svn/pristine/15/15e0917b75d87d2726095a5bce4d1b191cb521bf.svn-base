@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#getRealSize()J
+==
+getSize org.apache.commons.compress.archivers.tar.TarArchiveEntry#getSize()J
+isSparse org.apache.commons.compress.archivers.tar.TarArchiveEntry#isSparse()Z

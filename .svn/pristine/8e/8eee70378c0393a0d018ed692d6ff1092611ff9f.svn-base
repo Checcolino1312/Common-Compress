@@ -1,0 +1,7 @@
+org.apache.commons.compress.archivers.zip.X000A_NTFS#getLocalFileDataData()[B
+org.apache.commons.compress.archivers.zip.ZipShort#getBytes()[B
+org.apache.commons.compress.archivers.zip.ZipShort#getValue()I
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#getBytes()[B
+==
+getLocalFileDataLength org.apache.commons.compress.archivers.zip.X000A_NTFS#getLocalFileDataLength()Lorg/apache/commons/compress/archivers/zip/ZipShort;

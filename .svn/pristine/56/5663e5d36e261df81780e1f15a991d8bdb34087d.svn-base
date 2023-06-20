@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.pack200.Pack200Utils#normalize(Ljava/io/File;Ljava/util/Map;)V
+org.apache.commons.compress.compressors.pack200.Pack200Utils#normalize(Ljava/io/File;Ljava/io/File;Ljava/util/Map;)V

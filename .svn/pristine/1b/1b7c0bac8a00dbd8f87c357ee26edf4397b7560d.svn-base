@@ -1,0 +1,163 @@
+
+Vorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#read([BII)Iˆ
+|C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/lz4/FramedLZ4CompressorInputStream.javañ ñ("startingBlock*¢
+2
+„ „(Î
+Ë
+
+„ „(:
+%44org.apache.commons.compress.compressors.lz4.XXHash32"__id*{
+
+__unknown_file (_*]L
+Jorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream"
+contentHashº·
+
+„ „(-
+
+%5void"Borg.apache.commons.compress.compressors.lz4.XXHash32#update([BII)V*X
+
+__unknown_file (<
+:
+%44org.apache.commons.compress.compressors.lz4.XXHash32*)
+
+__unknown_file (
+
+bbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2update([BII)*
+1*ø
+startingBlock
+ñ ñ(A
+}
+
+ð ð(
+%6"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*)
+
+__unknown_file (
+
+bbyte[]M
+K
+
+ñ! ñ("
+bbyte[]"__annotation*"
+
+__unknown_file (
+
+%6*
+9
+10
+12*…
+4
+ (-ë
+è
+
+ (8
+
+%3void"oorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#appendToBlockDependencyBuffer([BII)V*j
+
+__unknown_file (NL
+Jorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream*)
+
+__unknown_file (
+
+bbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+1*ò
+7
+ü ü(Õ
+Ò
+
+ü ü()	
+%2int"Zorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#readOnce([BII)I*j
+
+__unknown_file (NL
+Jorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream*)
+
+__unknown_file (
+
+bbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*	
+2
+4
+1*€
+8
+ú ú(à
+Ý
+
+ú ú(
+
+%1void"Worg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#nextBlock()V*j
+
+__unknown_file (NL
+Jorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream*
+2
+4
+7
+1*õ
+9
+ø ø(Õ
+Ò
+
+ø ø(%	
+%0int"Zorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#readOnce([BII)I*j
+
+__unknown_file (NL
+Jorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream*)
+
+__unknown_file (
+
+bbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+4
+8
+1*&
+10
+ö ö("
+
+ö ö(
+""*&
+12
+ó ó("
+
+ó ó(
+""*%
+1
+‡ ‡("
+
+‡ ‡(
+"":
+
+ñ ñ(#
+bbyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BNL
+Jorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamHP

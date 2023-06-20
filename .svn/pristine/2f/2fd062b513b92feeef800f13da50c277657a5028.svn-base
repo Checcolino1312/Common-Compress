@@ -1,0 +1,13 @@
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream#paxHeaders()V
+java.util.ArrayList#<init>()V
+org.apache.commons.compress.archivers.tar.TarUtils#parseFromPAX01SparseHeaders(Ljava/lang/String;)Ljava/util/List;
+org.apache.commons.compress.archivers.tar.TarUtils#parsePAX1XSparseHeaders(Ljava/io/InputStream;I)Ljava/util/List;
+java.util.ArrayList#instance-init#
+java.util.ArrayList#<init>(Ljava/util/Collection;)V
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream#applyPaxHeadersToCurrentEntry(Ljava/util/Map;Ljava/util/List;)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.tar.TarUtils#parsePaxHeaders(Ljava/io/InputStream;Ljava/util/List;Ljava/util/Map;J)Ljava/util/Map;
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream#buildSparseInputStreams()V
+==
+getNextEntry org.apache.commons.compress.archivers.tar.TarArchiveInputStream#getNextEntry()Lorg/apache/commons/compress/archivers/ArchiveEntry;

@@ -1,0 +1,128 @@
+
+Sorg.apache.commons.compress.archivers.ar.ArArchiveEntry#equals(Ljava/lang/Object;)Zu
+iC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/ar/ArArchiveEntry.javaé é("startingBlock*ø
+2
+ó ó(ó
+î
+
+ó ó(
+%3java.lang.String"__id*h
+
+__unknown_file (L*J
+@
+other7org.apache.commons.compress.archivers.ar.ArArchiveEntry"
+name"
+
+ó ó(&
+""*ª
+3
+ï6 ï(9é
+ã
+
+ï ï(:@
+other7org.apache.commons.compress.archivers.ar.ArArchiveEntry"__id*5
+
+__unknown_file (
+
+objjava.lang.Objectê
+ç
+
+ñ ñ(
+%2java.lang.String"__id*a
+
+__unknown_file (E*C9
+7org.apache.commons.compress.archivers.ar.ArArchiveEntry"
+name*
+2
+1*ê
+startingBlock
+é é(+å
+â
+
+ç ç(
+%7"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectY
+W
+
+é' é(*
+objjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%7*	
+4
+5
+7*%
+4
+ì ì("
+
+ì ì(
+""*Ì
+5
+í í(#π∂
+
+í í(%
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*W
+
+__unknown_file (;9
+7org.apache.commons.compress.archivers.ar.ArArchiveEntry2
+getClass()óî
+
+í) í(7
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*5
+
+__unknown_file (
+
+objjava.lang.Object2
+getClass()*
+3
+4*%
+7
+ê ê("
+
+ê ê(
+""*©
+1
+ô ô(ê
+ç
+
+ô ô(
+%4java.lang.String"__id*a
+
+__unknown_file (E*C9
+7org.apache.commons.compress.archivers.ar.ArArchiveEntry"
+nameó
+î
+
+ô ô(%
+%5java.lang.String"__id*h
+
+__unknown_file (L*J
+@
+other7org.apache.commons.compress.archivers.ar.ArArchiveEntry"
+name‘—
+
+ô ô(&
+%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*4
+
+__unknown_file (
+
+%4java.lang.String*4
+
+__unknown_file (
+
+%5java.lang.String2equals(Ljava/lang/Object;)"
+
+ô ô('
+"":%
+
+é é(*
+objjava.lang.ObjectB;9
+7org.apache.commons.compress.archivers.ar.ArArchiveEntryHP

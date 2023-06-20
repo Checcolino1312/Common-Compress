@@ -1,0 +1,23 @@
+
+~
+java:S1192Ï"aDefine a constant instead of duplicating this literal "Stream has already been finished" 4 times.(€Áím8™¿¾Ÿƒ1
+X
+java:S1133à"5Do not forget to remove this deprecated code someday.(Ã ùèıÿÿÿÿ8ïÃ¾Ÿƒ1
+_
+java:S1117á"ARename "outputStream" which hides the field declared at line 360.(’ã¨³8Ä¾Ÿƒ1
+_
+java:S1117â"<Rename "channel" which hides the field declared at line 358.(“‚©îùÿÿÿÿ8‘Ä¾Ÿƒ1
+c
+java:S1117ã"ERename "streamCompressor" which hides the field declared at line 305.(ªƒçê8‘Ä¾Ÿƒ1
+^	java:S125¡"<This block of commented-out lines of code should be removed.(Î€¸íùÿÿÿÿ8§Ä¾Ÿƒ1
+u
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÔÜâûÿÿÿÿ8¯Ä¾Ÿƒ1
+o
+java:S3776û"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(å–A8¼Ä¾Ÿƒ1
+^	java:S125„	"<This block of commented-out lines of code should be removed.(èµ¶Šÿÿÿÿÿ8ÑÄ¾Ÿƒ1
+^	java:S125›	"<This block of commented-out lines of code should be removed.(œ®çÀÿÿÿÿÿ8ÓÄ¾Ÿƒ1
+g
+java:S3358å"DExtract this nested ternary operation into an independent statement.(‹ì†êøÿÿÿÿ8ÑÅ¾Ÿƒ1
+^	java:S125¯"<This block of commented-out lines of code should be removed.(Ì˜ê‘úÿÿÿÿ8ÄÅ¾Ÿƒ1
+g
+java:S3358Ã"DExtract this nested ternary operation into an independent statement.(‹ì†êøÿÿÿÿ8šËöÏƒ1

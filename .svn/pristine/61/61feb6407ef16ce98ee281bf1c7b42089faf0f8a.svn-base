@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.examples.Expander#expand(Lorg/apache/commons/compress/archivers/ArchiveInputStream;Ljava/nio/file/Path;)V
+org.apache.commons.compress.archivers.examples.Expander#expand(Lorg/apache/commons/compress/archivers/examples/Expander$ArchiveEntrySupplier;Lorg/apache/commons/compress/archivers/examples/Expander$ArchiveEntryBiConsumer;Ljava/nio/file/Path;)V

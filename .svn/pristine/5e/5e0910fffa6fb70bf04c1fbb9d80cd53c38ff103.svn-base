@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.gzip.GzipCompressorOutputStream#<init>(Ljava/io/OutputStream;)V
+org.apache.commons.compress.compressors.gzip.GzipParameters#instance-init#
+org.apache.commons.compress.compressors.gzip.GzipParameters#<init>()V
+==
+GzipCompressorOutputStream org.apache.commons.compress.compressors.gzip.GzipCompressorOutputStream#<init>(Ljava/io/OutputStream;Lorg/apache/commons/compress/compressors/gzip/GzipParameters;)V

@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.NewAttribute#read(Lorg/objectweb/asm/ClassReader;II[CI[Lorg/objectweb/asm/Label;)Lorg/objectweb/asm/Attribute;
+org.apache.commons.compress.harmony.pack200.NewAttribute#<init>(Lorg/objectweb/asm/ClassReader;Ljava/lang/String;Ljava/lang/String;[B[CI[Lorg/objectweb/asm/Label;)V
+org.apache.commons.compress.harmony.pack200.NewAttribute#instance-init#
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V

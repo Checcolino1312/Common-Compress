@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ZipLong#getValue([BI)J
+org.apache.commons.compress.utils.ByteUtils#fromLittleEndian([BII)J

@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder#nextSymbol(Lorg/apache/commons/compress/utils/BitInputStream;Lorg/apache/commons/compress/compressors/deflate64/HuffmanDecoder$BinaryTreeNode;)I
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder#readBits(Lorg/apache/commons/compress/utils/BitInputStream;I)J

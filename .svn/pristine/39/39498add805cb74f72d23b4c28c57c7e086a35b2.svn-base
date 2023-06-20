@@ -1,0 +1,21 @@
+
+\org.apache.commons.compress.compressors.lzma.LZMACompressorInputStream#getCompressedCount()J‚
+xC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/lzma/LZMACompressorInputStream.javav v(""1*¾
+1w w(Ì
+É
+w w(;
+%05org.apache.commons.compress.utils.CountingInputStream"__id*z
+
+__unknown_file (^*\H
+Forg.apache.commons.compress.compressors.lzma.LZMACompressorInputStream"
+countingStreamËÈ
+w w(,
+
+%1long"Eorg.apache.commons.compress.utils.CountingInputStream#getBytesRead()J*Y
+
+__unknown_file (=
+;
+%05org.apache.commons.compress.utils.CountingInputStream2getBytesRead()"
+w w(-
+""BJH
+Forg.apache.commons.compress.compressors.lzma.LZMACompressorInputStreamHP

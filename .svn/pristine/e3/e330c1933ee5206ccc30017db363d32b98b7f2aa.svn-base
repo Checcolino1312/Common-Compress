@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.X000A_NTFS#dateToZip(Ljava/util/Date;)Lorg/apache/commons/compress/archivers/zip/ZipEightByteInteger;
+org.apache.commons.compress.utils.TimeUtils#toNtfsTime(Ljava/util/Date;)J
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#instance-init#
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#<init>(J)V

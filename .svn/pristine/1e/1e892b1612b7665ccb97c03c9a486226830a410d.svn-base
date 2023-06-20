@@ -1,0 +1,171 @@
+
+Yorg.apache.commons.compress.harmony.unpack200.bytecode.CPRef#toString()Ljava/lang/String;„
+zC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPRef.java[ [("10*…	
+2g g(!j
+h
+g g((
+%7java.lang.String"__concat*&
+g g(!
+
+typejava.lang.String*
+g$ g((
+: Æ
+Ã
+g+ g(4D
+%8>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass"__id*k
+
+__unknown_file (O*M>
+<org.apache.commons.compress.harmony.unpack200.bytecode.CPRef"
+	className©
+¦
+g g(4
+%9java.lang.String"__concat*$
+g g((
+
+%7java.lang.String*R
+g+ g(4F
+D
+%8>org.apache.commons.compress.harmony.unpack200.bytecode.CPClassh
+f
+g g(:
+%10java.lang.String"__concat*$
+g g(4
+
+%9java.lang.String*
+g7 g(:
+#Ï
+Ì
+g= g(HK
+%11Dorg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType"__id*m
+
+__unknown_file (Q*O>
+<org.apache.commons.compress.harmony.unpack200.bytecode.CPRef"
+nameAndType²
+¯
+g g(H
+%12java.lang.String"__concat*%
+g g(:
+
+%10java.lang.String*Y
+g= g(HM
+K
+%11Dorg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndTypež
+›
+g g(HR>
+<org.apache.commons.compress.harmony.unpack200.bytecode.CPRef"
+cachedToString"__id*5
+
+__unknown_file (
+
+%12java.lang.String*
+1*i
+3e e( U
+S
+e e( 
+typejava.lang.String"__id*'
+
+__unknown_file (	
+unknown*
+2*t
+4c c(+`
+^
+c c(+
+typejava.lang.String"__id*2
+
+__unknown_file (
+InterfaceMethodRef*
+2*±
+5b b(ÕÒ
+b b(
+
+%5byte"Rorg.apache.commons.compress.harmony.unpack200.bytecode.ConstantPoolEntry#getTag()B*\
+
+__unknown_file (@>
+<org.apache.commons.compress.harmony.unpack200.bytecode.CPRef2getTag()B
+@
+b# b(J
+
+%6byte"__id*"
+
+__unknown_file (
+""*
+3
+4*l
+6a a(#X
+V
+a a(#
+typejava.lang.String"__id**
+
+__unknown_file (
+
+MethoddRef*
+2*±
+7` `(ÕÒ
+` `(
+
+%3byte"Rorg.apache.commons.compress.harmony.unpack200.bytecode.ConstantPoolEntry#getTag()B*\
+
+__unknown_file (@>
+<org.apache.commons.compress.harmony.unpack200.bytecode.CPRef2getTag()B
+@
+`# `(A
+
+%4byte"__id*"
+
+__unknown_file (
+""*
+5
+6*j
+8_ _(!V
+T
+_ _(!
+typejava.lang.String"__id*(
+
+__unknown_file (
+
+FieldRef*
+2*ƒ
+9] ](P
+N
+] ](
+typejava.lang.String"__id*"
+
+__unknown_file (
+""ÕÒ
+^ ^(
+
+%1byte"Rorg.apache.commons.compress.harmony.unpack200.bytecode.ConstantPoolEntry#getTag()B*\
+
+__unknown_file (@>
+<org.apache.commons.compress.harmony.unpack200.bytecode.CPRef2getTag()B
+@
+^ ^(9
+
+%2byte"__id*"
+
+__unknown_file (
+""*
+7
+8*¶
+10\ \(
+š
+\ \(
+%0java.lang.String"__id*p
+
+__unknown_file (T*R>
+<org.apache.commons.compress.harmony.unpack200.bytecode.CPRef"
+cachedToString*
+9
+1*Õ
+1i i(ž
+›
+i i(
+%13java.lang.String"__id*p
+
+__unknown_file (T*R>
+<org.apache.commons.compress.harmony.unpack200.bytecode.CPRef"
+cachedToString"%
+i i(
+
+%13java.lang.StringB@>
+<org.apache.commons.compress.harmony.unpack200.bytecode.CPRefH

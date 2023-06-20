@@ -1,0 +1,15 @@
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#finish()V
+java.nio.ByteBuffer#order(Ljava/nio/ByteOrder;)Ljava/nio/ByteBuffer;
+java.nio.ByteBuffer#wrap([B)Ljava/nio/ByteBuffer;
+java.nio.ByteBuffer#allocate(I)Ljava/nio/ByteBuffer;
+java.io.ByteArrayOutputStream#<init>()V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+java.io.ByteArrayOutputStream#instance-init#
+java.nio.ByteBuffer#put([B)Ljava/nio/ByteBuffer;
+java.io.DataOutputStream#instance-init#
+java.io.DataOutputStream#<init>(Ljava/io/OutputStream;)V
+java.util.zip.CRC32#instance-init#
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#writeHeader(Ljava/io/DataOutput;)V
+java.util.zip.CRC32#<init>()V
+java.nio.ByteBuffer#array()[B

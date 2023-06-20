@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.lz4.XXHash32#update([BII)V
+org.apache.commons.compress.compressors.lz4.XXHash32#process([BI)V
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V

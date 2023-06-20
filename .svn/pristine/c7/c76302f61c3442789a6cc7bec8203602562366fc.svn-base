@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#compress([B)V
+==
+compress org.apache.commons.compress.compressors.lz77support.LZ77Compressor#compress([BII)V

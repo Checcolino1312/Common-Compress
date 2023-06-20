@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.deflate.DeflateCompressorInputStream#<init>(Ljava/io/InputStream;)V
+org.apache.commons.compress.compressors.deflate.DeflateParameters#<init>()V
+org.apache.commons.compress.compressors.deflate.DeflateParameters#instance-init#
+==
+DeflateCompressorInputStream org.apache.commons.compress.compressors.deflate.DeflateCompressorInputStream#<init>(Ljava/io/InputStream;Lorg/apache/commons/compress/compressors/deflate/DeflateParameters;)V

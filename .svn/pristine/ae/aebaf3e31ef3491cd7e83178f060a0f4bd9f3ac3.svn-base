@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm#createMethodRefForm(ILjava/lang/String;[I)Lorg/apache/commons/compress/harmony/unpack200/bytecode/forms/ByteCodeForm;
+org.apache.commons.compress.harmony.unpack200.bytecode.forms.MethodRefForm#<init>(ILjava/lang/String;[I)V
+org.apache.commons.compress.harmony.unpack200.bytecode.forms.MethodRefForm#instance-init#

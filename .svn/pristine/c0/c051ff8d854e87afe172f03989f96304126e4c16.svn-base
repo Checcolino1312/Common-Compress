@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.gzip.GzipCompressorOutputStream#write([B)V
+==
+write org.apache.commons.compress.compressors.gzip.GzipCompressorOutputStream#write([BII)V

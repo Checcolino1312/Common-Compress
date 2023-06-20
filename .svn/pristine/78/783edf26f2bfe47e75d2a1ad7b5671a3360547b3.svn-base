@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#getInputStream(Lorg/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry;)Ljava/io/InputStream;
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#getCurrentStream()Ljava/io/InputStream;
+org.apache.commons.compress.archivers.sevenz.SevenZFile#buildDecodingStream(IZ)V
+java.lang.IllegalArgumentException#instance-init#

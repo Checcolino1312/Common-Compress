@@ -1,0 +1,35 @@
+
+¾org.apache.commons.compress.archivers.zip.StreamCompressor#create(Ljava/nio/channels/SeekableByteChannel;Ljava/util/zip/Deflater;)Lorg/apache/commons/compress/archivers/zip/StreamCompressor;x
+lC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/StreamCompressor.java« «(""1*’
+1
+¬1 ¬(9ÉÆ
+
+¬ ¬(0^
+%0Xorg.apache.commons.compress.archivers.zip.StreamCompressor$SeekableByteChannelCompressor"Xorg.apache.commons.compress.archivers.zip.StreamCompressor$SeekableByteChannelCompressorÄ
+Á
+
+¬ ¬(>
+%1"¡org.apache.commons.compress.archivers.zip.StreamCompressor$SeekableByteChannelCompressor#<init>(Ljava/util/zip/Deflater;Ljava/nio/channels/SeekableByteChannel;)V*|
+
+__unknown_file (`
+^
+%0Xorg.apache.commons.compress.archivers.zip.StreamCompressor$SeekableByteChannelCompressor*@
+
+__unknown_file ($
+"
+deflaterjava.util.zip.Deflater*I
+
+__unknown_file (-
++
+os%java.nio.channels.SeekableByteChannel"n
+
+¬ ¬(?`
+^
+%0Xorg.apache.commons.compress.archivers.zip.StreamCompressor$SeekableByteChannelCompressor:9
+
+«# «(@+
+os%java.nio.channels.SeekableByteChannel:0
+
+«A «(X"
+deflaterjava.util.zip.DeflaterB>"<
+:org.apache.commons.compress.archivers.zip.StreamCompressor

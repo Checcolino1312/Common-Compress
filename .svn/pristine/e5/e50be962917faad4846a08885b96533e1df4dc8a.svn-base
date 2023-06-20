@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.commons.compress.compressors.deflate64.Deflate64CompressorInputStreamTest
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.014 s - in org.apache.commons.compress.compressors.deflate64.Deflate64CompressorInputStreamTest

@@ -1,0 +1,5 @@
+org.apache.commons.compress.harmony.pack200.BandSet#encodeFlags(Ljava/lang/String;[JLorg/apache/commons/compress/harmony/pack200/BHSDCodec;Lorg/apache/commons/compress/harmony/pack200/BHSDCodec;Z)[B
+java.util.Arrays#setAll([ILjava/util/function/IntUnaryOperator;)V
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+==
+encodeBandInt org.apache.commons.compress.harmony.pack200.BandSet#encodeBandInt(Ljava/lang/String;[ILorg/apache/commons/compress/harmony/pack200/BHSDCodec;)[B

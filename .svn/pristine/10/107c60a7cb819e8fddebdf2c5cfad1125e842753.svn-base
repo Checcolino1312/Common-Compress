@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.NioZipEncoding#canEncode(Ljava/lang/String;)Z
+org.apache.commons.compress.archivers.zip.NioZipEncoding#newEncoder()Ljava/nio/charset/CharsetEncoder;

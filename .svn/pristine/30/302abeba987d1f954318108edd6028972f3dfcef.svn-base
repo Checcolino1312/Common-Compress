@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ZipUtil#supportsEncryptionOf(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z
+org.apache.commons.compress.archivers.zip.GeneralPurposeBit#usesEncryption()Z

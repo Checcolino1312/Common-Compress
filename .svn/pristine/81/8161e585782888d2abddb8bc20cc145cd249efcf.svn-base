@@ -1,0 +1,25 @@
+
+`org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#getCompressedCount()Jˆ
+|C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/lz4/FramedLZ4CompressorInputStream.java´ ´(""1*Ç
+1
+µ µ(Ï
+Ì
+
+µ µ(;
+%05org.apache.commons.compress.utils.CountingInputStream"__id*{
+
+__unknown_file (_*]L
+Jorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream"
+inputStreamÍÊ
+
+µ µ()
+
+%1long"Eorg.apache.commons.compress.utils.CountingInputStream#getBytesRead()J*Y
+
+__unknown_file (=
+;
+%05org.apache.commons.compress.utils.CountingInputStream2getBytesRead()"
+
+µ µ(*
+""BNL
+Jorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamHP

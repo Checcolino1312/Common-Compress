@@ -1,0 +1,25 @@
+
+Porg.apache.commons.compress.compressors.lzw.LZWInputStream#getCompressedCount()Jx
+lC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/lzw/LZWInputStream.java‘ ‘(""1*Ÿ
+1
+’ ’(±
+®
+
+’ ’(6
+%00org.apache.commons.compress.utils.BitInputStream"__id*b
+
+__unknown_file (F*D<
+:org.apache.commons.compress.compressors.lzw.LZWInputStream"
+inÃÀ
+
+’ ’( 
+
+%1long"@org.apache.commons.compress.utils.BitInputStream#getBytesRead()J*T
+
+__unknown_file (8
+6
+%00org.apache.commons.compress.utils.BitInputStream2getBytesRead()"
+
+’ ’(!
+""B><
+:org.apache.commons.compress.compressors.lzw.LZWInputStreamHP

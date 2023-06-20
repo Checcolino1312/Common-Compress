@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#findMatching(Lorg/apache/commons/compress/archivers/zip/ZipShort;Ljava/util/List;)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;
+java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;

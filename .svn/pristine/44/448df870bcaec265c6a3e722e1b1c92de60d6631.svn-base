@@ -1,0 +1,55 @@
+
+‹org.apache.commons.compress.harmony.unpack200.ClassBands#countCalls([[ILorg/apache/commons/compress/harmony/unpack200/AttributeLayoutMap;)I‚
+vC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/ClassBands.javaÐ Ð("4"1*Õ
+4
+Ô) Ô(0C
+A
+
+ÔK Ô(g	
+%0int"__id*"
+
+__unknown_file (
+""½º
+
+Ô) Ô(hC
+%1=org.apache.commons.compress.harmony.unpack200.AttributeLayout"–org.apache.commons.compress.harmony.unpack200.AttributeLayoutMap#getAttributeLayout(II)Lorg/apache/commons/compress/harmony/unpack200/AttributeLayout;*i
+
+__unknown_file (M
+K
+attrMap@org.apache.commons.compress.harmony.unpack200.AttributeLayoutMap*"
+
+__unknown_file (
+""*'
+
+__unknown_file (
+	
+%0int2getAttributeLayout(II)Á
+¾
+
+Ô Ô(iG
+layout=org.apache.commons.compress.harmony.unpack200.AttributeLayout"__id*a
+
+__unknown_file (E
+C
+%1=org.apache.commons.compress.harmony.unpack200.AttributeLayoutòï
+
+Õ Õ(;	
+%2int"Vorg.apache.commons.compress.harmony.unpack200.AttributeLayout#numBackwardsCallables()I*e
+
+__unknown_file (I
+G
+layout=org.apache.commons.compress.harmony.unpack200.AttributeLayout2numBackwardsCallables()*
+4
+1*%
+1
+Ø Ø("
+
+Ø Ø(
+"": 
+
+__unknown_file (
+"":Y
+
+Ð4 Ð(NK
+attrMap@org.apache.commons.compress.harmony.unpack200.AttributeLayoutMapB<:
+8org.apache.commons.compress.harmony.unpack200.ClassBandsP

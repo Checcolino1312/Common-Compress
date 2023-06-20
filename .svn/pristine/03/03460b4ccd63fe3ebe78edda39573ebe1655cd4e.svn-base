@@ -1,0 +1,31 @@
+
+\org.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType#invokeInterfaceCount()I€
+vC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPNameAndType.javam m(#"1*Œ
+1n n(Î
+Ë
+n9 n(CC
+%0=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8"__id*t
+
+__unknown_file (X*VF
+Dorg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType"
+
+descriptor€ý
+n9 n(V
+%1java.lang.String"borg.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8#underlyingString()Ljava/lang/String;*a
+
+__unknown_file (E
+C
+%0=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF82underlyingString()”
+‘
+n n(W	
+%2int"horg.apache.commons.compress.harmony.unpack200.SegmentUtils#countInvokeInterfaceArgs(Ljava/lang/String;)I*Z
+
+__unknown_file (>"<
+:org.apache.commons.compress.harmony.unpack200.SegmentUtils*4
+
+__unknown_file (
+
+%1java.lang.String"
+n n(X
+""BHF
+Dorg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndTypeHP

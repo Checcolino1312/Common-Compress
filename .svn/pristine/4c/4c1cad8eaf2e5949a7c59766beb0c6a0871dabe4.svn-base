@@ -1,0 +1,35 @@
+
+¢org.apache.commons.compress.archivers.zip.ScatterZipOutputStream#pathBased(Ljava/nio/file/Path;)Lorg/apache/commons/compress/archivers/zip/ScatterZipOutputStream;~
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ScatterZipOutputStream.java‰) ‰(2"1*ñ
+1
+Š Š(C
+A
+
+Š Š(;	
+%0int"__id*"
+
+__unknown_file (
+""Â
+¿
+
+Š Š(<F
+%1@org.apache.commons.compress.archivers.zip.ScatterZipOutputStream"£org.apache.commons.compress.archivers.zip.ScatterZipOutputStream#pathBased(Ljava/nio/file/Path;I)Lorg/apache/commons/compress/archivers/zip/ScatterZipOutputStream;*`
+
+__unknown_file (D"B
+@org.apache.commons.compress.archivers.zip.ScatterZipOutputStream*8
+
+__unknown_file (
+
+pathjava.nio.file.Path*'
+
+__unknown_file (
+	
+%0int"V
+
+Š Š(=H
+F
+%1@org.apache.commons.compress.archivers.zip.ScatterZipOutputStream:(
+
+‰3 ‰(B
+pathjava.nio.file.PathBD"B
+@org.apache.commons.compress.archivers.zip.ScatterZipOutputStreamH

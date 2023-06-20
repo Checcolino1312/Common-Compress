@@ -1,0 +1,9 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#readStored([BII)I
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#readStoredEntry()V
+java.nio.Buffer#position()I
+java.nio.Buffer#remaining()I
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+java.nio.Buffer#limit()I
+java.nio.ByteBuffer#array()[B
+java.lang.Math#min(II)I

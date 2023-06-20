@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readPackInfo(Ljava/nio/ByteBuffer;Lorg/apache/commons/compress/archivers/sevenz/Archive;)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#getInt(Ljava/nio/ByteBuffer;)I
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readUint64(Ljava/nio/ByteBuffer;)J
+org.apache.commons.compress.archivers.sevenz.SevenZFile#getUnsignedByte(Ljava/nio/ByteBuffer;)I
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readAllOrBits(Ljava/nio/ByteBuffer;I)Ljava/util/BitSet;

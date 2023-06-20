@@ -1,0 +1,114 @@
+
+Horg.apache.commons.compress.archivers.tar.TarArchiveEntry#isDirectory()Zw
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java¶	 ¶	("9*Ã
+2
+¿	9 ¿	(@äá
+
+¿	9 ¿	(B
+%7java.lang.String"Uorg.apache.commons.compress.archivers.tar.TarArchiveEntry#getName()Ljava/lang/String;*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntry2	getName()ÅÂ
+
+¿	9 ¿	(P
+%8boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*4
+
+__unknown_file (
+
+%7java.lang.String*!
+
+__unknown_file (
+/2endsWith(Ljava/lang/String;)*
+1*ø
+4
+¿	" ¿	(3ÞÛ
+
+¿	" ¿	(5
+%6boolean"Norg.apache.commons.compress.archivers.tar.TarArchiveEntry#isGlobalPaxHeader()Z*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntry2isGlobalPaxHeader()*
+2
+1*ï
+5
+¿	 ¿	(ÒÏ
+
+¿	 ¿	(
+%5boolean"Horg.apache.commons.compress.archivers.tar.TarArchiveEntry#isPaxHeader()Z*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntry2isPaxHeader()*	
+2
+4
+1*%
+6
+¼	 ¼	("
+
+¼	 ¼	(
+""*]
+7
+»	 »	(D
+B
+
+»	 »	(
+
+%4byte"__id*"
+
+__unknown_file (
+""*
+5
+6*ƒ
+8
+¸	 ¸	(”
+‘
+
+¸	% ¸	()
+%1java.nio.file.Path"__id*c
+
+__unknown_file (G*E;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntry"
+file£
+ 
+
+¸	+ ¸	(6 
+%2java.nio.file.LinkOption[]"__id*j
+
+__unknown_file (N*L;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntry"
+linkOptionsž
+›
+
+¸	 ¸	(7
+%3boolean"Qjava.nio.file.Files#isDirectory(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z*3
+
+__unknown_file ("
+java.nio.file.Files*6
+
+__unknown_file (
+
+%1java.nio.file.Path*>
+
+__unknown_file ("
+ 
+%2java.nio.file.LinkOption[]"
+
+¸	 ¸	(8
+""*®
+9
+·	 ·	(”
+‘
+
+·	 ·	(
+%0java.nio.file.Path"__id*c
+
+__unknown_file (G*E;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntry"
+file*
+7
+8*%
+1
+¿	 ¿	(Q"
+
+¿	 ¿	(Q
+""B=;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntryHP

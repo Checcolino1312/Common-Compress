@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getExistingExtraField(Lorg/apache/commons/compress/archivers/zip/ZipExtraField;)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;
+==
+getExtraField org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getExtraField(Lorg/apache/commons/compress/archivers/zip/ZipShort;)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;

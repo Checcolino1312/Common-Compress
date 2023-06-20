@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder#getCodes([I)[I
+java.util.Arrays#copyOf([II)[I
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.Math#max(II)I
+java.lang.IllegalArgumentException#instance-init#

@@ -1,0 +1,6 @@
+org.apache.commons.compress.utils.BitInputStream#readBits(I)J
+org.apache.commons.compress.utils.BitInputStream#readCachedBits(I)J
+org.apache.commons.compress.utils.BitInputStream#processBitsGreater57(I)J
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.utils.BitInputStream#ensureCache(I)Z

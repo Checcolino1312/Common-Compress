@@ -1,0 +1,29 @@
+
+Jorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#isUnixSymlink()Zw
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.javaß ß( "1*€
+1
+à à(ÎË
+
+à à(	
+%0int"Horg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getUnixMode()I*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getUnixMode()C
+A
+
+à  à(7	
+%1int"__id*"
+
+__unknown_file (
+""C
+A
+
+à< à(N	
+%2int"__id*"
+
+__unknown_file (
+"""
+
+à à(O
+""B=;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntryHP

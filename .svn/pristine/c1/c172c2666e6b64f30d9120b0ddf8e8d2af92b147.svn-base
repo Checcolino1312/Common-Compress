@@ -1,0 +1,6 @@
+org.apache.commons.compress.harmony.pack200.ClassBands#addSourceFile(Ljava/lang/String;)V
+java.lang.String#substring(I)Ljava/lang/String;
+java.lang.String#lastIndexOf(I)I
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.lang.String#substring(II)Ljava/lang/String;
+java.lang.String#indexOf(I)I

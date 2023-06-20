@@ -1,0 +1,33 @@
+
+Norg.apache.commons.compress.archivers.tar.TarFile#getEntries()Ljava/util/List;o
+cC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/tar/TarFile.java‘! ‘(+"1*Î
+1
+’ ’(&‘
+Ž
+
+’ ’(&
+%0java.util.LinkedList"__id*^
+
+__unknown_file (B*@3
+1org.apache.commons.compress.archivers.tar.TarFile"	
+entries><
+
+’ ’(
+%1java.util.ArrayList"java.util.ArrayList½
+º
+
+’ ’('
+%2"3java.util.ArrayList#<init>(Ljava/util/Collection;)V*7
+
+__unknown_file (
+
+%1java.util.ArrayList*8
+
+__unknown_file (
+
+%0java.util.LinkedList")
+
+’ ’((
+
+%1java.util.ArrayListB53
+1org.apache.commons.compress.archivers.tar.TarFileH

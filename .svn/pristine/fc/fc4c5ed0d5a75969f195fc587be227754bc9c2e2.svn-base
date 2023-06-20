@@ -1,0 +1,160 @@
+
+‘org.apache.commons.compress.harmony.pack200.NewAttributeBands#getCodec(Ljava/lang/String;)Lorg/apache/commons/compress/harmony/pack200/BHSDCodec;{
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/NewAttributeBands.java§ §("11*Ó
+2
+³ ³(u
+s
+
+³ ³(;
+%95org.apache.commons.compress.harmony.pack200.BHSDCodec"__id*"
+
+__unknown_file (
+"""K
+
+³ ³(=
+;
+%95org.apache.commons.compress.harmony.pack200.BHSDCodec*Â
+3
+² ²(¨¥
+
+² ²(&	
+%8int"java.lang.String#indexOf(I)I*?
+
+__unknown_file (#
+!
+layoutElementjava.lang.String*!
+
+__unknown_file (
+B2
+indexOf(I)*
+2
+1*Ó
+4
+° °(u
+s
+
+° °( ;
+%75org.apache.commons.compress.harmony.pack200.BHSDCodec"__id*"
+
+__unknown_file (
+"""K
+
+° °(!=
+;
+%75org.apache.commons.compress.harmony.pack200.BHSDCodec*å
+5
+¯ ¯(ËÈ
+
+¯ ¯(*	
+%6int"-java.lang.String#indexOf(Ljava/lang/String;)I*?
+
+__unknown_file (#
+!
+layoutElementjava.lang.String*"
+
+__unknown_file (
+RS2indexOf(Ljava/lang/String;)*
+3
+4*å
+6
+®/ ®(<ËÈ
+
+®/ ®(J	
+%5int"-java.lang.String#indexOf(Ljava/lang/String;)I*?
+
+__unknown_file (#
+!
+layoutElementjava.lang.String*"
+
+__unknown_file (
+KS2indexOf(Ljava/lang/String;)*
+3
+5*Â
+7
+® ®(¨¥
+
+® ®(&	
+%4int"java.lang.String#indexOf(I)I*?
+
+__unknown_file (#
+!
+layoutElementjava.lang.String*!
+
+__unknown_file (
+S2
+indexOf(I)*
+3
+6*Ó
+8
+¬ ¬(u
+s
+
+¬ ¬(;
+%35org.apache.commons.compress.harmony.pack200.BHSDCodec"__id*"
+
+__unknown_file (
+"""K
+
+¬ ¬(=
+;
+%35org.apache.commons.compress.harmony.pack200.BHSDCodec*Â
+9
+« «(¨¥
+
+« «(&	
+%2int"java.lang.String#indexOf(I)I*?
+
+__unknown_file (#
+!
+layoutElementjava.lang.String*!
+
+__unknown_file (
+P2
+indexOf(I)*
+7
+8*Ô
+10
+© ©(u
+s
+
+© ©( ;
+%15org.apache.commons.compress.harmony.pack200.BHSDCodec"__id*"
+
+__unknown_file (
+"""K
+
+© ©(!=
+;
+%15org.apache.commons.compress.harmony.pack200.BHSDCodec*Ä
+11
+¨ ¨(¨¥
+
+¨ ¨(&	
+%0int"java.lang.String#indexOf(I)I*?
+
+__unknown_file (#
+!
+layoutElementjava.lang.String*!
+
+__unknown_file (
+O2
+indexOf(I)*
+9
+10*Õ
+1
+µ µ(v
+t
+
+µ µ(<
+%105org.apache.commons.compress.harmony.pack200.BHSDCodec"__id*"
+
+__unknown_file (
+"""L
+
+µ µ(>
+<
+%105org.apache.commons.compress.harmony.pack200.BHSDCodec:/
+
+§ §(9!
+layoutElementjava.lang.StringBA?
+=org.apache.commons.compress.harmony.pack200.NewAttributeBands

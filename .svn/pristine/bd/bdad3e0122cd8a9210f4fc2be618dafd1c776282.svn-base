@@ -1,0 +1,9 @@
+org.apache.commons.compress.archivers.arj.ArjArchiveInputStream#getNextEntry()Lorg/apache/commons/compress/archivers/arj/ArjArchiveEntry;
+org.apache.commons.compress.archivers.arj.ArjArchiveEntry#<init>(Lorg/apache/commons/compress/archivers/arj/LocalFileHeader;)V
+org.apache.commons.compress.utils.BoundedInputStream#instance-init#
+org.apache.commons.compress.utils.BoundedInputStream#<init>(Ljava/io/InputStream;J)V
+org.apache.commons.compress.utils.IOUtils#skip(Ljava/io/InputStream;J)J
+org.apache.commons.compress.utils.CRC32VerifyingInputStream#<init>(Ljava/io/InputStream;JJ)V
+org.apache.commons.compress.archivers.arj.ArjArchiveInputStream#readLocalFileHeader()Lorg/apache/commons/compress/archivers/arj/LocalFileHeader;
+org.apache.commons.compress.archivers.arj.ArjArchiveEntry#instance-init#
+org.apache.commons.compress.utils.CRC32VerifyingInputStream#instance-init#

@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.sevenz.AES256SHA256Decoder#utf16Decode([C)[B
+java.nio.ByteBuffer#hasArray()Z
+java.nio.Buffer#remaining()I
+java.nio.charset.Charset#encode(Ljava/nio/CharBuffer;)Ljava/nio/ByteBuffer;
+java.nio.CharBuffer#wrap([C)Ljava/nio/CharBuffer;
+java.nio.ByteBuffer#array()[B

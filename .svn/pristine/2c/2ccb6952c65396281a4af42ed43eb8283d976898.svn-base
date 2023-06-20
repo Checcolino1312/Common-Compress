@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.brotli.BrotliCompressorInputStream#<init>(Ljava/io/InputStream;)V
+org.apache.commons.compress.utils.CountingInputStream#<init>(Ljava/io/InputStream;)V
+org.apache.commons.compress.utils.CountingInputStream#instance-init#
+org.brotli.dec.BrotliInputStream#<init>(Ljava/io/InputStream;)V
+org.brotli.dec.BrotliInputStream#instance-init#

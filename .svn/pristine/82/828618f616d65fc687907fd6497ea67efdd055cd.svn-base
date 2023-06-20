@@ -1,0 +1,23 @@
+org.apache.commons.compress.harmony.unpack200.Segment#buildClassFile(I)Lorg/apache/commons/compress/harmony/unpack200/bytecode/ClassFile;
+org.apache.commons.compress.harmony.unpack200.bytecode.InnerClassesAttribute#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.harmony.unpack200.bytecode.ClassFile#<init>()V
+java.util.ArrayList#instance-init#
+java.lang.String#charAt(I)C
+java.util.ArrayList#<init>(I)V
+java.lang.String#substring(II)Ljava/lang/String;
+org.apache.commons.compress.harmony.unpack200.bytecode.SourceFileAttribute#<init>(Lorg/apache/commons/compress/harmony/unpack200/bytecode/CPUTF8;)V
+org.apache.commons.compress.harmony.unpack200.bytecode.SourceFileAttribute#instance-init#
+org.apache.commons.compress.harmony.unpack200.bytecode.InnerClassesAttribute#instance-init#
+org.apache.commons.compress.harmony.unpack200.Segment#computeIcStored([Lorg/apache/commons/compress/harmony/unpack200/IcTuple;[Lorg/apache/commons/compress/harmony/unpack200/IcTuple;)Ljava/util/List;
+java.lang.String#length()I
+java.lang.String#substring(I)Ljava/lang/String;
+org.apache.commons.compress.harmony.unpack200.bytecode.CPField#instance-init#
+org.apache.commons.compress.harmony.unpack200.bytecode.ClassFile#instance-init#
+org.apache.commons.compress.harmony.unpack200.bytecode.CPMethod#instance-init#
+org.apache.commons.compress.harmony.unpack200.bytecode.CPMethod#<init>(Lorg/apache/commons/compress/harmony/unpack200/bytecode/CPUTF8;Lorg/apache/commons/compress/harmony/unpack200/bytecode/CPUTF8;JLjava/util/List;)V
+java.lang.String#lastIndexOf(Ljava/lang/String;)I
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+org.apache.commons.compress.harmony.unpack200.bytecode.CPField#<init>(Lorg/apache/commons/compress/harmony/unpack200/bytecode/CPUTF8;Lorg/apache/commons/compress/harmony/unpack200/bytecode/CPUTF8;JLjava/util/List;)V
+==
+getClassBands org.apache.commons.compress.harmony.unpack200.Segment#getClassBands()Lorg/apache/commons/compress/harmony/unpack200/ClassBands;
+getIcBands org.apache.commons.compress.harmony.unpack200.Segment#getIcBands()Lorg/apache/commons/compress/harmony/unpack200/IcBands;

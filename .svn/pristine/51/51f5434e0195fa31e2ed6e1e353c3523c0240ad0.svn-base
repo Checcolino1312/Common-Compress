@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.xz.XZUtils#setCacheXZAvailablity(Z)V
+org.apache.commons.compress.compressors.xz.XZUtils#internalIsXZCompressionAvailable()Z

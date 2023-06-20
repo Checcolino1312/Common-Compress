@@ -1,0 +1,25 @@
+
+™org.apache.commons.compress.archivers.dump.DumpArchiveEntry#getHeaderType()Lorg/apache/commons/compress/archivers/dump/DumpArchiveConstants$SEGMENT_TYPE;y
+mC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveEntry.javaú- ú(:"1*Õ
+1
+û û(Ó
+Ð
+
+û û(S
+%0Morg.apache.commons.compress.archivers.dump.DumpArchiveEntry$TapeSegmentHeader"__id*g
+
+__unknown_file (K*I=
+;org.apache.commons.compress.archivers.dump.DumpArchiveEntry"
+header‰†
+
+û û(R
+%1Lorg.apache.commons.compress.archivers.dump.DumpArchiveConstants$SEGMENT_TYPE"¥org.apache.commons.compress.archivers.dump.DumpArchiveEntry$TapeSegmentHeader#getType()Lorg/apache/commons/compress/archivers/dump/DumpArchiveConstants$SEGMENT_TYPE;*q
+
+__unknown_file (U
+S
+%0Morg.apache.commons.compress.archivers.dump.DumpArchiveEntry$TapeSegmentHeader2	getType()"b
+
+û û( T
+R
+%1Lorg.apache.commons.compress.archivers.dump.DumpArchiveConstants$SEGMENT_TYPEB?=
+;org.apache.commons.compress.archivers.dump.DumpArchiveEntryH

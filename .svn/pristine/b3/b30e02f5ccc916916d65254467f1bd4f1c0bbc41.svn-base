@@ -1,0 +1,42 @@
+
+lorg.apache.commons.compress.compressors.lz77support.LZ77Compressor$LiteralBlock#toString()Ljava/lang/String;€
+tC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/lz77support/LZ77Compressor.javaÎ Î("1*—
+1
+Ï Ï(.s
+q
+
+Ï Ï(7
+%0java.lang.String"__concat*+
+
+Ï Ï(.
+LiteralBlock starting at *
+
+Ï1 Ï(7
+""y
+w
+
+Ï Ï(I
+%1java.lang.String"__concat*&
+
+Ï Ï(7
+
+%0java.lang.String*
+
+Ï: Ï(I
+ with length n
+l
+
+Ï Ï(R
+%2java.lang.String"__concat*&
+
+Ï Ï(I
+
+%1java.lang.String*
+
+ÏL Ï(R
+"""&
+
+Ï Ï(S
+
+%2java.lang.StringBSQ
+Oorg.apache.commons.compress.compressors.lz77support.LZ77Compressor$LiteralBlockH

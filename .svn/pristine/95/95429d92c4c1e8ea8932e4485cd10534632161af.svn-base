@@ -1,0 +1,16 @@
+
+z
+java:S1192‡"WDefine a constant instead of duplicating this literal "local file header for " 3 times.(ã†µşÿÿÿÿ8¶Ù×ƒƒ1
+{	java:S135‡"YReduce the total number of break and continue statements in this loop to use at most one.(åÀ¤Ùøÿÿÿÿ8Õİƒƒ1
+_
+java:S1659²"ADeclare "centralDirectoryStartRelativeOffset" on a separate line.(íÔÁè8–Ú×ƒƒ1
+i
+java:S5738©"FDon't override this deprecated method, it has been marked for removal.(ÖÒ˜Ùùÿÿÿÿ8®ÃÈ†1
+P
+java:S1113©"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ8¬Ú×ƒƒ1
+k
+java:S5738¯"HRemove this call to a deprecated method, it has been marked for removal.(¯¶ú“üÿÿÿÿ8²ÃÈ†1
+u
+java:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(›ä‚ıÿÿÿÿ8îŞƒƒ1
+R
+java:S1068‹"/Remove this unused "archiveName" private field.(©—é„şÿÿÿÿ8ÊÚ×ƒƒ1

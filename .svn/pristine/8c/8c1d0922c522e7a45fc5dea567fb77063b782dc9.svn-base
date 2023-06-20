@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream#skip(J)J
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream#getActuallySkipped(JJJ)J
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream#skipSparse(J)J
+org.apache.commons.compress.utils.IOUtils#skip(Ljava/io/InputStream;J)J
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream#isDirectory()Z
+java.lang.Math#min(JJ)J

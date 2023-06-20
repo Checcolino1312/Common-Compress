@@ -1,0 +1,24 @@
+
+ˆorg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#bsGetUByte(Lorg/apache/commons/compress/utils/BitInputStream;)C„
+zC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream.java (""1*ª
+1
+€ €(‚
+ÿ
+
+€ €(!	
+%0int"‚org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#bsR(Lorg/apache/commons/compress/utils/BitInputStream;I)I*h
+
+__unknown_file (L"J
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream*U
+
+__unknown_file (9
+7
+bin0org.apache.commons.compress.utils.BitInputStream* 
+
+__unknown_file (2"
+
+€ €("
+"":C
+# (;7
+bin0org.apache.commons.compress.utils.BitInputStreamBL"J
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStreamP

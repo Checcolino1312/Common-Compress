@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#closeAndCheckEntry(Z)Z
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#closeEntry()V

@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.dump.TapeInputStream#resetBlockSize(IZ)V
+org.apache.commons.compress.archivers.dump.TapeInputStream#readFully([BII)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V

@@ -1,0 +1,72 @@
+
+uorg.apache.commons.compress.harmony.pack200.RunCodec#normalise(ILorg/apache/commons/compress/harmony/pack200/Codec;)I|
+rC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/pack200/RunCodec.javac c("7"1*ø
+2l l(%ã
+à
+l l(=	
+%4int"4org.apache.commons.compress.utils.ExactMath#add(IJ)I*K
+
+__unknown_file (/"-
++org.apache.commons.compress.utils.ExactMath*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+3*Ý
+3k k(ÅÂ
+k k(.
+
+%3long"Aorg.apache.commons.compress.harmony.pack200.BHSDCodec#smallest()J*[
+
+__unknown_file (?
+=
+bhsd5org.apache.commons.compress.harmony.pack200.BHSDCodec2
+smallest()*
+2
+1*Û
+5h h(ÃÀ
+h h(-
+
+%2long"@org.apache.commons.compress.harmony.pack200.BHSDCodec#largest()J*[
+
+__unknown_file (?
+=
+bhsd5org.apache.commons.compress.harmony.pack200.BHSDCodec2	largest()*
+3
+5*à
+6g) g(-ËÈ
+g) g(;
+
+%1long"Dorg.apache.commons.compress.harmony.pack200.BHSDCodec#cardinality()J*[
+
+__unknown_file (?
+=
+bhsd5org.apache.commons.compress.harmony.pack200.BHSDCodec2cardinality()*
+5*‘
+7e/ e(8°
+­
+e e(9=
+bhsd5org.apache.commons.compress.harmony.pack200.BHSDCodec"__id*\
+
+__unknown_file (@
+>
+	codecUsed1org.apache.commons.compress.harmony.pack200.CodecÆÃ
+f f(
+%0boolean"@org.apache.commons.compress.harmony.pack200.BHSDCodec#isDelta()Z*[
+
+__unknown_file (?
+=
+bhsd5org.apache.commons.compress.harmony.pack200.BHSDCodec2	isDelta()*
+6
+1*!
+1p p("
+p p(
+"": 
+
+__unknown_file (
+"":J
+c% c(:>
+	codecUsed1org.apache.commons.compress.harmony.pack200.CodecB86
+4org.apache.commons.compress.harmony.pack200.RunCodecP

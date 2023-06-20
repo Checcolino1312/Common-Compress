@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.NioZipEncoding#estimateIncrementalEncodingSize(Ljava/nio/charset/CharsetEncoder;I)I
+java.lang.Math#ceil(D)D
+java.nio.charset.CharsetEncoder#averageBytesPerChar()F

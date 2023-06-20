@@ -1,0 +1,165 @@
+
+Rorg.apache.commons.compress.archivers.sevenz.SevenZFile#hasCurrentEntryBeenRead()Zu
+iC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZFile.javaÑ Ñ(+"6*¥
+2
+è@ è(W «
+
+è* è(l
+%11long"Iorg.apache.commons.compress.utils.BoundedInputStream#getBytesRemaining()J*L
+
+__unknown_file (0
+.
+currentEntryInputStreamjava.io.InputStream2getBytesRemaining()∏
+µ
+
+èp è(w;
+%124org.apache.commons.compress.archivers.sevenz.Archive"__id*d
+
+__unknown_file (H*F9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile"	
+archive≈
+¬
+
+èp è(}H
+%13Aorg.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry[]"__id*d
+
+__unknown_file (H*F
+;
+%124org.apache.commons.compress.archivers.sevenz.Archive"
+files
+Ì
+èp è(êF
+%14?org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry"
+__arrayGet*f
+
+__unknown_file (J
+H
+%13Aorg.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry[]*"
+
+__unknown_file (
+""⁄◊
+èp è(ö
+%15long"Jorg.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry#getSize()J*d
+
+__unknown_file (H
+F
+%14?org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry2	getSize()*
+1*ª
+4
+ãG ã(^”–
+
+ã* ã(s
+
+%6long"Sorg.apache.commons.compress.utils.ChecksumVerifyingInputStream#getBytesRemaining()J*L
+
+__unknown_file (0
+.
+currentEntryInputStreamjava.io.InputStream2getBytesRemaining()∑
+¥
+
+ãw ã(~:
+%74org.apache.commons.compress.archivers.sevenz.Archive"__id*d
+
+__unknown_file (H*F9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile"	
+archiveƒ
+¡
+ãw ã(ÑG
+%8Aorg.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry[]"__id*c
+
+__unknown_file (G*E
+:
+%74org.apache.commons.compress.archivers.sevenz.Archive"
+filesÓ
+Î
+ãw ã(óE
+%9?org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry"
+__arrayGet*e
+
+__unknown_file (I
+G
+%8Aorg.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry[]*"
+
+__unknown_file (
+""Ÿ÷
+ãw ã(°
+%10long"Jorg.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry#getSize()J*c
+
+__unknown_file (G
+E
+%9?org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry2	getSize()*
+2
+1*Ù
+5
+á8 á(L£
+†
+
+á8 á(L
+%2java.util.ArrayList"__id*q
+
+__unknown_file (U*S9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile"
+deferredBlockStreams£
+†
+
+áQ á(e
+%3java.util.ArrayList"__id*q
+
+__unknown_file (U*S9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile"
+deferredBlockStreamswu
+
+áQ á(l	
+%4int"java.util.ArrayList#size()I*7
+
+__unknown_file (
+
+%3java.util.ArrayList2size()ì
+ê
+
+á8 á(q
+%5java.io.InputStream"
+__arrayGet*7
+
+__unknown_file (
+
+%2java.util.ArrayList*"
+
+__unknown_file (
+""}
+{
+
+á á(r.
+currentEntryInputStreamjava.io.InputStream"__id*7
+
+__unknown_file (
+
+%5java.io.InputStream*	
+2
+4
+1*¡
+6
+Ö* Ö(/£
+†
+
+Ü Ü(!
+%0java.util.ArrayList"__id*q
+
+__unknown_file (U*S9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile"
+deferredBlockStreamsÅ
+
+Ü Ü(+
+%1boolean"java.util.ArrayList#isEmpty()Z*7
+
+__unknown_file (
+
+%0java.util.ArrayList2	isEmpty()*
+5
+1*%
+1
+í í(&"
+
+í í('
+""B;9
+7org.apache.commons.compress.archivers.sevenz.SevenZFileP

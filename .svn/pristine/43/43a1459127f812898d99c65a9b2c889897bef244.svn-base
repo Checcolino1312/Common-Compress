@@ -1,0 +1,29 @@
+
+Aorg.apache.commons.compress.archivers.zip.X7875_NewUnix#getGID()Ju
+iC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/X7875_NewUnix.javaÂ Â("1*¼
+1
+Â" Â()“
+
+
+Â4 Â(7
+%0java.math.BigInteger"__id*`
+
+__unknown_file (D*B9
+7org.apache.commons.compress.archivers.zip.X7875_NewUnix"
+gidş
+û
+
+Â" Â(8
+
+%1long"Torg.apache.commons.compress.archivers.zip.ZipUtil#bigToLong(Ljava/math/BigInteger;)J*Q
+
+__unknown_file (5"3
+1org.apache.commons.compress.archivers.zip.ZipUtil*8
+
+__unknown_file (
+
+%0java.math.BigInteger"
+
+Â Â(9
+""B;9
+7org.apache.commons.compress.archivers.zip.X7875_NewUnixHP

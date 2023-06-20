@@ -1,0 +1,102 @@
+
+Corg.apache.commons.compress.archivers.tar.TarArchiveEntry#isFile()Zw
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.javaÜ	 Ü	("6*%
+2
+á	 á	("
+
+á	 á	(
+""*]
+3
+à	& à	(.D
+B
+
+à	2 à	(;
+
+%5byte"__id*"
+
+__unknown_file (
+""*
+2
+1*]
+4
+à	 à	(D
+B
+
+à	 à	("
+
+%4byte"__id*"
+
+__unknown_file (
+""*
+2
+3*…
+5
+Þ	 Þ	(”
+‘
+
+Þ	' Þ	(+
+%1java.nio.file.Path"__id*c
+
+__unknown_file (G*E;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntry"
+file£
+ 
+
+Þ	- Þ	(8 
+%2java.nio.file.LinkOption[]"__id*j
+
+__unknown_file (N*L;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntry"
+linkOptions 
+
+
+Þ	 Þ	(9
+%3boolean"Sjava.nio.file.Files#isRegularFile(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z*3
+
+__unknown_file ("
+java.nio.file.Files*6
+
+__unknown_file (
+
+%1java.nio.file.Path*>
+
+__unknown_file ("
+ 
+%2java.nio.file.LinkOption[]"
+
+Þ	 Þ	(:
+""*®
+6
+Ý	 Ý	(”
+‘
+
+Ý	 Ý	(
+%0java.nio.file.Path"__id*c
+
+__unknown_file (G*E;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntry"
+file*
+4
+5*Ô
+1
+ã	 ã	(äá
+
+ã	 ã	(
+%6java.lang.String"Uorg.apache.commons.compress.archivers.tar.TarArchiveEntry#getName()Ljava/lang/String;*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntry2	getName()ÅÂ
+
+ã	 ã	('
+%7boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*4
+
+__unknown_file (
+
+%6java.lang.String*!
+
+__unknown_file (
+/2endsWith(Ljava/lang/String;)"
+
+ã	 ã	((
+""B=;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntryHP

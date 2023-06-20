@@ -1,0 +1,32 @@
+
+†org.apache.commons.compress.harmony.pack200.Segment$SegmentMethodVisitor#visitAnnotationDefault()Lorg/objectweb/asm/AnnotationVisitor;q
+eC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/Segment.java±! ±(7"1*®
+1
+²0 ²(AC
+A
+
+²0 ²(P	
+%0int"__id*"
+
+__unknown_file (
+""±®
+
+² ²(/R
+%1Lorg.apache.commons.compress.harmony.pack200.Segment$SegmentAnnotationVisitor"Lorg.apache.commons.compress.harmony.pack200.Segment$SegmentAnnotationVisitor¿
+¼
+
+² ²(Q
+%2"Œorg.apache.commons.compress.harmony.pack200.Segment$SegmentAnnotationVisitor#<init>(Lorg/apache/commons/compress/harmony/pack200/Segment;I)V*p
+
+__unknown_file (T
+R
+%1Lorg.apache.commons.compress.harmony.pack200.Segment$SegmentAnnotationVisitor*'
+
+__unknown_file (
+	
+%0int"b
+
+² ²(RT
+R
+%1Lorg.apache.commons.compress.harmony.pack200.Segment$SegmentAnnotationVisitorBLJ
+Horg.apache.commons.compress.harmony.pack200.Segment$SegmentMethodVisitorH

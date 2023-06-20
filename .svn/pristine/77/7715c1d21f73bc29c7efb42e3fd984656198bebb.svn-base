@@ -1,0 +1,20 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveEntry#parse([B)Lorg/apache/commons/compress/archivers/dump/DumpArchiveEntry;
+org.apache.commons.compress.archivers.dump.DumpArchiveConstants$SEGMENT_TYPE#find(I)Lorg/apache/commons/compress/archivers/dump/DumpArchiveConstants$SEGMENT_TYPE;
+org.apache.commons.compress.archivers.dump.DumpArchiveEntry#instance-init#
+java.util.Date#<init>(J)V
+java.util.Date#instance-init#
+org.apache.commons.compress.archivers.dump.DumpArchiveUtil#convert32([BI)I
+org.apache.commons.compress.archivers.dump.DumpArchiveEntry$TYPE#find(I)Lorg/apache/commons/compress/archivers/dump/DumpArchiveEntry$TYPE;
+org.apache.commons.compress.archivers.dump.DumpArchiveUtil#convert64([BI)J
+org.apache.commons.compress.archivers.dump.DumpArchiveEntry#<init>()V
+org.apache.commons.compress.archivers.dump.DumpArchiveUtil#convert16([BI)I
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+==
+setMode org.apache.commons.compress.archivers.dump.DumpArchiveEntry#setMode(I)V
+setGroupId org.apache.commons.compress.archivers.dump.DumpArchiveEntry#setGroupId(I)V
+setLastModifiedDate org.apache.commons.compress.archivers.dump.DumpArchiveEntry#setLastModifiedDate(Ljava/util/Date;)V
+setSize org.apache.commons.compress.archivers.dump.DumpArchiveEntry#setSize(J)V
+setAccessTime org.apache.commons.compress.archivers.dump.DumpArchiveEntry#setAccessTime(Ljava/util/Date;)V
+getVolume org.apache.commons.compress.archivers.dump.DumpArchiveEntry$TapeSegmentHeader#getVolume()I
+setUserId org.apache.commons.compress.archivers.dump.DumpArchiveEntry#setUserId(I)V
+setType org.apache.commons.compress.archivers.dump.DumpArchiveEntry#setType(Lorg/apache/commons/compress/archivers/dump/DumpArchiveEntry$TYPE;)V

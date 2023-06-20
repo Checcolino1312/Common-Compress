@@ -1,0 +1,111 @@
+
+ùorg.apache.commons.compress.harmony.unpack200.BandSet#parseCPDescriptorReferences(Ljava/lang/String;Ljava/io/InputStream;Lorg/apache/commons/compress/harmony/pack200/BHSDCodec;I)[Lorg/apache/commons/compress/harmony/unpack200/bytecode/CPNameAndType;
+sC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/BandSet.java¶ ¶(6"5*Æ
+3
+¼ ¼(%Š‡
+
+½ ½(:J
+%4Dorg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType"‘org.apache.commons.compress.harmony.unpack200.CpBands#cpNameAndTypeValue(I)Lorg/apache/commons/compress/harmony/unpack200/bytecode/CPNameAndType;*^
+
+__unknown_file (B
+@
+cpBands5org.apache.commons.compress.harmony.unpack200.CpBands*"
+
+__unknown_file (
+""2cpNameAndTypeValue(I)Ÿ
+œ
+
+½ ½(:
+%5"
+__arraySet*n
+
+__unknown_file (R
+P
+resultForg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType[]*"
+
+__unknown_file (
+""*h
+
+__unknown_file (L
+J
+%4Dorg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType*
+3
+1*¸
+5
+¸  ¸('¶
+³
+
+¸  ¸(';
+%05org.apache.commons.compress.harmony.unpack200.Segment"__id*b
+
+__unknown_file (F*D7
+5org.apache.commons.compress.harmony.unpack200.BandSet"	
+segment°­
+
+¸  ¸(4;
+%15org.apache.commons.compress.harmony.unpack200.CpBands"yorg.apache.commons.compress.harmony.unpack200.Segment#getCpBands()Lorg/apache/commons/compress/harmony/unpack200/CpBands;*Y
+
+__unknown_file (=
+;
+%05org.apache.commons.compress.harmony.unpack200.Segment2getCpBands()²
+¯
+
+¸ ¸(5@
+cpBands5org.apache.commons.compress.harmony.unpack200.CpBands"__id*Y
+
+__unknown_file (=
+;
+%15org.apache.commons.compress.harmony.unpack200.CpBandsÿü
+
+¹ ¹(C
+%2int[]"¦org.apache.commons.compress.harmony.unpack200.BandSet#decodeBandInt(Ljava/lang/String;Ljava/io/InputStream;Lorg/apache/commons/compress/harmony/pack200/BHSDCodec;I)[I*U
+
+__unknown_file (97
+5org.apache.commons.compress.harmony.unpack200.BandSet*6
+
+__unknown_file (
+
+namejava.lang.String*7
+
+__unknown_file (
+
+injava.io.InputStream*\
+
+__unknown_file (@
+>
+codec5org.apache.commons.compress.harmony.pack200.BHSDCodec*"
+
+__unknown_file (
+""2ndecodeBandInt(Ljava/lang/String;Ljava/io/InputStream;Lorg/apache/commons/compress/harmony/pack200/BHSDCodec;I)¥¢
+
+º' º(HL
+%3Forg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType[]"Forg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType[]Ó
+Ð
+
+º º(IP
+resultForg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType[]"__id*j
+
+__unknown_file (N
+L
+%3Forg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType[]*
+3
+1*q
+1
+¿ ¿("`
+
+¿ ¿(R
+P
+resultForg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType[]:&
+
+¶7 ¶(I
+namejava.lang.String:'
+
+¶J ¶(_
+injava.io.InputStream:L
+
+¶` ¶(v>
+codec5org.apache.commons.compress.harmony.pack200.BHSDCodec: 
+
+__unknown_file (
+""B97
+5org.apache.commons.compress.harmony.unpack200.BandSetH

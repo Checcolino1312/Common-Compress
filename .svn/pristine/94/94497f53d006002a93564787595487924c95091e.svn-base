@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#<init>([BI)V
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#getValue([BI)Ljava/math/BigInteger;

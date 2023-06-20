@@ -1,0 +1,5 @@
+org.apache.commons.compress.harmony.unpack200.NewAttributeBands#setBackwardsCalls([I)V
+org.apache.commons.compress.harmony.unpack200.NewAttributeBands#parseLayout()V
+==
+isBackwardsCallable org.apache.commons.compress.harmony.unpack200.NewAttributeBands$Callable#isBackwardsCallable()Z
+addCount org.apache.commons.compress.harmony.unpack200.NewAttributeBands$Callable#addCount(I)V

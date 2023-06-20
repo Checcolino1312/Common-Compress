@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.zstandard.ZstdUtils#setCacheZstdAvailablity(Z)V
+org.apache.commons.compress.compressors.zstandard.ZstdUtils#internalIsZstdCompressionAvailable()Z

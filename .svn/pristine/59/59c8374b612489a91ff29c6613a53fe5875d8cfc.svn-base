@@ -1,0 +1,54 @@
+
+S__sonar_lambda_28$org.apache.commons.compress.archivers.dump.DumpArchiveInputStream‹
+C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveInputStream.javaá á(="startingBlock*­
+startingBlock
+á á(=Š
+‡
+
+__unknown_file (`
+DumpArchiveInputStream.thisAorg.apache.commons.compress.archivers.dump.DumpArchiveInputStream"__id*‚
+
+__unknown_file (f*dC
+Aorg.apache.commons.compress.archivers.dump.DumpArchiveInputStream"
+DumpArchiveInputStream.this*
+1*¯
+1
+á# á(*¹
+¶
+
+á# á(*
+%20java.util.Map"__id*‹
+
+__unknown_file (o*m
+`
+DumpArchiveInputStream.thisAorg.apache.commons.compress.archivers.dump.DumpArchiveInputStream"	
+pendingÌÉ
+
+á2 á(<
+
+%21int"Eorg.apache.commons.compress.archivers.dump.DumpArchiveEntry#getIno()I*^
+
+__unknown_file (B
+@
+e;org.apache.commons.compress.archivers.dump.DumpArchiveEntry2getIno()¾
+»
+
+á# á(=B
+%22;org.apache.commons.compress.archivers.dump.DumpArchiveEntry"__mapRemove*2
+
+__unknown_file (
+
+%20java.util.Map*(
+
+__unknown_file (
+
+
+%21int"R
+
+á# á(=D
+B
+%22;org.apache.commons.compress.archivers.dump.DumpArchiveEntry:N
+
+á á(@
+e;org.apache.commons.compress.archivers.dump.DumpArchiveEntryB
+java.util.function.Consumer

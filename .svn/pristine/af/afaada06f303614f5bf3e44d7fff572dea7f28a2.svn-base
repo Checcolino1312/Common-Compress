@@ -1,0 +1,172 @@
+
+@org.apache.commons.compress.compressors.lz4.XXHash32#getValue()Jp
+fC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/lz4/XXHash32.javaK K("10*‹
+2^ ^(Ñ
+Å
+^& ^(,
+%11byte[]"__id*`
+
+__unknown_file (D*B6
+4org.apache.commons.compress.compressors.lz4.XXHash32"
+bufferB
+@
+^> ^(D
+
+%12int"__id*"
+
+__unknown_file (
+""µ
+≤
+^ ^(I
+
+%13int"!java.lang.Integer#rotateLeft(II)I*1
+
+__unknown_file ("
+java.lang.Integer*"
+
+__unknown_file (
+""* 
+
+__unknown_file (2B
+@
+^L ^(R
+
+%14int"__id*"
+
+__unknown_file (
+""*
+2
+1*‡
+5[ [(É
+Ä
+[, [(2
+%6byte[]"__id*`
+
+__unknown_file (D*B6
+4org.apache.commons.compress.compressors.lz4.XXHash32"
+bufferÅ
+˛
+[% [(8	
+%7int"Aorg.apache.commons.compress.compressors.lz4.XXHash32#getInt([BI)I*T
+
+__unknown_file (8"6
+4org.apache.commons.compress.compressors.lz4.XXHash32**
+
+__unknown_file (
+
+%6byte[]*"
+
+__unknown_file (
+""A
+?
+[; [(A	
+%8int"__id*"
+
+__unknown_file (
+""¥
+±
+[ [(F	
+%9int"!java.lang.Integer#rotateLeft(II)I*1
+
+__unknown_file ("
+java.lang.Integer*"
+
+__unknown_file (
+""* 
+
+__unknown_file (2B
+@
+[I [(O
+
+%10int"__id*"
+
+__unknown_file (
+""*	
+2
+5
+1*[
+8T T(A
+?
+T T($	
+%5int"__id*"
+
+__unknown_file (
+""*	
+2
+5
+1*Ù
+9O O(¥
+±
+O O((	
+%1int"!java.lang.Integer#rotateLeft(II)I*1
+
+__unknown_file ("
+java.lang.Integer*"
+
+__unknown_file (
+""* 
+
+__unknown_file (2¥
+±
+P P((	
+%2int"!java.lang.Integer#rotateLeft(II)I*1
+
+__unknown_file ("
+java.lang.Integer*"
+
+__unknown_file (
+""* 
+
+__unknown_file (2¥
+±
+Q Q((	
+%3int"!java.lang.Integer#rotateLeft(II)I*1
+
+__unknown_file ("
+java.lang.Integer*"
+
+__unknown_file (
+""* 
+
+__unknown_file (2¥
+±
+R R((	
+%4int"!java.lang.Integer#rotateLeft(II)I*1
+
+__unknown_file ("
+java.lang.Integer*"
+
+__unknown_file (
+""* 
+
+__unknown_file (2*	
+2
+5
+1*Y
+10L L(A
+?
+M M(	
+%0int"__id*"
+
+__unknown_file (
+""*
+8
+9*©
+1a a(B
+@
+b b(
+
+%15int"__id*"
+
+__unknown_file (
+""B
+@
+d d(
+
+%16int"__id*"
+
+__unknown_file (
+"""
+f f("
+""B86
+4org.apache.commons.compress.compressors.lz4.XXHash32HP

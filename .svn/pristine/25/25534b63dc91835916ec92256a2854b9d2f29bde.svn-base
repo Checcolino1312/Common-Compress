@@ -1,0 +1,8 @@
+org.apache.commons.compress.harmony.pack200.NewAttributeBands#readNumber(Ljava/io/StringReader;)Ljava/lang/Integer;
+java.lang.String#instance-init#
+java.lang.Integer#parseInt(Ljava/lang/String;)I
+java.lang.Integer#valueOf(I)Ljava/lang/Integer;
+java.lang.Character#isDigit(C)Z
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+java.lang.String#<init>([C)V

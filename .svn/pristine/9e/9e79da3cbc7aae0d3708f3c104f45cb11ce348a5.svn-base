@@ -1,0 +1,161 @@
+
+Uorg.apache.commons.compress.archivers.arj.LocalFileHeader#equals(Ljava/lang/Object;)ZÅ
+wC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/arj/LocalFileHeader.javaM M("startingBlock*π
+2k k(ì
+ê
+k k(-
+%8byte[][]"__id*n
+
+__unknown_file (R*P;
+9org.apache.commons.compress.archivers.arj.LocalFileHeader"
+extendedHeadersö
+ó
+k/ k(D
+%9byte[][]"__id*u
+
+__unknown_file (Y*W
+B
+other9org.apache.commons.compress.archivers.arj.LocalFileHeader"
+extendedHeadersÒ
+Ó
+k k(E
+%10boolean"Djava.util.Arrays#deepEquals([Ljava/lang/Object;[Ljava/lang/Object;)Z*0
+
+__unknown_file ("
+java.util.Arrays*,
+
+__unknown_file (
+
+%8byte[][]*,
+
+__unknown_file (
+
+%9byte[][]*
+1*"
+47O O("
+O O(
+""*è
+startingBlockM M(+ã
+à
+L L(
+%11"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectX
+V
+M' M(*
+objjava.lang.Object"__annotation*#
+
+__unknown_file (
+
+%11*
+47
+44
+45*«
+4j j(ì
+ê
+j j("
+%5java.lang.String"__id*f
+
+__unknown_file (J*H;
+9org.apache.commons.compress.archivers.arj.LocalFileHeader"	
+commentö
+ó
+j$ j(1
+%6java.lang.String"__id*m
+
+__unknown_file (Q*O
+B
+other9org.apache.commons.compress.archivers.arj.LocalFileHeader"	
+comment¸
+˘
+j j(2
+%7boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*4
+
+__unknown_file (
+
+%5java.lang.String*4
+
+__unknown_file (
+
+%6java.lang.String*
+2
+1*ƒ
+6i i(ê
+ç
+i i(
+%2java.lang.String"__id*c
+
+__unknown_file (G*E;
+9org.apache.commons.compress.archivers.arj.LocalFileHeader"
+nameó
+î
+i! i(+
+%3java.lang.String"__id*j
+
+__unknown_file (N*L
+B
+other9org.apache.commons.compress.archivers.arj.LocalFileHeader"
+name¸
+˘
+i i(,
+%4boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*4
+
+__unknown_file (
+
+%2java.lang.String*4
+
+__unknown_file (
+
+%3java.lang.String*	
+2
+4
+1*≠
+43T8 T(;é
+ã
+T T(<B
+other9org.apache.commons.compress.archivers.arj.LocalFileHeader"__id*5
+
+__unknown_file (
+
+objjava.lang.Object*
+2
+4
+6
+1*"
+44R R("
+R R(
+""*Ï
+45Q Q(#π∂
+Q Q(%
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.arj.LocalFileHeader2
+getClass()ïí
+Q) Q(7
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*5
+
+__unknown_file (
+
+objjava.lang.Object2
+getClass()*
+43
+44*!
+1U k(F"
+U k(F
+"":#
+M M(*
+objjava.lang.ObjectB=;
+9org.apache.commons.compress.archivers.arj.LocalFileHeaderHP

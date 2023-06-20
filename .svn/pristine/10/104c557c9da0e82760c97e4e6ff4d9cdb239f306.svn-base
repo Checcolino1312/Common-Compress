@@ -1,0 +1,42 @@
+
+forg.apache.commons.compress.archivers.sevenz.DeltaDecoder#getOptionsAsProperties(Ljava/lang/Object;)[Bu
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/DeltaDecoder.java2 2(!"startingBlock*Œ
+startingBlock2! 2(7Ž
+‹
+1 1(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*9
+
+__unknown_file (
+
+optionsjava.lang.Object[
+Y
+2/ 2(6
+optionsjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%1*
+1*Í
+14 4(©
+¦
+4 4(%	
+%0int"Vorg.apache.commons.compress.archivers.sevenz.AbstractCoder#toInt(Ljava/lang/Object;I)I*Z
+
+__unknown_file (>"<
+:org.apache.commons.compress.archivers.sevenz.AbstractCoder*9
+
+__unknown_file (
+
+optionsjava.lang.Object* 
+
+__unknown_file (2"
+3 5(
+
+"":'
+2" 2(6
+optionsjava.lang.ObjectB=;
+9org.apache.commons.compress.archivers.sevenz.DeltaDecoder

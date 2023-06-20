@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.unpack200.CpBands#parseCpClass(Ljava/io/InputStream;)V
+java.util.HashMap#<init>(I)V
+java.lang.Integer#valueOf(I)Ljava/lang/Integer;
+java.util.HashMap#instance-init#

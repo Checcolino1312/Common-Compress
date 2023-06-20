@@ -1,0 +1,85 @@
+
+Uorg.apache.commons.compress.archivers.arj.ArjArchiveEntry#equals(Ljava/lang/Object;)Zu
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/arj/ArjArchiveEntry.java= =("startingBlock*!
+2B B("
+B B(
+""*é
+3A A(#¹¶
+A A(%
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.arj.ArjArchiveEntry2
+getClass()•’
+A) A(7
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*5
+
+__unknown_file (
+
+objjava.lang.Object2
+getClass()*
+2
+1*Š
+startingBlock= =(+Š
+‡
+< <(
+%5"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectW
+U
+=' =(*
+objjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%5*	
+2
+3
+5*!
+5? ?("
+? ?(
+""*—
+1D8 D(;Ž
+‹
+D D(<B
+other9org.apache.commons.compress.archivers.arj.ArjArchiveEntry"__id*5
+
+__unknown_file (
+
+objjava.lang.ObjectÄ
+Á
+E E(?
+%29org.apache.commons.compress.archivers.arj.LocalFileHeader"__id*n
+
+__unknown_file (R*P;
+9org.apache.commons.compress.archivers.arj.ArjArchiveEntry"
+localFileHeaderË
+È
+E& E(;?
+%39org.apache.commons.compress.archivers.arj.LocalFileHeader"__id*u
+
+__unknown_file (Y*W
+B
+other9org.apache.commons.compress.archivers.arj.ArjArchiveEntry"
+localFileHeaderÍÊ
+E E(<
+%4boolean"Uorg.apache.commons.compress.archivers.arj.LocalFileHeader#equals(Ljava/lang/Object;)Z*]
+
+__unknown_file (A
+?
+%29org.apache.commons.compress.archivers.arj.LocalFileHeader*]
+
+__unknown_file (A
+?
+%39org.apache.commons.compress.archivers.arj.LocalFileHeader2equals(Ljava/lang/Object;)"
+E E(=
+"":#
+= =(*
+objjava.lang.ObjectB=;
+9org.apache.commons.compress.archivers.arj.ArjArchiveEntryHP

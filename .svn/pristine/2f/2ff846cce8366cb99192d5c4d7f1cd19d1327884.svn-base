@@ -1,0 +1,8 @@
+org.apache.commons.compress.archivers.zip.ZipFile#positionAtCentralDirectory64()V
+org.apache.commons.compress.archivers.zip.ZipFile#skipBytes(I)V
+org.apache.commons.compress.archivers.zip.ZipLong#getValue([B)J
+java.util.zip.ZipException#instance-init#
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#getLongValue([B)J
+java.util.Arrays#equals([B[B)Z
+java.util.zip.ZipException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.utils.IOUtils#readFully(Ljava/nio/channels/ReadableByteChannel;Ljava/nio/ByteBuffer;)V

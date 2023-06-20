@@ -1,0 +1,34 @@
+
+borg.apache.commons.compress.harmony.pack200.NewAttributeBands#getAttributeName()Ljava/lang/String;{
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/NewAttributeBands.javaž ž(""1*ç
+1
+Ÿ Ÿ(Ý
+Ú
+
+Ÿ Ÿ(^
+%0Xorg.apache.commons.compress.harmony.pack200.AttributeDefinitionBands$AttributeDefinition"__id*f
+
+__unknown_file (J*H?
+=org.apache.commons.compress.harmony.pack200.NewAttributeBands"
+defØ
+Õ
+
+Ÿ Ÿ(8
+%12org.apache.commons.compress.harmony.pack200.CPUTF8"__id*†
+
+__unknown_file (j*h
+^
+%0Xorg.apache.commons.compress.harmony.pack200.AttributeDefinitionBands$AttributeDefinition"
+nameòï
+
+Ÿ Ÿ(-
+%2java.lang.String"Zorg.apache.commons.compress.harmony.pack200.CPUTF8#getUnderlyingString()Ljava/lang/String;*V
+
+__unknown_file (:
+8
+%12org.apache.commons.compress.harmony.pack200.CPUTF82getUnderlyingString()"&
+
+Ÿ Ÿ(.
+
+%2java.lang.StringBA?
+=org.apache.commons.compress.harmony.pack200.NewAttributeBandsH

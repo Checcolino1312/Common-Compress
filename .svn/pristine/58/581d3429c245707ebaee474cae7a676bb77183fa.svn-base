@@ -1,0 +1,4 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#setupNoRandPartB()I
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#setupNoRandPartA()I
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#checkBounds(IILjava/lang/String;)V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#setupNoRandPartC()I

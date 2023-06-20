@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.NewAttributeBands#resolveCallsForElement(ILorg/apache/commons/compress/harmony/pack200/NewAttributeBands$Callable;Lorg/apache/commons/compress/harmony/pack200/NewAttributeBands$LayoutElement;)V
+org.apache.commons.compress.harmony.pack200.NewAttributeBands#resolveCallsForElement(ILorg/apache/commons/compress/harmony/pack200/NewAttributeBands$Callable;Lorg/apache/commons/compress/harmony/pack200/NewAttributeBands$LayoutElement;)V
+==
+setCallable org.apache.commons.compress.harmony.pack200.NewAttributeBands$Call#setCallable(Lorg/apache/commons/compress/harmony/pack200/NewAttributeBands$Callable;)V

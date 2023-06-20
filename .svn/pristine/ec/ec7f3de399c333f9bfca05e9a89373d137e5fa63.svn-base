@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setAttributes(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)V
+java.nio.file.Files#readAttributes(Ljava/nio/file/Path;Ljava/lang/Class;[Ljava/nio/file/LinkOption;)Ljava/nio/file/attribute/BasicFileAttributes;
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setExtraTimeFields()V
+==
+setSize org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setSize(J)V

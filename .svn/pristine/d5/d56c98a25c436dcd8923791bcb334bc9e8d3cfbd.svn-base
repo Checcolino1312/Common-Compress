@@ -1,0 +1,7 @@
+org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField#reparseCentralDirectoryData(ZZZZ)V
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#instance-init#
+java.util.zip.ZipException#instance-init#
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#<init>([BI)V
+org.apache.commons.compress.archivers.zip.ZipLong#<init>([BI)V
+org.apache.commons.compress.archivers.zip.ZipLong#instance-init#
+java.util.zip.ZipException#<init>(Ljava/lang/String;)V

@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestamp#getCentralDirectoryData()[B
+org.apache.commons.compress.archivers.zip.ZipShort#getValue()I
+java.util.Arrays#copyOf([BI)[B
+==
+getCentralDirectoryLength org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestamp#getCentralDirectoryLength()Lorg/apache/commons/compress/archivers/zip/ZipShort;
+getLocalFileDataData org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestamp#getLocalFileDataData()[B

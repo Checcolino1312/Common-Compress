@@ -1,0 +1,18 @@
+
+çorg.apache.commons.compress.archivers.dump.DumpArchiveInputStream#getSummary()Lorg/apache/commons/compress/archivers/dump/DumpArchiveSummary;
+sC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveInputStream.java» »(("1*±
+1
+… …( 
+«
+
+… …(C
+%0=org.apache.commons.compress.archivers.dump.DumpArchiveSummary"__id*n
+
+__unknown_file (R*PC
+Aorg.apache.commons.compress.archivers.dump.DumpArchiveInputStream"	
+summary"S
+
+… …(E
+C
+%0=org.apache.commons.compress.archivers.dump.DumpArchiveSummaryBEC
+Aorg.apache.commons.compress.archivers.dump.DumpArchiveInputStreamH

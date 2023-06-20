@@ -1,0 +1,8 @@
+org.apache.commons.compress.archivers.tar.TarUtils#formatNameBytes(Ljava/lang/String;[BIILorg/apache/commons/compress/archivers/zip/ZipEncoding;)I
+java.lang.String#length()I
+java.nio.Buffer#position()I
+java.lang.String#substring(II)Ljava/lang/String;
+java.nio.Buffer#limit()I
+java.nio.ByteBuffer#array()[B
+java.nio.ByteBuffer#arrayOffset()I
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V

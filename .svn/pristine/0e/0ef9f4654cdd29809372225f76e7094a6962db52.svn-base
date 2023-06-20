@@ -1,0 +1,44 @@
+
+áorg.apache.commons.compress.archivers.arj.ArjArchiveInputStream#canReadEntryData(Lorg/apache/commons/compress/archivers/ArchiveEntry;)Z{
+qC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/arj/ArjArchiveInputStream.javai i(#"startingBlock*ù
+2k" k($≈¬
+k k(1	
+%0int"Forg.apache.commons.compress.archivers.arj.ArjArchiveEntry#getMethod()I*V
+
+__unknown_file (:
+8
+ae2org.apache.commons.compress.archivers.ArchiveEntry2getMethod()A
+?
+k5 k(S	
+%1int"__id*"
+
+__unknown_file (
+""*
+1*…
+startingBlocki# i(:´
+®
+h h(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*V
+
+__unknown_file (:
+8
+ae2org.apache.commons.compress.archivers.ArchiveEntryx
+v
+i7 i(98
+ae2org.apache.commons.compress.archivers.ArchiveEntry"__annotation*"
+
+__unknown_file (
+
+%2*
+2
+1*!
+1j k(T"
+j k(T
+"":D
+i$ i(98
+ae2org.apache.commons.compress.archivers.ArchiveEntryBCA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStreamHP

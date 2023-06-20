@@ -1,0 +1,9 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setExtraTimeFields()V
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#requiresExtraTimeFields()Z
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#canConvertToInfoZipExtendedTimestamp(Ljava/nio/file/attribute/FileTime;Ljava/nio/file/attribute/FileTime;Ljava/nio/file/attribute/FileTime;)Z
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#addNTFSTimestamp(Ljava/nio/file/attribute/FileTime;Ljava/nio/file/attribute/FileTime;Ljava/nio/file/attribute/FileTime;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#internalRemoveExtraField(Lorg/apache/commons/compress/archivers/zip/ZipShort;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#addInfoZipExtendedTimestamp(Ljava/nio/file/attribute/FileTime;Ljava/nio/file/attribute/FileTime;Ljava/nio/file/attribute/FileTime;)V
+==
+setExtra org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setExtra()V
+getExtraField org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getExtraField(Lorg/apache/commons/compress/archivers/zip/ZipShort;)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;

@@ -1,0 +1,119 @@
+
+…org.apache.commons.compress.harmony.unpack200.CpBands#cpClassValue(I)Lorg/apache/commons/compress/harmony/unpack200/bytecode/CPClass;}
+sC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/CpBands.javaj j("3*¯
+2p# p(.ãà
+p# p(9C
+%4=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8"ƒorg.apache.commons.compress.harmony.unpack200.CpBands#cpUTF8Value(I)Lorg/apache/commons/compress/harmony/unpack200/bytecode/CPUTF8;*U
+
+__unknown_file (97
+5org.apache.commons.compress.harmony.unpack200.CpBands*"
+
+__unknown_file (
+""2cpUTF8Value(I)“
+p p("D
+%5>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass">org.apache.commons.compress.harmony.unpack200.bytecode.CPClass‰
+†
+p p(G
+%6"ˆorg.apache.commons.compress.harmony.unpack200.bytecode.CPClass#<init>(Lorg/apache/commons/compress/harmony/unpack200/bytecode/CPUTF8;I)V*b
+
+__unknown_file (F
+D
+%5>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass*a
+
+__unknown_file (E
+C
+%4=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8*"
+
+__unknown_file (
+""Ã
+À
+p p(GJ
+cpString>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass"__id*b
+
+__unknown_file (F
+D
+%5>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass•
+’
+q q(
+%7java.util.Map"__id*k
+
+__unknown_file (O*M7
+5org.apache.commons.compress.harmony.unpack200.CpBands"
+stringsToCPClass´
+±
+q q(2D
+%8>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass"__mapSet*1
+
+__unknown_file (
+
+%7java.util.Map*8
+
+__unknown_file (
+
+stringjava.lang.String*h
+
+__unknown_file (L
+J
+cpString>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass*
+1*Ê
+3k k(%‘
+Ž
+k k(%
+%0java.lang.String[]"__id*b
+
+__unknown_file (F*D7
+5org.apache.commons.compress.harmony.unpack200.CpBands"	
+cpClass
+Š
+k k(,
+%1java.lang.String"
+__arrayGet*6
+
+__unknown_file (
+
+%0java.lang.String[]*"
+
+__unknown_file (
+""d
+b
+k k(-
+stringjava.lang.String"__id*4
+
+__unknown_file (
+
+%1java.lang.String•
+’
+n n(+
+%2java.util.Map"__id*k
+
+__unknown_file (O*M7
+5org.apache.commons.compress.harmony.unpack200.CpBands"
+stringsToCPClassÊ
+Ç
+n n(7D
+%3>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass"__mapGet*1
+
+__unknown_file (
+
+%2java.util.Map*8
+
+__unknown_file (
+
+stringjava.lang.StringÃ
+À
+n n(8J
+cpString>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass"__id*b
+
+__unknown_file (F
+D
+%3>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass*
+2
+1*g
+1s s("X
+s s(L
+J
+cpString>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass: 
+
+__unknown_file (
+""B97
+5org.apache.commons.compress.harmony.unpack200.CpBandsH

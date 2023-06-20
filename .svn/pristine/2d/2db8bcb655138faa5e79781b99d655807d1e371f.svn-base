@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.CompressorStreamFactory#createCompressorInputStream(Ljava/lang/String;Ljava/io/InputStream;)Lorg/apache/commons/compress/compressors/CompressorInputStream;
+==
+createCompressorInputStream org.apache.commons.compress.compressors.CompressorStreamFactory#createCompressorInputStream(Ljava/lang/String;Ljava/io/InputStream;Z)Lorg/apache/commons/compress/compressors/CompressorInputStream;

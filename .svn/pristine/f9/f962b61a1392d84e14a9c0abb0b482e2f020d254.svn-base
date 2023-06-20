@@ -1,0 +1,22 @@
+org.apache.commons.compress.harmony.pack200.CpBands#getConstant(Ljava/lang/Object;)Lorg/apache/commons/compress/harmony/pack200/CPConstant;
+java.lang.Float#floatValue()F
+org.apache.commons.compress.harmony.pack200.CPInt#<init>(I)V
+org.apache.commons.compress.harmony.pack200.CPLong#instance-init#
+java.lang.String#substring(II)Ljava/lang/String;
+org.apache.commons.compress.harmony.pack200.CPString#<init>(Lorg/apache/commons/compress/harmony/pack200/CPUTF8;)V
+org.apache.commons.compress.harmony.pack200.CPDouble#<init>(D)V
+org.apache.commons.compress.harmony.pack200.CPString#instance-init#
+java.lang.Long#longValue()J
+org.apache.commons.compress.harmony.pack200.CPLong#<init>(J)V
+java.lang.String#length()I
+org.objectweb.asm.Type#getClassName()Ljava/lang/String;
+org.apache.commons.compress.harmony.pack200.CPFloat#<init>(F)V
+java.lang.Integer#intValue()I
+org.apache.commons.compress.harmony.pack200.CPFloat#instance-init#
+java.lang.String#endsWith(Ljava/lang/String;)Z
+org.apache.commons.compress.harmony.pack200.CPInt#instance-init#
+org.apache.commons.compress.harmony.pack200.CPDouble#instance-init#
+java.lang.Double#doubleValue()D
+==
+getCPUtf8 org.apache.commons.compress.harmony.pack200.CpBands#getCPUtf8(Ljava/lang/String;)Lorg/apache/commons/compress/harmony/pack200/CPUTF8;
+getCPClass org.apache.commons.compress.harmony.pack200.CpBands#getCPClass(Ljava/lang/String;)Lorg/apache/commons/compress/harmony/pack200/CPClass;

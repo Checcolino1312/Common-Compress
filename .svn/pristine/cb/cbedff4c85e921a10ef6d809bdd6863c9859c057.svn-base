@@ -1,0 +1,7 @@
+org.apache.commons.compress.archivers.ar.ArArchiveOutputStream#putArchiveEntry(Lorg/apache/commons/compress/archivers/ArchiveEntry;)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.ar.ArArchiveOutputStream#writeEntryHeader(Lorg/apache/commons/compress/archivers/ar/ArArchiveEntry;)V
+org.apache.commons.compress.archivers.ar.ArArchiveOutputStream#writeArchiveHeader()V
+==
+closeArchiveEntry org.apache.commons.compress.archivers.ar.ArArchiveOutputStream#closeArchiveEntry()V

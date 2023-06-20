@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.unpack200.CpBands#cpLongValue(I)Lorg/apache/commons/compress/harmony/unpack200/bytecode/CPLong;
+org.apache.commons.compress.harmony.unpack200.bytecode.CPLong#instance-init#
+org.apache.commons.compress.harmony.unpack200.bytecode.CPLong#<init>(Ljava/lang/Long;I)V
+java.lang.Long#valueOf(J)Ljava/lang/Long;

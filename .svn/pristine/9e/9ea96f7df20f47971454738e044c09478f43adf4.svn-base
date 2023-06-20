@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.19" tests="287" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="19"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Workfolder\commons-compress\target\test-classes;C:\Workfolder\commons-compress\target\classes;C:\Users\cicci\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.1\junit-jupiter-params-5.9.1.jar;C:\Users\cicci\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.1\junit-jupiter-api-5.9.1.jar;C:\Users\cicci\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\cicci\.m2\repository\org\junit\platform\junit-platform-commons\1.9.1\junit-platform-commons-1.9.1.jar;C:\Users\cicci\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\cicci\.m2\repository\org\junit\vintage\junit-vintage-engine\5.9.1\junit-vintage-engine-5.9.1.jar;C:\Users\cicci\.m2\repository\org\junit\platform\junit-platform-engine\1.9.1\junit-platform-engine-1.9.1.jar;C:\Users\cicci\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\cicci\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\cicci\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\cicci\.m2\repository\com\github\luben\zstd-jni\1.5.4-2\zstd-jni-1.5.4-2.jar;C:\Users\cicci\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\cicci\.m2\repository\org\tukaani\xz\1.9\xz-1.9.jar;C:\Users\cicci\.m2\repository\org\ow2\asm\asm\9.4\asm-9.4.jar;C:\Users\cicci\.m2\repository\org\mockito\mockito-core\4.11.0\mockito-core-4.11.0.jar;C:\Users\cicci\.m2\repository\net\bytebuddy\byte-buddy\1.12.19\byte-buddy-1.12.19.jar;C:\Users\cicci\.m2\repository\net\bytebuddy\byte-buddy-agent\1.12.19\byte-buddy-agent-1.12.19.jar;C:\Users\cicci\.m2\repository\org\objenesis\objenesis\3.3\objenesis-3.3.jar;C:\Users\cicci\.m2\repository\org\mockito\mockito-junit-jupiter\4.11.0\mockito-junit-jupiter-4.11.0.jar;C:\Users\cicci\.m2\repository\com\github\marschall\memoryfilesystem\2.5.0\memoryfilesystem-2.5.0.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\exam\pax-exam-container-native\4.13.5\pax-exam-container-native-4.13.5.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\exam\pax-exam\4.13.5\pax-exam-4.13.5.jar;C:\Users\cicci\.m2\repository\org\ops4j\base\ops4j-base-exec\1.5.1\ops4j-base-exec-1.5.1.jar;C:\Users\cicci\.m2\repository\org\ops4j\base\ops4j-base-io\1.5.1\ops4j-base-io-1.5.1.jar;C:\Users\cicci\.m2\repository\org\ops4j\base\ops4j-base-store\1.5.1\ops4j-base-store-1.5.1.jar;C:\Users\cicci\.m2\repository\org\ops4j\base\ops4j-base-util-property\1.5.1\ops4j-base-util-property-1.5.1.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\exam\pax-exam-spi\4.13.5\pax-exam-spi-4.13.5.jar;C:\Users\cicci\.m2\repository\org\ops4j\base\ops4j-base-spi\1.5.1\ops4j-base-spi-1.5.1.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\tinybundles\tinybundles\2.1.1\tinybundles-2.1.1.jar;C:\Users\cicci\.m2\repository\biz\aQute\bnd\bndlib\2.4.0\bndlib-2.4.0.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\swissbox\pax-swissbox-core\1.8.4\pax-swissbox-core-1.8.4.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\swissbox\pax-swissbox-lifecycle\1.8.4\pax-swissbox-lifecycle-1.8.4.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\swissbox\pax-swissbox-tracker\1.8.4\pax-swissbox-tracker-1.8.4.jar;C:\Users\cicci\.m2\repository\org\ops4j\base\ops4j-base-lang\1.5.1\ops4j-base-lang-1.5.1.jar;C:\Users\cicci\.m2\repository\org\ops4j\base\ops4j-base-net\1.5.1\ops4j-base-net-1.5.1.jar;C:\Users\cicci\.m2\repository\org\ops4j\base\ops4j-base-monitors\1.5.1\ops4j-base-monitors-1.5.1.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\url\pax-url-link\2.6.8\pax-url-link-2.6.8.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\url\pax-url-commons\2.6.8\pax-url-commons-2.6.8.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\url\pax-url-classpath\2.6.8\pax-url-classpath-2.6.8.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\swissbox\pax-swissbox-property\1.8.4\pax-swissbox-property-1.8.4.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\exam\pax-exam-junit4\4.13.5\pax-exam-junit4-4.13.5.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\exam\pax-exam-cm\4.13.5\pax-exam-cm-4.13.5.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\exam\pax-exam-link-mvn\4.13.5\pax-exam-link-mvn-4.13.5.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\url\pax-url-aether\2.6.8\pax-url-aether-2.6.8.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\url\pax-url-aether-support\2.6.8\pax-url-aether-support-2.6.8.jar;C:\Users\cicci\.m2\repository\org\apache\maven\resolver\maven-resolver-impl\1.3.1\maven-resolver-impl-1.3.1.jar;C:\Users\cicci\.m2\repository\org\apache\maven\resolver\maven-resolver-api\1.3.1\maven-resolver-api-1.3.1.jar;C:\Users\cicci\.m2\repository\org\apache\maven\resolver\maven-resolver-spi\1.3.1\maven-resolver-spi-1.3.1.jar;C:\Users\cicci\.m2\repository\org\apache\maven\resolver\maven-resolver-util\1.3.1\maven-resolver-util-1.3.1.jar;C:\Users\cicci\.m2\repository\org\slf4j\jcl-over-slf4j\1.6.6\jcl-over-slf4j-1.6.6.jar;C:\Users\cicci\.m2\repository\org\apache\felix\org.apache.felix.framework\7.0.5\org.apache.felix.framework-7.0.5.jar;C:\Users\cicci\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.9\animal-sniffer-annotations-1.9.jar;C:\Users\cicci\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\cicci\.m2\repository\org\slf4j\slf4j-api\2.0.7\slf4j-api-2.0.7.jar;C:\Users\cicci\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\cicci\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\cicci\.m2\repository\org\osgi\org.osgi.core\6.0.0\org.osgi.core-6.0.0.jar;C:\Users\cicci\.m2\repository\org\pitest\pitest-junit5-plugin\1.1.2\pitest-junit5-plugin-1.1.2.jar;C:\Users\cicci\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.2\junit-jupiter-engine-5.9.2.jar;C:\Users\cicci\.m2\repository\org\openjdk\jmh\jmh-core\1.35\jmh-core-1.35.jar;C:\Users\cicci\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\cicci\.m2\repository\org\apache\commons\commons-math3\3.2\commons-math3-3.2.jar;C:\Users\cicci\.m2\repository\org\openjdk\jmh\jmh-generator-annprocess\1.35\jmh-generator-annprocess-1.35.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="pax.exam.invoker" value="junit"/>
+    <property name="user.variant" value=""/>
+    <property name="pax.exam.service.timeout" value="10000"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Rome"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="19"/>
+    <property name="pax.exam.karaf.version" value=""/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IT"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-19\bin"/>
+    <property name="sun.java.command" value="C:\Users\cicci\AppData\Local\Temp\surefire6815291806736519319\surefirebooter-20230608110939120_3.jar C:\Users\cicci\AppData\Local\Temp\surefire6815291806736519319 2023-06-08T11-09-38_569-jvmRun1 surefire-20230608110939120_1tmp surefire_0-20230608110939120_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Workfolder\commons-compress\target\test-classes;C:\Workfolder\commons-compress\target\classes;C:\Users\cicci\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.1\junit-jupiter-params-5.9.1.jar;C:\Users\cicci\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.1\junit-jupiter-api-5.9.1.jar;C:\Users\cicci\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\cicci\.m2\repository\org\junit\platform\junit-platform-commons\1.9.1\junit-platform-commons-1.9.1.jar;C:\Users\cicci\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\cicci\.m2\repository\org\junit\vintage\junit-vintage-engine\5.9.1\junit-vintage-engine-5.9.1.jar;C:\Users\cicci\.m2\repository\org\junit\platform\junit-platform-engine\1.9.1\junit-platform-engine-1.9.1.jar;C:\Users\cicci\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\cicci\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\cicci\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\cicci\.m2\repository\com\github\luben\zstd-jni\1.5.4-2\zstd-jni-1.5.4-2.jar;C:\Users\cicci\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\cicci\.m2\repository\org\tukaani\xz\1.9\xz-1.9.jar;C:\Users\cicci\.m2\repository\org\ow2\asm\asm\9.4\asm-9.4.jar;C:\Users\cicci\.m2\repository\org\mockito\mockito-core\4.11.0\mockito-core-4.11.0.jar;C:\Users\cicci\.m2\repository\net\bytebuddy\byte-buddy\1.12.19\byte-buddy-1.12.19.jar;C:\Users\cicci\.m2\repository\net\bytebuddy\byte-buddy-agent\1.12.19\byte-buddy-agent-1.12.19.jar;C:\Users\cicci\.m2\repository\org\objenesis\objenesis\3.3\objenesis-3.3.jar;C:\Users\cicci\.m2\repository\org\mockito\mockito-junit-jupiter\4.11.0\mockito-junit-jupiter-4.11.0.jar;C:\Users\cicci\.m2\repository\com\github\marschall\memoryfilesystem\2.5.0\memoryfilesystem-2.5.0.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\exam\pax-exam-container-native\4.13.5\pax-exam-container-native-4.13.5.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\exam\pax-exam\4.13.5\pax-exam-4.13.5.jar;C:\Users\cicci\.m2\repository\org\ops4j\base\ops4j-base-exec\1.5.1\ops4j-base-exec-1.5.1.jar;C:\Users\cicci\.m2\repository\org\ops4j\base\ops4j-base-io\1.5.1\ops4j-base-io-1.5.1.jar;C:\Users\cicci\.m2\repository\org\ops4j\base\ops4j-base-store\1.5.1\ops4j-base-store-1.5.1.jar;C:\Users\cicci\.m2\repository\org\ops4j\base\ops4j-base-util-property\1.5.1\ops4j-base-util-property-1.5.1.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\exam\pax-exam-spi\4.13.5\pax-exam-spi-4.13.5.jar;C:\Users\cicci\.m2\repository\org\ops4j\base\ops4j-base-spi\1.5.1\ops4j-base-spi-1.5.1.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\tinybundles\tinybundles\2.1.1\tinybundles-2.1.1.jar;C:\Users\cicci\.m2\repository\biz\aQute\bnd\bndlib\2.4.0\bndlib-2.4.0.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\swissbox\pax-swissbox-core\1.8.4\pax-swissbox-core-1.8.4.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\swissbox\pax-swissbox-lifecycle\1.8.4\pax-swissbox-lifecycle-1.8.4.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\swissbox\pax-swissbox-tracker\1.8.4\pax-swissbox-tracker-1.8.4.jar;C:\Users\cicci\.m2\repository\org\ops4j\base\ops4j-base-lang\1.5.1\ops4j-base-lang-1.5.1.jar;C:\Users\cicci\.m2\repository\org\ops4j\base\ops4j-base-net\1.5.1\ops4j-base-net-1.5.1.jar;C:\Users\cicci\.m2\repository\org\ops4j\base\ops4j-base-monitors\1.5.1\ops4j-base-monitors-1.5.1.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\url\pax-url-link\2.6.8\pax-url-link-2.6.8.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\url\pax-url-commons\2.6.8\pax-url-commons-2.6.8.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\url\pax-url-classpath\2.6.8\pax-url-classpath-2.6.8.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\swissbox\pax-swissbox-property\1.8.4\pax-swissbox-property-1.8.4.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\exam\pax-exam-junit4\4.13.5\pax-exam-junit4-4.13.5.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\exam\pax-exam-cm\4.13.5\pax-exam-cm-4.13.5.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\exam\pax-exam-link-mvn\4.13.5\pax-exam-link-mvn-4.13.5.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\url\pax-url-aether\2.6.8\pax-url-aether-2.6.8.jar;C:\Users\cicci\.m2\repository\org\ops4j\pax\url\pax-url-aether-support\2.6.8\pax-url-aether-support-2.6.8.jar;C:\Users\cicci\.m2\repository\org\apache\maven\resolver\maven-resolver-impl\1.3.1\maven-resolver-impl-1.3.1.jar;C:\Users\cicci\.m2\repository\org\apache\maven\resolver\maven-resolver-api\1.3.1\maven-resolver-api-1.3.1.jar;C:\Users\cicci\.m2\repository\org\apache\maven\resolver\maven-resolver-spi\1.3.1\maven-resolver-spi-1.3.1.jar;C:\Users\cicci\.m2\repository\org\apache\maven\resolver\maven-resolver-util\1.3.1\maven-resolver-util-1.3.1.jar;C:\Users\cicci\.m2\repository\org\slf4j\jcl-over-slf4j\1.6.6\jcl-over-slf4j-1.6.6.jar;C:\Users\cicci\.m2\repository\org\apache\felix\org.apache.felix.framework\7.0.5\org.apache.felix.framework-7.0.5.jar;C:\Users\cicci\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.9\animal-sniffer-annotations-1.9.jar;C:\Users\cicci\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar;C:\Users\cicci\.m2\repository\org\slf4j\slf4j-api\2.0.7\slf4j-api-2.0.7.jar;C:\Users\cicci\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\cicci\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\cicci\.m2\repository\org\osgi\org.osgi.core\6.0.0\org.osgi.core-6.0.0.jar;C:\Users\cicci\.m2\repository\org\pitest\pitest-junit5-plugin\1.1.2\pitest-junit5-plugin-1.1.2.jar;C:\Users\cicci\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.2\junit-jupiter-engine-5.9.2.jar;C:\Users\cicci\.m2\repository\org\openjdk\jmh\jmh-core\1.35\jmh-core-1.35.jar;C:\Users\cicci\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\cicci\.m2\repository\org\apache\commons\commons-math3\3.2\commons-math3-3.2.jar;C:\Users\cicci\.m2\repository\org\openjdk\jmh\jmh-generator-annprocess\1.35\jmh-generator-annprocess-1.35.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\cicci"/>
+    <property name="user.language" value="it"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-01-17"/>
+    <property name="commons-compress.version" value="1.23.1-SNAPSHOT"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-19"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Workfolder\commons-compress"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\cicci\AppData\Local\Temp\surefire6815291806736519319\surefirebooter-20230608110939120_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="java.protocol.handler.pkgs" value="org.ops4j.pax.url"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="19.0.2+7-44"/>
+    <property name="user.name" value="cicci"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="org.ops4j.pax.url.mvn.useFallbackRepositories" value="false"/>
+    <property name="localRepository" value="C:\Users\cicci\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\cicci\AppData\Local\Temp\"/>
+    <property name="java.version" value="19.0.2"/>
+    <property name="user.dir" value="C:\Workfolder\commons-compress"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="pax.exam.osgi.unresolved.fail" value="true"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-19\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C;C:\Program Files (x86)\Brackets\command;C:\Program Files (x86)\dotnet\;C:\MinGW\bin;C:\xampp\php;C:\Program Files\Git\cmd;C:\composer;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Java\jdk-19\bin;C:\Program Files (x86)\Apache\apache-maven-3.9.1\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Ruby27-x64\bin;C:\Users\cicci\AppData\Local\Microsoft\WindowsApps;C:\Users\cicci\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\cicci\AppData\Roaming\npm;?C:\ffmpeg\bin;C:\Users\cicci\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\PhpStorm 2022.3.2\bin;;C:\Users\cicci\AppData\Roaming\Composer\vendor\bin;C:\Program Files\Java\jdk-19\bin;C:\Program Files (x86)\Apache\apache-maven-3.9.1\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="19.0.2+7-44"/>
+    <property name="org.ops4j.pax.url.mvn.repositories" value="https://repo.maven.apache.org/maven2"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="63.0"/>
+  </properties>
+  <testcase name="testBCodings(int)[1]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testBCodings(int)[2]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testBCodings(int)[3]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testBCodings(int)[4]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testBCodings(int)[5]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.002"/>
+  <testcase name="testByte1Delta" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testByte1" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testUnsigned5" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.002"/>
+  <testcase name="testCardinality" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testCodecFamilies(BHSDCodec[])[1]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testCodecFamilies(BHSDCodec[])[2]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testCodecFamilies(BHSDCodec[])[3]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testCodecFamilies(BHSDCodec[])[4]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testCodecFamilies(BHSDCodec[])[5]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testCodecFamilies(BHSDCodec[])[6]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testCodecFamilies(BHSDCodec[])[7]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testCodecFamilies(BHSDCodec[])[8]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testCodecFamilies(BHSDCodec[])[9]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testCodecFamilies(BHSDCodec[])[10]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testCodecFamilies(BHSDCodec[])[11]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testCodecFamilies(BHSDCodec[])[12]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testCodecFamilies(BHSDCodec[])[13]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testCodecFamilies(BHSDCodec[])[14]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testCodecFamilies(BHSDCodec[])[15]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testCodecFamilies(BHSDCodec[])[16]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testCodecFamilies(BHSDCodec[])[17]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testCodecFamilies(BHSDCodec[])[18]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testCodecFamilies(BHSDCodec[])[19]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testByte1DeltaException" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testByte1Signed" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[1]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[2]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[3]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[4]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[5]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[6]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[7]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[8]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[9]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[10]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[11]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[12]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[13]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[14]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[15]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[16]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[17]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[18]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[19]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[20]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[21]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[22]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[23]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[24]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[25]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[26]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[27]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[28]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[29]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[30]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[31]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[32]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[33]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[34]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[35]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[36]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[37]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[38]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[39]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[40]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[41]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[42]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[43]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[44]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[45]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[46]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[47]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[48]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[49]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[50]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[51]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[52]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[53]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[54]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[55]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[56]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[57]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[58]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[59]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[60]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[61]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[62]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[63]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[64]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[65]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[66]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[67]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[68]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[69]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[70]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[71]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[72]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[73]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[74]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[75]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[76]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[77]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[78]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[79]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[80]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[81]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[82]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[83]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[84]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[85]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[86]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[87]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[88]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[89]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[90]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[91]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[92]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[93]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[94]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[95]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[96]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[97]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[98]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[99]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[100]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[101]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[102]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[103]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[104]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[105]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[106]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[107]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[108]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[109]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[110]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[111]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[112]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[113]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[114]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[115]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[116]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[117]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[118]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[119]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[120]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[121]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[122]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[123]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[124]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[125]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[126]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[127]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[128]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[129]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[130]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[131]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[132]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[133]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[134]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[135]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[136]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[137]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[138]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[139]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[140]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[141]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[142]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[143]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[144]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[145]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[146]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[147]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[148]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[149]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[150]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[151]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[152]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[153]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[154]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[155]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[156]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[157]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[158]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[159]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[160]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[161]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[162]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[163]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[164]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[165]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[166]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[167]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[168]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[169]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[170]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[171]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[172]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[173]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[174]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[175]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[176]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[177]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[178]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[179]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[180]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[181]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[182]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[183]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[184]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[185]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[186]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[187]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[188]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[189]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[190]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[191]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[192]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[193]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[194]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[195]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[196]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[197]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[198]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[199]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[200]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[201]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[202]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[203]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[204]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[205]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[206]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[207]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[208]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[209]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[210]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[211]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[212]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[213]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[214]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[215]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[216]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[217]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[218]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[219]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[220]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[221]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[222]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[223]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[224]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[225]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[226]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[227]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[228]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[229]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[230]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[231]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[232]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[233]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[234]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[235]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[236]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[237]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[238]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[239]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[240]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[241]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[242]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[243]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[244]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[245]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[246]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[247]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[248]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[249]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[250]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[251]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[252]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+  <testcase name="testInvalidHCodings(int)[253]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[254]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[255]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testInvalidHCodings(int)[256]" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0"/>
+  <testcase name="testCodecToString" classname="org.apache.commons.compress.harmony.pack200.tests.CodecTest" time="0.001"/>
+</testsuite>

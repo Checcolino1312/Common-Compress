@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.zstandard.ZstdCompressorInputStream#<init>(Ljava/io/InputStream;Lcom/github/luben/zstd/BufferPool;)V
+org.apache.commons.compress.utils.CountingInputStream#<init>(Ljava/io/InputStream;)V
+org.apache.commons.compress.utils.CountingInputStream#instance-init#
+com.github.luben.zstd.ZstdInputStream#<init>(Ljava/io/InputStream;Lcom/github/luben/zstd/BufferPool;)V
+com.github.luben.zstd.ZstdInputStream#instance-init#

@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#<init>([BLorg/apache/commons/compress/archivers/zip/ZipEncoding;Z)V
+java.util.Collections#emptyMap()Ljava/util/Map;
+==
+TarArchiveEntry org.apache.commons.compress.archivers.tar.TarArchiveEntry#<init>(Ljava/util/Map;[BLorg/apache/commons/compress/archivers/zip/ZipEncoding;Z)V

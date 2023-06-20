@@ -1,0 +1,1 @@
+org.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader#getHashAlgorithm()Lorg/apache/commons/compress/archivers/zip/PKWareExtraHeader$HashAlgorithm;

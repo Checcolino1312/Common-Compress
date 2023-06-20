@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.bzip2.BlockSort#mainQSort3(Lorg/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream$Data;IIII)V
+org.apache.commons.compress.compressors.bzip2.BlockSort#med3(III)I
+org.apache.commons.compress.compressors.bzip2.BlockSort#vswap([IIII)V
+org.apache.commons.compress.compressors.bzip2.BlockSort#mainSimpleSort(Lorg/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream$Data;IIII)Z
+java.lang.Math#min(II)I

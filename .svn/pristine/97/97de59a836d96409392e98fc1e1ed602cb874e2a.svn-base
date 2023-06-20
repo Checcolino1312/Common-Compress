@@ -1,0 +1,5 @@
+org.apache.commons.compress.harmony.pack200.Archive#estimateSize(Lorg/apache/commons/compress/harmony/pack200/Archive$PackingFile;)J
+java.lang.String#length()I
+java.lang.String#startsWith(Ljava/lang/String;)Z
+==
+getName org.apache.commons.compress.harmony.pack200.Archive$PackingFile#getName()Ljava/lang/String;

@@ -1,0 +1,44 @@
+
+`org.apache.commons.compress.harmony.pack200.MetadataBandGroup#tagListToArray(Ljava/util/List;)[I‡
+{C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/pack200/MetadataBandGroup.java¹ ¹( "1*å
+1
+º º(¦£
+
+º º(
+%0java.util.stream.Stream"6java.util.Collection#stream()Ljava/util/stream/Stream;*4
+
+__unknown_file (
+
+listjava.util.List2stream()»
+¸
+
+º& º(6&
+%1 java.util.function.ToIntFunction"__declareFunction*o
+
+__unknown_file (SQ
+O__sonar_lambda_40$org.apache.commons.compress.harmony.pack200.MetadataBandGroupÄÁ
+
+º º(7 
+%3java.util.stream.IntStream"`java.util.stream.Stream#mapToInt(Ljava/util/function/ToIntFunction;)Ljava/util/stream/IntStream;*;
+
+__unknown_file (
+
+%0java.util.stream.Stream*D
+
+__unknown_file ((
+&
+%1 java.util.function.ToIntFunction2,mapToInt(Ljava/util/function/ToIntFunction;)Œ
+
+º º(A
+%4int[]"&java.util.stream.IntStream#toArray()[I*>
+
+__unknown_file ("
+ 
+%3java.util.stream.IntStream2	toArray()"
+
+º º(B
+"":$
+
+¹! ¹(8
+listjava.util.ListBA?
+=org.apache.commons.compress.harmony.pack200.MetadataBandGroup

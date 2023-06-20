@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.examples.Expander#expand(Ljava/lang/String;Ljava/nio/channels/SeekableByteChannel;Ljava/io/File;Lorg/apache/commons/compress/archivers/examples/CloseableConsumer;)V
+org.apache.commons.compress.archivers.examples.Expander#toPath(Ljava/io/File;)Ljava/nio/file/Path;
+==
+expand org.apache.commons.compress.archivers.examples.Expander#expand(Ljava/lang/String;Ljava/nio/channels/SeekableByteChannel;Ljava/nio/file/Path;Lorg/apache/commons/compress/archivers/examples/CloseableConsumer;)V

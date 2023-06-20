@@ -1,0 +1,52 @@
+
+N__sonar_lambda_4$org.apache.commons.compress.archivers.sevenz.SevenZOutputFile{
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZOutputFile.javaã% ã(X"startingBlock*˜
+startingBlock
+ã% ã(Xõ
+ò
+
+__unknown_file (V
+SevenZOutputFile.this=org.apache.commons.compress.archivers.sevenz.SevenZOutputFile"__id*x
+
+__unknown_file (\*Z?
+=org.apache.commons.compress.archivers.sevenz.SevenZOutputFile"
+SevenZOutputFile.this*
+1*Õ
+1
+ã* ã(Cì
+é
+
+ã* ã(C?
+%248org.apache.commons.compress.utils.CountingOutputStream[]"__id*“
+
+__unknown_file (w*u
+V
+SevenZOutputFile.this=org.apache.commons.compress.archivers.sevenz.SevenZOutputFile"
+additionalCountingStreamsÝ
+Ú
+
+ã* ã(F=
+%256org.apache.commons.compress.utils.CountingOutputStream"
+__arrayGet*]
+
+__unknown_file (A
+?
+%248org.apache.commons.compress.utils.CountingOutputStream[]*"
+
+__unknown_file (
+""×Ô
+
+ã* ã(X
+%26long"Iorg.apache.commons.compress.utils.CountingOutputStream#getBytesWritten()J*[
+
+__unknown_file (?
+=
+%256org.apache.commons.compress.utils.CountingOutputStream2getBytesWritten()"
+
+ã* ã(X
+
+%26long: 
+
+__unknown_file (
+""B(&
+$java.util.function.IntToLongFunction

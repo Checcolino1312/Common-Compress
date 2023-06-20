@@ -1,0 +1,62 @@
+
+Vorg.apache.commons.compress.compressors.pack200.Pack200CompressorInputStream#read([B)IŠ
+~C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/pack200/Pack200CompressorInputStream.javaˆ ˆ("startingBlock*ð
+startingBlock
+ˆ ˆ(#
+}
+
+‡ ‡(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*)
+
+__unknown_file (
+
+bbyte[]M
+K
+
+ˆ! ˆ("
+bbyte[]"__annotation*"
+
+__unknown_file (
+
+%3*
+1*¤
+1
+‰ ‰(Ù
+Ö
+
+‰ ‰(B
+%0<org.apache.commons.compress.compressors.pack200.StreamBridge"__id*~
+
+__unknown_file (b*`N
+Lorg.apache.commons.compress.compressors.pack200.Pack200CompressorInputStream"
+streamBridgeöó
+
+‰ ‰(&
+%1java.io.InputStream"\org.apache.commons.compress.compressors.pack200.StreamBridge#getInput()Ljava/io/InputStream;*`
+
+__unknown_file (D
+B
+%0<org.apache.commons.compress.compressors.pack200.StreamBridge2
+getInput()§¤
+
+‰ ‰(.	
+%2int"java.io.InputStream#read([B)I*7
+
+__unknown_file (
+
+%1java.io.InputStream*)
+
+__unknown_file (
+
+bbyte[]2read([B)"
+
+‰ ‰(/
+"":
+
+ˆ ˆ("
+bbyte[]BPN
+Lorg.apache.commons.compress.compressors.pack200.Pack200CompressorInputStreamHP

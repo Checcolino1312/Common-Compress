@@ -1,0 +1,3 @@
+org.apache.commons.compress.utils.ByteUtils#toLittleEndian(Lorg/apache/commons/compress/utils/ByteUtils$ByteConsumer;JI)V
+==
+accept org.apache.commons.compress.utils.ByteUtils$ByteConsumer#accept(I)V

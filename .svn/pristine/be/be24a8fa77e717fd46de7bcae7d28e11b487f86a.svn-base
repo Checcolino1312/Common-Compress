@@ -1,0 +1,29 @@
+
+Morg.apache.commons.compress.archivers.arj.ArjArchiveInputStream#matches([BI)Z‡
+}C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/arj/ArjArchiveInputStream.java9 9(!"2"4"1*U
+2< <(A
+?
+<) <(4	
+%1int"__id*"
+
+__unknown_file (
+""*
+1*X
+4; ;(A
+?
+;) ;(4	
+%0int"__id*"
+
+__unknown_file (
+""*
+2
+1*!
+1: <(5"
+: <(5
+"":
+9" 9(9
+	signaturebyte[]: 
+
+__unknown_file (
+""BC"A
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStreamHP

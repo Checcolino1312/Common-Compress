@@ -1,0 +1,71 @@
+
+s
+java:S1192¦"PDefine a constant instead of duplicating this literal "Not implemented" 3 times.(ο™ϊηόÿÿÿÿ8Ό–’­‰1
+{	java:S135Ί"YReduce the total number of break and continue statements in this loop to use at most one.(ΖƒσΎψÿÿÿÿ8”Κα‡1
+q
+java:S3824Ω"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ούΒμωÿÿÿÿ8…›Κα‡1
+[
+java:S3400v"9Remove this method and declare a constant for this value.(ώοΙ™ώÿÿÿÿ8›Κα‡1
+\
+java:S3400"9Remove this method and declare a constant for this value.(π£――ώÿÿÿÿ8›Κα‡1
+W
+java:S3400“"9Remove this method and declare a constant for this value.(ΫχΌ΅8›Κα‡1
+<
+java:S3457―"2nd argument is not used.(Η¥ϊÿÿÿÿ8›Κα‡1
+S
+java:S1133±"5Do not forget to remove this deprecated code someday.(¬Τχ8›Κα‡1
+S
+java:S1133ϋ"5Do not forget to remove this deprecated code someday.(«¬πΛ8’›Κα‡1
+S
+java:S1133Υ"5Do not forget to remove this deprecated code someday.(«ƒ½8“›Κα‡1
+X	java:S125ξ"<This block of commented-out lines of code should be removed.(„·—f8›Κα‡1
+U
+java:S1135ν"2Complete the task associated to this TODO comment.(Ι¤‰Ηόÿÿÿÿ8›Κα‡1
+u
+java:S3776£"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(›‘­ÿÿÿÿÿ8›Κα‡1
+N
+java:S1172•"0Remove this unused method parameter "verifyCrc".(­ΫΊ¦8 ›Κα‡1
+Y
+java:S1117"<Rename "archive" which hides the field declared at line 266.(ήγΌ)8 ›Κα‡1
+g
+java:S1134λ"DTake the required action to fix the issue indicated by this comment.(Ά—Πÿÿÿÿÿ8Ά›Κα‡1
+g
+java:S1134•"DTake the required action to fix the issue indicated by this comment.(λΰασώÿÿÿÿ8¤›Κα‡1
+u
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 68 to the 15 allowed.(€Ι•ÿÿÿÿÿ8ÿ¬ΰ1
+p
+java:S3776Λ	"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(΄ΧΩ8­›Κα‡1
+Z
+java:S1854°
+"7Remove this useless assignment to local variable "nid".(‹¬«Κωÿÿÿÿ8―›Κα‡1
+Y	java:S125¦
+"<This block of commented-out lines of code should be removed.(µµΖ 8°›Κα‡1
+Z
+java:S1854ω
+"7Remove this useless assignment to local variable "nid".(‹¬«Κωÿÿÿÿ8²›Κα‡1
+Z
+java:S1854¨"7Remove this useless assignment to local variable "nid".(‹¬«Κωÿÿÿÿ8΄›Κα‡1
+p
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(Ζ‡Υα8µ›Κα‡1
+Z
+java:S1854ω"7Remove this useless assignment to local variable "nid".(‹¬«Κωÿÿÿÿ8µ›Κα‡1
+Z
+java:S1854€"7Remove this useless assignment to local variable "nid".(μ­ ±ύÿÿÿÿ8·›Κα‡1
+Z
+java:S1854‰"7Remove this useless assignment to local variable "nid".(‹¬«Κωÿÿÿÿ8·›Κα‡1
+Z
+java:S1854"7Remove this useless assignment to local variable "nid".(‹¬«Κωÿÿÿÿ8·›Κα‡1
+Y	java:S125Δ"<This block of commented-out lines of code should be removed.(µµΖ 8Ί›Κα‡1
+J
+java:S1905ψ"'Remove this unnecessary cast to "long".(Θ¥Τψÿÿÿÿ8Γ›Κα‡1
+D
+java:S1905θ"'Remove this unnecessary cast to "long".(τΎ³8Ζ›Κα‡1
+J
+java:S1905"'Remove this unnecessary cast to "long".(„«΄ψÿÿÿÿ8Θ›Κα‡1
+X	java:S125Ζ"<This block of commented-out lines of code should be removed.(ÿΓ½8Ι›Κα‡1
+Y
+java:S1128 "7Remove this unused import 'java.nio.channels.Channels'.( Ω™ύÿÿÿÿ8ϋΕ ­‰1
+R
+java:S1128-"0Remove this unused import 'java.util.zip.CRC32'.(τ½ωÿÿÿÿ8ϋΕ ­‰1
+_
+java:S1128."=Remove this unused import 'java.util.zip.CheckedInputStream'.(ΉΦΉϋÿÿÿÿ8ϋΕ ­‰1

@@ -1,0 +1,10 @@
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#normalizeFileName(Ljava/lang/String;Z)Ljava/lang/String;
+java.lang.String#toLowerCase(Ljava/util/Locale;)Ljava/lang/String;
+java.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;
+java.lang.String#length()I
+java.lang.String#substring(I)Ljava/lang/String;
+java.lang.String#replace(CC)Ljava/lang/String;
+java.lang.String#charAt(I)C
+java.lang.String#contains(Ljava/lang/CharSequence;)Z
+java.lang.String#indexOf(I)I
+java.lang.String#startsWith(Ljava/lang/String;)Z

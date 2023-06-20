@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#writeLocalFileHeader(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#writeLocalFileHeader(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;Z)V

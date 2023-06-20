@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry#equals(Ljava/lang/Object;)Z
+java.lang.Object#getClass()Ljava/lang/Class;
+java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z
+org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry#equalSevenZMethods(Ljava/lang/Iterable;Ljava/lang/Iterable;)Z

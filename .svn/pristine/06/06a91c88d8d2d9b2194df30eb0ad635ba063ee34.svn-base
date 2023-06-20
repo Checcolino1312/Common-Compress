@@ -1,0 +1,7 @@
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#writeOldBinaryEntry(Lorg/apache/commons/compress/archivers/cpio/CpioArchiveEntry;Z)V
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#encode(Ljava/lang/String;)[B
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#writeBinaryLong(JIZ)V
+java.lang.String#equals(Ljava/lang/Object;)Z
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#pad(I)V
+java.lang.Math#max(JJ)J
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#writeCString([B)V

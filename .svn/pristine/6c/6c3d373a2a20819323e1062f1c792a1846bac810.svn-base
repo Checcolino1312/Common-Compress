@@ -1,0 +1,45 @@
+
+Corg.apache.commons.compress.archivers.zip.AsiExtraField#getMode(I)I
+uC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/AsiExtraField.javaÓ Ó("5*å
+3
+× ×(ÎË
+
+× ×( 
+%2boolean"Forg.apache.commons.compress.archivers.zip.AsiExtraField#isDirectory()Z*W
+
+__unknown_file (;9
+7org.apache.commons.compress.archivers.zip.AsiExtraField2isDirectory()*
+1*£
+5
+Ô Ô(C
+A
+
+Ô Ô(	
+%0int"__id*"
+
+__unknown_file (
+""ÄÁ
+
+Õ Õ(
+%1boolean"Aorg.apache.commons.compress.archivers.zip.AsiExtraField#isLink()Z*W
+
+__unknown_file (;9
+7org.apache.commons.compress.archivers.zip.AsiExtraField2isLink()*
+3
+1*j
+1
+Ú Ú(C
+A
+
+Ú Ú('	
+%3int"__id*"
+
+__unknown_file (
+"""
+
+Ú Ú()
+"": 
+
+__unknown_file (
+""B;9
+7org.apache.commons.compress.archivers.zip.AsiExtraFieldP

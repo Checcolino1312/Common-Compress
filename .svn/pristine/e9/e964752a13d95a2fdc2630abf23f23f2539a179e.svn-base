@@ -1,0 +1,55 @@
+
+@org.apache.commons.compress.utils.BitInputStream#ensureCache(I)Zl
+bC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/utils/BitInputStream.javan n("7"1*X
+3w w(A
+?
+w w((	
+%4int"__id*"
+
+__unknown_file (
+""*
+7
+1*û
+5t t(Ž
+‹
+t t(
+%2java.nio.ByteOrder"__id*_
+
+__unknown_file (C*A2
+0org.apache.commons.compress.utils.BitInputStream"
+	byteOrderP
+N
+t t(4
+%3java.nio.ByteOrder"__id*"
+
+__unknown_file (
+""*	
+3
+7
+1*!
+6r r("
+r r(
+""*ÿ
+7p" p($ª
+§
+p" p($;
+%05org.apache.commons.compress.utils.CountingInputStream"__id*X
+
+__unknown_file (<*:2
+0org.apache.commons.compress.utils.BitInputStream"
+inº·
+p" p(+	
+%1int"=org.apache.commons.compress.utils.CountingInputStream#read()I*Y
+
+__unknown_file (=
+;
+%05org.apache.commons.compress.utils.CountingInputStream2read()*
+5
+6*!
+1| |("
+| |(
+"": 
+
+__unknown_file (
+""B42
+0org.apache.commons.compress.utils.BitInputStreamP

@@ -1,0 +1,4 @@
+org.apache.commons.compress.utils.FixedLengthBlockOutputStream#flushBlock()V
+java.nio.Buffer#position()I
+org.apache.commons.compress.utils.FixedLengthBlockOutputStream#writeBlock()V
+org.apache.commons.compress.utils.FixedLengthBlockOutputStream#padBlock()V

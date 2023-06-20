@@ -1,0 +1,53 @@
+
+Worg.apache.commons.compress.archivers.zip.InflaterInputStreamWithStatistics#read([BII)I‡
+}C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/InflaterInputStreamWithStatistics.javaK K("startingBlock*ó
+3L L(Þ
+Û
+L L(1	
+%0int"-java.util.zip.InflaterInputStream#read([BII)I*"
+
+__unknown_file (
+""*)
+
+__unknown_file (
+
+bbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+1*ê
+startingBlockK K(A}
+{
+J J(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*)
+
+__unknown_file (
+
+bbyte[]K
+I
+K! K("
+bbyte[]"__annotation*"
+
+__unknown_file (
+
+%1*
+3*!
+1P P("
+P P(
+"":
+K K(#
+bbyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BOM
+Korg.apache.commons.compress.archivers.zip.InflaterInputStreamWithStatisticsHP

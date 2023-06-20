@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.AsiExtraField#setDirectory(Z)V
+==
+getMode org.apache.commons.compress.archivers.zip.AsiExtraField#getMode(I)I

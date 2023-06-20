@@ -1,0 +1,70 @@
+
+{	java:S135Ö"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8Ÿ¢ğúƒ1
+{	java:S135å"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8Ãíğúƒ1
+{	java:S135µ"YReduce the total number of break and continue statements in this loop to use at most one.(Ò˜¤ëøÿÿÿÿ8Åíğúƒ1
+{	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ã½ôúƒ1
+v	java:S135Ÿ"YReduce the total number of break and continue statements in this loop to use at most one.(Ö€²Ä8ã½ôúƒ1
+v	java:S135ˆ"YReduce the total number of break and continue statements in this loop to use at most one.(çŒß¶8ä½ôúƒ1
+z	java:S127¿"XRefactor the code in order to not assign to this loop counter from within the loop body.(ğœœÚúÿÿÿÿ8ï Âúƒ1
+z	java:S127Ä"XRefactor the code in order to not assign to this loop counter from within the loop body.(ğœœÚúÿÿÿÿ8ï Âúƒ1
+z	java:S127Ê"XRefactor the code in order to not assign to this loop counter from within the loop body.(ğœœÚúÿÿÿÿ8ï Âúƒ1
+z	java:S127ö"XRefactor the code in order to not assign to this loop counter from within the loop body.(²áÖÃúÿÿÿÿ8ï Âúƒ1
+z	java:S127É"XRefactor the code in order to not assign to this loop counter from within the loop body.(õõ¦øÿÿÿÿ8ï Âúƒ1
+s	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õø¨ëùÿÿÿÿ8ï Âúƒ1
+n	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÛÖë8ï Âúƒ1
+m	java:S117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â’“e8ğ Âúƒ1
+n	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éŞñÇ8ğ Âúƒ1
+u	java:S116¥"SRename this field "stack_ll" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªª¤·üÿÿÿÿ8°ªÂúƒ1
+p	java:S116§"SRename this field "stack_hh" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ø‹×8°ªÂúƒ1
+p	java:S116â"SRename this field "stack_dd" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÈÂĞ8°ªÂúƒ1
+‚	java:S116ä"`Rename this field "mainSort_runningOrder" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ã‘øÿÿÿÿ8°ªÂúƒ1
+z	java:S116æ"XRename this field "mainSort_copy" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÛÙ‹şÿÿÿÿ8°ªÂúƒ1
+x	java:S116è"[Rename this field "mainSort_bigDone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»šá£8°ªÂúƒ1
+a
+java:S3358"DExtract this nested ternary operation into an independent statement.(Ş©8»ªÂúƒ1
+a
+java:S3358"DExtract this nested ternary operation into an independent statement.(Ş©8»ªÂúƒ1
+a
+java:S3358"DExtract this nested ternary operation into an independent statement.(Ş©8»ªÂúƒ1
+a
+java:S3358"DExtract this nested ternary operation into an independent statement.(Ş©8»ªÂúƒ1
+^	java:S125Í"<This block of commented-out lines of code should be removed.(öŒ“Åùÿÿÿÿ8¼ªÂúƒ1
+^	java:S125”"<This block of commented-out lines of code should be removed.(…çÇªıÿÿÿÿ8¾ªÂúƒ1
+p
+java:S3776«"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(ÿ—¢ó8²Åôúƒ1
+_
+java:S1659¯"ADeclare "unLo" and all following declarations on a separate line.(£•ÒĞ8µÅôúƒ1
+u
+java:S3776Ş"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(É¼÷±ûÿÿÿÿ8ÆªÂúƒ1
+a
+java:S1659à">Declare "i" and all following declarations on a separate line.(õø¨ëùÿÿÿÿ8ÈªÂúƒ1
+\
+java:S1117ß"9Rename "ftab" which hides the field declared at line 234.(êŸ«ƒüÿÿÿÿ8ÈªÂúƒ1
+X
+java:S1117ã";Rename "eclass" which hides the field declared at line 243.(—Ûî8ÈªÂúƒ1
+u
+java:S3776é"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(ŠÂûüÿÿÿÿ8ÎªÂúƒ1
+[
+java:S1117ì"=Rename "stack_ll" which hides the field declared at line 165.(ëÛÖë8ÏªÂúƒ1
+Z
+java:S1117í"=Rename "stack_hh" which hides the field declared at line 167.(â’“e8ÏªÂúƒ1
+[
+java:S1117î"=Rename "stack_dd" which hides the field declared at line 226.(éŞñÇ8ÏªÂúƒ1
+q
+java:S3776Ø"SRefactor this method to reduce its Cognitive Complexity from 452 to the 15 allowed.(ÎÄ´£8ÑªÂúƒ1
+[
+java:S1117æ"=Rename "quadrant" which hides the field declared at line 241.(Ìô³û8ÔªÂúƒ1
+^
+java:S1119ğ";Refactor the code to remove this label and the need for it.(­æšèıÿÿÿÿ8ÔªÂúƒ1
+Y	java:S125û"<This block of commented-out lines of code should be removed.(úªßá8ÕªÂúƒ1
+Y
+java:S1119ˆ";Refactor the code to remove this label and the need for it.(çŒß¶8ÕªÂúƒ1
+Y
+java:S1119Ÿ";Refactor the code to remove this label and the need for it.(Ö€²Ä8ÕªÂúƒ1
+u
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(¢åüèûÿÿÿÿ8ØªÂúƒ1
+W
+java:S1117‘"9Rename "ftab" which hides the field declared at line 234.(–¡å¨8ÙªÂúƒ1
+[
+java:S1117”"=Rename "quadrant" which hides the field declared at line 241.(Ìô³û8ÚªÂúƒ1
+^	java:S125•"<This block of commented-out lines of code should be removed.(ºƒâÍüÿÿÿÿ8ÜªÂúƒ1

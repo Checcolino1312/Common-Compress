@@ -1,0 +1,3 @@
+org.apache.commons.compress.utils.SeekableInMemoryByteChannel#read(Ljava/nio/ByteBuffer;)I
+org.apache.commons.compress.utils.SeekableInMemoryByteChannel#ensureOpen()V
+java.nio.Buffer#remaining()I

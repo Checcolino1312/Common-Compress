@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveEntry#getSize()J
+==
+isDirectory org.apache.commons.compress.archivers.dump.DumpArchiveEntry#isDirectory()Z

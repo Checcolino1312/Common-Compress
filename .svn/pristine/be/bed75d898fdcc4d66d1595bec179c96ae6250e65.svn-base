@@ -1,0 +1,3 @@
+org.apache.commons.compress.utils.Lists#newArrayList(Ljava/util/Iterator;)Ljava/util/ArrayList;
+org.apache.commons.compress.utils.Iterators#addAll(Ljava/util/Collection;Ljava/util/Iterator;)Z
+org.apache.commons.compress.utils.Lists#newArrayList()Ljava/util/ArrayList;

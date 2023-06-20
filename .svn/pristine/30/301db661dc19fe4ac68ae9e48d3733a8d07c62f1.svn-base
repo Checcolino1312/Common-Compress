@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.lzma.LZMAUtils#setCacheLZMAAvailablity(Z)V
+org.apache.commons.compress.compressors.lzma.LZMAUtils#internalIsLZMACompressionAvailable()Z

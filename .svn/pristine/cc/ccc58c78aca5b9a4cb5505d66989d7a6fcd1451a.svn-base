@@ -1,0 +1,8 @@
+org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestamp#parseFromLocalFileData([BII)V
+java.util.zip.ZipException#instance-init#
+org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestamp#reset()V
+org.apache.commons.compress.archivers.zip.ZipLong#<init>([BI)V
+org.apache.commons.compress.archivers.zip.ZipLong#instance-init#
+java.util.zip.ZipException#<init>(Ljava/lang/String;)V
+==
+setFlags org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestamp#setFlags(B)V

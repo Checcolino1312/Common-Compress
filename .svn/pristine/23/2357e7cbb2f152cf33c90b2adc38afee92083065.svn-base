@@ -1,0 +1,4 @@
+org.apache.commons.compress.compressors.snappy.SnappyCompressorOutputStream#writeLiteralBlockWithSize(IIILorg/apache/commons/compress/compressors/lz77support/LZ77Compressor$LiteralBlock;)V
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor$LiteralBlock#getOffset()I
+org.apache.commons.compress.compressors.snappy.SnappyCompressorOutputStream#writeLittleEndian(II)V
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor$LiteralBlock#getData()[B

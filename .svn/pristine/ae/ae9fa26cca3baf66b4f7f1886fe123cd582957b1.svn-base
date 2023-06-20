@@ -1,0 +1,38 @@
+
+{org.apache.commons.compress.archivers.ArchiveStreamFactory#findAvailableArchiveOutputStreamProviders()Ljava/util/SortedMap;„
+xC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.javaÝ; Ý(d"1*’
+1
+Þ Þ({
+y
+
+Þj ã(	$
+%0java.security.PrivilegedAction"__declareFunction*2
+
+__unknown_file (
+__sonar_lambda_59$Ä
+Á
+
+__unknown_file (C
+$
+%0java.security.PrivilegedAction"
+ArchiveStreamFactory.this"__id*Z
+
+__unknown_file (>"<
+:org.apache.commons.compress.archivers.ArchiveStreamFactory
+
+
+Þ ã(
+
+%12java.util.SortedMap"_java.security.AccessController#doPrivileged(Ljava/security/PrivilegedAction;)Ljava/lang/Object;*>
+
+__unknown_file ("" 
+java.security.AccessController*B
+
+__unknown_file (&
+$
+%0java.security.PrivilegedAction"*
+
+Þ ã(
+
+%12java.util.SortedMapB>"<
+:org.apache.commons.compress.archivers.ArchiveStreamFactoryH

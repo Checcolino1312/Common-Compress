@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.xz.XZCompressorInputStream#<init>(Ljava/io/InputStream;)V
+==
+XZCompressorInputStream org.apache.commons.compress.compressors.xz.XZCompressorInputStream#<init>(Ljava/io/InputStream;Z)V

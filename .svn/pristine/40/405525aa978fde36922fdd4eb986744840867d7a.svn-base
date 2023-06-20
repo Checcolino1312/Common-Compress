@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.sevenz.DeltaDecoder#getOptionsAsProperties(Ljava/lang/Object;)[B
+org.apache.commons.compress.archivers.sevenz.AbstractCoder#toInt(Ljava/lang/Object;I)I

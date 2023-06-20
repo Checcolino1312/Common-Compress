@@ -1,0 +1,8 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#clone()Ljava/lang/Object;
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getAllExtraFieldsNoCopy()[Lorg/apache/commons/compress/archivers/zip/ZipExtraField;
+==
+getExternalAttributes org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getExternalAttributes()J
+setExtraFields org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setExtraFields([Lorg/apache/commons/compress/archivers/zip/ZipExtraField;)V
+setExternalAttributes org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setExternalAttributes(J)V
+setInternalAttributes org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setInternalAttributes(I)V
+getInternalAttributes org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getInternalAttributes()I

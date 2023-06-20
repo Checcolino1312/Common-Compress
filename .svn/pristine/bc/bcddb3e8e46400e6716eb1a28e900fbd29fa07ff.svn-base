@@ -1,0 +1,62 @@
+
+I__sonar_lambda_71$org.apache.commons.compress.archivers.examples.Expanderu
+iC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/examples/Expander.javaÉ É(J"startingBlock*ã
+2
+É/ É(<ÈÅ
+
+É/ É(C?
+%59org.apache.commons.compress.archivers.tar.TarArchiveEntry"+java.util.Iterator#next()Ljava/lang/Object;*A
+
+__unknown_file (%
+#
+entryIteratorjava.util.Iterator2next()µ
+²
+
+É/ É(C?
+%49org.apache.commons.compress.archivers.tar.TarArchiveEntry"__id*]
+
+__unknown_file (A
+?
+%59org.apache.commons.compress.archivers.tar.TarArchiveEntry"O
+
+É É(JA
+?
+%49org.apache.commons.compress.archivers.tar.TarArchiveEntry*¥
+3
+É É("‹ˆ
+
+É É(,
+%3boolean"java.util.Iterator#hasNext()Z*A
+
+__unknown_file (%
+#
+entryIteratorjava.util.Iterator2	hasNext()*
+2
+1*×
+startingBlock
+É É(J´
+±
+
+__unknown_file (#
+entryIteratorjava.util.Iterator"__id*j
+
+__unknown_file (N*L9
+7org.apache.commons.compress.archivers.examples.Expander"
+entryIterator*
+3*é
+1
+ÉF É(J†
+ƒ
+
+ÉF É(J?
+%49org.apache.commons.compress.archivers.tar.TarArchiveEntry"__id*.
+
+__unknown_file (
+
+%6
+<nulltype>"O
+
+É É(JA
+?
+%49org.apache.commons.compress.archivers.tar.TarArchiveEntryBPN
+Lorg.apache.commons.compress.archivers.examples.Expander$ArchiveEntrySupplier

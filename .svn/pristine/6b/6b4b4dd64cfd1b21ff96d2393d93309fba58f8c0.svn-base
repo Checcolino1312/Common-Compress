@@ -1,0 +1,15 @@
+
+Yorg.apache.commons.compress.changes.ChangeSetResults#getAddedFromStream()Ljava/util/List;p
+fC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/changes/ChangeSetResults.javaF F(*"1*È
+1G G(”
+‘
+G G(
+%0java.util.List"__id*i
+
+__unknown_file (M*K6
+4org.apache.commons.compress.changes.ChangeSetResults"
+addedFromStream""
+G G(
+
+%0java.util.ListB86
+4org.apache.commons.compress.changes.ChangeSetResultsH

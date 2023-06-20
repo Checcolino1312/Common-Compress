@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#getEntries()Ljava/lang/Iterable;
+java.util.ArrayList#instance-init#
+java.util.ArrayList#<init>(Ljava/util/Collection;)V
+java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;

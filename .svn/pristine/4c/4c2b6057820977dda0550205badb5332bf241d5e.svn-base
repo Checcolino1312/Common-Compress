@@ -1,0 +1,60 @@
+
+Torg.apache.commons.compress.archivers.zip.X7875_NewUnix#toString()Ljava/lang/String;u
+iC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/X7875_NewUnix.javaö ö("1*î
+1
+÷ ÷(-“
+
+
+÷0 ÷(3
+%0java.math.BigInteger"__id*`
+
+__unknown_file (D*B9
+7org.apache.commons.compress.archivers.zip.X7875_NewUnix"
+uid
+Š
+
+÷ ÷(3
+%1java.lang.String"__concat*.
+
+÷ ÷(- 
+0x7875 Zip Extra Field: UID=**
+
+÷0 ÷(3
+
+%0java.math.BigIntegerq
+o
+
+÷ ÷(=
+%2java.lang.String"__concat*&
+
+÷ ÷(3
+
+%1java.lang.String*
+
+÷6 ÷(=	
+ GID=“
+
+
+÷@ ÷(C
+%3java.math.BigInteger"__id*`
+
+__unknown_file (D*B9
+7org.apache.commons.compress.archivers.zip.X7875_NewUnix"
+gid…
+‚
+
+÷ ÷(C
+%4java.lang.String"__concat*&
+
+÷ ÷(=
+
+%2java.lang.String**
+
+÷@ ÷(C
+
+%3java.math.BigInteger"&
+
+÷ ÷(D
+
+%4java.lang.StringB;9
+7org.apache.commons.compress.archivers.zip.X7875_NewUnixH

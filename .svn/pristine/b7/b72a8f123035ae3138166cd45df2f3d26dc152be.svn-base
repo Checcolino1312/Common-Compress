@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder#available()I
+==
+available org.apache.commons.compress.compressors.deflate64.HuffmanDecoder$DecoderState#available()I

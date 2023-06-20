@@ -1,0 +1,114 @@
+
+‰org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#canWriteEntryData(Lorg/apache/commons/compress/archivers/ArchiveEntry;)ZŠ
+~C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.javaÓ Ó($"startingBlock*%
+2
+Ö Ø(3"
+
+Ö Ø(3
+""*í
+3
+Ø Ø(Ö
+Ó
+
+Ø Ø(2
+%6boolean"‚org.apache.commons.compress.archivers.zip.ZipUtil#canHandleEntryData(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z*Q
+
+__unknown_file (5"3
+1org.apache.commons.compress.archivers.zip.ZipUtil*^
+
+__unknown_file (B
+@
+zae9org.apache.commons.compress.archivers.zip.ZipArchiveEntry*
+2*Ï
+startingBlock
+Ó$ Ó(;­
+ª
+
+Ò Ò(
+%7"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*V
+
+__unknown_file (:
+8
+ae2org.apache.commons.compress.archivers.ArchiveEntryz
+x
+
+Ó8 Ó(:8
+ae2org.apache.commons.compress.archivers.ArchiveEntry"__annotation*"
+
+__unknown_file (
+
+%7*
+6
+1*Ÿ
+5
+× ×(ÏÌ
+
+× ×("	
+%3int"Forg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getMethod()I*^
+
+__unknown_file (B
+@
+zae9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getMethod()s
+q
+
+×& ×(;9
+%43org.apache.commons.compress.archivers.zip.ZipMethod"__id*"
+
+__unknown_file (
+""¾»
+
+×& ×(E	
+%5int">org.apache.commons.compress.archivers.zip.ZipMethod#getCode()I*W
+
+__unknown_file (;
+9
+%43org.apache.commons.compress.archivers.zip.ZipMethod2	getCode()*
+2
+3*Ô
+6
+Õ: Õ(<¯
+¬
+
+Õ Õ(=@
+zae9org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*V
+
+__unknown_file (:
+8
+ae2org.apache.commons.compress.archivers.ArchiveEntryÏÌ
+
+Ö Ö("	
+%0int"Forg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getMethod()I*^
+
+__unknown_file (B
+@
+zae9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getMethod()s
+q
+
+Ö& Ö(99
+%13org.apache.commons.compress.archivers.zip.ZipMethod"__id*"
+
+__unknown_file (
+""¾»
+
+Ö& Ö(C	
+%2int">org.apache.commons.compress.archivers.zip.ZipMethod#getCode()I*W
+
+__unknown_file (;
+9
+%13org.apache.commons.compress.archivers.zip.ZipMethod2	getCode()*	
+2
+3
+5*%
+1
+Ú Ú("
+
+Ú Ú(
+"":F
+
+Ó% Ó(:8
+ae2org.apache.commons.compress.archivers.ArchiveEntryBDB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStreamHP

@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.deflate64.Deflate64CompressorInputStream#closeDecoder()V
+org.apache.commons.compress.utils.IOUtils#closeQuietly(Ljava/io/Closeable;)V

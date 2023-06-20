@@ -1,0 +1,53 @@
+
+àorg.apache.commons.compress.harmony.unpack200.CpBands#cpFieldValue(I)Lorg/apache/commons/compress/harmony/unpack200/bytecode/CPFieldRef;s
+gC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/CpBands.javaç ç(""1*º
+1
+é é(*ÈÊ
+
+é é(CD
+%0>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass"Öorg.apache.commons.compress.harmony.unpack200.CpBands#cpClassValue(I)Lorg/apache/commons/compress/harmony/unpack200/bytecode/CPClass;*U
+
+__unknown_file (97
+5org.apache.commons.compress.harmony.unpack200.CpBands*"
+
+__unknown_file (
+""2cpClassValue(I)Å˛
+
+éE é(uJ
+%1Dorg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType"ëorg.apache.commons.compress.harmony.unpack200.CpBands#cpNameAndTypeValue(I)Lorg/apache/commons/compress/harmony/unpack200/bytecode/CPNameAndType;*U
+
+__unknown_file (97
+5org.apache.commons.compress.harmony.unpack200.CpBands*"
+
+__unknown_file (
+""2cpNameAndTypeValue(I)õò
+
+é é(G
+%2Aorg.apache.commons.compress.harmony.unpack200.bytecode.CPFieldRef"Aorg.apache.commons.compress.harmony.unpack200.bytecode.CPFieldRef√
+¿
+
+é è( 
+%3"“org.apache.commons.compress.harmony.unpack200.bytecode.CPFieldRef#<init>(Lorg/apache/commons/compress/harmony/unpack200/bytecode/CPClass;Lorg/apache/commons/compress/harmony/unpack200/bytecode/CPNameAndType;I)V*e
+
+__unknown_file (I
+G
+%2Aorg.apache.commons.compress.harmony.unpack200.bytecode.CPFieldRef*b
+
+__unknown_file (F
+D
+%0>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass*h
+
+__unknown_file (L
+J
+%1Dorg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType*"
+
+__unknown_file (
+"""W
+
+é è(!I
+G
+%2Aorg.apache.commons.compress.harmony.unpack200.bytecode.CPFieldRef: 
+
+__unknown_file (
+""B97
+5org.apache.commons.compress.harmony.unpack200.CpBandsH

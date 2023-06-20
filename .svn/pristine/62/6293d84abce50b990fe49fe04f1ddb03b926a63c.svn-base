@@ -1,0 +1,4 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#writeRun()V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#endBlock()V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#initBlock()V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#writeRun()V

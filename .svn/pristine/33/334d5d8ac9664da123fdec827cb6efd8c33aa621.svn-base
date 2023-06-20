@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#<init>(Ljava/io/InputStream;)V
+==
+CpioArchiveInputStream org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#<init>(Ljava/io/InputStream;ILjava/lang/String;)V

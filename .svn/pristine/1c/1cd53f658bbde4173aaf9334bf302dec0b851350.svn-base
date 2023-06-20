@@ -1,0 +1,15 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#read([BII)I
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#supportsCompressedSizeFor(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z
+org.apache.commons.compress.archivers.zip.ZipUtil#checkRequestedFeatures(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)V
+org.apache.commons.compress.archivers.zip.ZipMethod#getCode()I
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.zip.ZipMethod#getMethodByCode(I)Lorg/apache/commons/compress/archivers/zip/ZipMethod;
+java.lang.ArrayIndexOutOfBoundsException#<init>()V
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#supportsDataDescriptorFor(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z
+java.lang.ArrayIndexOutOfBoundsException#instance-init#
+org.apache.commons.compress.archivers.zip.UnsupportedZipFeatureException#<init>(Lorg/apache/commons/compress/archivers/zip/UnsupportedZipFeatureException$Feature;Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)V
+org.apache.commons.compress.archivers.zip.UnsupportedZipFeatureException#instance-init#
+org.apache.commons.compress.archivers.zip.UnsupportedZipFeatureException#<init>(Lorg/apache/commons/compress/archivers/zip/ZipMethod;Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#readStored([BII)I
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#readDeflated([BII)I

@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField#getLocalFileDataData()[B
+org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField#addSizes([B)I
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#

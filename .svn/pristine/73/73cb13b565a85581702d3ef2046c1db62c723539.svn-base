@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ZipUtil#supportsMethodOf(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z
+org.apache.commons.compress.archivers.zip.ZipMethod#getCode()I

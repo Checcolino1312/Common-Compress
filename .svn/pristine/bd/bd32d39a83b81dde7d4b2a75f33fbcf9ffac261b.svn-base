@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#isXstar(Ljava/util/Map;[B)Z
+org.apache.commons.compress.utils.ArchiveUtils#matchAsciiBuffer(Ljava/lang/String;[BII)Z
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#isInvalidPrefix([B)Z
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#isInvalidXtarTime([BII)Z
+java.lang.String#equals(Ljava/lang/Object;)Z

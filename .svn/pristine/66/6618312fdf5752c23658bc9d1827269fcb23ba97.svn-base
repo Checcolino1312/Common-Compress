@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#assertFitsIntoNonNegativeInt(Ljava/lang/String;J)I
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;

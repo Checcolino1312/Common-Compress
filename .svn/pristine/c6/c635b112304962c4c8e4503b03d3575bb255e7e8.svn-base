@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm#createNoArgumentForm(ILjava/lang/String;)Lorg/apache/commons/compress/harmony/unpack200/bytecode/forms/ByteCodeForm;
+org.apache.commons.compress.harmony.unpack200.bytecode.forms.NoArgumentForm#instance-init#
+org.apache.commons.compress.harmony.unpack200.bytecode.forms.NoArgumentForm#<init>(ILjava/lang/String;)V

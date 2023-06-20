@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.AsiExtraField#setLinkedFile(Ljava/lang/String;)V
+==
+getMode org.apache.commons.compress.archivers.zip.AsiExtraField#getMode(I)I

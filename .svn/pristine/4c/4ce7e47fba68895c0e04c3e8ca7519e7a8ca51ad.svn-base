@@ -1,0 +1,7 @@
+org.apache.commons.compress.compressors.deflate.DeflateCompressorInputStream#<init>(Ljava/io/InputStream;Lorg/apache/commons/compress/compressors/deflate/DeflateParameters;)V
+java.util.zip.Inflater#instance-init#
+org.apache.commons.compress.utils.CountingInputStream#<init>(Ljava/io/InputStream;)V
+java.util.zip.InflaterInputStream#<init>(Ljava/io/InputStream;Ljava/util/zip/Inflater;)V
+java.util.zip.InflaterInputStream#instance-init#
+org.apache.commons.compress.utils.CountingInputStream#instance-init#
+java.util.zip.Inflater#<init>(Z)V

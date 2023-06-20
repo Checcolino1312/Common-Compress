@@ -1,0 +1,8 @@
+org.apache.commons.compress.archivers.ar.ArArchiveInputStream#readGNUStringTable([BII)Lorg/apache/commons/compress/archivers/ar/ArArchiveEntry;
+org.apache.commons.compress.utils.IOUtils#readRange(Ljava/io/InputStream;I)[B
+org.apache.commons.compress.archivers.ar.ArArchiveEntry#<init>(Ljava/lang/String;J)V
+org.apache.commons.compress.archivers.ar.ArArchiveEntry#instance-init#
+org.apache.commons.compress.archivers.ar.ArArchiveInputStream#asInt([BII)I
+org.apache.commons.compress.archivers.ar.ArArchiveInputStream#trackReadBytes(J)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V

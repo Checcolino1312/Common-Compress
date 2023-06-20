@@ -1,0 +1,60 @@
+
+Zorg.apache.commons.compress.harmony.unpack200.AttributeLayout#toString()Ljava/lang/String;{
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/AttributeLayout.javaö ö("1*©
+1
+÷ ÷(R
+P
+
+÷ ÷(
+%0java.lang.String[]"__id*"
+
+__unknown_file (
+""
+Œ
+
+÷ ÷($
+%1java.lang.String"
+__arrayGet*6
+
+__unknown_file (
+
+%0java.lang.String[]*"
+
+__unknown_file (
+""n
+l
+
+÷ ÷(+
+%2java.lang.String"__concat*&
+
+÷ ÷($
+
+%1java.lang.String*
+
+÷' ÷(+
+: –
+“
+
+÷. ÷(2
+%3java.lang.String"__id*g
+
+__unknown_file (K*I?
+=org.apache.commons.compress.harmony.unpack200.AttributeLayout"
+name€
+~
+
+÷ ÷(2
+%4java.lang.String"__concat*&
+
+÷ ÷(+
+
+%2java.lang.String*&
+
+÷. ÷(2
+
+%3java.lang.String"&
+
+÷ ÷(3
+
+%4java.lang.StringBA?
+=org.apache.commons.compress.harmony.unpack200.AttributeLayoutH

@@ -1,0 +1,277 @@
+
+aorg.apache.commons.compress.archivers.zip.ZipEightByteInteger#getValue([BI)Ljava/math/BigInteger;{
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipEightByteInteger.javaÜ Ü(%"4*Ç
+2
+ë/ ë(2l
+j
+
+ë/ ë(2
+%26java.math.BigInteger"__id*9
+
+__unknown_file (
+
+valjava.math.BigInteger*
+1*ã
+3
+ë ë(l
+j
+
+ë ë(
+%26java.math.BigInteger"__id*9
+
+__unknown_file (
+
+valjava.math.BigIntegerD
+B
+
+ë ë(+
+
+%28int"__id*"
+
+__unknown_file (
+""“œ
+
+ë ë(,
+%27java.math.BigInteger"4java.math.BigInteger#setBit(I)Ljava/math/BigInteger;*9
+
+__unknown_file (
+
+valjava.math.BigInteger*(
+
+__unknown_file (
+
+
+%28int2	setBit(I)l
+j
+
+ë ë(,
+%26java.math.BigInteger"__id*9
+
+__unknown_file (
+
+%27java.math.BigInteger*
+1*ò
+4
+á á("C
+A
+
+á, á(2	
+%0int"__id*"
+
+__unknown_file (
+""C
+A
+
+á7 á(C	
+%1int"__id*"
+
+__unknown_file (
+""D
+B
+
+áG á(R
+
+%2long"__id*"
+
+__unknown_file (
+""C
+A
+
+à( à(.	
+%3int"__id*"
+
+__unknown_file (
+""C
+A
+
+à3 à(?	
+%4int"__id*"
+
+__unknown_file (
+""D
+B
+
+àC à(N
+
+%5long"__id*"
+
+__unknown_file (
+""C
+A
+
+â( â(.	
+%6int"__id*"
+
+__unknown_file (
+""C
+A
+
+â3 â(?	
+%7int"__id*"
+
+__unknown_file (
+""D
+B
+
+âC â(N
+
+%8long"__id*"
+
+__unknown_file (
+""C
+A
+
+ä( ä(.	
+%9int"__id*"
+
+__unknown_file (
+""D
+B
+
+ä3 ä(?
+
+%10int"__id*"
+
+__unknown_file (
+""E
+C
+
+äC ä(N
+%11long"__id*"
+
+__unknown_file (
+""D
+B
+
+ã( ã(.
+
+%12int"__id*"
+
+__unknown_file (
+""D
+B
+
+ã3 ã(?
+
+%13int"__id*"
+
+__unknown_file (
+""E
+C
+
+ãC ã(N
+%14long"__id*"
+
+__unknown_file (
+""D
+B
+
+å( å(.
+
+%15int"__id*"
+
+__unknown_file (
+""D
+B
+
+å3 å(?
+
+%16int"__id*"
+
+__unknown_file (
+""D
+B
+
+åC å(N
+
+%17int"__id*"
+
+__unknown_file (
+""D
+B
+
+ç( ç(.
+
+%18int"__id*"
+
+__unknown_file (
+""D
+B
+
+ç3 ç(?
+
+%19int"__id*"
+
+__unknown_file (
+""D
+B
+
+çC ç(N
+
+%20int"__id*"
+
+__unknown_file (
+""D
+B
+
+é) é(2
+
+%21int"__id*"
+
+__unknown_file (
+""Ω
+∫
+
+è è(8
+%22java.math.BigInteger"5java.math.BigInteger#valueOf(J)Ljava/math/BigInteger;*4
+
+__unknown_file ("
+java.math.BigInteger*"
+
+__unknown_file (
+""l
+j
+
+è è(9
+valjava.math.BigInteger"__id*9
+
+__unknown_file (
+
+%22java.math.BigIntegerD
+B
+
+ê ê(%
+
+%23int"__id*"
+
+__unknown_file (
+""E
+C
+
+ê) ê(5
+%24byte"__id*"
+
+__unknown_file (
+""E
+C
+
+ê: ê(F
+%25byte"__id*"
+
+__unknown_file (
+""*
+2
+3*<
+1
+ê ë(3"+
+
+ê ë(3
+
+%26java.math.BigInteger:
+
+Ü& Ü(9
+bytesbyte[]: 
+
+__unknown_file (
+""BA"?
+=org.apache.commons.compress.archivers.zip.ZipEightByteIntegerH

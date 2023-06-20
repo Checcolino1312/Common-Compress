@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#isDescendent(Lorg/apache/commons/compress/archivers/tar/TarArchiveEntry;)Z
+java.lang.String#startsWith(Ljava/lang/String;)Z
+==
+getName org.apache.commons.compress.archivers.tar.TarArchiveEntry#getName()Ljava/lang/String;

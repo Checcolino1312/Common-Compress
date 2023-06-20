@@ -1,0 +1,28 @@
+
+borg.apache.commons.compress.archivers.arj.ArjArchiveInputStream#getArchiveName()Ljava/lang/String;{
+qC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/arj/ArjArchiveInputStream.java ( "1*ê
+1
+Ä Ä(¬
+ø
+
+Ä Ä(:
+%04org.apache.commons.compress.archivers.arj.MainHeader"__id*o
+
+__unknown_file (S*QA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStream"
+
+mainHeaderë
+é
+
+Ä Ä(
+%1java.lang.String"__id*b
+
+__unknown_file (F*D
+:
+%04org.apache.commons.compress.archivers.arj.MainHeader"
+name"&
+
+Ä Ä(
+
+%1java.lang.StringBCA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStreamH

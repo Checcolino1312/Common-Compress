@@ -1,0 +1,103 @@
+
+Iorg.apache.commons.compress.utils.BitInputStream#processBitsGreater57(I)Jz
+nC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/utils/BitInputStream.javaã ã(%"6*§
+2
+ú ú(F
+D
+
+ùC ù(H
+%7long[]"__id*"
+
+__unknown_file (
+""F
+D
+
+ü" ü('
+%8long[]"__id*"
+
+__unknown_file (
+""*
+1*§
+3
+ò# ò(+F
+D
+
+ò. ò(3
+%5long[]"__id*"
+
+__unknown_file (
+""F
+D
+
+ö7 ö(<
+%6long[]"__id*"
+
+__unknown_file (
+""*
+1*˛
+4
+ó ó(ê
+ç
+
+ó ó(
+%3java.nio.ByteOrder"__id*_
+
+__unknown_file (C*A2
+0org.apache.commons.compress.utils.BitInputStream"
+	byteOrderR
+P
+
+ó ó(0
+%4java.nio.ByteOrder"__id*"
+
+__unknown_file (
+""*
+2
+3*%
+5
+ï ï("
+
+ï ï(
+""* 
+6
+å å(C
+A
+
+í í( 	
+%0int"__id*"
+
+__unknown_file (
+""¨
+©
+
+ì ì( ;
+%15org.apache.commons.compress.utils.CountingInputStream"__id*X
+
+__unknown_file (<*:2
+0org.apache.commons.compress.utils.BitInputStream"
+inºπ
+
+ì ì('	
+%2int"=org.apache.commons.compress.utils.CountingInputStream#read()I*Y
+
+__unknown_file (=
+;
+%15org.apache.commons.compress.utils.CountingInputStream2read()*
+4
+5*m
+1
+° °(F
+D
+
+° °($
+%9long[]"__id*"
+
+__unknown_file (
+"""
+
+§ §(
+"": 
+
+__unknown_file (
+""B42
+0org.apache.commons.compress.utils.BitInputStreamP

@@ -1,0 +1,97 @@
+
+ßorg.apache.commons.compress.harmony.unpack200.AttributeLayoutMap#getAttributeLayout(Ljava/lang/String;I)Lorg/apache/commons/compress/harmony/unpack200/AttributeLayout;~
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/AttributeLayoutMap.javaª ª(-"6*‡
+2
+Ω Ω()Å
+
+
+Ω Ω()G
+layout=org.apache.commons.compress.harmony.unpack200.AttributeLayout"__id*"
+
+__unknown_file (
+""¬
+ø
+
+Ω Ω()G
+layout=org.apache.commons.compress.harmony.unpack200.AttributeLayout"
+__arrayGet*8
+
+__unknown_file (
+
+%1java.util.Collection*"
+
+__unknown_file (
+""*
+4
+1*h
+3
+ø ø("W
+
+ø ø(I
+G
+layout=org.apache.commons.compress.harmony.unpack200.AttributeLayout*Á
+4
+æ æ(ÙÒ
+
+æ æ( 
+%2java.lang.String"Yorg.apache.commons.compress.harmony.unpack200.AttributeLayout#getName()Ljava/lang/String;*e
+
+__unknown_file (I
+G
+layout=org.apache.commons.compress.harmony.unpack200.AttributeLayout2	getName()÷”
+
+æ æ(-
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*4
+
+__unknown_file (
+
+%2java.lang.String*6
+
+__unknown_file (
+
+namejava.lang.String2equals(Ljava/lang/Object;)*
+2
+3*Æ
+5
+Ω, Ω(/óî
+
+Ω, Ω(8
+%1java.util.Collection",java.util.Map#values()Ljava/util/Collection;*2
+
+__unknown_file (
+
+mapjava.util.Map2values()*
+2*˛
+6
+º2 º(;à
+Ö
+
+º2 º(D
+%0java.util.Map"\org.apache.commons.compress.harmony.unpack200.AttributeLayoutMap#getLayout(I)Ljava/util/Map;*`
+
+__unknown_file (DB
+@org.apache.commons.compress.harmony.unpack200.AttributeLayoutMap*"
+
+__unknown_file (
+""]
+[
+
+º º(E
+mapjava.util.Map"__id*1
+
+__unknown_file (
+
+%0java.util.Map*
+5*%
+1
+¬ ¬("
+
+¬ ¬(
+"":&
+
+ª. ª(@
+namejava.lang.String: 
+
+__unknown_file (
+""BDB
+@org.apache.commons.compress.harmony.unpack200.AttributeLayoutMapH

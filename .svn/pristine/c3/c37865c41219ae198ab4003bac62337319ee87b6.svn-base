@@ -1,0 +1,52 @@
+
+Ãorg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#isZip64Required(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;Lorg/apache/commons/compress/archivers/zip/Zip64Mode;)Z~
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.javaù	 ù	(#"5*
+2
+û	 û	(%÷
+ô
+
+û	 û	(-
+%2boolean"‘org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#isTooLargeForZip32(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z*`
+
+__unknown_file (DB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream*a
+
+__unknown_file (E
+C
+entry19org.apache.commons.compress.archivers.zip.ZipArchiveEntry*
+1*Œ
+4
+ú	4 ú	(As
+q
+
+ú	E ú	(f9
+%13org.apache.commons.compress.archivers.zip.Zip64Mode"__id*"
+
+__unknown_file (
+""*
+2
+1*
+5
+ú	 ú	(s
+q
+
+ú	  ú	(09
+%03org.apache.commons.compress.archivers.zip.Zip64Mode"__id*"
+
+__unknown_file (
+""*	
+2
+4
+1*%
+1
+ú	 û	(."
+
+ú	 û	(.
+"":Q
+
+ù	$ ù	(AC
+entry19org.apache.commons.compress.archivers.zip.ZipArchiveEntry:R
+
+ù	B ù	(_D
+requestedMode3org.apache.commons.compress.archivers.zip.Zip64ModeBDB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStreamP

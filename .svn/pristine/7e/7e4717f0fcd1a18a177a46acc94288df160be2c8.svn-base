@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.dump.TapeInputStream#readRecord()[B
+org.apache.commons.compress.archivers.dump.ShortFileException#<init>()V
+org.apache.commons.compress.archivers.dump.ShortFileException#instance-init#
+==
+read org.apache.commons.compress.archivers.dump.TapeInputStream#read([BII)I

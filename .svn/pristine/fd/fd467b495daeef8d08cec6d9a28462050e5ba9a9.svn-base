@@ -1,0 +1,3 @@
+org.apache.commons.compress.utils.ServiceLoaderIterator#<init>(Ljava/lang/Class;Ljava/lang/ClassLoader;)V
+java.util.ServiceLoader#load(Ljava/lang/Class;Ljava/lang/ClassLoader;)Ljava/util/ServiceLoader;
+java.util.ServiceLoader#iterator()Ljava/util/Iterator;

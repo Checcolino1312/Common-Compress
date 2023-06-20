@@ -1,0 +1,35 @@
+
+¡org.apache.commons.compress.harmony.unpack200.bytecode.forms.ThisFieldRefForm#getOffset(Lorg/apache/commons/compress/harmony/unpack200/bytecode/OperandManager;)I–
+‹C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/forms/ThisFieldRefForm.java' '("startingBlock*†
+startingBlock' '(@Ê
+Ç
+& &(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*u
+
+__unknown_file (Y
+W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager˜
+•
+'1 '(?W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager"__annotation*"
+
+__unknown_file (
+
+%1*
+1*¢
+1( ((þû
+( ((0	
+%0int"Yorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager#nextThisFieldRef()I*u
+
+__unknown_file (Y
+W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager2nextThisFieldRef()"
+( ((1
+"":c
+' '(?W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManagerBQO
+Morg.apache.commons.compress.harmony.unpack200.bytecode.forms.ThisFieldRefFormP

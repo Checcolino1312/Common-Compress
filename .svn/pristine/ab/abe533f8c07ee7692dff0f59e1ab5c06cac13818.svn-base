@@ -1,0 +1,13 @@
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#compress()V
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#insertString(I)I
+org.apache.commons.compress.compressors.lz77support.Parameters#getMinBackReferenceLength()I
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#flushLiteralBlock()V
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#insertStringsInMatch(I)V
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#catchUpMissedInserts()V
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#longestMatch(I)I
+org.apache.commons.compress.compressors.lz77support.Parameters#getLazyMatching()Z
+org.apache.commons.compress.compressors.lz77support.Parameters#getMaxLiteralLength()I
+org.apache.commons.compress.compressors.lz77support.Parameters#getMaxOffset()I
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#flushBackReference(I)V
+org.apache.commons.compress.compressors.lz77support.Parameters#getLazyMatchingThreshold()I
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#longestMatchForNextPosition(I)I

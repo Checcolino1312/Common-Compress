@@ -1,0 +1,50 @@
+
+†org.apache.commons.compress.archivers.sevenz.Coders$CopyDecoder#encode(Ljava/io/OutputStream;Ljava/lang/Object;)Ljava/io/OutputStream;o
+eC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/Coders.javab b("startingBlock*ú
+startingBlockb b(IŽ
+‹
+a a(
+%0"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*9
+
+__unknown_file (
+
+outjava.io.OutputStream[
+Y
+b/ b(2
+outjava.io.OutputStream"__annotation*"
+
+__unknown_file (
+
+%0Ž
+‹
+a a(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*9
+
+__unknown_file (
+
+optionsjava.lang.Object[
+Y
+bA b(H
+optionsjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%1*
+1*8
+1c c(")
+c c(
+
+outjava.io.OutputStream:'
+b b(3
+outjava.io.OutputStream:'
+b4 b(H
+optionsjava.lang.ObjectBCA
+?org.apache.commons.compress.archivers.sevenz.Coders$CopyDecoder

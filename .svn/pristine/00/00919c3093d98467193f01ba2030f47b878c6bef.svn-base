@@ -1,0 +1,3 @@
+org.apache.commons.compress.utils.CountingOutputStream#write([BII)V
+==
+count org.apache.commons.compress.utils.CountingOutputStream#count(J)V

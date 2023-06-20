@@ -1,0 +1,21 @@
+
+Qorg.apache.commons.compress.changes.ChangeSetPerformer$ZipFileIterator#hasNext()Zr
+hC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/changes/ChangeSetPerformer.java_ _("1*ã
+1` `(¨
+¥
+` `(
+%0java.util.Enumeration"__id*v
+
+__unknown_file (Z*XH
+Forg.apache.commons.compress.changes.ChangeSetPerformer$ZipFileIterator"
+
+nestedEnum”‘
+` `(/
+%1boolean"(java.util.Enumeration#hasMoreElements()Z*9
+
+__unknown_file (
+
+%0java.util.Enumeration2hasMoreElements()"
+` `(0
+""BJH
+Forg.apache.commons.compress.changes.ChangeSetPerformer$ZipFileIteratorHP

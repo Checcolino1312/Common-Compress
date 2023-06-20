@@ -1,0 +1,6 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.ClassConstantPool#sortClassPool()V
+java.util.HashMap#<init>(I)V
+java.lang.Integer#valueOf(I)Ljava/lang/Integer;
+java.util.ArrayList#instance-init#
+java.util.ArrayList#<init>(I)V
+java.util.HashMap#instance-init#

@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveEntry#toString()Ljava/lang/String;
+==
+getName org.apache.commons.compress.archivers.dump.DumpArchiveEntry#getName()Ljava/lang/String;

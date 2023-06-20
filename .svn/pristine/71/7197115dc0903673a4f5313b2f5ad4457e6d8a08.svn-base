@@ -1,0 +1,54 @@
+
+Corg.apache.commons.compress.archivers.zip.X7875_NewUnix#hashCode()Iu
+iC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/X7875_NewUnix.javaö ö("1*ó
+1
+õ õ(ì
+ê
+
+ü! ü($
+%0java.math.BigInteger"__id*`
+
+__unknown_file (D*B9
+7org.apache.commons.compress.archivers.zip.X7875_NewUnix"
+uidÅ
+
+ü! ü(/	
+%1int" java.math.BigInteger#hashCode()I*8
+
+__unknown_file (
+
+%0java.math.BigInteger2
+hashCode()ª
+∏
+
+ü ü(4	
+%2int"!java.lang.Integer#rotateLeft(II)I*1
+
+__unknown_file ("
+java.lang.Integer*'
+
+__unknown_file (
+	
+%1int* 
+
+__unknown_file (2ì
+ê
+
+† †(
+%3java.math.BigInteger"__id*`
+
+__unknown_file (D*B9
+7org.apache.commons.compress.archivers.zip.X7875_NewUnix"
+gidÅ
+
+† †(	
+%4int" java.math.BigInteger#hashCode()I*8
+
+__unknown_file (
+
+%3java.math.BigInteger2
+hashCode()"
+
+° °(
+""B;9
+7org.apache.commons.compress.archivers.zip.X7875_NewUnixHP

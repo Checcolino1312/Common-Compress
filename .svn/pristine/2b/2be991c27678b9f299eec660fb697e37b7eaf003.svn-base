@@ -1,0 +1,12 @@
+org.apache.commons.compress.harmony.pack200.PackingUtils#getPackingFileListFromJar(Ljava/util/jar/JarInputStream;Z)Ljava/util/List;
+java.util.ArrayList#<init>()V
+org.apache.commons.compress.harmony.pack200.Archive$PackingFile#<init>(Ljava/lang/String;[BJ)V
+org.apache.commons.compress.harmony.pack200.Archive$PackingFile#<init>([BLjava/util/jar/JarEntry;)V
+java.util.ArrayList#instance-init#
+java.io.ByteArrayOutputStream#<init>()V
+org.apache.commons.compress.harmony.pack200.PackingUtils#reorderPackingFiles(Ljava/util/List;)V
+java.io.ByteArrayOutputStream#instance-init#
+org.apache.commons.compress.harmony.pack200.Archive$PackingFile#instance-init#
+org.apache.commons.compress.harmony.pack200.PackingUtils#readJarEntry(Ljava/util/jar/JarEntry;Ljava/io/InputStream;)[B
+java.io.BufferedInputStream#instance-init#
+java.io.BufferedInputStream#<init>(Ljava/io/InputStream;)V

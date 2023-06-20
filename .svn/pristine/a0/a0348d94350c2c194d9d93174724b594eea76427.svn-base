@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#handleSizesAndCrc(JJLorg/apache/commons/compress/archivers/zip/Zip64Mode;)Z
+java.util.zip.ZipException#instance-init#
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#checkIfNeedsZip64(Lorg/apache/commons/compress/archivers/zip/Zip64Mode;)Z
+java.lang.Long#toHexString(J)Ljava/lang/String;
+java.util.zip.ZipException#<init>(Ljava/lang/String;)V

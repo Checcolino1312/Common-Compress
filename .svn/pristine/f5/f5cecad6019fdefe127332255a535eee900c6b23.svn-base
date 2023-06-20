@@ -1,0 +1,73 @@
+
+Horg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getUnixMode()Iw
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.javað ð("4*š
+2
+ò ò(-ãà
+
+ò ò(/
+
+%4long"Rorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getExternalAttributes()J*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getExternalAttributes()C
+A
+
+ò3 ò(>	
+%5int"__id*"
+
+__unknown_file (
+""C
+A
+
+òB ò(L	
+%6int"__id*"
+
+__unknown_file (
+""I
+G
+
+ò ò(L	
+%1int"__id*(
+
+__unknown_file (
+
+
+%3longI
+G
+
+ò ò(M	
+%1int"__id*(
+
+__unknown_file (
+
+
+%3long*
+1*^
+3
+ñ+ ñ(,H
+F
+
+ñ+ ñ(,	
+%1int"__id*'
+
+__unknown_file (
+	
+%2int*
+1*\
+4
+ñ ñ(C
+A
+
+ñ ñ((	
+%0int"__id*"
+
+__unknown_file (
+""*
+2
+3*%
+1
+ñ ò(N"
+
+ñ ò(N
+""B=;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntryHP

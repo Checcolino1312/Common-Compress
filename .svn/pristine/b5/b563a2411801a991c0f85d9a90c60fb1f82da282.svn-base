@@ -1,0 +1,38 @@
+
+Zorg.apache.commons.compress.archivers.sevenz.BoundedSeekableByteChannelInputStream#read()Iè
+ÑC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/BoundedSeekableByteChannelInputStream.java/ /("4"1*»
+26 6(Æ
+´
+6 6(
+%1java.nio.ByteBuffer"__id*~
+
+__unknown_file (b*`T
+Rorg.apache.commons.compress.archivers.sevenz.BoundedSeekableByteChannelInputStream"
+buffertr
+6 6(
+
+%2byte"java.nio.ByteBuffer#get()B*7
+
+__unknown_file (
+
+%1java.nio.ByteBuffer2get()"
+6 6('
+""*!
+34 4("
+4 4(
+""*£
+41 1(ã
+à
+2 2($	
+%0int"[org.apache.commons.compress.archivers.sevenz.BoundedSeekableByteChannelInputStream#read(I)I*r
+
+__unknown_file (VT
+Rorg.apache.commons.compress.archivers.sevenz.BoundedSeekableByteChannelInputStream* 
+
+__unknown_file (2*
+2
+3*!
+18 8("
+8 8(
+""BVT
+Rorg.apache.commons.compress.archivers.sevenz.BoundedSeekableByteChannelInputStreamHP

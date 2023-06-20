@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.Archive#doZeroEffortPack()V
+org.apache.commons.compress.harmony.pack200.PackingUtils#copyThroughJar(Ljava/util/jar/JarFile;Ljava/io/OutputStream;)V
+org.apache.commons.compress.harmony.pack200.PackingUtils#log(Ljava/lang/String;)V
+org.apache.commons.compress.harmony.pack200.PackingUtils#copyThroughJar(Ljava/util/jar/JarInputStream;Ljava/io/OutputStream;)V

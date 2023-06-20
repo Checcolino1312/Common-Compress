@@ -1,0 +1,40 @@
+
+Zorg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#setupRandPartC()I†
+zC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream.javaÊ Ê("2"1*Ñ
+2
+Ì Ì(Á
+¾
+
+Ì Ì(7
+%01org.apache.commons.compress.compressors.bzip2.CRC"__id*q
+
+__unknown_file (U*SJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream"
+crcåâ
+
+Ì Ì(+
+
+%1void"?org.apache.commons.compress.compressors.bzip2.CRC#updateCRC(I)V*U
+
+__unknown_file (9
+7
+%01org.apache.commons.compress.compressors.bzip2.CRC*"
+
+__unknown_file (
+""2updateCRC(I)"
+
+Î Î(
+""*ˆ
+1
+Ð Ð(-à
+Ý
+
+Ó Ó(	
+%2int"Zorg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#setupRandPartA()I*h
+
+__unknown_file (LJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream"
+
+Ó Ó( 
+""BLJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStreamP

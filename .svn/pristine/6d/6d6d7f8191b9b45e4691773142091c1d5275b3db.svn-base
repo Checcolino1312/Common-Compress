@@ -1,0 +1,43 @@
+
+“org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getParseableExtraFieldsNoCopy()[Lorg/apache/commons/compress/archivers/zip/ZipExtraField;ƒ
+wC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java (9"3*Û
+2
+Ÿ Ÿ("y
+w
+
+Ÿ Ÿ(>?
+%19org.apache.commons.compress.archivers.zip.ZipExtraField[]"__id*"
+
+__unknown_file (
+"""O
+
+Ÿ Ÿ(?A
+?
+%19org.apache.commons.compress.archivers.zip.ZipExtraField[]*Ü
+3
+ž ž(Â
+¿
+
+ž ž(?
+%09org.apache.commons.compress.archivers.zip.ZipExtraField[]"__id*j
+
+__unknown_file (N*L;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry"
+extraFields*
+2
+1*¥
+1
+¡ ¡(Â
+¿
+
+¡ ¡(?
+%29org.apache.commons.compress.archivers.zip.ZipExtraField[]"__id*j
+
+__unknown_file (N*L;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry"
+extraFields"O
+
+¡ ¡(A
+?
+%29org.apache.commons.compress.archivers.zip.ZipExtraField[]B=;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry

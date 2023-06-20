@@ -1,0 +1,30 @@
+
+Norg.apache.commons.compress.archivers.dump.DumpArchiveEntry#isSparseRecord(I)Zy
+mC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveEntry.java¯ ¯(!"1*˜
+1
+° °(Ó
+Ð
+
+° °(S
+%0Morg.apache.commons.compress.archivers.dump.DumpArchiveEntry$TapeSegmentHeader"__id*g
+
+__unknown_file (K*I=
+;org.apache.commons.compress.archivers.dump.DumpArchiveEntry"
+headerš—
+
+° °($	
+%1int"Zorg.apache.commons.compress.archivers.dump.DumpArchiveEntry$TapeSegmentHeader#getCdata(I)I*q
+
+__unknown_file (U
+S
+%0Morg.apache.commons.compress.archivers.dump.DumpArchiveEntry$TapeSegmentHeader*"
+
+__unknown_file (
+""2getCdata(I)"
+
+° °(2
+"": 
+
+__unknown_file (
+""B?=
+;org.apache.commons.compress.archivers.dump.DumpArchiveEntryHP

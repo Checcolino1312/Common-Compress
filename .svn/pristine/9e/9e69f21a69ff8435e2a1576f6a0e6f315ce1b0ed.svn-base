@@ -1,0 +1,77 @@
+
+Aorg.apache.commons.compress.utils.CountingInputStream#read([BII)Iq
+gC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/utils/CountingInputStream.javaH H("startingBlock*Ù
+2N N(ﬂ‹
+N N(
+
+%2void"?org.apache.commons.compress.utils.CountingInputStream#count(J)V*U
+
+__unknown_file (97
+5org.apache.commons.compress.utils.CountingInputStream*"
+
+__unknown_file (
+""2count(J)*
+1*ô
+3L L(ç
+ä
+L L(
+%0java.io.InputStream"__id*]
+
+__unknown_file (A*?7
+5org.apache.commons.compress.utils.CountingInputStream"
+inÒÓ
+L L(*	
+%1int"java.io.InputStream#read([BII)I*7
+
+__unknown_file (
+
+%0java.io.InputStream*)
+
+__unknown_file (
+
+bbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2
+read([BII)*
+2
+1*Ì
+startingBlockH H(A}
+{
+G G(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*)
+
+__unknown_file (
+
+bbyte[]K
+I
+H! H("
+bbyte[]"__annotation*"
+
+__unknown_file (
+
+%3*
+3
+4*!
+4J J("
+J J(
+""*!
+1P P("
+P P(
+"":
+H H(#
+bbyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B97
+5org.apache.commons.compress.utils.CountingInputStreamHP

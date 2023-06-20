@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.tar.TarUtils#formatLongOctalBytes(J[BII)I
+org.apache.commons.compress.archivers.tar.TarUtils#formatUnsignedOctalString(J[BII)V

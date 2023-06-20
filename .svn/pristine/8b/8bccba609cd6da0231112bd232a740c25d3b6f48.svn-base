@@ -1,0 +1,80 @@
+
+…org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getMergedFields()[Lorg/apache/commons/compress/archivers/zip/ZipExtraField;w
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.javaï ï(+"1*Ú
+1
+ð/ ð(5Â
+¿
+
+ð6 ð(A?
+%09org.apache.commons.compress.archivers.zip.ZipExtraField[]"__id*j
+
+__unknown_file (N*L;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry"
+extraFieldsÂ
+¿
+
+ðC ð(N?
+%19org.apache.commons.compress.archivers.zip.ZipExtraField[]"__id*j
+
+__unknown_file (N*L;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry"
+extraFieldsè
+å
+
+ð/ ð(Z?
+%29org.apache.commons.compress.archivers.zip.ZipExtraField[]"·org.apache.commons.compress.archivers.zip.ZipArchiveEntry#copyOf([Lorg/apache/commons/compress/archivers/zip/ZipExtraField;I)[Lorg/apache/commons/compress/archivers/zip/ZipExtraField;*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry*]
+
+__unknown_file (A
+?
+%09org.apache.commons.compress.archivers.zip.ZipExtraField[]*"
+
+__unknown_file (
+""Á
+¾
+
+ð ð([K
+zipExtraFields9org.apache.commons.compress.archivers.zip.ZipExtraField[]"__id*]
+
+__unknown_file (A
+?
+%29org.apache.commons.compress.archivers.zip.ZipExtraField[]Â
+¿
+
+ñ ñ("?
+%39org.apache.commons.compress.archivers.zip.ZipExtraField[]"__id*j
+
+__unknown_file (N*L;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry"
+extraFieldsÑ
+Î
+
+ñ- ñ(=I
+%4Corg.apache.commons.compress.archivers.zip.UnparseableExtraFieldData"__id*o
+
+__unknown_file (S*Q;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry"
+unparseableExtra™
+–
+
+ñ ñ(=
+%5"
+__arraySet*i
+
+__unknown_file (M
+K
+zipExtraFields9org.apache.commons.compress.archivers.zip.ZipExtraField[]*"
+
+__unknown_file (
+""*g
+
+__unknown_file (K
+I
+%4Corg.apache.commons.compress.archivers.zip.UnparseableExtraFieldData"[
+
+ò ò(M
+K
+zipExtraFields9org.apache.commons.compress.archivers.zip.ZipExtraField[]B=;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry

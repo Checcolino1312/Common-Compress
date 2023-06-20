@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.pack200.CPFloat#compareTo(Lorg/apache/commons/compress/harmony/pack200/CPFloat;)I
+java.lang.Float#compare(FF)I

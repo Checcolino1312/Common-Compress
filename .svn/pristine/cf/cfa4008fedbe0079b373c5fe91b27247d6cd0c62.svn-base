@@ -1,0 +1,3 @@
+org.apache.commons.compress.utils.FileNameUtils#fileNameToBaseName(Ljava/lang/String;)Ljava/lang/String;
+java.lang.String#lastIndexOf(I)I
+java.lang.String#substring(II)Ljava/lang/String;

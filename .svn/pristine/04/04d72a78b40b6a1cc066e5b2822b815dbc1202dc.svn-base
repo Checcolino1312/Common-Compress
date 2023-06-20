@@ -1,0 +1,14 @@
+org.apache.commons.compress.archivers.zip.BinaryTree#decode(Ljava/io/InputStream;I)Lorg/apache/commons/compress/archivers/zip/BinaryTree;
+java.io.EOFException#instance-init#
+org.apache.commons.compress.utils.IOUtils#readRange(Ljava/io/InputStream;I)[B
+org.apache.commons.compress.archivers.zip.BinaryTree#instance-init#
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.Integer#reverse(I)I
+org.apache.commons.compress.archivers.zip.BinaryTree#<init>(I)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+java.io.EOFException#<init>()V
+java.lang.Math#max(II)I
+java.lang.IllegalArgumentException#instance-init#
+==
+addLeaf org.apache.commons.compress.archivers.zip.BinaryTree#addLeaf(IIII)V

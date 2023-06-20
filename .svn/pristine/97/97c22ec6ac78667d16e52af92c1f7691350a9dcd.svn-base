@@ -1,0 +1,53 @@
+
+Xorg.apache.commons.compress.archivers.sevenz.SevenZFile#getEntries()Ljava/lang/Iterable;u
+iC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZFile.java±( ±(2"1*³
+1
+² ²(%·
+´
+
+²- ²(4:
+%04org.apache.commons.compress.archivers.sevenz.Archive"__id*d
+
+__unknown_file (H*F9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile"	
+archiveÃ
+À
+
+²- ²(:G
+%1Aorg.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry[]"__id*c
+
+__unknown_file (G*E
+:
+%04org.apache.commons.compress.archivers.sevenz.Archive"
+filesü
+ù
+
+² ²(;
+%2java.util.List"<java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;*0
+
+__unknown_file ("
+java.util.Arrays*e
+
+__unknown_file (I
+G
+%1Aorg.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry[]><
+
+² ²(
+%3java.util.ArrayList"java.util.ArrayList·
+´
+
+² ²(<
+%4"3java.util.ArrayList#<init>(Ljava/util/Collection;)V*7
+
+__unknown_file (
+
+%3java.util.ArrayList*2
+
+__unknown_file (
+
+%2java.util.List")
+
+² ²(=
+
+%3java.util.ArrayListB;9
+7org.apache.commons.compress.archivers.sevenz.SevenZFileH

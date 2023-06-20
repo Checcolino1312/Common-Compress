@@ -1,0 +1,18 @@
+
+Worg.apache.commons.compress.archivers.tar.TarArchiveEntry#getPath()Ljava/nio/file/Path;w
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java± ±("1*Ð
+1
+² ²(”
+‘
+
+² ²(
+%0java.nio.file.Path"__id*c
+
+__unknown_file (G*E;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntry"
+file"(
+
+² ²(
+
+%0java.nio.file.PathB=;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntryH

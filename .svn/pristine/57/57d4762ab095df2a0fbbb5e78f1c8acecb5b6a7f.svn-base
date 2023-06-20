@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.AbstractUnicodeExtraField#assembleData()V
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+org.apache.commons.compress.archivers.zip.ZipLong#getBytes(J)[B

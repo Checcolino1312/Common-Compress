@@ -1,0 +1,59 @@
+
+horg.apache.commons.compress.compressors.gzip.GzipCompressorInputStream#readToNull(Ljava/io/DataInput;)[BÇ
+xC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/gzip/GzipCompressorInputStream.javac c($"7*≤
+2i i(ùö
+i i($
+%4byte[]"-java.io.ByteArrayOutputStream#toByteArray()[B*B
+
+__unknown_file (&
+$
+bosjava.io.ByteArrayOutputStream2toByteArray()*
+1*…
+3g g(¥±
+g g(
+
+%3void"'java.io.ByteArrayOutputStream#write(I)V*B
+
+__unknown_file (&
+$
+bosjava.io.ByteArrayOutputStream*"
+
+__unknown_file (
+""2write(I)*
+5*¶
+5f f(éã
+f f(1	
+%2int"%java.io.DataInput#readUnsignedByte()I*9
+
+__unknown_file (
+
+inDatajava.io.DataInput2readUnsignedByte()*
+2
+3*è
+6d d(J{
+y
+d d(J$
+bosjava.io.ByteArrayOutputStream"__id*A
+
+__unknown_file (%
+#
+%0java.io.ByteArrayOutputStream*
+5*‰
+7d/ d(JPN
+d3 d(H#
+%0java.io.ByteArrayOutputStream"java.io.ByteArrayOutputStream~
+|
+d/ d(J
+%1"'java.io.ByteArrayOutputStream#<init>()V*A
+
+__unknown_file (%
+#
+%0java.io.ByteArrayOutputStream*
+6*)
+1i i(%"
+i i(%
+
+%4byte[]:'
+c% c(;
+inDatajava.io.DataInputBJ"H
+Forg.apache.commons.compress.compressors.gzip.GzipCompressorInputStream

@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.arj.LocalFileHeader#hashCode()I
+java.lang.String#hashCode()I

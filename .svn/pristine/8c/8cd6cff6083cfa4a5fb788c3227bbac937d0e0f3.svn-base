@@ -1,0 +1,25 @@
+
+Horg.apache.commons.compress.archivers.zip.ZipArchiveEntry#isDirectory()Zw
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.javaÎ Î("1*Ô
+1
+Ï Ï(äá
+
+Ï Ï(
+%0java.lang.String"Uorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getName()Ljava/lang/String;*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2	getName()ÅÂ
+
+Ï Ï(&
+%1boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*4
+
+__unknown_file (
+
+%0java.lang.String*!
+
+__unknown_file (
+/2endsWith(Ljava/lang/String;)"
+
+Ï Ï('
+""B=;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntryHP

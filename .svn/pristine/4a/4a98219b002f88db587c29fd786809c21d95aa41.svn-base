@@ -1,0 +1,158 @@
+
+Horg.apache.commons.compress.archivers.tar.TarArchiveInputStream#skip(J)Jâ
+}C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java« «("5"6*à
+2
+◊ ◊( Ò
+Ó
+
+◊ ◊(+
+%11long"Norg.apache.commons.compress.archivers.tar.TarArchiveInputStream#skipSparse(J)J*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStream*"
+
+__unknown_file (
+""*
+1*é
+3
+“ “(¢
+ü
+
+“# “(.
+%8java.io.InputStream"__id*p
+
+__unknown_file (T*RA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStream"
+inputStreamå
+â
+
+“ “(:
+
+%9long"Gorg.apache.commons.compress.utils.IOUtils#skip(Ljava/io/InputStream;J)J*I
+
+__unknown_file (-"+
+)org.apache.commons.compress.utils.IOUtils*7
+
+__unknown_file (
+
+%8java.io.InputStream*"
+
+__unknown_file (
+""√
+¿
+
+’ ’(T
+%10long"Xorg.apache.commons.compress.archivers.tar.TarArchiveInputStream#getActuallySkipped(JJJ)J*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStream*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+1*™
+
+4
+Ã, Ã(7¢
+ü
+
+Ã, Ã(7
+%1java.io.InputStream"__id*p
+
+__unknown_file (T*RA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStream"
+inputStreamÅ
+
+Ã, Ã(C	
+%2int" java.io.InputStream#available()I*7
+
+__unknown_file (
+
+%1java.io.InputStream2available()∆
+√
+
+Õ Õ((?
+%39org.apache.commons.compress.archivers.tar.TarArchiveEntry"__id*n
+
+__unknown_file (R*PA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStream"
+	currEntry”–
+
+Õ Õ(6
+
+%4long"Horg.apache.commons.compress.archivers.tar.TarArchiveEntry#getRealSize()J*]
+
+__unknown_file (A
+?
+%39org.apache.commons.compress.archivers.tar.TarArchiveEntry2getRealSize()¨
+©
+
+Œ Œ(5
+
+%5long"java.lang.Math#min(JJ)J*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""∆
+√
+
+— —(?
+%69org.apache.commons.compress.archivers.tar.TarArchiveEntry"__id*n
+
+__unknown_file (R*PA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStream"
+	currEntry–Õ
+
+— —(!
+%7boolean"Eorg.apache.commons.compress.archivers.tar.TarArchiveEntry#isSparse()Z*]
+
+__unknown_file (A
+?
+%69org.apache.commons.compress.archivers.tar.TarArchiveEntry2
+isSparse()*
+2
+3*%
+5
+… …("
+
+… …(
+""*È
+6
+» »(!œ
+Ã
+
+» »(#
+%0boolean"Norg.apache.commons.compress.archivers.tar.TarArchiveInputStream#isDirectory()Z*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStream*
+4
+5*ó
+1
+€ €(ÔÏ
+
+€ €(
+%12void"Borg.apache.commons.compress.archivers.ArchiveInputStream#count(J)V*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStream*"
+
+__unknown_file (
+""2count(J)"
+
+› ›(
+"": 
+
+__unknown_file (
+""BCA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStreamHP

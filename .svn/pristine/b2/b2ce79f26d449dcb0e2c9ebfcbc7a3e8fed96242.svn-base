@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#skipBytesFully(Ljava/nio/ByteBuffer;J)J
+java.nio.Buffer#position()I
+java.nio.Buffer#remaining()I

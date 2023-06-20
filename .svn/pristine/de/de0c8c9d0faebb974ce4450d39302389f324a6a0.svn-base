@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#<init>(Ljava/nio/file/Path;Ljava/lang/String;[Ljava/nio/file/LinkOption;)V
+java.nio.file.Files#isDirectory(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setAttributes(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)V
+java.lang.String#endsWith(Ljava/lang/String;)Z
+==
+ZipArchiveEntry org.apache.commons.compress.archivers.zip.ZipArchiveEntry#<init>(Ljava/lang/String;)V

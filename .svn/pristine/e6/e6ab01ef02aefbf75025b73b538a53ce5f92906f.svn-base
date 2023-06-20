@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.sevenz.AES256Options#newSecretKeySpec([B)Ljavax/crypto/spec/SecretKeySpec;
+javax.crypto.spec.SecretKeySpec#<init>([BLjava/lang/String;)V
+javax.crypto.spec.SecretKeySpec#instance-init#

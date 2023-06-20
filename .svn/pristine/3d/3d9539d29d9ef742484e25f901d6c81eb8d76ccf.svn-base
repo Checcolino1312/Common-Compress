@@ -1,0 +1,17 @@
+
+‘org.apache.commons.compress.compressors.pack200.Pack200Strategy$2#newStreamBridge()Lorg/apache/commons/compress/compressors/pack200/StreamBridge;{
+qC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/pack200/Pack200Strategy.java( (($"1*ü
+1) )(4­ª
+) )(2Q
+%0Korg.apache.commons.compress.compressors.pack200.TempFileCachingStreamBridge"Korg.apache.commons.compress.compressors.pack200.TempFileCachingStreamBridgeÛ
+Ø
+) )(4
+%1"Uorg.apache.commons.compress.compressors.pack200.TempFileCachingStreamBridge#<init>()V*o
+
+__unknown_file (S
+Q
+%0Korg.apache.commons.compress.compressors.pack200.TempFileCachingStreamBridge"_
+) )(5S
+Q
+%0Korg.apache.commons.compress.compressors.pack200.TempFileCachingStreamBridgeBEC
+Aorg.apache.commons.compress.compressors.pack200.Pack200Strategy$2

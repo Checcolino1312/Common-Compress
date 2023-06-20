@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#addFileTimePaxHeaderForBigNumber(Ljava/util/Map;Ljava/lang/String;Ljava/nio/file/attribute/FileTime;J)V
+java.time.Instant#getNano()I
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#addInstantPaxHeader(Ljava/util/Map;Ljava/lang/String;JI)V
+java.nio.file.attribute.FileTime#toInstant()Ljava/time/Instant;
+java.time.Instant#getEpochSecond()J
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#addPaxHeaderForBigNumber(Ljava/util/Map;Ljava/lang/String;JJ)V

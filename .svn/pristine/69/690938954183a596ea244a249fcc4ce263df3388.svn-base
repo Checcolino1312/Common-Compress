@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.zip.ZipFile#instance-init#
+java.nio.ByteBuffer#wrap([B)Ljava/nio/ByteBuffer;
+java.util.LinkedList#<init>()V
+java.util.HashMap#<init>(I)V
+java.util.LinkedList#instance-init#
+java.util.HashMap#instance-init#

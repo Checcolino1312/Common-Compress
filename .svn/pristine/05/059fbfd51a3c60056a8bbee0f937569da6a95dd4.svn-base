@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.NewAttribute#addBCLength(II)V
+java.lang.Integer#valueOf(I)Ljava/lang/Integer;
+org.apache.commons.compress.harmony.unpack200.bytecode.NewAttribute$BCLength#instance-init#
+org.apache.commons.compress.harmony.unpack200.bytecode.NewAttribute$BCLength#<init>(I)V

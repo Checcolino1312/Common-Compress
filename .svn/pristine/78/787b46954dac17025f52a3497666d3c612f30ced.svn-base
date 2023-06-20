@@ -1,0 +1,4 @@
+org.apache.commons.compress.utils.IOUtils#readRange(Ljava/io/InputStream;I)[B
+java.io.ByteArrayOutputStream#<init>()V
+org.apache.commons.compress.utils.IOUtils#copyRange(Ljava/io/InputStream;JLjava/io/OutputStream;)J
+java.io.ByteArrayOutputStream#instance-init#

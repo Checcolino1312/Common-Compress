@@ -1,0 +1,24 @@
+org.apache.commons.compress.archivers.ArchiveStreamFactory#createArchiveOutputStream(Ljava/lang/String;Ljava/io/OutputStream;Ljava/lang/String;)Lorg/apache/commons/compress/archivers/ArchiveOutputStream;
+org.apache.commons.compress.archivers.ArchiveException#instance-init#
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#<init>(Ljava/io/OutputStream;Ljava/lang/String;)V
+org.apache.commons.compress.archivers.StreamingNotSupportedException#instance-init#
+org.apache.commons.compress.archivers.StreamingNotSupportedException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#<init>(Ljava/io/OutputStream;Ljava/lang/String;)V
+org.apache.commons.compress.archivers.jar.JarArchiveOutputStream#<init>(Ljava/io/OutputStream;)V
+org.apache.commons.compress.archivers.jar.JarArchiveOutputStream#<init>(Ljava/io/OutputStream;Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#<init>(Ljava/io/OutputStream;)V
+org.apache.commons.compress.archivers.ArchiveException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#instance-init#
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#instance-init#
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#<init>(Ljava/io/OutputStream;)V
+org.apache.commons.compress.archivers.ar.ArArchiveOutputStream#<init>(Ljava/io/OutputStream;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#<init>(Ljava/io/OutputStream;)V
+org.apache.commons.compress.archivers.jar.JarArchiveOutputStream#instance-init#
+org.apache.commons.compress.archivers.ArchiveStreamFactory#toKey(Ljava/lang/String;)Ljava/lang/String;
+org.apache.commons.compress.archivers.ar.ArArchiveOutputStream#instance-init#
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#instance-init#
+java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z
+==
+getArchiveOutputStreamProviders org.apache.commons.compress.archivers.ArchiveStreamFactory#getArchiveOutputStreamProviders()Ljava/util/SortedMap;

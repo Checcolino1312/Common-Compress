@@ -1,0 +1,8 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#read0()I
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#setupBlock()I
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#setupRandPartB()I
+java.lang.IllegalStateException#<init>()V
+java.lang.IllegalStateException#instance-init#
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#setupNoRandPartB()I
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#setupNoRandPartC()I
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#setupRandPartC()I

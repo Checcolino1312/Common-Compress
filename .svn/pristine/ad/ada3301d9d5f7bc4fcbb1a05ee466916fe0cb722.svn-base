@@ -1,0 +1,60 @@
+
+morg.apache.commons.compress.harmony.unpack200.BandSet#getReferences([I[Ljava/lang/String;)[Ljava/lang/String;
+sC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/BandSet.java› ›($"1*Ó
+1
+œ+ œ(/<:
+
+œ  œ(7
+%0java.lang.String[]"java.lang.String[]j
+h
+
+œ œ(8
+resultjava.lang.String[]"__id*6
+
+__unknown_file (
+
+%0java.lang.String[]°
+­
+
+ (5$
+%1java.util.function.IntFunction"__declareFunction*f
+
+__unknown_file (JH
+F__sonar_lambda_1$org.apache.commons.compress.harmony.unpack200.BandSet—
+”
+
+__unknown_file (3
+$
+%1java.util.function.IntFunction"
+	reference"__id*=
+
+__unknown_file (!
+
+	referencejava.lang.String[]œ
+™
+
+ (6
+
+%3void"Mjava.util.Arrays#setAll([Ljava/lang/Object;Ljava/util/function/IntFunction;)V*0
+
+__unknown_file ("
+java.util.Arrays*:
+
+__unknown_file (
+
+resultjava.lang.String[]*B
+
+__unknown_file (&
+$
+%1java.util.function.IntFunction",
+
+ž ž(
+
+resultjava.lang.String[]: 
+
+__unknown_file (
+"":-
+
+›7 ›(O
+	referencejava.lang.String[]B97
+5org.apache.commons.compress.harmony.unpack200.BandSet

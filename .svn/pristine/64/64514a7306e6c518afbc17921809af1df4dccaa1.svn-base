@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.AsiExtraField#isDirectory()Z
+==
+isLink org.apache.commons.compress.archivers.zip.AsiExtraField#isLink()Z

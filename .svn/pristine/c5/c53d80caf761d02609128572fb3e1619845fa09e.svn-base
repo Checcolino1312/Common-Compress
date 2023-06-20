@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setExtra()V
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getAllExtraFieldsNoCopy()[Lorg/apache/commons/compress/archivers/zip/ZipExtraField;
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#updateTimeFieldsFromExtraFields()V
+org.apache.commons.compress.archivers.zip.ExtraFieldUtils#mergeLocalFileDataData([Lorg/apache/commons/compress/archivers/zip/ZipExtraField;)[B

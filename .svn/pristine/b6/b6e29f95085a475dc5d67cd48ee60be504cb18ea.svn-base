@@ -1,0 +1,27 @@
+
+}org.apache.commons.compress.archivers.zip.NioZipEncoding#estimateIncrementalEncodingSize(Ljava/nio/charset/CharsetEncoder;I)I€
+vC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/NioZipEncoding.javaM M(6"1*Þ
+1N N(¯¬
+N+ N(D
+%0float"6java.nio.charset.CharsetEncoder#averageBytesPerChar()F*D
+
+__unknown_file ((
+&
+encjava.nio.charset.CharsetEncoder2averageBytesPerChar()ˆ
+…
+N N(E
+%1double"java.lang.Math#ceil(D)D*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+"""
+N N(F
+"":2
+M7 M(P&
+encjava.nio.charset.CharsetEncoder: 
+
+__unknown_file (
+""B<":
+8org.apache.commons.compress.archivers.zip.NioZipEncodingP

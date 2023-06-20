@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getMergedFields()[Lorg/apache/commons/compress/archivers/zip/ZipExtraField;
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#copyOf([Lorg/apache/commons/compress/archivers/zip/ZipExtraField;I)[Lorg/apache/commons/compress/archivers/zip/ZipExtraField;

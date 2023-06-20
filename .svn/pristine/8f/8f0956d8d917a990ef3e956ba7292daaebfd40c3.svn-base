@@ -1,0 +1,20 @@
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#parseTarHeaderUnwrapped(Ljava/util/Map;[BLorg/apache/commons/compress/archivers/zip/ZipEncoding;ZZ)V
+org.apache.commons.compress.archivers.tar.TarUtils#parseBoolean([BI)Z
+org.apache.commons.compress.archivers.tar.TarUtils#parseOctalOrBinary([BII)J
+java.util.ArrayList#instance-init#
+java.util.ArrayList#<init>(Ljava/util/Collection;)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.tar.TarUtils#verifyCheckSum([B)Z
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#fileTimeFromOptionalSeconds(J)Ljava/nio/file/attribute/FileTime;
+org.apache.commons.compress.archivers.tar.TarUtils#parseName([BIILorg/apache/commons/compress/archivers/zip/ZipEncoding;)Ljava/lang/String;
+org.apache.commons.compress.archivers.tar.TarUtils#parseName([BII)Ljava/lang/String;
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#evaluateType(Ljava/util/Map;[B)I
+java.lang.String#isEmpty()Z
+java.lang.String#endsWith(Ljava/lang/String;)Z
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#parseOctalOrBinary([BIIZ)J
+org.apache.commons.compress.utils.TimeUtils#unixTimeToFileTime(J)Ljava/nio/file/attribute/FileTime;
+org.apache.commons.compress.archivers.tar.TarUtils#readSparseStructs([BII)Ljava/util/List;
+org.apache.commons.compress.archivers.tar.TarUtils#parseOctal([BII)J
+==
+isDirectory org.apache.commons.compress.archivers.tar.TarArchiveEntry#isDirectory()Z

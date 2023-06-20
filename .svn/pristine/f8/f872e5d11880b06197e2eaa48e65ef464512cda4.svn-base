@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.PKWareExtraHeader#parseFromLocalFileData([BII)V
+java.util.Arrays#copyOfRange([BII)[B
+==
+setLocalFileDataData org.apache.commons.compress.archivers.zip.PKWareExtraHeader#setLocalFileDataData([B)V

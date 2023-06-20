@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#writeCentralFileHeader(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#createCentralFileHeader(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)[B
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#writeCounted([B)V

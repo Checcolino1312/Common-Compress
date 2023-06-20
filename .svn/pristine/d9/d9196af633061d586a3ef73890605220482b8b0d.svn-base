@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestamp#getLocalFileDataData()[B
+org.apache.commons.compress.archivers.zip.ZipShort#getValue()I
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+org.apache.commons.compress.archivers.zip.ZipLong#getBytes()[B
+==
+getLocalFileDataLength org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestamp#getLocalFileDataLength()Lorg/apache/commons/compress/archivers/zip/ZipShort;

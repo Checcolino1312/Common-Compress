@@ -1,0 +1,6 @@
+org.apache.commons.compress.harmony.pack200.Segment#addValueAndTag(Ljava/lang/Object;Ljava/util/List;Ljava/util/List;)V
+java.lang.Short#intValue()I
+java.lang.Integer#valueOf(I)Ljava/lang/Integer;
+java.lang.Boolean#booleanValue()Z
+org.objectweb.asm.Type#toString()Ljava/lang/String;
+java.lang.Byte#intValue()I

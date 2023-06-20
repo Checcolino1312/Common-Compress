@@ -1,0 +1,23 @@
+
+\org.apache.commons.compress.harmony.unpack200.bytecode.CPString#toString()Ljava/lang/String;{
+qC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPString.javaU U("1*˜
+1V V(òï
+V V(&
+%0java.lang.Object"^org.apache.commons.compress.harmony.unpack200.bytecode.CPConstant#getValue()Ljava/lang/Object;*_
+
+__unknown_file (CA
+?org.apache.commons.compress.harmony.unpack200.bytecode.CPString2
+getValue()n
+l
+V V(&
+%1java.lang.String"__concat*
+V V(
+
+String: *$
+V V(&
+
+%0java.lang.Object"$
+V V('
+
+%1java.lang.StringBCA
+?org.apache.commons.compress.harmony.unpack200.bytecode.CPStringH

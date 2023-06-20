@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#writeDataDescriptor(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#hasZip64Extra(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#usesDataDescriptor(IZ)Z
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#getBytes(J)[B
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#writeCounted([B)V
+org.apache.commons.compress.archivers.zip.ZipLong#getBytes(J)[B

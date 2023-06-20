@@ -1,0 +1,20 @@
+
+m	java:S127N"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+l
+java:S1104 "VMake attributes a static final constant or non-public and provide accessors if needed.(ÿ¶
+q
+java:S1104""[Make byteCodeOffsets a static final constant or non-public and provide accessors if needed.(ÛĞÁÇ
+k
+java:S1104#"UMake byteCodes a static final constant or non-public and provide accessors if needed.(Õ…Œ‡
+l
+java:S1104$"VMake codeLength a static final constant or non-public and provide accessors if needed.(šü»Ô
+p
+java:S1104%"ZMake exceptionTable a static final constant or non-public and provide accessors if needed.(à­†Ã
+k
+java:S1104&"UMake maxLocals a static final constant or non-public and provide accessors if needed.(³ã´ª
+j
+java:S1104("TMake maxStack a static final constant or non-public and provide accessors if needed.(§Ï¹³
+@
+java:S2160"+Override the "equals" method in this class.(İ–Õw
+=
+java:S1168ƒ"&Return an empty array instead of null.(¥¹ï

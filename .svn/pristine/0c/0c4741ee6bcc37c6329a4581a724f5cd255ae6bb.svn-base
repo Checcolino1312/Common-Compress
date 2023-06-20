@@ -1,0 +1,2 @@
+org.apache.commons.compress.utils.FileNameUtils#getExtension(Ljava/nio/file/Path;)Ljava/lang/String;
+org.apache.commons.compress.utils.FileNameUtils#fileNameToExtension(Ljava/lang/String;)Ljava/lang/String;

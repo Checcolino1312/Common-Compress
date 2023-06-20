@@ -1,0 +1,7 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#<init>(Ljava/util/zip/ZipEntry;)V
+org.apache.commons.compress.archivers.zip.ExtraFieldUtils#parse([BZLorg/apache/commons/compress/archivers/zip/ExtraFieldParsingBehavior;)[Lorg/apache/commons/compress/archivers/zip/ZipExtraField;
+==
+setExtraFields org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setExtraFields([Lorg/apache/commons/compress/archivers/zip/ZipExtraField;)V
+setMethod org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setMethod(I)V
+setExtra org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setExtra()V
+setName org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setName(Ljava/lang/String;)V

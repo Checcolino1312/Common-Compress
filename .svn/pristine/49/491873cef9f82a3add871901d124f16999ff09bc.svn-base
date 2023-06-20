@@ -1,0 +1,31 @@
+
+morg.apache.commons.compress.compressors.lz77support.LZ77Compressor$BackReference#toString()Ljava/lang/String;~
+tC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/lz77support/LZ77Compressor.javat t("1*Å
+1u u(/n
+l
+u u(8
+%0java.lang.String"__concat**
+u u(/
+BackReference with offset *
+u2 u(8
+""r
+p
+u u(I
+%1java.lang.String"__concat*$
+u u(8
+
+%0java.lang.String*
+u; u(I
+ and length h
+f
+u u(R
+%2java.lang.String"__concat*$
+u u(I
+
+%1java.lang.String*
+uL u(R
+"""$
+u u(S
+
+%2java.lang.StringBTR
+Porg.apache.commons.compress.compressors.lz77support.LZ77Compressor$BackReferenceH

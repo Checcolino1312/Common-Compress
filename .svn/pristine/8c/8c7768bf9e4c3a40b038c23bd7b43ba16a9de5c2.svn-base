@@ -1,0 +1,18 @@
+
+ƒorg.apache.commons.compress.harmony.pack200.PopulationCodec#getUnfavouredCodec()Lorg/apache/commons/compress/harmony/pack200/Codec;y
+mC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/PopulationCodec.java² ²(#"1*›
+1
+³ ³(À
+½
+
+³ ³(7
+%01org.apache.commons.compress.harmony.pack200.Codec"__id*p
+
+__unknown_file (T*R=
+;org.apache.commons.compress.harmony.pack200.PopulationCodec"
+unfavouredCodec"G
+
+³ ³(9
+7
+%01org.apache.commons.compress.harmony.pack200.CodecB?=
+;org.apache.commons.compress.harmony.pack200.PopulationCodecH

@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.tar.TarArchiveSparseEntry#<init>([B)V
+org.apache.commons.compress.archivers.tar.TarUtils#parseBoolean([BI)Z
+java.util.ArrayList#instance-init#
+java.util.ArrayList#<init>(Ljava/util/Collection;)V
+org.apache.commons.compress.archivers.tar.TarUtils#readSparseStructs([BII)Ljava/util/List;

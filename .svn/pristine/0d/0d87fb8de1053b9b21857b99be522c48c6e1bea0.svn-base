@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.pack200.NewAttributeBands#<init>(ILorg/apache/commons/compress/harmony/pack200/CpBands;Lorg/apache/commons/compress/harmony/pack200/SegmentHeader;Lorg/apache/commons/compress/harmony/pack200/AttributeDefinitionBands$AttributeDefinition;)V
+org.apache.commons.compress.harmony.pack200.NewAttributeBands#parseLayout()V

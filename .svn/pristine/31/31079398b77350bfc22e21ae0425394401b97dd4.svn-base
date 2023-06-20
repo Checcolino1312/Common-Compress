@@ -1,0 +1,5 @@
+org.apache.commons.compress.harmony.pack200.CpBands#writeCpSignature(Ljava/io/OutputStream;)V
+java.util.ArrayList#<init>()V
+java.util.Arrays#setAll([ILjava/util/function/IntUnaryOperator;)V
+org.apache.commons.compress.harmony.pack200.PackingUtils#log(Ljava/lang/String;)V
+java.util.ArrayList#instance-init#

@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.jar.JarArchiveOutputStream#putArchiveEntry(Lorg/apache/commons/compress/archivers/ArchiveEntry;)V
+org.apache.commons.compress.archivers.zip.JarMarker#getInstance()Lorg/apache/commons/compress/archivers/zip/JarMarker;

@@ -1,0 +1,6 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#read([BII)I
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#read0()I
+java.lang.IndexOutOfBoundsException#instance-init#
+java.lang.IndexOutOfBoundsException#<init>(Ljava/lang/String;)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V

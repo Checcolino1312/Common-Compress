@@ -1,0 +1,14 @@
+org.apache.commons.compress.harmony.unpack200.CpBands#parseCpSignature(Ljava/io/InputStream;)V
+java.util.ArrayList#<init>()V
+java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+java.util.ArrayList#instance-init#
+java.lang.String#charAt(I)C
+java.lang.String#toCharArray()[C
+java.lang.StringBuilder#toString()Ljava/lang/String;
+java.lang.StringBuilder#instance-init#
+java.util.HashMap#<init>()V
+java.lang.String#length()I
+java.lang.Integer#valueOf(I)Ljava/lang/Integer;
+java.lang.StringBuilder#<init>(I)V
+java.util.HashMap#instance-init#
+java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;

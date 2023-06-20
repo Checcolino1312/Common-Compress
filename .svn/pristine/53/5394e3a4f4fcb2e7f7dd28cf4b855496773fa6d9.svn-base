@@ -1,0 +1,11 @@
+org.apache.commons.compress.harmony.pack200.CpBands#writeCpUtf8(Ljava/io/OutputStream;)V
+java.util.ArrayList#<init>()V
+java.lang.String#length()I
+java.lang.String#substring(I)Ljava/lang/String;
+java.util.Arrays#setAll([ILjava/util/function/IntUnaryOperator;)V
+java.lang.Integer#valueOf(I)Ljava/lang/Integer;
+org.apache.commons.compress.harmony.pack200.PackingUtils#log(Ljava/lang/String;)V
+java.util.ArrayList#instance-init#
+org.apache.commons.compress.harmony.pack200.CpBands#addCharacters(Ljava/util/List;[C)V
+java.lang.Integer#intValue()I
+java.lang.String#toCharArray()[C

@@ -1,0 +1,77 @@
+
+Rorg.apache.commons.compress.compressors.lzma.LZMACompressorInputStream#read([BII)IÑ
+xC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/lzma/LZMACompressorInputStream.javaÑ Ñ("startingBlock*ı
+startingBlock
+Ñ Ñ(CÅ
+
+
+É É(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*+
+
+__unknown_file (
+
+bufbyte[]O
+M
+
+Ñ! Ñ($
+bufbyte[]"__annotation*"
+
+__unknown_file (
+
+%3*
+1*Ω
+1
+Ö Ö(†
+ù
+
+Ö Ö(
+%0java.io.InputStream"__id*n
+
+__unknown_file (R*PH
+Forg.apache.commons.compress.compressors.lzma.LZMACompressorInputStream"
+inıÚ
+
+Ö Ö(.	
+%1int"java.io.InputStream#read([BII)I*7
+
+__unknown_file (
+
+%0java.io.InputStream*+
+
+__unknown_file (
+
+bufbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2
+read([BII)˙˜
+
+Ü Ü(
+
+%2void"Gorg.apache.commons.compress.compressors.CompressorInputStream#count(I)V*f
+
+__unknown_file (JH
+Forg.apache.commons.compress.compressors.lzma.LZMACompressorInputStream*"
+
+__unknown_file (
+""2count(I)"
+
+á á(
+"":
+
+Ñ Ñ(%
+bufbyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BJH
+Forg.apache.commons.compress.compressors.lzma.LZMACompressorInputStreamHP

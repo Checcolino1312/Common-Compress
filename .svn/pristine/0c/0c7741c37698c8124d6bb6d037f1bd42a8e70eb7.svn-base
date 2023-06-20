@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.pack200.CPLong#compareTo(Lorg/apache/commons/compress/harmony/pack200/CPLong;)I
+java.lang.Long#compare(JJ)I

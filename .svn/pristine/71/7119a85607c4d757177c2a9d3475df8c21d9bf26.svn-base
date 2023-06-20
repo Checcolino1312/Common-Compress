@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#addPaxHeadersForBigNumbers(Ljava/util/Map;Lorg/apache/commons/compress/archivers/tar/TarArchiveEntry;)V
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#addFileTimePaxHeaderForBigNumber(Ljava/util/Map;Ljava/lang/String;Ljava/nio/file/attribute/FileTime;J)V
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#failForBigNumber(Ljava/lang/String;JJ)V
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#addPaxHeaderForBigNumber(Ljava/util/Map;Ljava/lang/String;JJ)V
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#addFileTimePaxHeader(Ljava/util/Map;Ljava/lang/String;Ljava/nio/file/attribute/FileTime;)V

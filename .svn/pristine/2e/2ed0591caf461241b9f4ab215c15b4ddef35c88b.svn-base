@@ -1,0 +1,14 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#<init>(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getAllExtraFieldsNoCopy()[Lorg/apache/commons/compress/archivers/zip/ZipExtraField;
+org.apache.commons.compress.archivers.zip.GeneralPurposeBit#clone()Ljava/lang/Object;
+==
+getGeneralPurposeBit org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getGeneralPurposeBit()Lorg/apache/commons/compress/archivers/zip/GeneralPurposeBit;
+getExternalAttributes org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getExternalAttributes()J
+setExtraFields org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setExtraFields([Lorg/apache/commons/compress/archivers/zip/ZipExtraField;)V
+setPlatform org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setPlatform(I)V
+ZipArchiveEntry org.apache.commons.compress.archivers.zip.ZipArchiveEntry#<init>(Ljava/util/zip/ZipEntry;)V
+getPlatform org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getPlatform()I
+setExternalAttributes org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setExternalAttributes(J)V
+setGeneralPurposeBit org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setGeneralPurposeBit(Lorg/apache/commons/compress/archivers/zip/GeneralPurposeBit;)V
+setInternalAttributes org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setInternalAttributes(I)V
+getInternalAttributes org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getInternalAttributes()I

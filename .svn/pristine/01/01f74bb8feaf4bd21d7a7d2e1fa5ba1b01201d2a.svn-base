@@ -1,0 +1,94 @@
+
+_org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#encode(Ljava/lang/String;)[BÄ
+tC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveOutputStream.javaù ù("1*ü
+1
+û û(*«
+ƒ
+
+û û(*;
+%05org.apache.commons.compress.archivers.zip.ZipEncoding"__id*s
+
+__unknown_file (W*UD
+Borg.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream"
+zipEncodingøº
+
+û û(6
+%1java.nio.ByteBuffer"eorg.apache.commons.compress.archivers.zip.ZipEncoding#encode(Ljava/lang/String;)Ljava/nio/ByteBuffer;*Y
+
+__unknown_file (=
+;
+%05org.apache.commons.compress.archivers.zip.ZipEncoding*5
+
+__unknown_file (
+
+strjava.lang.String2encode(Ljava/lang/String;)i
+g
+
+û û(7
+bufjava.nio.ByteBuffer"__id*7
+
+__unknown_file (
+
+%1java.nio.ByteBuffervt
+
+ü ü(#	
+%2int"java.nio.Buffer#limit()I*8
+
+__unknown_file (
+
+bufjava.nio.ByteBuffer2limit()|z
+
+ü& ü(4	
+%3int"java.nio.Buffer#position()I*8
+
+__unknown_file (
+
+bufjava.nio.ByteBuffer2
+position()~|
+
+†" †(-
+%4byte[]"java.nio.ByteBuffer#array()[B*8
+
+__unknown_file (
+
+bufjava.nio.ByteBuffer2array()áÑ
+
+†/ †(@	
+%5int""java.nio.ByteBuffer#arrayOffset()I*8
+
+__unknown_file (
+
+bufjava.nio.ByteBuffer2arrayOffset()áÑ
+
+†B †(S	
+%6int""java.nio.ByteBuffer#arrayOffset()I*8
+
+__unknown_file (
+
+bufjava.nio.ByteBuffer2arrayOffset()Ó
+Î
+
+† †(Z
+%7byte[]"$java.util.Arrays#copyOfRange([BII)[B*0
+
+__unknown_file ("
+java.util.Arrays**
+
+__unknown_file (
+
+%4byte[]*'
+
+__unknown_file (
+	
+%5int*"
+
+__unknown_file (
+"""
+
+† †([
+
+%7byte[]:%
+
+ù ù(*
+strjava.lang.StringBFD
+Borg.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream

@@ -1,0 +1,8 @@
+org.apache.commons.compress.archivers.arj.MainHeader#toString()Ljava/lang/String;
+java.lang.StringBuilder#instance-init#
+java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#<init>()V
+java.lang.StringBuilder#append(J)Ljava/lang/StringBuilder;
+java.util.Arrays#toString([B)Ljava/lang/String;
+java.lang.StringBuilder#toString()Ljava/lang/String;

@@ -1,0 +1,75 @@
+
+]org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#available()Iõ
+éC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/snappy/FramedSnappyCompressorInputStream.java™ ™("3"4*ú
+2
+∞ ∞()ˆ
+Û
+
+∞ ∞()P
+%4Jorg.apache.commons.compress.compressors.snappy.SnappyCompressorInputStream"__id*å
+
+__unknown_file (p*nR
+Porg.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream"
+currentCompressedChunk˚¯
+
+∞ ∞(5	
+%5int"borg.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream#available()I*n
+
+__unknown_file (R
+P
+%4Jorg.apache.commons.compress.compressors.snappy.SnappyCompressorInputStream2available()"
+
+∞ ∞(6
+""*ê
+3
+Ø Ø("ˆ
+Û
+
+Ø Ø("P
+%3Jorg.apache.commons.compress.compressors.snappy.SnappyCompressorInputStream"__id*å
+
+__unknown_file (p*nR
+Porg.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream"
+currentCompressedChunk*
+2
+1*¨
+4
+¨ ¨(º
+π
+
+≠ ≠('!
+%0java.io.PushbackInputStream"__id*Å
+
+__unknown_file (e*cR
+Porg.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream"
+inputStreamíè
+
+≠ ≠(3	
+%1int"(java.io.PushbackInputStream#available()I*?
+
+__unknown_file (#
+!
+%0java.io.PushbackInputStream2available()∞
+≠
+
+¨ ≠(4	
+%2int"java.lang.Math#min(II)I*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*'
+
+__unknown_file (
+	
+%1int"
+
+¨ ≠(5
+""*%
+1
+≤ ≤("
+
+≤ ≤(
+""BTR
+Porg.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStreamHP

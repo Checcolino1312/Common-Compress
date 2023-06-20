@@ -1,0 +1,31 @@
+
+forg.apache.commons.compress.archivers.ArchiveStreamFactory#toKey(Ljava/lang/String;)Ljava/lang/String;x
+lC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.javaê ê("1*†
+1
+ë ë(P
+N
+
+ë  ë(+
+%0java.util.Locale"__id*"
+
+__unknown_file (
+""ú÷
+
+ë ë(,
+%1java.lang.String"Bjava.lang.String#toUpperCase(Ljava/util/Locale;)Ljava/lang/String;*6
+
+__unknown_file (
+
+namejava.lang.String*4
+
+__unknown_file (
+
+%0java.util.Locale2toUpperCase(Ljava/util/Locale;)"&
+
+ë ë(-
+
+%1java.lang.String:&
+
+ê  ê(1
+namejava.lang.StringB>"<
+:org.apache.commons.compress.archivers.ArchiveStreamFactory

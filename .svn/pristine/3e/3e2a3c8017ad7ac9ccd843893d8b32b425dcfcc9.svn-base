@@ -1,0 +1,7 @@
+org.apache.commons.compress.harmony.pack200.CpBands#instance-init#
+java.util.HashSet#<init>()V
+java.util.TreeSet#instance-init#
+java.util.HashMap#<init>()V
+java.util.TreeSet#<init>()V
+java.util.HashMap#instance-init#
+java.util.HashSet#instance-init#

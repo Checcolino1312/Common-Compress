@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ZipLong#putLong([BI)V
+org.apache.commons.compress.archivers.zip.ZipLong#putLong(J[BI)V

@@ -1,0 +1,49 @@
+
+__sonar_lambda_17$â
+C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipSplitReadOnlySeekableByteChannel.javar r(\"startingBlock*‰
+startingBlockr r(\√
+¿
+
+__unknown_file ("
+patternjava.util.regex.Pattern"__id*z
+
+__unknown_file (^*\O
+Morg.apache.commons.compress.archivers.zip.ZipSplitReadOnlySeekableByteChannel"	
+pattern*
+1*°
+1r$ r(+ß§
+r4 r(F
+%18java.nio.file.Path"4java.nio.file.Path#getFileName()Ljava/nio/file/Path;*8
+
+__unknown_file (
+
+pathjava.nio.file.Path2getFileName()úô
+r4 r(Q
+%19java.lang.String"/java.nio.file.Path#toString()Ljava/lang/String;*7
+
+__unknown_file (
+
+%18java.nio.file.Path2
+toString()ùö
+r$ r(R
+%20java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*@
+
+__unknown_file ($
+"
+patternjava.util.regex.Pattern*5
+
+__unknown_file (
+
+%19java.lang.String2!matcher(Ljava/lang/CharSequence;)äá
+r$ r(\
+%21boolean""java.util.regex.Matcher#matches()Z*<
+
+__unknown_file ( 
+
+%20java.util.regex.Matcher2	matches()"
+r$ r(\
+
+%21boolean:&
+r r( 
+pathjava.nio.file.PathB 
+java.util.function.Predicate

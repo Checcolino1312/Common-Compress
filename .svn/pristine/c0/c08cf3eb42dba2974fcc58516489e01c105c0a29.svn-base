@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.ClassBands#doBciRenumbering(Lorg/apache/commons/compress/harmony/pack200/IntList;Ljava/util/Map;)V
+org.apache.commons.compress.harmony.pack200.ClassBands#renumberBci(Ljava/util/List;Lorg/apache/commons/compress/harmony/pack200/IntList;Ljava/util/Map;)V
+org.apache.commons.compress.harmony.pack200.ClassBands#renumberDoubleOffsetBci(Ljava/util/List;Ljava/util/List;Ljava/util/List;Lorg/apache/commons/compress/harmony/pack200/IntList;Ljava/util/Map;)V
+org.apache.commons.compress.harmony.pack200.ClassBands#renumberOffsetBci(Ljava/util/List;Ljava/util/List;Lorg/apache/commons/compress/harmony/pack200/IntList;Ljava/util/Map;)V

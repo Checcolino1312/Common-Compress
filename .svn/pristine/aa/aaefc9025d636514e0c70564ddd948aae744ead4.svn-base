@@ -1,0 +1,88 @@
+
+jorg.apache.commons.compress.archivers.cpio.CpioArchiveEntry#getHeaderPadCount(Ljava/nio/charset/Charset;)IÖ
+yC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveEntry.javaµ µ( "5*ø
+2
+∫ ∫($î
+ë
+
+∫% ∫()
+%1java.lang.String"__id*e
+
+__unknown_file (I*G=
+;org.apache.commons.compress.archivers.cpio.CpioArchiveEntry"
+nameus
+
+∫% ∫(2	
+%2int"java.lang.String#length()I*4
+
+__unknown_file (
+
+%1java.lang.String2length()âÜ
+
+∫ ∫(3	
+%3int"Qorg.apache.commons.compress.archivers.cpio.CpioArchiveEntry#getHeaderPadCount(J)I*[
+
+__unknown_file (?=
+;org.apache.commons.compress.archivers.cpio.CpioArchiveEntry*'
+
+__unknown_file (
+	
+%2int2getHeaderPadCount(J)"
+
+∫ ∫(4
+""*%
+4
+∑ ∑("
+
+∑ ∑(
+""*±
+5
+∂ ∂(î
+ë
+
+∂ ∂(
+%0java.lang.String"__id*e
+
+__unknown_file (I*G=
+;org.apache.commons.compress.archivers.cpio.CpioArchiveEntry"
+name*	
+2
+4
+1*ª
+1
+º º( î
+ë
+
+º! º(%
+%4java.lang.String"__id*e
+
+__unknown_file (I*G=
+;org.apache.commons.compress.archivers.cpio.CpioArchiveEntry"
+nameıÚ
+
+º! º(7
+%5byte[]"7java.lang.String#getBytes(Ljava/nio/charset/Charset;)[B*4
+
+__unknown_file (
+
+%4java.lang.String*A
+
+__unknown_file (%
+#
+charsetjava.nio.charset.Charset2$getBytes(Ljava/nio/charset/Charset;)ÑÅ
+
+º º(?	
+%6int"Qorg.apache.commons.compress.archivers.cpio.CpioArchiveEntry#getHeaderPadCount(J)I*[
+
+__unknown_file (?=
+;org.apache.commons.compress.archivers.cpio.CpioArchiveEntry*"
+
+__unknown_file (
+""2getHeaderPadCount(J)"
+
+º º(@
+"":1
+
+µ! µ(6#
+charsetjava.nio.charset.CharsetB?=
+;org.apache.commons.compress.archivers.cpio.CpioArchiveEntryHP

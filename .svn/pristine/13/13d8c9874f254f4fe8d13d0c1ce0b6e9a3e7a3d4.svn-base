@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#instance-init#
+java.util.zip.Inflater#instance-init#
+java.nio.ByteBuffer#allocate(I)Ljava/nio/ByteBuffer;
+java.util.zip.Inflater#<init>(Z)V

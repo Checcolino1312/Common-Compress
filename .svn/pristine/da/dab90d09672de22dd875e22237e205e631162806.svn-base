@@ -1,0 +1,10 @@
+org.apache.commons.compress.archivers.zip.X000A_NTFS#toString()Ljava/lang/String;
+java.lang.StringBuilder#instance-init#
+java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#<init>()V
+java.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#toString()Ljava/lang/String;
+==
+getModifyFileTime org.apache.commons.compress.archivers.zip.X000A_NTFS#getModifyFileTime()Ljava/nio/file/attribute/FileTime;
+getCreateFileTime org.apache.commons.compress.archivers.zip.X000A_NTFS#getCreateFileTime()Ljava/nio/file/attribute/FileTime;
+getAccessFileTime org.apache.commons.compress.archivers.zip.X000A_NTFS#getAccessFileTime()Ljava/nio/file/attribute/FileTime;

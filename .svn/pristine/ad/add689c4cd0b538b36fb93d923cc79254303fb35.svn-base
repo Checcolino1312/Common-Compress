@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.CodeAttribute#writeBody(Ljava/io/DataOutputStream;)V
+java.io.DataOutputStream#writeInt(I)V
+java.io.DataOutputStream#writeShort(I)V
+org.apache.commons.compress.harmony.unpack200.bytecode.ClassFileEntry#write(Ljava/io/DataOutputStream;)V

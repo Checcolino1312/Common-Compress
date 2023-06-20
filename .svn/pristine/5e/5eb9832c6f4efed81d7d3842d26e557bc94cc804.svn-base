@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.pack200.StreamBridge#getInput()Ljava/io/InputStream;
+==
+getInputView org.apache.commons.compress.compressors.pack200.StreamBridge#getInputView()Ljava/io/InputStream;

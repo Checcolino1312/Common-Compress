@@ -1,0 +1,33 @@
+
+=org.apache.commons.compress.utils.CountingInputStream#read()I}
+sC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/utils/CountingInputStream.java: :("3*Ú
+2= =(›⁄
+= =(
+
+%2void"?org.apache.commons.compress.utils.CountingInputStream#count(J)V*U
+
+__unknown_file (97
+5org.apache.commons.compress.utils.CountingInputStream* 
+
+__unknown_file (22count(J)*
+1*ú
+3; ;(ç
+ä
+; ;(
+%0java.io.InputStream"__id*]
+
+__unknown_file (A*?7
+5org.apache.commons.compress.utils.CountingInputStream"
+inus
+; ;(	
+%1int"java.io.InputStream#read()I*7
+
+__unknown_file (
+
+%0java.io.InputStream2read()*
+2
+1*!
+1? ?("
+? ?(
+""B97
+5org.apache.commons.compress.utils.CountingInputStreamHP

@@ -1,0 +1,82 @@
+
+forg.apache.commons.compress.archivers.sevenz.SevenZFile$ArchiveStatistics#toString()Ljava/lang/String;
+uC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZFile.javaž ž("1*é
+1
+Ÿ Ÿ("g
+e
+
+Ÿ Ÿ(4
+%0java.lang.String"__concat*
+
+Ÿ Ÿ("
+Archive with *
+
+Ÿ% Ÿ(4
+""x
+v
+
+Ÿ Ÿ(E
+%1java.lang.String"__concat*&
+
+Ÿ Ÿ(4
+
+%0java.lang.String*
+
+Ÿ7 Ÿ(E
+ entries in n
+l
+
+Ÿ Ÿ(W
+%2java.lang.String"__concat*&
+
+Ÿ Ÿ(E
+
+%1java.lang.String*
+
+ŸH Ÿ(W
+""†
+ƒ
+
+Ÿ  (-
+%3java.lang.String"__concat*&
+
+Ÿ Ÿ(W
+
+%2java.lang.String*+
+
+   (-
+ folders. Estimated size ñî
+
+ 0  (>
+
+%4long"Yorg.apache.commons.compress.archivers.sevenz.SevenZFile$ArchiveStatistics#estimateSize()J*i
+
+__unknown_file (MK
+Iorg.apache.commons.compress.archivers.sevenz.SevenZFile$ArchiveStatistics2estimateSize()n
+l
+
+Ÿ  (E
+%5java.lang.String"__concat*&
+
+Ÿ  (-
+
+%3java.lang.String*
+
+ 0  (E
+""p
+n
+
+Ÿ  (N
+%6java.lang.String"__concat*&
+
+Ÿ  (E
+
+%5java.lang.String*
+
+ H  (N
+ kB."&
+
+Ÿ  (O
+
+%6java.lang.StringBMK
+Iorg.apache.commons.compress.archivers.sevenz.SevenZFile$ArchiveStatisticsH

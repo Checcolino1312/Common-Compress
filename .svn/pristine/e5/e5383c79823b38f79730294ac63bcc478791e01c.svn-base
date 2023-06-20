@@ -1,0 +1,7 @@
+org.apache.commons.compress.harmony.pack200.PackingUtils#config(Lorg/apache/commons/compress/harmony/pack200/PackingOptions;)V
+java.util.logging.SimpleFormatter#instance-init#
+java.util.logging.SimpleFormatter#<init>()V
+java.util.logging.FileHandler#<init>(Ljava/lang/String;Z)V
+java.util.logging.FileHandler#instance-init#
+==
+setVerbose org.apache.commons.compress.harmony.pack200.PackingUtils$PackingLogger#setVerbose(Z)V

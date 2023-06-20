@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.GeneralPurposeBit#encode([BI)V
+org.apache.commons.compress.archivers.zip.ZipShort#putShort(I[BI)V

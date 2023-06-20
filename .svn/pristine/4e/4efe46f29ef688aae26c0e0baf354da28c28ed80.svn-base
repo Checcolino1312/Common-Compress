@@ -1,0 +1,118 @@
+
+sorg.apache.commons.compress.archivers.zip.ZipFile#getEntriesInPhysicalOrder(Ljava/lang/String;)Ljava/lang/Iterable;o
+cC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.javaÖ% Ö(>"3*›
+2
+â  â(*ËÂ
+
+â  â(EA
+%3;org.apache.commons.compress.archivers.zip.ZipArchiveEntry[]"Djava.util.LinkedList#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*@
+
+__unknown_file ($
+"
+
+linkedListjava.util.LinkedList*n
+
+__unknown_file (R
+P
+entriesOfThatName;org.apache.commons.compress.archivers.zip.ZipArchiveEntry[]2toArray([Ljava/lang/Object;)»
+≈
+
+â â(EP
+entriesOfThatName;org.apache.commons.compress.archivers.zip.ZipArchiveEntry[]"__id*_
+
+__unknown_file (C
+A
+%3;org.apache.commons.compress.archivers.zip.ZipArchiveEntry[]T
+R
+
+ä+ ä(;
+%4java.util.Comparator"__id*"
+
+__unknown_file (
+""∫
+∑
+
+ä ä(<
+
+%5void"Ajava.util.Arrays#sort([Ljava/lang/Object;Ljava/util/Comparator;)V*0
+
+__unknown_file ("
+java.util.Arrays*n
+
+__unknown_file (R
+P
+entriesOfThatName;org.apache.commons.compress.archivers.zip.ZipArchiveEntry[]*8
+
+__unknown_file (
+
+%4java.util.Comparator*
+1*É
+3
+Ü. Ü(={
+y
+
+Ü. Ü(IA
+%0;org.apache.commons.compress.archivers.zip.ZipArchiveEntry[]"__id*"
+
+__unknown_file (
+""»
+≈
+
+Ü Ü(JP
+entriesOfThatName;org.apache.commons.compress.archivers.zip.ZipArchiveEntry[]"__id*_
+
+__unknown_file (C
+A
+%0;org.apache.commons.compress.archivers.zip.ZipArchiveEntry[]ä
+á
+
+á7 á(>
+%1java.util.Map"__id*^
+
+__unknown_file (B*@3
+1org.apache.commons.compress.archivers.zip.ZipFile"	
+nameMap†
+ù
+
+á7 á(H
+%2java.util.LinkedList"__mapGet*1
+
+__unknown_file (
+
+%1java.util.Map*6
+
+__unknown_file (
+
+namejava.lang.Stringr
+p
+
+á á(I"
+
+linkedListjava.util.LinkedList"__id*8
+
+__unknown_file (
+
+%2java.util.LinkedList*
+2
+1*Ω
+1
+å å(Ö
+Ç
+
+å å(/
+%6java.util.List"<java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;*0
+
+__unknown_file ("
+java.util.Arrays*n
+
+__unknown_file (R
+P
+entriesOfThatName;org.apache.commons.compress.archivers.zip.ZipArchiveEntry[]"$
+
+å å(0
+
+%6java.util.List:&
+
+Ö? Ö(P
+namejava.lang.StringB53
+1org.apache.commons.compress.archivers.zip.ZipFileH

@@ -1,0 +1,35 @@
+
+¿org.apache.commons.compress.archivers.zip.StreamCompressor#create(Lorg/apache/commons/compress/parallel/ScatterGatherBackingStore;)Lorg/apache/commons/compress/archivers/zip/StreamCompressor;„
+xC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/StreamCompressor.javaŸ# Ÿ()"1*¦
+1
+   (C
+A
+
+   (2	
+%0int"__id*"
+
+__unknown_file (
+""ý
+ú
+
+   (7@
+%1:org.apache.commons.compress.archivers.zip.StreamCompressor"Àorg.apache.commons.compress.archivers.zip.StreamCompressor#create(ILorg/apache/commons/compress/parallel/ScatterGatherBackingStore;)Lorg/apache/commons/compress/archivers/zip/StreamCompressor;*Z
+
+__unknown_file (>"<
+:org.apache.commons.compress.archivers.zip.StreamCompressor*'
+
+__unknown_file (
+	
+%0int*b
+
+__unknown_file (F
+D
+bs>org.apache.commons.compress.parallel.ScatterGatherBackingStore"P
+
+   (8B
+@
+%1:org.apache.commons.compress.archivers.zip.StreamCompressor:R
+
+Ÿ* Ÿ(LD
+bs>org.apache.commons.compress.parallel.ScatterGatherBackingStoreB>"<
+:org.apache.commons.compress.archivers.zip.StreamCompressorH

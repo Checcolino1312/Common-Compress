@@ -1,0 +1,33 @@
+
+Ãorg.apache.commons.compress.compressors.CompressorStreamFactory#createCompressorInputStream(Ljava/lang/String;Ljava/io/InputStream;)Lorg/apache/commons/compress/compressors/CompressorInputStream;}
+qC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/CompressorStreamFactory.java¢! ¢(<"1*¿
+1
+¤ ¤(*ØÕ
+
+¤ ¤(LC
+%0=org.apache.commons.compress.compressors.CompressorInputStream"Äorg.apache.commons.compress.compressors.CompressorStreamFactory#createCompressorInputStream(Ljava/lang/String;Ljava/io/InputStream;Z)Lorg/apache/commons/compress/compressors/CompressorInputStream;*_
+
+__unknown_file (CA
+?org.apache.commons.compress.compressors.CompressorStreamFactory*6
+
+__unknown_file (
+
+namejava.lang.String*7
+
+__unknown_file (
+
+injava.io.InputStream*"
+
+__unknown_file (
+""2EcreateCompressorInputStream(Ljava/lang/String;Ljava/io/InputStream;Z)"S
+
+¤ ¤(ME
+C
+%0=org.apache.commons.compress.compressors.CompressorInputStream:&
+
+¢= ¢(O
+namejava.lang.String:'
+
+¢P ¢(d
+injava.io.InputStreamBCA
+?org.apache.commons.compress.compressors.CompressorStreamFactoryH

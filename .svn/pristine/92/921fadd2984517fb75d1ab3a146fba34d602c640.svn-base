@@ -1,0 +1,41 @@
+
+aorg.apache.commons.compress.archivers.zip.ResourceAlignmentExtraField#getCentralDirectoryData()[Bé
+ÉC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ResourceAlignmentExtraField.javac c()"2"3*Z
+2de d(fF
+D
+de d(f	
+%0int"__id*'
+
+__unknown_file (
+	
+%2int*
+1*ù
+3dB d(bA
+?
+dB d(b	
+%1int"__id*"
+
+__unknown_file (
+""F
+D
+dB d(b	
+%0int"__id*'
+
+__unknown_file (
+	
+%1int*
+1*Å
+1d! d(g’
+“
+d d(h
+%3byte[]"@org.apache.commons.compress.archivers.zip.ZipShort#getBytes(I)[B*R
+
+__unknown_file (6"4
+2org.apache.commons.compress.archivers.zip.ZipShort*"
+
+__unknown_file (
+"""
+d d(i
+
+%3byte[]BIG
+Eorg.apache.commons.compress.archivers.zip.ResourceAlignmentExtraFieldH

@@ -1,0 +1,609 @@
+
+~org.apache.commons.compress.archivers.tar.TarFile#getNextTarEntry()Lorg/apache/commons/compress/archivers/tar/TarArchiveEntry;o
+cC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/tar/TarFile.java– –(+"37*ø
+24
+Í Í(π
+∂
+
+Í Í(@
+%199org.apache.commons.compress.archivers.tar.TarArchiveEntry"__id*`
+
+__unknown_file (D*B3
+1org.apache.commons.compress.archivers.tar.TarFile"
+	currEntryÊ„
+
+Í Í(*
+%20boolean"Oorg.apache.commons.compress.archivers.tar.TarArchiveEntry#isGNULongLinkEntry()Z*^
+
+__unknown_file (B
+@
+%199org.apache.commons.compress.archivers.tar.TarArchiveEntry2isGNULongLinkEntry()*
+20
+23*“
+25
+Â Â(pπ
+∂
+
+Â Â(pB3
+1org.apache.commons.compress.archivers.tar.TarFile"
+	currEntry"__id*^
+
+__unknown_file (B
+@
+%159org.apache.commons.compress.archivers.tar.TarArchiveEntry*
+24*Ì
+28
+ÂQ Â(\∑
+¥
+
+ÂQ Â(\<
+%145org.apache.commons.compress.archivers.zip.ZipEncoding"__id*b
+
+__unknown_file (F*D3
+1org.apache.commons.compress.archivers.tar.TarFile"
+zipEncodingåâ
+
+Â Â(+@
+%159org.apache.commons.compress.archivers.tar.TarArchiveEntry"9org.apache.commons.compress.archivers.tar.TarArchiveEntryã
+à
+
+Â Â(p
+%16"çorg.apache.commons.compress.archivers.tar.TarArchiveEntry#<init>(Ljava/util/Map;[BLorg/apache/commons/compress/archivers/zip/ZipEncoding;ZJ)V*^
+
+__unknown_file (B
+@
+%159org.apache.commons.compress.archivers.tar.TarArchiveEntry*2
+
+__unknown_file (
+
+%12java.util.Map*+
+
+__unknown_file (
+
+%13byte[]*Z
+
+__unknown_file (>
+<
+%145org.apache.commons.compress.archivers.zip.ZipEncoding*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+25*∂
+29
+‰ ‰(5î
+ë
+
+Â, Â(<
+%12java.util.Map"__id*g
+
+__unknown_file (K*I3
+1org.apache.commons.compress.archivers.tar.TarFile"
+globalPaxHeadersÜÉ
+
+Â> Â(O
+%13byte[]"java.nio.ByteBuffer#array()[B*>
+
+__unknown_file ("
+ 
+	headerBufjava.nio.ByteBuffer2array()*
+28*Ê
+30
+‰" ‰()£
+†
+
+‰" ‰(),
+%10%java.nio.channels.SeekableByteChannel"__id*^
+
+__unknown_file (B*@3
+1org.apache.commons.compress.archivers.tar.TarFile"	
+archiveß§
+
+‰" ‰(4
+%11long"1java.nio.channels.SeekableByteChannel#position()J*J
+
+__unknown_file (.
+,
+%10%java.nio.channels.SeekableByteChannel2
+position()*
+29*§
+32
+ﬂ ﬂ(|
+z
+
+ﬂ ﬂ(B3
+1org.apache.commons.compress.archivers.tar.TarFile"
+	currEntry"__id*"
+
+__unknown_file (
+"""
+
+‡ ‡(
+""*ﬂ
+33
+‹% ‹(.—
+Œ
+
+‹% ‹(0
+%9java.nio.ByteBuffer"Rorg.apache.commons.compress.archivers.tar.TarFile#getRecord()Ljava/nio/ByteBuffer;*Q
+
+__unknown_file (53
+1org.apache.commons.compress.archivers.tar.TarFileo
+m
+
+‹ ‹(1 
+	headerBufjava.nio.ByteBuffer"__id*7
+
+__unknown_file (
+
+%9java.nio.ByteBuffer*
+30
+32*Ø
+11
+ã ã(π
+∂
+
+ã ã(@
+%429org.apache.commons.compress.archivers.tar.TarArchiveEntry"__id*`
+
+__unknown_file (D*B3
+1org.apache.commons.compress.archivers.tar.TarFile"
+	currEntryÿ’
+
+ã ã('
+%43boolean"Horg.apache.commons.compress.archivers.tar.TarArchiveEntry#isPaxHeader()Z*^
+
+__unknown_file (B
+@
+%429org.apache.commons.compress.archivers.tar.TarArchiveEntry2isPaxHeader()*
+8
+9*õ
+34
+◊ ◊(∏
+µ
+
+◊  ◊()?
+%29org.apache.commons.compress.archivers.tar.TarArchiveEntry"__id*`
+
+__unknown_file (D*B3
+1org.apache.commons.compress.archivers.tar.TarFile"
+	currEntry◊‘
+
+◊  ◊(9
+
+%3long"Jorg.apache.commons.compress.archivers.tar.TarArchiveEntry#getDataOffset()J*]
+
+__unknown_file (A
+?
+%29org.apache.commons.compress.archivers.tar.TarArchiveEntry2getDataOffset()∏
+µ
+
+◊< ◊(E?
+%49org.apache.commons.compress.archivers.tar.TarArchiveEntry"__id*`
+
+__unknown_file (D*B3
+1org.apache.commons.compress.archivers.tar.TarFile"
+	currEntryÀ»
+
+◊< ◊(O
+
+%5long"Dorg.apache.commons.compress.archivers.tar.TarArchiveEntry#getSize()J*]
+
+__unknown_file (A
+?
+%49org.apache.commons.compress.archivers.tar.TarArchiveEntry2	getSize()›
+⁄
+
+◊ ◊(P
+
+%6void"Iorg.apache.commons.compress.archivers.tar.TarFile#repositionForwardTo(J)V*Q
+
+__unknown_file (53
+1org.apache.commons.compress.archivers.tar.TarFile*"
+
+__unknown_file (
+""À
+»
+
+ÿ ÿ(4
+
+%7void"[org.apache.commons.compress.archivers.tar.TarFile#throwExceptionIfPositionIsNotInArchive()V*Q
+
+__unknown_file (53
+1org.apache.commons.compress.archivers.tar.TarFile∂
+≥
+
+Ÿ Ÿ(
+
+%8void"Forg.apache.commons.compress.archivers.tar.TarFile#skipRecordPadding()V*Q
+
+__unknown_file (53
+1org.apache.commons.compress.archivers.tar.TarFile*
+33*’
+35
+’ ’(∏
+µ
+
+’ ’(?
+%19org.apache.commons.compress.archivers.tar.TarArchiveEntry"__id*`
+
+__unknown_file (D*B3
+1org.apache.commons.compress.archivers.tar.TarFile"
+	currEntry*
+33
+34*”
+13
+á á( ∫
+∑
+
+á á("
+%41void"Iorg.apache.commons.compress.archivers.tar.TarFile#readGlobalPaxHeaders()V*Q
+
+__unknown_file (53
+1org.apache.commons.compress.archivers.tar.TarFile*
+11*&
+36
+“ “("
+
+“ “(
+""*Ω
+14
+Ü Ü(π
+∂
+
+Ü Ü(@
+%399org.apache.commons.compress.archivers.tar.TarArchiveEntry"__id*`
+
+__unknown_file (D*B3
+1org.apache.commons.compress.archivers.tar.TarFile"
+	currEntry‰·
+
+Ü Ü()
+%40boolean"Norg.apache.commons.compress.archivers.tar.TarArchiveEntry#isGlobalPaxHeader()Z*^
+
+__unknown_file (B
+@
+%399org.apache.commons.compress.archivers.tar.TarArchiveEntry2isGlobalPaxHeader()*
+13
+11*◊
+37
+— —(∫∑
+
+— —(
+%0boolean"<org.apache.commons.compress.archivers.tar.TarFile#isAtEOF()Z*Q
+
+__unknown_file (53
+1org.apache.commons.compress.archivers.tar.TarFile2	isAtEOF()*
+35
+36*Ô
+15
+Ç Ç(π
+∂
+
+Ç Ç(@
+%369org.apache.commons.compress.archivers.tar.TarArchiveEntry"__id*`
+
+__unknown_file (D*B3
+1org.apache.commons.compress.archivers.tar.TarFile"
+	currEntryp
+n
+
+Ç" Ç(,
+%37java.lang.String"__concat*(
+
+Ç" Ç(&
+
+namejava.lang.String*
+
+Ç) Ç(,
+/®•
+
+Ç Ç(-
+%38void"Vorg.apache.commons.compress.archivers.tar.TarArchiveEntry#setName(Ljava/lang/String;)V*^
+
+__unknown_file (B
+@
+%369org.apache.commons.compress.archivers.tar.TarArchiveEntry*5
+
+__unknown_file (
+
+%37java.lang.String2setName(Ljava/lang/String;)*
+14*Â
+16
+Å, Å(0»≈
+
+Å, Å(>
+%35boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*6
+
+__unknown_file (
+
+namejava.lang.String*!
+
+__unknown_file (
+/2endsWith(Ljava/lang/String;)*
+14
+15*◊
+17
+ˇ  ˇ(+∑
+¥
+
+ˇ  ˇ(+<
+%295org.apache.commons.compress.archivers.zip.ZipEncoding"__id*b
+
+__unknown_file (F*D3
+1org.apache.commons.compress.archivers.tar.TarFile"
+zipEncodingöó
+
+ˇ  ˇ(@
+%30java.lang.String"Rorg.apache.commons.compress.archivers.zip.ZipEncoding#decode([B)Ljava/lang/String;*Z
+
+__unknown_file (>
+<
+%295org.apache.commons.compress.archivers.zip.ZipEncoding*4
+
+__unknown_file (
+
+longNameDatabyte[]2
+decode([B)e
+c
+
+ˇ ˇ(A
+namejava.lang.String"__id*5
+
+__unknown_file (
+
+%30java.lang.Stringπ
+∂
+
+Ä Ä(@
+%319org.apache.commons.compress.archivers.tar.TarArchiveEntry"__id*`
+
+__unknown_file (D*B3
+1org.apache.commons.compress.archivers.tar.TarFile"
+	currEntry©¶
+
+Ä Ä(#
+%32void"Vorg.apache.commons.compress.archivers.tar.TarArchiveEntry#setName(Ljava/lang/String;)V*^
+
+__unknown_file (B
+@
+%319org.apache.commons.compress.archivers.tar.TarArchiveEntry*6
+
+__unknown_file (
+
+namejava.lang.String2setName(Ljava/lang/String;)π
+∂
+
+Å Å(@
+%339org.apache.commons.compress.archivers.tar.TarArchiveEntry"__id*`
+
+__unknown_file (D*B3
+1org.apache.commons.compress.archivers.tar.TarFile"
+	currEntryÿ’
+
+Å Å('
+%34boolean"Horg.apache.commons.compress.archivers.tar.TarArchiveEntry#isDirectory()Z*^
+
+__unknown_file (B
+@
+%339org.apache.commons.compress.archivers.tar.TarArchiveEntry2isDirectory()*
+14
+16*&
+18
+˚ ˚("
+
+˚ ˚(
+""*∞
+19
+ˆ( ˆ(7∏
+µ
+
+ˆ( ˆ(9
+%28byte[]"Eorg.apache.commons.compress.archivers.tar.TarFile#getLongNameData()[B*Q
+
+__unknown_file (53
+1org.apache.commons.compress.archivers.tar.TarFileY
+W
+
+ˆ ˆ(:
+longNameDatabyte[]"__id*+
+
+__unknown_file (
+
+%28byte[]*
+17
+18*ù
+1
+ò ò(π
+∂
+
+ò ò(@
+%559org.apache.commons.compress.archivers.tar.TarArchiveEntry"__id*`
+
+__unknown_file (D*B3
+1org.apache.commons.compress.archivers.tar.TarFile"
+	currEntry"P
+
+ò ò(B
+@
+%559org.apache.commons.compress.archivers.tar.TarArchiveEntry*Õ
+2
+ï ï(∂
+≥
+
+ï ï(
+%54void"Eorg.apache.commons.compress.archivers.tar.TarFile#readOldGNUSparse()V*Q
+
+__unknown_file (53
+1org.apache.commons.compress.archivers.tar.TarFile*
+1*¥
+3
+î î(π
+∂
+
+î î(@
+%529org.apache.commons.compress.archivers.tar.TarArchiveEntry"__id*`
+
+__unknown_file (D*B3
+1org.apache.commons.compress.archivers.tar.TarFile"
+	currEntryﬁ€
+
+î î(&
+%53boolean"Korg.apache.commons.compress.archivers.tar.TarArchiveEntry#isOldGNUSparse()Z*^
+
+__unknown_file (B
+@
+%529org.apache.commons.compress.archivers.tar.TarArchiveEntry2isOldGNUSparse()*
+2
+1*î
+6
+é é(-î
+ë
+
+é. é(>
+%47java.util.Map"__id*g
+
+__unknown_file (K*I3
+1org.apache.commons.compress.archivers.tar.TarFile"
+globalPaxHeadersò
+ï
+
+é@ é(S
+%48java.util.List"__id*j
+
+__unknown_file (N*L3
+1org.apache.commons.compress.archivers.tar.TarFile"
+globalSparseHeadersÀ
+»
+
+é é(T
+%49void"qorg.apache.commons.compress.archivers.tar.TarFile#applyPaxHeadersToCurrentEntry(Ljava/util/Map;Ljava/util/List;)V*Q
+
+__unknown_file (53
+1org.apache.commons.compress.archivers.tar.TarFile*2
+
+__unknown_file (
+
+%47java.util.Map*3
+
+__unknown_file (
+
+%48java.util.List*
+3*ß
+8
+ç ç((î
+ë
+
+ç ç((
+%45java.util.Map"__id*g
+
+__unknown_file (K*I3
+1org.apache.commons.compress.archivers.tar.TarFile"
+globalPaxHeaderswu
+
+ç ç(2
+%46boolean"java.util.Map#isEmpty()Z*2
+
+__unknown_file (
+
+%45java.util.Map2	isEmpty()*
+3
+6*«
+9
+å å(∞
+≠
+
+å å(
+%44void"?org.apache.commons.compress.archivers.tar.TarFile#paxHeaders()V*Q
+
+__unknown_file (53
+1org.apache.commons.compress.archivers.tar.TarFile*
+3*ø
+20
+ı ı(π
+∂
+
+ı ı(@
+%269org.apache.commons.compress.archivers.tar.TarArchiveEntry"__id*`
+
+__unknown_file (D*B3
+1org.apache.commons.compress.archivers.tar.TarFile"
+	currEntryÊ„
+
+ı ı(*
+%27boolean"Oorg.apache.commons.compress.archivers.tar.TarArchiveEntry#isGNULongNameEntry()Z*^
+
+__unknown_file (B
+@
+%269org.apache.commons.compress.archivers.tar.TarArchiveEntry2isGNULongNameEntry()*
+14
+19*‹
+21
+Ú Ú(π
+∂
+
+Ú Ú(@
+%229org.apache.commons.compress.archivers.tar.TarArchiveEntry"__id*`
+
+__unknown_file (D*B3
+1org.apache.commons.compress.archivers.tar.TarFile"
+	currEntry∑
+¥
+
+Ú" Ú(-<
+%235org.apache.commons.compress.archivers.zip.ZipEncoding"__id*b
+
+__unknown_file (F*D3
+1org.apache.commons.compress.archivers.tar.TarFile"
+zipEncodingöó
+
+Ú" Ú(B
+%24java.lang.String"Rorg.apache.commons.compress.archivers.zip.ZipEncoding#decode([B)Ljava/lang/String;*Z
+
+__unknown_file (>
+<
+%235org.apache.commons.compress.archivers.zip.ZipEncoding*4
+
+__unknown_file (
+
+longLinkDatabyte[]2
+decode([B)∞≠
+
+Ú Ú(C
+%25void"Zorg.apache.commons.compress.archivers.tar.TarArchiveEntry#setLinkName(Ljava/lang/String;)V*^
+
+__unknown_file (B
+@
+%229org.apache.commons.compress.archivers.tar.TarArchiveEntry*5
+
+__unknown_file (
+
+%24java.lang.String2setLinkName(Ljava/lang/String;)*
+20*&
+22
+ ("
+
+ (
+""*∞
+23
+Î( Î(7∏
+µ
+
+Î( Î(9
+%21byte[]"Eorg.apache.commons.compress.archivers.tar.TarFile#getLongNameData()[B*Q
+
+__unknown_file (53
+1org.apache.commons.compress.archivers.tar.TarFileY
+W
+
+Î Î(:
+longLinkDatabyte[]"__id*+
+
+__unknown_file (
+
+%21byte[]*
+21
+22B53
+1org.apache.commons.compress.archivers.tar.TarFile

@@ -1,0 +1,26 @@
+
+borg.apache.commons.compress.harmony.pack200.NewAttributeBands#readInteger(ILjava/io/InputStream;)I{
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/NewAttributeBands.java† †("10"1*œ
+10
+Š Š(€~
+
+Š' Š(9	
+%0int"java.io.InputStream#read()I*@
+
+__unknown_file ($
+"
+inputStreamjava.io.InputStream2read()*
+10
+1*%
+1
+– –("
+
+– –(
+"": 
+
+__unknown_file (
+"":0
+
+†) †(F"
+inputStreamjava.io.InputStreamBA?
+=org.apache.commons.compress.harmony.pack200.NewAttributeBandsP

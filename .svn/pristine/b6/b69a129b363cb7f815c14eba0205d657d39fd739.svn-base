@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader#parseCentralDirectoryFormat([BII)V
+org.apache.commons.compress.archivers.zip.ZipShort#getValue([BI)I
+org.apache.commons.compress.archivers.zip.PKWareExtraHeader$HashAlgorithm#getAlgorithmByCode(I)Lorg/apache/commons/compress/archivers/zip/PKWareExtraHeader$HashAlgorithm;
+org.apache.commons.compress.archivers.zip.ZipLong#getValue([BI)J
+org.apache.commons.compress.archivers.zip.PKWareExtraHeader$EncryptionAlgorithm#getAlgorithmByCode(I)Lorg/apache/commons/compress/archivers/zip/PKWareExtraHeader$EncryptionAlgorithm;
+org.apache.commons.compress.archivers.zip.PKWareExtraHeader#assertMinimalLength(II)V

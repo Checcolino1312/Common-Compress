@@ -1,0 +1,43 @@
+
+`org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStream$Pair#literalLength()I†
+|C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/lz4/BlockLZ4CompressorOutputStream.javaY Y(!"1*Š
+1Z Z(©
+¦
+Z Z(
+%0java.util.Deque"__id*}
+
+__unknown_file (a*_Q
+Oorg.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStream$Pair"
+
+literals£ 
+Z Z($
+%1java.util.stream.Stream"6java.util.Collection#stream()Ljava/util/stream/Stream;*3
+
+__unknown_file (
+
+%0java.util.Deque2stream()Ë
+È
+Z. Z(;&
+%2 java.util.function.ToIntFunction"__declareFunction*€
+
+__unknown_file (db
+`__sonar_lambda_7$org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStream$PairÂ¿
+Z Z(< 
+%3java.util.stream.IntStream"`java.util.stream.Stream#mapToInt(Ljava/util/function/ToIntFunction;)Ljava/util/stream/IntStream;*;
+
+__unknown_file (
+
+%1java.util.stream.Stream*D
+
+__unknown_file ((
+&
+%2 java.util.function.ToIntFunction2,mapToInt(Ljava/util/function/ToIntFunction;)
+Z Z(B	
+%4int"!java.util.stream.IntStream#sum()I*>
+
+__unknown_file ("
+ 
+%3java.util.stream.IntStream2sum()"
+Z Z(C
+""BSQ
+Oorg.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStream$PairP

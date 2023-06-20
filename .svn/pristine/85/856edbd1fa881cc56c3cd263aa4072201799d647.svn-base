@@ -1,0 +1,18 @@
+
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getUnparseableExtraFieldData()Lorg/apache/commons/compress/archivers/zip/UnparseableExtraFieldData;w
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.javaü% ü(A"1*¾
+1
+ı ı(Ñ
+Î
+
+ı ı(I
+%0Corg.apache.commons.compress.archivers.zip.UnparseableExtraFieldData"__id*o
+
+__unknown_file (S*Q;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry"
+unparseableExtra"Y
+
+ı ı( K
+I
+%0Corg.apache.commons.compress.archivers.zip.UnparseableExtraFieldDataB=;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntryH

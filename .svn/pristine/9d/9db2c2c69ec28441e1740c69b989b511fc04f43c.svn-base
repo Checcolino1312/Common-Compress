@@ -1,0 +1,8 @@
+org.apache.commons.compress.harmony.pack200.BHSDCodec#calculateLargest()J
+org.apache.commons.compress.harmony.pack200.BHSDCodec#largest()J
+org.apache.commons.compress.harmony.pack200.BHSDCodec#instance-init#
+org.apache.commons.compress.harmony.pack200.BHSDCodec#cardinality()J
+java.lang.Error#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.harmony.pack200.BHSDCodec#<init>(II)V
+java.lang.Error#instance-init#
+java.lang.Math#min(JJ)J

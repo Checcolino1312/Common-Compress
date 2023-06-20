@@ -1,0 +1,24 @@
+
+¥org.apache.commons.compress.archivers.zip.Zip64RequiredException#getEntryTooBigMessage(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Ljava/lang/String;ˆ
+~C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/Zip64RequiredException.java5 5('"1*ª
+16 6(æã
+6 6(
+%0java.lang.String"Uorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getName()Ljava/lang/String;*]
+
+__unknown_file (A
+?
+ze9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2	getName()‹
+ˆ
+6 6(D
+%1java.lang.String"__concat*$
+6 6(
+
+%0java.lang.String*4
+6 6(D(&
+$'s size exceeds the limit of 4GByte."$
+6 6(E
+
+%1java.lang.String:K
+5( 5(@?
+ze9org.apache.commons.compress.archivers.zip.ZipArchiveEntryBD"B
+@org.apache.commons.compress.archivers.zip.Zip64RequiredException

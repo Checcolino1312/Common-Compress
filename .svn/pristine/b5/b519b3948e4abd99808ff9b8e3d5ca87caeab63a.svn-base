@@ -1,0 +1,106 @@
+
+oorg.apache.commons.compress.archivers.sevenz.SevenZFile#readAllOrBits(Ljava/nio/ByteBuffer;I)Ljava/util/BitSet;Å
+uC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZFile.java‹ ‹( "7* 
+2
+Â Â(Õ
+ 
+
+Â Â()
+%4java.util.BitSet"jorg.apache.commons.compress.archivers.sevenz.SevenZFile#readBits(Ljava/nio/ByteBuffer;I)Ljava/util/BitSet;*W
+
+__unknown_file (;9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBuffer*"
+
+__unknown_file (
+""d
+b
+
+Â Â()
+bitsjava.util.BitSet"__id*4
+
+__unknown_file (
+
+%4java.util.BitSet*
+1*◊
+4
+‚ ‚(Ω∫
+
+‚ ‚(!
+
+%3void"java.util.BitSet#set(IZ)V*6
+
+__unknown_file (
+
+bitsjava.util.BitSet*"
+
+__unknown_file (
+""* 
+
+__unknown_file (22set(IZ)*
+4
+1*∆
+6
+‡ ‡("86
+
+‡ ‡(
+%1java.util.BitSet"java.util.BitSetå
+â
+
+‡ ‡(#
+%2"java.util.BitSet#<init>(I)V*4
+
+__unknown_file (
+
+%1java.util.BitSet*"
+
+__unknown_file (
+""d
+b
+
+‡ ‡(#
+bitsjava.util.BitSet"__id*4
+
+__unknown_file (
+
+%1java.util.BitSet*
+4
+1*ˇ
+7
+›" ›(1ë
+é
+
+›" ›(9	
+%0int"_org.apache.commons.compress.archivers.sevenz.SevenZFile#getUnsignedByte(Ljava/nio/ByteBuffer;)I*W
+
+__unknown_file (;"9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBufferR
+P
+
+ﬁ ﬁ(
+bitsjava.util.BitSet"__id*"
+
+__unknown_file (
+""*
+2
+6*9
+1
+Á Á("(
+
+Á Á(
+
+bitsjava.util.BitSet:+
+
+‹! ‹(9
+headerjava.nio.ByteBuffer: 
+
+__unknown_file (
+""B;9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile

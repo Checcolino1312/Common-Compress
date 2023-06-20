@@ -1,0 +1,38 @@
+
+Zorg.apache.commons.compress.archivers.zip.ZipArchiveInputStream$BoundedInputStream#read()I{
+qC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.javaw w("2"1*!
+2y y("
+y y(
+""*°
+1{ {(!ª
+§
+{ {(!
+%0java.io.InputStream"__id*z
+
+__unknown_file (^*\T
+Rorg.apache.commons.compress.archivers.zip.ZipArchiveInputStream$BoundedInputStream"
+inus
+{ {((	
+%1int"java.io.InputStream#read()I*7
+
+__unknown_file (
+
+%0java.io.InputStream2read()ýú
+} }(
+
+%2void"Borg.apache.commons.compress.archivers.ArchiveInputStream#count(I)V*r
+
+__unknown_file (VT
+Rorg.apache.commons.compress.archivers.zip.ZipArchiveInputStream$BoundedInputStream* 
+
+__unknown_file (22count(I)è
+å
+~ ~(R
+%3Lorg.apache.commons.compress.archivers.zip.ZipArchiveInputStream$CurrentEntry"__id*
+
+__unknown_file (c*aT
+Rorg.apache.commons.compress.archivers.zip.ZipArchiveInputStream$BoundedInputStream"	
+current"
+ (
+""BVT
+Rorg.apache.commons.compress.archivers.zip.ZipArchiveInputStream$BoundedInputStreamHP

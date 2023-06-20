@@ -1,0 +1,10 @@
+org.apache.commons.compress.harmony.pack200.ClassBands#removeCurrentClass()V
+org.apache.commons.compress.harmony.pack200.ClassBands#removeClassSourceFile()V
+org.apache.commons.compress.harmony.pack200.ClassBands#removeFieldFlags()V
+org.apache.commons.compress.harmony.pack200.ClassBands#clearTemporaryFieldsAndMethods()V
+org.apache.commons.compress.harmony.pack200.ClassBands#removeClassRVAAndRIABands()V
+org.apache.commons.compress.harmony.pack200.ClassBands#decrementIndexIfGreaterThanZero()V
+org.apache.commons.compress.harmony.pack200.ClassBands#removeMethodFlags()V
+org.apache.commons.compress.harmony.pack200.ClassBands#removeClassEnclosingMethod()V
+org.apache.commons.compress.harmony.pack200.ClassBands#removeClassSignature()V
+org.apache.commons.compress.harmony.pack200.ClassBands#resetClassProperties()V

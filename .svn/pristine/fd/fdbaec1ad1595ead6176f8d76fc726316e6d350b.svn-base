@@ -1,0 +1,70 @@
+
+Uorg.apache.commons.compress.archivers.tar.TarArchiveEntry#equals(Ljava/lang/Object;)Zƒ
+wC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.javaÍ Í("startingBlock*%
+2
+Ï Ï("
+
+Ï Ï(
+""*î
+3
+Î Î("»¸
+
+Î Î($
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntry2
+getClass()–“
+
+Î( Î(5
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*4
+
+__unknown_file (
+
+itjava.lang.Object2
+getClass()*
+2
+1*‹
+startingBlock
+Í Í(*‹
+ˆ
+
+Ì Ì(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*4
+
+__unknown_file (
+
+itjava.lang.ObjectX
+V
+
+Í' Í()
+itjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%3*
+2
+3*œ
+1
+Ñ Ñ(ôñ
+
+Ñ Ñ(+
+%2boolean"~org.apache.commons.compress.archivers.tar.TarArchiveEntry#equals(Lorg/apache/commons/compress/archivers/tar/TarArchiveEntry;)Z*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntry*4
+
+__unknown_file (
+
+itjava.lang.Object2Cequals(Lorg/apache/commons/compress/archivers/tar/TarArchiveEntry;)"
+
+Ñ Ñ(,
+"":$
+
+Í Í()
+itjava.lang.ObjectB=;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntryHP

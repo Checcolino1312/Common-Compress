@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#getNextEntry()Lorg/apache/commons/compress/archivers/ArchiveEntry;
+==
+getNextCPIOEntry org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#getNextCPIOEntry()Lorg/apache/commons/compress/archivers/cpio/CpioArchiveEntry;

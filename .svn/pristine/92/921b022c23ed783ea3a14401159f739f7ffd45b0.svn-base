@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#checkBounds(IILjava/lang/String;)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V

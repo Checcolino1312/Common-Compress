@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.NioZipEncoding#newEncoder()Ljava/nio/charset/CharsetEncoder;
+java.nio.charset.CharsetEncoder#replaceWith([B)Ljava/nio/charset/CharsetEncoder;
+java.nio.charset.CharsetEncoder#onUnmappableCharacter(Ljava/nio/charset/CodingErrorAction;)Ljava/nio/charset/CharsetEncoder;
+java.nio.charset.CharsetEncoder#onMalformedInput(Ljava/nio/charset/CodingErrorAction;)Ljava/nio/charset/CharsetEncoder;

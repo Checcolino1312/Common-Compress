@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.ar.ArArchiveOutputStream#write(Ljava/lang/String;)J
+java.lang.String#getBytes(Ljava/nio/charset/Charset;)[B

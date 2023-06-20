@@ -1,0 +1,25 @@
+
+borg.apache.commons.compress.harmony.unpack200.bytecode.ClassConstantPool#entries()Ljava/util/List;Ñ
+zC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/ClassConstantPool.javaw  w('"1*Ø
+1x x(†
+ù
+x, x(3
+%0java.util.List"__id*u
+
+__unknown_file (Y*WJ
+Horg.apache.commons.compress.harmony.unpack200.bytecode.ClassConstantPool"	
+entriesÿ
+’
+x x(4
+%1java.util.List"Hjava.util.Collections#unmodifiableList(Ljava/util/List;)Ljava/util/List;*5
+
+__unknown_file ("
+java.util.Collections*2
+
+__unknown_file (
+
+%0java.util.List""
+x x(5
+
+%1java.util.ListBLJ
+Horg.apache.commons.compress.harmony.unpack200.bytecode.ClassConstantPoolH

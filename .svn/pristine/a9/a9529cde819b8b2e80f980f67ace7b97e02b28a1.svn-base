@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.tar.TarUtils#parseOctalOrBinary([BII)J
+org.apache.commons.compress.archivers.tar.TarUtils#parseBinaryLong([BIIZ)J
+org.apache.commons.compress.archivers.tar.TarUtils#parseOctal([BII)J
+org.apache.commons.compress.archivers.tar.TarUtils#parseBinaryBigInteger([BIIZ)J

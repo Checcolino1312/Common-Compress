@@ -1,0 +1,35 @@
+
+›org.apache.commons.compress.harmony.unpack200.bytecode.forms.IntRefForm#getOffset(Lorg/apache/commons/compress/harmony/unpack200/bytecode/OperandManager;)Iƒ
+yC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/forms/IntRefForm.java% %("startingBlock*†
+startingBlock% %(@Ê
+Ç
+$ $(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*u
+
+__unknown_file (Y
+W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager˜
+•
+%1 %(?W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager"__annotation*"
+
+__unknown_file (
+
+%1*
+1*–
+1& &(òï
+& &(*	
+%0int"Sorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager#nextIntRef()I*u
+
+__unknown_file (Y
+W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager2nextIntRef()"
+& &(+
+"":c
+% %(?W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManagerBKI
+Gorg.apache.commons.compress.harmony.unpack200.bytecode.forms.IntRefFormP

@@ -1,0 +1,45 @@
+
+oorg.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCache#arrayIsCached([Ljava/lang/String;)Z‡
+}C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/SegmentConstantPoolArrayCache.javag g(#"3*¯
+2i( i(3š—
+i( i(C	
+%2int"horg.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCache$CachedArray#lastKnownSize()I*„
+
+__unknown_file (h
+f
+cachedArrayWorg.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCache$CachedArray2lastKnownSize()*
+1*¸
+3h( h(3²
+¯
+h( h(3
+%0java.util.IdentityHashMap"__id*|
+
+__unknown_file (`*^M
+Korg.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCache"
+knownArraysð
+í
+h( h(>]
+%1Worg.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCache$CachedArray"__mapGet*=
+
+__unknown_file (!
+
+%0java.util.IdentityHashMap*9
+
+__unknown_file (
+
+arrayjava.lang.String[]ø
+õ
+h h(?f
+cachedArrayWorg.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCache$CachedArray"__id*{
+
+__unknown_file (_
+]
+%1Worg.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCache$CachedArray*
+2
+1*!
+1i i(T"
+i i(U
+"":'
+g$ g(8
+arrayjava.lang.String[]BOM
+Korg.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCacheP

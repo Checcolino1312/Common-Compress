@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.pack200.Archive#pack()V
+org.apache.commons.compress.harmony.pack200.Archive#doNormalPack()V
+org.apache.commons.compress.harmony.pack200.Archive#doZeroEffortPack()V

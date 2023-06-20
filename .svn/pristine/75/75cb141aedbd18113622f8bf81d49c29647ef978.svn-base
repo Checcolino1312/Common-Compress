@@ -1,0 +1,4 @@
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#init(Z)V
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#readSignature(Z)Z
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#readFrameDescriptor()V
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#nextBlock()V

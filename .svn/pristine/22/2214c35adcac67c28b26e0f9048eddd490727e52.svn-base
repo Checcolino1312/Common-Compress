@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.tar.TarFile#consumeRemainderOfLastBlock()V
+org.apache.commons.compress.archivers.tar.TarFile#repositionForwardBy(J)V

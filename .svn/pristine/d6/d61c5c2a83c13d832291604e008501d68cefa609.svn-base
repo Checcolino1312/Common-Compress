@@ -1,0 +1,8 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#writeLocalFileHeader(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;Z)V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$EntryMetaData#<init>(JZ)V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#usesDataDescriptor(IZ)Z
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#getName(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Ljava/nio/ByteBuffer;
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#createLocalFileHeader(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;Ljava/nio/ByteBuffer;ZZJ)[B
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$EntryMetaData#instance-init#
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#addUnicodeExtraFields(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;ZLjava/nio/ByteBuffer;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#writeCounted([B)V

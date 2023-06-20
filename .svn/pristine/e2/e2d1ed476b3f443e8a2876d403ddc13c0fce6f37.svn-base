@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.unpack200.IcTuple#<init>(Ljava/lang/String;ILjava/lang/String;Ljava/lang/String;IIII)V
+org.apache.commons.compress.harmony.unpack200.IcTuple#initializeClassStrings()V

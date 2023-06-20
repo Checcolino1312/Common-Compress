@@ -1,0 +1,9 @@
+org.apache.commons.compress.utils.FixedLengthBlockOutputStream#write(Ljava/nio/ByteBuffer;)I
+java.nio.channels.ClosedChannelException#instance-init#
+java.nio.Buffer#position()I
+org.apache.commons.compress.utils.FixedLengthBlockOutputStream#writeBlock()V
+java.nio.channels.ClosedChannelException#<init>()V
+java.nio.Buffer#remaining()I
+java.nio.Buffer#limit()I
+==
+isOpen org.apache.commons.compress.utils.FixedLengthBlockOutputStream#isOpen()Z

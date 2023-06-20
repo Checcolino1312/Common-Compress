@@ -1,0 +1,25 @@
+
+corg.apache.commons.compress.archivers.ar.ArArchiveInputStream#isGNUStringTable(Ljava/lang/String;)Zy
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/ar/ArArchiveInputStream.javai i(+"1*È
+1j j($N
+L
+j j($
+%0java.lang.String"__id*"
+
+__unknown_file (
+//ÔÑ
+j j(1
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*4
+
+__unknown_file (
+
+%0java.lang.String*6
+
+__unknown_file (
+
+namejava.lang.String2equals(Ljava/lang/Object;)"
+j j(2
+"":$
+i, i(=
+namejava.lang.StringBA"?
+=org.apache.commons.compress.archivers.ar.ArArchiveInputStreamP

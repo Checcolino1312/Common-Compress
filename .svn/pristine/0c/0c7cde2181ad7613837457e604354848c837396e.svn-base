@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.z.ZCompressorInputStream#addEntry(IB)I
+org.apache.commons.compress.compressors.z.ZCompressorInputStream#reAlignReading()V

@@ -1,0 +1,26 @@
+
+’org.apache.commons.compress.archivers.zip.ResourceAlignmentExtraField#getLocalFileDataLength()Lorg/apache/commons/compress/archivers/zip/ZipShort;Ž
+ƒC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ResourceAlignmentExtraField.javaz z(*"1*å
+1{ {(%A
+?
+{ {(%	
+%0int"__id*"
+
+__unknown_file (
+""zx
+{ {(8
+%12org.apache.commons.compress.archivers.zip.ZipShort"2org.apache.commons.compress.archivers.zip.ZipShortÎ
+Ë
+{ {(0
+%2"=org.apache.commons.compress.archivers.zip.ZipShort#<init>(I)V*V
+
+__unknown_file (:
+8
+%12org.apache.commons.compress.archivers.zip.ZipShort*"
+
+__unknown_file (
+"""F
+{ {(1:
+8
+%12org.apache.commons.compress.archivers.zip.ZipShortBIG
+Eorg.apache.commons.compress.archivers.zip.ResourceAlignmentExtraFieldH

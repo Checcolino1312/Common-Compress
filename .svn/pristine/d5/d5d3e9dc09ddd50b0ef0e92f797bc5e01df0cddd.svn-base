@@ -1,0 +1,78 @@
+
+gorg.apache.commons.compress.archivers.examples.Expander#prefersSeekableByteChannel(Ljava/lang/String;)Z
+uC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/examples/Expander.javaô ô(."5*Õ
+2
+÷ ÷(#P
+N
+
+÷ ÷(+
+%4java.lang.String"__id*"
+
+__unknown_file (
+7zìé
+
+÷ ÷(D
+%5boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*4
+
+__unknown_file (
+
+%4java.lang.String*8
+
+__unknown_file (
+
+formatjava.lang.String2$equalsIgnoreCase(Ljava/lang/String;)*
+1*Ù
+4
+ö ö(#Q
+O
+
+ö ö('
+%2java.lang.String"__id*#
+
+__unknown_file (
+zipìé
+
+ö ö(@
+%3boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*4
+
+__unknown_file (
+
+%2java.lang.String*8
+
+__unknown_file (
+
+formatjava.lang.String2$equalsIgnoreCase(Ljava/lang/String;)*
+2
+1*Ü
+5
+õ õ(#Q
+O
+
+õ õ('
+%0java.lang.String"__id*#
+
+__unknown_file (
+tarìé
+
+õ õ(@
+%1boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*4
+
+__unknown_file (
+
+%0java.lang.String*8
+
+__unknown_file (
+
+formatjava.lang.String2$equalsIgnoreCase(Ljava/lang/String;)*	
+2
+4
+1*%
+1
+õ ÷(E"
+
+õ ÷(E
+"":(
+
+ô/ ô(B
+formatjava.lang.StringB;9
+7org.apache.commons.compress.archivers.examples.ExpanderP

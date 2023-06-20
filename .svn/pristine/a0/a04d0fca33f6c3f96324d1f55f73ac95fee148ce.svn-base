@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#getName(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Ljava/nio/ByteBuffer;
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#getEntryEncoding(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Lorg/apache/commons/compress/archivers/zip/ZipEncoding;

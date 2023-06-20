@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setTime(J)V
+java.nio.file.attribute.FileTime#fromMillis(J)Ljava/nio/file/attribute/FileTime;
+org.apache.commons.compress.archivers.zip.ZipUtil#isDosTime(J)Z
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setExtraTimeFields()V
+==
+setLastModifiedTime org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setLastModifiedTime(Ljava/nio/file/attribute/FileTime;)Ljava/util/zip/ZipEntry;

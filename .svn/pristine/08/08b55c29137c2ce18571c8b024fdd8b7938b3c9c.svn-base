@@ -1,0 +1,36 @@
+
+„org.apache.commons.compress.archivers.tar.TarArchiveEntry#isDescendent(Lorg/apache/commons/compress/archivers/tar/TarArchiveEntry;)Zƒ
+wC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java¬	 ¬	("1*Ø
+1
+­	 ­	(êç
+
+­	 ­	(
+%0java.lang.String"Uorg.apache.commons.compress.archivers.tar.TarArchiveEntry#getName()Ljava/lang/String;*_
+
+__unknown_file (C
+A
+desc9org.apache.commons.compress.archivers.tar.TarArchiveEntry2	getName()äá
+
+­	) ­	(2
+%1java.lang.String"Uorg.apache.commons.compress.archivers.tar.TarArchiveEntry#getName()Ljava/lang/String;*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntry2	getName()ÜÙ
+
+­	 ­	(3
+%2boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*4
+
+__unknown_file (
+
+%0java.lang.String*4
+
+__unknown_file (
+
+%1java.lang.String2startsWith(Ljava/lang/String;)"
+
+­	 ­	(4
+"":O
+
+¬	  ¬	(:A
+desc9org.apache.commons.compress.archivers.tar.TarArchiveEntryB=;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntryHP

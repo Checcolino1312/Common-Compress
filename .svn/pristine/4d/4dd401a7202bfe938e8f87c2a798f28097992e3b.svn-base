@@ -1,0 +1,893 @@
+
+Øorg.apache.commons.compress.archivers.sevenz.SevenZFile#sanityCheckFilesInfo(Ljava/nio/ByteBuffer;Lorg/apache/commons/compress/archivers/sevenz/SevenZFile$ArchiveStatistics;)VÅ
+uC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZFile.javaÂ Â(%"52*∏
+46
+ˆ. ˆ(o><
+
+ˆ" ˆ(-
+%5java.io.IOException"java.io.IOException‡
+›
+
+ˆ ˆ(p
+%6"/java.io.IOException#<init>(Ljava/lang/String;)V*7
+
+__unknown_file (
+
+%5java.io.IOException*_
+
+__unknown_file (CA
+?Header format error: kEmptyStream must appear before kEmptyFile*
+0*â
+24
+¶ ±(”
+–
+
+ß- ß(Y
+%32java.util.BitSet"oorg.apache.commons.compress.archivers.sevenz.SevenZFile#readAllOrBits(Ljava/nio/ByteBuffer;I)Ljava/util/BitSet;*W
+
+__unknown_file (;9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBuffer*"
+
+__unknown_file (
+""Å
+
+ß- ®(&
+
+%33int"java.util.BitSet#cardinality()I*5
+
+__unknown_file (
+
+%32java.util.BitSet2cardinality()í
+è
+
+©) ©(@
+
+%34int"_org.apache.commons.compress.archivers.sevenz.SevenZFile#getUnsignedByte(Ljava/nio/ByteBuffer;)I*W
+
+__unknown_file (;"9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBuffer*
+22
+23*Í
+48
+ Û(Õ
+ 
+
+Ò# Ò(J
+%3java.util.BitSet"jorg.apache.commons.compress.archivers.sevenz.SevenZFile#readBits(Ljava/nio/ByteBuffer;I)Ljava/util/BitSet;*W
+
+__unknown_file (;9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBuffer*"
+
+__unknown_file (
+""}
+
+Ò# Ò(X	
+%4int"java.util.BitSet#cardinality()I*4
+
+__unknown_file (
+
+%3java.util.BitSet2cardinality()*
+50
+1*ó
+26
+¢. ¢(K?=
+
+¢" ¢(-
+%30java.io.IOException"java.io.IOExceptionæ
+ª
+
+¢ ¢(L
+%31"/java.io.IOException#<init>(Ljava/lang/String;)V*8
+
+__unknown_file (
+
+%30java.io.IOException*;
+
+__unknown_file (
+invalid creation dates size*
+0*◊
+27
+° °(&∑
+¥
+
+° °(F
+%29long"_org.apache.commons.compress.archivers.sevenz.SevenZFile#skipBytesFully(Ljava/nio/ByteBuffer;J)J*W
+
+__unknown_file (;"9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBuffer*"
+
+__unknown_file (
+""*
+26
+50
+1*ã
+28
+ü. ü(??=
+
+ü" ü(-
+%27java.io.IOException"java.io.IOException≤
+Ø
+
+ü ü(@
+%28"/java.io.IOException#<init>(Ljava/lang/String;)V*8
+
+__unknown_file (
+
+%27java.io.IOException*/
+
+__unknown_file (
+Not implemented*
+0*â
+29
+ö •(”
+–
+
+õ- õ(Y
+%24java.util.BitSet"oorg.apache.commons.compress.archivers.sevenz.SevenZFile#readAllOrBits(Ljava/nio/ByteBuffer;I)Ljava/util/BitSet;*W
+
+__unknown_file (;9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBuffer*"
+
+__unknown_file (
+""Å
+
+õ- ú(&
+
+%25int"java.util.BitSet#cardinality()I*5
+
+__unknown_file (
+
+%24java.util.BitSet2cardinality()í
+è
+
+ù) ù(@
+
+%26int"_org.apache.commons.compress.archivers.sevenz.SevenZFile#getUnsignedByte(Ljava/nio/ByteBuffer;)I*W
+
+__unknown_file (;"9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBuffer*
+27
+28*¨
+50
+Í% Í(4ë
+é
+
+Í% Í(<	
+%2int"_org.apache.commons.compress.archivers.sevenz.SevenZFile#getUnsignedByte(Ljava/nio/ByteBuffer;)I*W
+
+__unknown_file (;"9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBuffer*
+2
+1*ﬂ
+52
+Ê Ê(ç
+ä
+
+ÊI Ê([
+
+%0long"Zorg.apache.commons.compress.archivers.sevenz.SevenZFile#readUint64(Ljava/nio/ByteBuffer;)J*W
+
+__unknown_file (;"9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBuffer≥
+∞
+
+Ê  Ê(\	
+%1int"jorg.apache.commons.compress.archivers.sevenz.SevenZFile#assertFitsIntoNonNegativeInt(Ljava/lang/String;J)I*W
+
+__unknown_file (;"9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*(
+
+__unknown_file (
+
+numFiles*(
+
+__unknown_file (
+
+
+%0long*
+50
+1*Î
+31
+ï. ï(Ny
+w
+
+ï. ï(Z
+%18java.lang.String"__concat*0
+
+ï. ï(N" 
+Invalid number of file names (*
+
+ïQ ï(Z
+""z
+x
+
+ï. ï(k
+%19java.lang.String"__concat*'
+
+ï. ï(Z
+
+%18java.lang.String*
+
+ï] ï(k
+ instead of p
+n
+
+ï. ñ(3
+%20java.lang.String"__concat*'
+
+ï. ï(k
+
+%19java.lang.String*
+
+ñ ñ(3
+""o
+m
+
+ï. ñ(9
+%21java.lang.String"__concat*'
+
+ï. ñ(3
+
+%20java.lang.String*
+
+ñ6 ñ(9
+)?=
+
+ï" ï(-
+%22java.io.IOException"java.io.IOException∏
+µ
+
+ï ñ(:
+%23"/java.io.IOException#<init>(Ljava/lang/String;)V*8
+
+__unknown_file (
+
+%22java.io.IOException*5
+
+__unknown_file (
+
+%21java.lang.String*
+0*õ
+11
+∆. ∆(O?=
+
+∆" ∆(-
+%54java.io.IOException"java.io.IOException¬
+ø
+
+∆ ∆(P
+%55"/java.io.IOException#<init>(Ljava/lang/String;)V*8
+
+__unknown_file (
+
+%54java.io.IOException*?
+
+__unknown_file (#!
+invalid windows attributes size*
+0*◊
+12
+≈ ≈(&∑
+¥
+
+≈ ≈(K
+%53long"_org.apache.commons.compress.archivers.sevenz.SevenZFile#skipBytesFully(Ljava/nio/ByteBuffer;J)J*W
+
+__unknown_file (;"9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBuffer*"
+
+__unknown_file (
+""*
+50
+11
+1*Ø
+35
+è' è(.ã
+à
+
+è' è(6
+%17char"Worg.apache.commons.compress.archivers.sevenz.SevenZFile#getChar(Ljava/nio/ByteBuffer;)C*W
+
+__unknown_file (;"9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBuffer*
+35
+50
+31
+1*ã
+13
+√. √(??=
+
+√" √(-
+%51java.io.IOException"java.io.IOException≤
+Ø
+
+√ √(@
+%52"/java.io.IOException#<init>(Ljava/lang/String;)V*8
+
+__unknown_file (
+
+%51java.io.IOException*/
+
+__unknown_file (
+Not implemented*
+0*â
+14
+æ …(”
+–
+
+ø2 ø(^
+%48java.util.BitSet"oorg.apache.commons.compress.archivers.sevenz.SevenZFile#readAllOrBits(Ljava/nio/ByteBuffer;I)Ljava/util/BitSet;*W
+
+__unknown_file (;9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBuffer*"
+
+__unknown_file (
+""Å
+
+ø2 ¿(&
+
+%49int"java.util.BitSet#cardinality()I*5
+
+__unknown_file (
+
+%48java.util.BitSet2cardinality()í
+è
+
+¡) ¡(@
+
+%50int"_org.apache.commons.compress.archivers.sevenz.SevenZFile#getUnsignedByte(Ljava/nio/ByteBuffer;)I*W
+
+__unknown_file (;"9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBuffer*
+13
+12*ï
+38
+ä. ä(I?=
+
+ä" ä(-
+%15java.io.IOException"java.io.IOExceptionº
+π
+
+ä ä(J
+%16"/java.io.IOException#<init>(Ljava/lang/String;)V*8
+
+__unknown_file (
+
+%15java.io.IOException*9
+
+__unknown_file (
+File names length invalid*
+0*õ
+16
+∫. ∫(O?=
+
+∫" ∫(-
+%46java.io.IOException"java.io.IOException¬
+ø
+
+∫ ∫(P
+%47"/java.io.IOException#<init>(Ljava/lang/String;)V*8
+
+__unknown_file (
+
+%46java.io.IOException*?
+
+__unknown_file (#!
+invalid modification dates size*
+0*ﬂ
+39
+à à(4∑
+¥
+
+à à(S
+
+%14int"jorg.apache.commons.compress.archivers.sevenz.SevenZFile#assertFitsIntoNonNegativeInt(Ljava/lang/String;J)I*W
+
+__unknown_file (;"9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*1
+
+__unknown_file (
+file names length*"
+
+__unknown_file (
+""*
+35
+38
+50
+31
+1*◊
+17
+π π(&∑
+¥
+
+π π(F
+%45long"_org.apache.commons.compress.archivers.sevenz.SevenZFile#skipBytesFully(Ljava/nio/ByteBuffer;J)J*W
+
+__unknown_file (;"9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBuffer*"
+
+__unknown_file (
+""*
+16
+50
+1*ã
+18
+∑. ∑(??=
+
+∑" ∑(-
+%43java.io.IOException"java.io.IOException≤
+Ø
+
+∑ ∑(@
+%44"/java.io.IOException#<init>(Ljava/lang/String;)V*8
+
+__unknown_file (
+
+%43java.io.IOException*/
+
+__unknown_file (
+Not implemented*
+0*â
+19
+≤ Ω(”
+–
+
+≥- ≥(Y
+%40java.util.BitSet"oorg.apache.commons.compress.archivers.sevenz.SevenZFile#readAllOrBits(Ljava/nio/ByteBuffer;I)Ljava/util/BitSet;*W
+
+__unknown_file (;9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBuffer*"
+
+__unknown_file (
+""Å
+
+≥- ¥(&
+
+%41int"java.util.BitSet#cardinality()I*5
+
+__unknown_file (
+
+%40java.util.BitSet2cardinality()í
+è
+
+µ) µ(@
+
+%42int"_org.apache.commons.compress.archivers.sevenz.SevenZFile#getUnsignedByte(Ljava/nio/ByteBuffer;)I*W
+
+__unknown_file (;"9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBuffer*
+17
+18*(
+0 "!
+
+· ·(
+implicit return*ø
+1
+‡ ‡(®
+•
+
+‡B ‡([
+
+%76int"java.lang.Math#max(II)I*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*
+
+__unknown_file (2 *
+0*è
+2
+Ó Ó((é
+ã
+
+Ó Ó(0
+%65long"Zorg.apache.commons.compress.archivers.sevenz.SevenZFile#readUint64(Ljava/nio/ByteBuffer;)J*W
+
+__unknown_file (;"9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBufferD
+B
+
+ (%
+
+%66int"__id*"
+
+__unknown_file (
+""D
+B
+
+Ù Ù(#
+
+%67int"__id*"
+
+__unknown_file (
+""D
+B
+
+˚ ˚(
+
+%68int"__id*"
+
+__unknown_file (
+""D
+B
+
+Ç Ç(
+
+%69int"__id*"
+
+__unknown_file (
+""D
+B
+
+ö ö(
+
+%70int"__id*"
+
+__unknown_file (
+""D
+B
+
+¶ ¶(
+
+%71int"__id*"
+
+__unknown_file (
+""D
+B
+
+≤ ≤(
+
+%72int"__id*"
+
+__unknown_file (
+""D
+B
+
+æ æ('
+
+%73int"__id*"
+
+__unknown_file (
+""D
+B
+
+   ("
+
+%74int"__id*"
+
+__unknown_file (
+""D
+B
+
+Õ Õ(
+
+%75int"__id*"
+
+__unknown_file (
+""*1
+24
+46
+14
+48
+29
+19
+5
+8
+9
+41
+42
+43
+45*â
+4
+⁄. ⁄(Lw
+u
+
+⁄. ⁄([
+%62java.lang.String"__concat*.
+
+⁄. ⁄(L 
+Incomplete property of type *
+
+⁄O ⁄([
+""?=
+
+⁄" ⁄(-
+%63java.io.IOException"java.io.IOException∏
+µ
+
+⁄ ⁄(\
+%64"/java.io.IOException#<init>(Ljava/lang/String;)V*8
+
+__unknown_file (
+
+%63java.io.IOException*5
+
+__unknown_file (
+
+%62java.lang.String*
+0*’
+5
+◊ ›(∑
+¥
+
+Ÿ Ÿ(4
+%61long"_org.apache.commons.compress.archivers.sevenz.SevenZFile#skipBytesFully(Ljava/nio/ByteBuffer;J)J*W
+
+__unknown_file (;"9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBuffer*"
+
+__unknown_file (
+""*
+
+4
+50
+1*ï
+7
+“. “(J?=
+
+“" “(-
+%59java.io.IOException"java.io.IOExceptionΩ
+∫
+
+“ “(K
+%60"/java.io.IOException#<init>(Ljava/lang/String;)V*8
+
+__unknown_file (
+
+%59java.io.IOException*:
+
+__unknown_file (
+Incomplete kDummy property*
+0*’
+8
+Õ ’(∑
+¥
+
+— —(4
+%58long"_org.apache.commons.compress.archivers.sevenz.SevenZFile#skipBytesFully(Ljava/nio/ByteBuffer;J)J*W
+
+__unknown_file (;"9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBuffer*"
+
+__unknown_file (
+""*
+
+7
+50
+1*¢
+9
+  Ã(?=
+
+À À()
+%56java.io.IOException"java.io.IOException 
+«
+
+À À(T
+%57"/java.io.IOException#<init>(Ljava/lang/String;)V*8
+
+__unknown_file (
+
+%56java.io.IOException*G
+
+__unknown_file (+)
+'kStartPos is unsupported, please report*
+0*ã
+40
+Ö. Ö(??=
+
+Ö" Ö(-
+%12java.io.IOException"java.io.IOException≤
+Ø
+
+Ö Ö(@
+%13"/java.io.IOException#<init>(Ljava/lang/String;)V*8
+
+__unknown_file (
+
+%12java.io.IOException*/
+
+__unknown_file (
+Not implemented*
+0*Ø
+41
+Ç ô(í
+è
+
+É) É(@
+
+%11int"_org.apache.commons.compress.archivers.sevenz.SevenZFile#getUnsignedByte(Ljava/nio/ByteBuffer;)I*W
+
+__unknown_file (;"9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBuffer*
+39
+40*Í
+42
+ˇ ˇ(Œ
+À
+
+ˇ ˇ(2
+%10java.util.BitSet"jorg.apache.commons.compress.archivers.sevenz.SevenZFile#readBits(Ljava/nio/ByteBuffer;I)Ljava/util/BitSet;*W
+
+__unknown_file (;9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBuffer*"
+
+__unknown_file (
+""*
+50
+1*≥
+43
+˝. ˝(j><
+
+˝" ˝(-
+%8java.io.IOException"java.io.IOException€
+ÿ
+
+˝ ˝(k
+%9"/java.io.IOException#<init>(Ljava/lang/String;)V*7
+
+__unknown_file (
+
+%8java.io.IOException*Z
+
+__unknown_file (><
+:Header format error: kEmptyStream must appear before kAnti*
+0*ï
+21
+Æ. Æ(I?=
+
+Æ" Æ(-
+%38java.io.IOException"java.io.IOExceptionº
+π
+
+Æ Æ(J
+%39"/java.io.IOException#<init>(Ljava/lang/String;)V*8
+
+__unknown_file (
+
+%38java.io.IOException*9
+
+__unknown_file (
+invalid access dates size*
+0*◊
+22
+≠ ≠(&∑
+¥
+
+≠ ≠(F
+%37long"_org.apache.commons.compress.archivers.sevenz.SevenZFile#skipBytesFully(Ljava/nio/ByteBuffer;J)J*W
+
+__unknown_file (;"9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBuffer*"
+
+__unknown_file (
+""*
+50
+21
+1*È
+45
+¯ ¯(Õ
+ 
+
+¯ ¯(2
+%7java.util.BitSet"jorg.apache.commons.compress.archivers.sevenz.SevenZFile#readBits(Ljava/nio/ByteBuffer;I)Ljava/util/BitSet;*W
+
+__unknown_file (;9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBuffer*"
+
+__unknown_file (
+""*
+50
+1*ã
+23
+´. ´(??=
+
+´" ´(-
+%35java.io.IOException"java.io.IOException≤
+Ø
+
+´ ´(@
+%36"/java.io.IOException#<init>(Ljava/lang/String;)V*8
+
+__unknown_file (
+
+%35java.io.IOException*/
+
+__unknown_file (
+Not implemented*
+0:+
+
+Â& Â(>
+headerjava.nio.ByteBuffer:`
+
+Â? Â(\R
+statsIorg.apache.commons.compress.archivers.sevenz.SevenZFile$ArchiveStatisticsB;9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile

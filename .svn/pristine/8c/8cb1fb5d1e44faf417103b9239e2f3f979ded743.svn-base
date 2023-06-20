@@ -1,0 +1,6 @@
+org.apache.commons.compress.harmony.unpack200.Segment#writeJar(Ljava/util/jar/JarOutputStream;)V
+java.util.jar.JarEntry#<init>(Ljava/lang/String;)V
+java.util.TimeZone#getDefault()Ljava/util/TimeZone;
+java.util.zip.CRC32#<init>()V
+java.util.zip.CRC32#instance-init#
+java.util.jar.JarEntry#instance-init#

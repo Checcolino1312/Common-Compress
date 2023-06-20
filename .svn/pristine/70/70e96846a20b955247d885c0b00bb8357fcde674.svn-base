@@ -1,0 +1,89 @@
+
+[org.apache.commons.compress.harmony.unpack200.bytecode.CPString#equals(Ljava/lang/Object;)Z‡
+}C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPString.java> >("startingBlock*!
+2C C("
+C C(
+""*ï
+3B B(#¿¼
+B B(%
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*_
+
+__unknown_file (CA
+?org.apache.commons.compress.harmony.unpack200.bytecode.CPString2
+getClass()•’
+B) B(7
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*5
+
+__unknown_file (
+
+objjava.lang.Object2
+getClass()*
+2
+1*Š
+startingBlock> >(%Š
+‡
+= =(
+%5"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectW
+U
+>! >($
+objjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%5*	
+2
+3
+5*!
+5@ @("
+@ @(
+""*¤
+1E$ E('”
+‘
+E E((H
+other?org.apache.commons.compress.harmony.unpack200.bytecode.CPString"__id*5
+
+__unknown_file (
+
+objjava.lang.ObjectÃ
+À
+F F("C
+%2=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8"__id*i
+
+__unknown_file (M*KA
+?org.apache.commons.compress.harmony.unpack200.bytecode.CPString"
+nameÊ
+Ç
+F$ F(.C
+%3=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8"__id*p
+
+__unknown_file (T*R
+H
+other?org.apache.commons.compress.harmony.unpack200.bytecode.CPString"
+nameÖ
+Ó
+F F(/
+%4boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*a
+
+__unknown_file (E
+C
+%2=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8*a
+
+__unknown_file (E
+C
+%3=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8"
+F F(0
+"":#
+> >($
+objjava.lang.ObjectBCA
+?org.apache.commons.compress.harmony.unpack200.bytecode.CPStringHP

@@ -1,0 +1,4 @@
+org.apache.commons.compress.utils.Sets#newHashSet([Ljava/lang/Object;)Ljava/util/HashSet;
+java.util.HashSet#<init>(I)V
+java.util.Collections#addAll(Ljava/util/Collection;[Ljava/lang/Object;)Z
+java.util.HashSet#instance-init#

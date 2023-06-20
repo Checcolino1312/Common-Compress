@@ -1,0 +1,135 @@
+
+@org.apache.commons.compress.archivers.zip.X000A_NTFS#hashCode()Ir
+fC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/X000A_NTFS.java¡ ¡("7*í
+2
+¬ ¬(À
+½
+
+¬% ¬(/C
+%8=org.apache.commons.compress.archivers.zip.ZipEightByteInteger"__id*d
+
+__unknown_file (H*F6
+4org.apache.commons.compress.archivers.zip.X000A_NTFS"
+
+createTimeÔÑ
+
+¬% ¬(:	
+%9int"Iorg.apache.commons.compress.archivers.zip.ZipEightByteInteger#hashCode()I*a
+
+__unknown_file (E
+C
+%8=org.apache.commons.compress.archivers.zip.ZipEightByteInteger2
+hashCode()¼
+¹
+
+¬ ¬(?
+
+%10int"!java.lang.Integer#rotateLeft(II)I*1
+
+__unknown_file ("
+java.lang.Integer*'
+
+__unknown_file (
+	
+%9int* 
+
+__unknown_file (2*
+1*Ú
+3
+« «(À
+½
+
+« «(C
+%7=org.apache.commons.compress.archivers.zip.ZipEightByteInteger"__id*d
+
+__unknown_file (H*F6
+4org.apache.commons.compress.archivers.zip.X000A_NTFS"
+
+createTime*
+2
+1*ì
+4
+© ©(À
+½
+
+©% ©(/C
+%4=org.apache.commons.compress.archivers.zip.ZipEightByteInteger"__id*d
+
+__unknown_file (H*F6
+4org.apache.commons.compress.archivers.zip.X000A_NTFS"
+
+accessTimeÔÑ
+
+©% ©(:	
+%5int"Iorg.apache.commons.compress.archivers.zip.ZipEightByteInteger#hashCode()I*a
+
+__unknown_file (E
+C
+%4=org.apache.commons.compress.archivers.zip.ZipEightByteInteger2
+hashCode()»
+¸
+
+© ©(?	
+%6int"!java.lang.Integer#rotateLeft(II)I*1
+
+__unknown_file ("
+java.lang.Integer*'
+
+__unknown_file (
+	
+%5int* 
+
+__unknown_file (2*
+3*Ú
+5
+¦ ¦(À
+½
+
+¦ ¦(C
+%3=org.apache.commons.compress.archivers.zip.ZipEightByteInteger"__id*d
+
+__unknown_file (H*F6
+4org.apache.commons.compress.archivers.zip.X000A_NTFS"
+
+accessTime*
+3
+4*®
+6
+¤ ¤(À
+½
+
+¤ ¤(C
+%1=org.apache.commons.compress.archivers.zip.ZipEightByteInteger"__id*d
+
+__unknown_file (H*F6
+4org.apache.commons.compress.archivers.zip.X000A_NTFS"
+
+modifyTimeÔÑ
+
+¤ ¤('	
+%2int"Iorg.apache.commons.compress.archivers.zip.ZipEightByteInteger#hashCode()I*a
+
+__unknown_file (E
+C
+%1=org.apache.commons.compress.archivers.zip.ZipEightByteInteger2
+hashCode()*
+5*Ú
+7
+¢ ¢(À
+½
+
+£ £(C
+%0=org.apache.commons.compress.archivers.zip.ZipEightByteInteger"__id*d
+
+__unknown_file (H*F6
+4org.apache.commons.compress.archivers.zip.X000A_NTFS"
+
+modifyTime*
+5
+6*%
+1
+® ®("
+
+® ®(
+""B86
+4org.apache.commons.compress.archivers.zip.X000A_NTFSHP

@@ -1,0 +1,60 @@
+
+«org.apache.commons.compress.harmony.pack200.BandSet#encodeFlags(Ljava/lang/String;[[JLorg/apache/commons/compress/harmony/pack200/BHSDCodec;Lorg/apache/commons/compress/harmony/pack200/BHSDCodec;Z)[Bq
+eC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/BandSet.javaä ä( "1*£
+1
+å å(⁄
+◊
+
+å! å(/
+%0long[]"Borg.apache.commons.compress.harmony.pack200.BandSet#flatten([[J)[J*S
+
+__unknown_file (75
+3org.apache.commons.compress.harmony.pack200.BandSet*"
+
+__unknown_file (
+""ñì
+
+å å(O
+%1byte[]"∆org.apache.commons.compress.harmony.pack200.BandSet#encodeFlags(Ljava/lang/String;[JLorg/apache/commons/compress/harmony/pack200/BHSDCodec;Lorg/apache/commons/compress/harmony/pack200/BHSDCodec;Z)[B*S
+
+__unknown_file (75
+3org.apache.commons.compress.harmony.pack200.BandSet*6
+
+__unknown_file (
+
+namejava.lang.String**
+
+__unknown_file (
+
+%0long[]*^
+
+__unknown_file (B
+@
+loCodec5org.apache.commons.compress.harmony.pack200.BHSDCodec*^
+
+__unknown_file (B
+@
+hiCodec5org.apache.commons.compress.harmony.pack200.BHSDCodec*"
+
+__unknown_file (
+""2êencodeFlags(Ljava/lang/String;[JLorg/apache/commons/compress/harmony/pack200/BHSDCodec;Lorg/apache/commons/compress/harmony/pack200/BHSDCodec;Z)"
+
+å å(P
+
+%1byte[]:&
+
+ä! ä(3
+namejava.lang.String: 
+
+__unknown_file (
+"":N
+
+äJ ä(b@
+loCodec5org.apache.commons.compress.harmony.pack200.BHSDCodec:N
+
+ã ã( @
+hiCodec5org.apache.commons.compress.harmony.pack200.BHSDCodec: 
+
+__unknown_file (
+""B75
+3org.apache.commons.compress.harmony.pack200.BandSet

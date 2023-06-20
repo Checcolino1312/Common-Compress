@@ -1,0 +1,2 @@
+org.apache.commons.compress.utils.ByteUtils#fromLittleEndian([BII)J
+org.apache.commons.compress.utils.ByteUtils#checkReadLength(I)V

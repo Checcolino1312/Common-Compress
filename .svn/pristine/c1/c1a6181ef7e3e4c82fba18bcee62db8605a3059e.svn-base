@@ -1,0 +1,32 @@
+
+Porg.apache.commons.compress.archivers.zip.ZipEightByteInteger#getLongValue([BI)Jy
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipEightByteInteger.javar r(#"1*è
+1s s(¾
+»
+s s(&
+%0java.math.BigInteger"aorg.apache.commons.compress.archivers.zip.ZipEightByteInteger#getValue([BI)Ljava/math/BigInteger;*]
+
+__unknown_file (A"?
+=org.apache.commons.compress.archivers.zip.ZipEightByteInteger*-
+
+__unknown_file (
+
+bytesbyte[]*"
+
+__unknown_file (
+""ƒ€
+s s(2
+
+%1long"!java.math.BigInteger#longValue()J*8
+
+__unknown_file (
+
+%0java.math.BigInteger2longValue()"
+s s(3
+"":
+r$ r(7
+bytesbyte[]: 
+
+__unknown_file (
+""BA"?
+=org.apache.commons.compress.archivers.zip.ZipEightByteIntegerHP

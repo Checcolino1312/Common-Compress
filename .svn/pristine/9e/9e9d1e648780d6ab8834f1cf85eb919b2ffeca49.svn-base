@@ -1,0 +1,10 @@
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#instance-init#
+java.util.ArrayList#<init>()V
+org.apache.commons.compress.archivers.sevenz.SevenZMethodConfiguration#<init>(Lorg/apache/commons/compress/archivers/sevenz/SevenZMethod;)V
+java.util.HashMap#<init>()V
+java.util.ArrayList#instance-init#
+org.apache.commons.compress.archivers.sevenz.SevenZMethodConfiguration#instance-init#
+java.util.HashMap#instance-init#
+java.util.Collections#singletonList(Ljava/lang/Object;)Ljava/util/List;
+java.util.zip.CRC32#<init>()V
+java.util.zip.CRC32#instance-init#

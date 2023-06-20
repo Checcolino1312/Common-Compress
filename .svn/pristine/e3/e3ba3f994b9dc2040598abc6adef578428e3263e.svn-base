@@ -1,0 +1,129 @@
+
+Yorg.apache.commons.compress.archivers.dump.DumpArchiveSummary#equals(Ljava/lang/Object;)Zy
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveSummary.javaB B("startingBlock*Œ
+2MW M(^ò
+ï
+Mf M(n
+%5java.lang.String"__id*k
+
+__unknown_file (O*M?
+=org.apache.commons.compress.archivers.dump.DumpArchiveSummary"
+
+hostnameü
+ú
+Mp M(~
+%6java.lang.String"__id*r
+
+__unknown_file (V*T
+F
+other=org.apache.commons.compress.archivers.dump.DumpArchiveSummary"
+
+hostname¸
+˘
+MW M(
+%7boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*4
+
+__unknown_file (
+
+%5java.lang.String*4
+
+__unknown_file (
+
+%6java.lang.String*
+1*ã
+startingBlockB B(+ä
+á
+A A(
+%8"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectW
+U
+B' B(*
+objjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%8*
+
+7
+8
+10*‰
+5L> L(Aí
+è
+L L(BF
+other=org.apache.commons.compress.archivers.dump.DumpArchiveSummary"__id*5
+
+__unknown_file (
+
+objjava.lang.Objectó
+î
+M M(%
+%2java.lang.String"__id*j
+
+__unknown_file (N*L?
+=org.apache.commons.compress.archivers.dump.DumpArchiveSummary"	
+devnameû
+õ
+M' M(4
+%3java.lang.String"__id*q
+
+__unknown_file (U*S
+F
+other=org.apache.commons.compress.archivers.dump.DumpArchiveSummary"	
+devname¸
+˘
+M M(5
+%4boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*4
+
+__unknown_file (
+
+%2java.lang.String*4
+
+__unknown_file (
+
+%3java.lang.String*
+2
+1*!
+6J J("
+J J(
+""*Ì
+7I I(Ω∫
+I I(
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*]
+
+__unknown_file (A?
+=org.apache.commons.compress.archivers.dump.DumpArchiveSummary2
+getClass()ïí
+I I((
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*5
+
+__unknown_file (
+
+objjava.lang.Object2
+getClass()*
+5
+6*!
+8G G("
+G G(
+""*"
+10D D("
+D D(
+""*#
+1	M M(Ä"
+	M M(Ä
+"":#
+B B(*
+objjava.lang.ObjectBA?
+=org.apache.commons.compress.archivers.dump.DumpArchiveSummaryHP

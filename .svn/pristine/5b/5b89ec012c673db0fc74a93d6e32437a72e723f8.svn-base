@@ -1,0 +1,55 @@
+
+gorg.apache.commons.compress.archivers.examples.Archiver#prefersSeekableByteChannel(Ljava/lang/String;)ZÅ
+uC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/examples/Archiver.javaÊ Ê(."3*’
+2
+Ë Ë(#P
+N
+
+Ë Ë(+
+%2java.lang.String"__id*"
+
+__unknown_file (
+7zÏÈ
+
+Ë Ë(D
+%3boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*4
+
+__unknown_file (
+
+%2java.lang.String*8
+
+__unknown_file (
+
+formatjava.lang.String2$equalsIgnoreCase(Ljava/lang/String;)*
+1*Ÿ
+3
+Á Á(#Q
+O
+
+Á Á('
+%0java.lang.String"__id*#
+
+__unknown_file (
+zipÏÈ
+
+Á Á(@
+%1boolean"6java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z*4
+
+__unknown_file (
+
+%0java.lang.String*8
+
+__unknown_file (
+
+formatjava.lang.String2$equalsIgnoreCase(Ljava/lang/String;)*
+2
+1*%
+1
+Á Ë(E"
+
+Á Ë(E
+"":(
+
+Ê/ Ê(B
+formatjava.lang.StringB;9
+7org.apache.commons.compress.archivers.examples.ArchiverP

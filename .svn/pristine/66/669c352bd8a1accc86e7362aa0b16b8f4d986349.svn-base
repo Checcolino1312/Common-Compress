@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream#getNextEntry()Lorg/apache/commons/compress/archivers/ArchiveEntry;
+==
+getNextTarEntry org.apache.commons.compress.archivers.tar.TarArchiveInputStream#getNextTarEntry()Lorg/apache/commons/compress/archivers/tar/TarArchiveEntry;

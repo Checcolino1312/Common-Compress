@@ -1,0 +1,7 @@
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#isDirectory()Z
+java.nio.file.Files#isDirectory(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z
+java.lang.String#endsWith(Ljava/lang/String;)Z
+==
+isPaxHeader org.apache.commons.compress.archivers.tar.TarArchiveEntry#isPaxHeader()Z
+isGlobalPaxHeader org.apache.commons.compress.archivers.tar.TarArchiveEntry#isGlobalPaxHeader()Z
+getName org.apache.commons.compress.archivers.tar.TarArchiveEntry#getName()Ljava/lang/String;

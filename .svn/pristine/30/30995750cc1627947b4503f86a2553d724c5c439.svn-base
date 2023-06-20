@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.sevenz.AES256Options#<init>([C)V
+org.apache.commons.compress.archivers.sevenz.AES256Options#randomBytes(I)[B
+==
+AES256Options org.apache.commons.compress.archivers.sevenz.AES256Options#<init>([C[B[BI)V

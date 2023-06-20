@@ -1,0 +1,83 @@
+
+Yorg.apache.commons.compress.harmony.unpack200.AttributeLayout#equals(Ljava/lang/Object;)Z{
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/AttributeLayout.javaû û("startingBlock*%
+2
+€ €("
+
+€ €(
+""*
+startingBlock
+û û(%Œ
+‰
+
+ú ú(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectY
+W
+
+û! û($
+objjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%3*	
+2
+4
+1*%
+4
+ı ı("
+
+ı ı(
+""*Ì
+1
+‚2 ‚(5”
+‘
+
+‚ ‚(6F
+other=org.apache.commons.compress.harmony.unpack200.AttributeLayout"__id*5
+
+__unknown_file (
+
+objjava.lang.Object–
+“
+
+ƒ ƒ(
+%0java.lang.String"__id*g
+
+__unknown_file (K*I?
+=org.apache.commons.compress.harmony.unpack200.AttributeLayout"
+name
+š
+
+ƒ  ƒ(*
+%1java.lang.String"__id*n
+
+__unknown_file (R*P
+F
+other=org.apache.commons.compress.harmony.unpack200.AttributeLayout"
+nameÔÑ
+
+ƒ ƒ(+
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*4
+
+__unknown_file (
+
+%0java.lang.String*4
+
+__unknown_file (
+
+%1java.lang.String2equals(Ljava/lang/Object;)"
+
+ƒ ƒ(,
+"":%
+
+û û($
+objjava.lang.ObjectBA?
+=org.apache.commons.compress.harmony.unpack200.AttributeLayoutHP

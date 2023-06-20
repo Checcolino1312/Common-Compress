@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.pack200.BcBands#visitMultiANewArrayInsn(Ljava/lang/String;I)V
+org.apache.commons.compress.harmony.pack200.BcBands#updateRenumbering()V

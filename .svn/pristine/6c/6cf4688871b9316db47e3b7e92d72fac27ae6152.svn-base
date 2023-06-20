@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.ar.ArArchiveEntry#getSize()J
+==
+getLength org.apache.commons.compress.archivers.ar.ArArchiveEntry#getLength()J

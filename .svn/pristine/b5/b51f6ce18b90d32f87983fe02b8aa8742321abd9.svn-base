@@ -1,0 +1,10 @@
+org.apache.commons.compress.archivers.zip.ZipFile#populateFromCentralDirectory()Ljava/util/Map;
+org.apache.commons.compress.archivers.zip.ZipLong#getValue([B)J
+org.apache.commons.compress.archivers.zip.ZipFile#startsWithLocalFileHeader()Z
+java.util.HashMap#<init>()V
+org.apache.commons.compress.archivers.zip.ZipFile#readCentralDirectoryEntry(Ljava/util/Map;)V
+java.util.HashMap#instance-init#
+org.apache.commons.compress.archivers.zip.ZipFile#positionAtCentralDirectory()V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.utils.IOUtils#readFully(Ljava/nio/channels/ReadableByteChannel;Ljava/nio/ByteBuffer;)V

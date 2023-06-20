@@ -1,0 +1,74 @@
+
+úorg.apache.commons.compress.harmony.pack200.Segment$SegmentMethodVisitor#visitParameterAnnotation(ILjava/lang/String;Z)Lorg/objectweb/asm/AnnotationVisitor;}
+qC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/pack200/Segment.java≥! ≥(9"startingBlock*å
+startingBlock
+≥9 ¥("ç
+ä
+
+≤ ≤(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*6
+
+__unknown_file (
+
+descjava.lang.StringZ
+X
+
+≥\ ≥(`
+descjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%3*
+1*¬
+1
+µ0 µ(AC
+A
+
+µ0 µ(P	
+%0int"__id*"
+
+__unknown_file (
+""±Æ
+
+µ µ(/R
+%1Lorg.apache.commons.compress.harmony.pack200.Segment$SegmentAnnotationVisitor"Lorg.apache.commons.compress.harmony.pack200.Segment$SegmentAnnotationVisitor”
+–
+
+µ µ(k
+%2"†org.apache.commons.compress.harmony.pack200.Segment$SegmentAnnotationVisitor#<init>(Lorg/apache/commons/compress/harmony/pack200/Segment;IILjava/lang/String;Z)V*p
+
+__unknown_file (T
+R
+%1Lorg.apache.commons.compress.harmony.pack200.Segment$SegmentAnnotationVisitor*'
+
+__unknown_file (
+	
+%0int*"
+
+__unknown_file (
+""*6
+
+__unknown_file (
+
+descjava.lang.String*"
+
+__unknown_file (
+"""b
+
+µ µ(lT
+R
+%1Lorg.apache.commons.compress.harmony.pack200.Segment$SegmentAnnotationVisitor: 
+
+__unknown_file (
+"":&
+
+≥O ≥(a
+descjava.lang.String: 
+
+__unknown_file (
+""BLJ
+Horg.apache.commons.compress.harmony.pack200.Segment$SegmentMethodVisitorH

@@ -1,0 +1,43 @@
+
+Qorg.apache.commons.compress.archivers.zip.AsiExtraField#clone()Ljava/lang/Object;
+uC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/AsiExtraField.java] ]("5*ù
+3` `($˜
+•
+` `($J
+A
+cloned7org.apache.commons.compress.archivers.zip.AsiExtraField"
+crc"__id*7
+
+__unknown_file (
+
+%1java.util.zip.CRC32"O
+a a(C
+A
+cloned7org.apache.commons.compress.archivers.zip.AsiExtraField*Ë
+4_) _(FŒ
+‰
+_ _(GA
+cloned7org.apache.commons.compress.archivers.zip.AsiExtraField"__id*4
+
+__unknown_file (
+
+%0java.lang.Object<:
+` `("
+%1java.util.zip.CRC32"java.util.zip.CRC32j
+h
+` `($
+%2"java.util.zip.CRC32#<init>()V*7
+
+__unknown_file (
+
+%1java.util.zip.CRC32*
+3*ˆ
+5_9 _(>t
+r
+_9 _(F
+%0java.lang.Object"*java.lang.Object#clone()Ljava/lang/Object;*"
+
+__unknown_file (
+""*
+4B;9
+7org.apache.commons.compress.archivers.zip.AsiExtraFieldH

@@ -1,0 +1,126 @@
+
+__sonar_lambda_59$„
+xC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.javaÞj ã(	"startingBlock*š
+startingBlock
+Þj ã(	÷
+ô
+
+__unknown_file (W
+ArchiveStreamFactory.this:org.apache.commons.compress.archivers.ArchiveStreamFactory"__id*y
+
+__unknown_file (]*[<
+:org.apache.commons.compress.archivers.ArchiveStreamFactory"
+ArchiveStreamFactory.this*
+1*
+1
+ß? ß(N:8
+
+ßC ß(L
+%1java.util.TreeMap"java.util.TreeMaph
+f
+
+ß? ß(N
+%2"java.util.TreeMap#<init>()V*5
+
+__unknown_file (
+
+%1java.util.TreeMape
+c
+
+ß ß(O
+mapjava.util.TreeMap"__id*5
+
+__unknown_file (
+
+%1java.util.TreeMapz
+x
+
+à à(@
+%3:org.apache.commons.compress.archivers.ArchiveStreamFactory"__id*"
+
+__unknown_file (
+""Œ‰
+
+à à(8
+%4java.util.Set"gorg.apache.commons.compress.archivers.ArchiveStreamFactory#getOutputStreamArchiveNames()Ljava/util/Set;*^
+
+__unknown_file (B
+@
+%3:org.apache.commons.compress.archivers.ArchiveStreamFactory2getOutputStreamArchiveNames()z
+x
+
+à: à(A@
+%5:org.apache.commons.compress.archivers.ArchiveStreamFactory"__id*"
+
+__unknown_file (
+""è
+å
+
+à à(G
+
+%6void"£org.apache.commons.compress.archivers.ArchiveStreamFactory#putAll(Ljava/util/Set;Lorg/apache/commons/compress/archivers/ArchiveStreamProvider;Ljava/util/TreeMap;)V*Z
+
+__unknown_file (>"<
+:org.apache.commons.compress.archivers.ArchiveStreamFactory*1
+
+__unknown_file (
+
+%4java.util.Set*^
+
+__unknown_file (B
+@
+%5:org.apache.commons.compress.archivers.ArchiveStreamFactory*6
+
+__unknown_file (
+
+mapjava.util.TreeMapõ
+ò
+
+á á(+
+%7java.lang.Iterable"norg.apache.commons.compress.archivers.ArchiveStreamFactory#archiveStreamProviderIterable()Ljava/lang/Iterable;*Z
+
+__unknown_file (>"<
+:org.apache.commons.compress.archivers.ArchiveStreamFactoryx
+v
+
+á4 á(}!
+%8java.util.function.Consumer"__declareFunction*2
+
+__unknown_file (
+__sonar_lambda_60$‡
+„
+
+__unknown_file (*
+!
+%8java.util.function.Consumer"
+map"__id*6
+
+__unknown_file (
+
+mapjava.util.TreeMapÜ
+Ù
+
+__unknown_file (@
+!
+%8java.util.function.Consumer"
+ArchiveStreamFactory.this"__id*u
+
+__unknown_file (Y
+W
+ArchiveStreamFactory.this:org.apache.commons.compress.archivers.ArchiveStreamFactoryùö
+
+á á(~
+%11void":java.lang.Iterable#forEach(Ljava/util/function/Consumer;)V*6
+
+__unknown_file (
+
+%7java.lang.Iterable*?
+
+__unknown_file (#
+!
+%8java.util.function.Consumer2&forEach(Ljava/util/function/Consumer;)"(
+
+â â(
+
+mapjava.util.TreeMapB" 
+java.security.PrivilegedAction

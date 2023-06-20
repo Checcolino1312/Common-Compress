@@ -1,0 +1,7 @@
+org.apache.commons.compress.harmony.pack200.IntList#add(II)V
+java.lang.IndexOutOfBoundsException#<init>()V
+org.apache.commons.compress.harmony.pack200.IntList#growAtEnd(I)V
+org.apache.commons.compress.harmony.pack200.IntList#growAtFront(I)V
+java.lang.IndexOutOfBoundsException#instance-init#
+org.apache.commons.compress.harmony.pack200.IntList#growForInsert(II)V
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V

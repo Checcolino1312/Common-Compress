@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.zip.StreamCompressor#create(ILorg/apache/commons/compress/parallel/ScatterGatherBackingStore;)Lorg/apache/commons/compress/archivers/zip/StreamCompressor;
+org.apache.commons.compress.archivers.zip.StreamCompressor$ScatterGatherBackingStoreCompressor#<init>(Ljava/util/zip/Deflater;Lorg/apache/commons/compress/parallel/ScatterGatherBackingStore;)V
+java.util.zip.Deflater#instance-init#
+org.apache.commons.compress.archivers.zip.StreamCompressor$ScatterGatherBackingStoreCompressor#instance-init#
+java.util.zip.Deflater#<init>(IZ)V

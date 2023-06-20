@@ -1,0 +1,54 @@
+
+Oorg.apache.commons.compress.archivers.sevenz.Folder#findBindPairForInStream(I)Io
+eC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/Folder.java2 2("7*!
+36 6("
+6 6(
+""*¨
+45 5(¶
+³
+5 5(=
+%27org.apache.commons.compress.archivers.sevenz.BindPair[]"__id*b
+
+__unknown_file (F*D5
+3org.apache.commons.compress.archivers.sevenz.Folder"
+	bindPairs×
+Ô
+5 5( ;
+%35org.apache.commons.compress.archivers.sevenz.BindPair"
+__arrayGet*[
+
+__unknown_file (?
+=
+%27org.apache.commons.compress.archivers.sevenz.BindPair[]*"
+
+__unknown_file (
+""*
+3
+5*Î
+54 4(¶
+³
+4  4()=
+%17org.apache.commons.compress.archivers.sevenz.BindPair[]"__id*b
+
+__unknown_file (F*D5
+3org.apache.commons.compress.archivers.sevenz.Folder"
+	bindPairs*
+4
+1*Î
+73 3(¶
+³
+3 3(=
+%07org.apache.commons.compress.archivers.sevenz.BindPair[]"__id*b
+
+__unknown_file (F*D5
+3org.apache.commons.compress.archivers.sevenz.Folder"
+	bindPairs*
+5
+1*!
+1: :("
+: :(
+"": 
+
+__unknown_file (
+""B75
+3org.apache.commons.compress.archivers.sevenz.FolderP

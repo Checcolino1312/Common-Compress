@@ -1,0 +1,64 @@
+
+forg.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm#toString()Ljava/lang/String;î
+áC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/forms/ByteCodeForm.java¬ ¬("1*Ñ
+1
+√ √(À»
+
+√ √(
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*i
+
+__unknown_file (MK
+Iorg.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm2
+getClass()îë
+
+√ √((
+%1java.lang.String"+java.lang.Class#getName()Ljava/lang/String;*3
+
+__unknown_file (
+
+%0java.lang.Class2	getName()m
+k
+
+√ √(.
+%2java.lang.String"__concat*&
+
+√ √((
+
+%1java.lang.String*
+
+√+ √(.
+(ÑÅ
+
+√1 √(:
+%3java.lang.String"eorg.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm#getName()Ljava/lang/String;*i
+
+__unknown_file (MK
+Iorg.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm2	getName()Ä
+~
+
+√ √(:
+%4java.lang.String"__concat*&
+
+√ √(.
+
+%2java.lang.String*&
+
+√1 √(:
+
+%3java.lang.Stringm
+k
+
+√ √(@
+%5java.lang.String"__concat*&
+
+√ √(:
+
+%4java.lang.String*
+
+√= √(@
+)"&
+
+√ √(A
+
+%5java.lang.StringBMK
+Iorg.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeFormH

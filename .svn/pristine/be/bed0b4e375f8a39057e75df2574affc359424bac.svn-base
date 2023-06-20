@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.arj.ArjArchiveEntry#getUnixMode()I
+==
+getMode org.apache.commons.compress.archivers.arj.ArjArchiveEntry#getMode()I
+isHostOsUnix org.apache.commons.compress.archivers.arj.ArjArchiveEntry#isHostOsUnix()Z

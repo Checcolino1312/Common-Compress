@@ -1,0 +1,4 @@
+org.apache.commons.compress.compressors.gzip.GzipCompressorInputStream#validateSkipAmount(I)V
+java.io.IOException#<init>()V
+org.apache.commons.compress.utils.IOUtils#skip(Ljava/io/InputStream;J)J
+java.io.IOException#instance-init#

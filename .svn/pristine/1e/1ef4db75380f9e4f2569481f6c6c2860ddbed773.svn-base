@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#updateTimeFromNtfsField()V
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#internalSetLastModifiedTime(Ljava/nio/file/attribute/FileTime;)V
+==
+getExtraField org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getExtraField(Lorg/apache/commons/compress/archivers/zip/ZipShort;)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;

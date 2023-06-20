@@ -1,0 +1,15 @@
+
+?org.apache.commons.compress.archivers.zip.BitStream#nextByte()Io
+eC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/BitStream.java@ @("1*€
+1A A(ÜÙ
+A A( 
+
+%0long"=org.apache.commons.compress.utils.BitInputStream#readBits(I)J*S
+
+__unknown_file (75
+3org.apache.commons.compress.archivers.zip.BitStream* 
+
+__unknown_file (22readBits(I)"
+A A(!
+""B75
+3org.apache.commons.compress.archivers.zip.BitStreamP

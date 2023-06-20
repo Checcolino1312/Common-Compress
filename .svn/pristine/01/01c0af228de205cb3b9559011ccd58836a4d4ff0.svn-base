@@ -1,0 +1,20 @@
+
+Xorg.apache.commons.compress.compressors.zstandard.ZstdCompressorInputStream#available()I”
+‰C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/zstandard/ZstdCompressorInputStream.javaA A("1*ƒ
+1B B(¸
+µ
+B B(+
+%0%com.github.luben.zstd.ZstdInputStream"__id*v
+
+__unknown_file (Z*XM
+Korg.apache.commons.compress.compressors.zstandard.ZstdCompressorInputStream"
+decIS¤¡
+B B( 	
+%1int"2com.github.luben.zstd.ZstdInputStream#available()I*I
+
+__unknown_file (-
++
+%0%com.github.luben.zstd.ZstdInputStream2available()"
+B B(!
+""BOM
+Korg.apache.commons.compress.compressors.zstandard.ZstdCompressorInputStreamHP

@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.ParallelScatterZipCreator#addArchiveEntry(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntryRequestSupplier;)V
+org.apache.commons.compress.archivers.zip.ParallelScatterZipCreator#submitStreamAwareCallable(Ljava/util/concurrent/Callable;)V
+org.apache.commons.compress.archivers.zip.ParallelScatterZipCreator#createCallable(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntryRequestSupplier;)Ljava/util/concurrent/Callable;

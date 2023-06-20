@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder#readBits(I)J
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder#readBits(Lorg/apache/commons/compress/utils/BitInputStream;I)J

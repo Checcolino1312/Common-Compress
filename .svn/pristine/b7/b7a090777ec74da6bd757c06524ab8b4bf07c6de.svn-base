@@ -1,0 +1,1 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#getEffectiveZip64Mode(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Lorg/apache/commons/compress/archivers/zip/Zip64Mode;

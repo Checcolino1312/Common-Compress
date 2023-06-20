@@ -1,0 +1,32 @@
+
+Norg.apache.commons.compress.archivers.dump.Dirent#toString()Ljava/lang/String;y
+oC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/dump/Dirent.javaT T("1*î
+1U U(ˆ
+…
+U. U(2
+%0java.lang.String"__id*[
+
+__unknown_file (?*=3
+1org.apache.commons.compress.archivers.dump.Dirent"
+name­
+ª
+U U(3
+%1java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*0
+
+__unknown_file ("
+java.lang.String*(
+
+__unknown_file (
+
+[%d]: %s*"
+
+__unknown_file (
+""*4
+
+__unknown_file (
+
+%0java.lang.String"$
+U U(4
+
+%1java.lang.StringB53
+1org.apache.commons.compress.archivers.dump.DirentH

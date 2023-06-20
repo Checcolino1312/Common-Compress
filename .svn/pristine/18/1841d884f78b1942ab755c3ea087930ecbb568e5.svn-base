@@ -1,0 +1,9 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#getAndMoveToFrontDecode()V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#recvDecodingTables()V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#getAndMoveToFrontDecode0()I
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#bsR(Lorg/apache/commons/compress/utils/BitInputStream;I)I
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#checkBounds(IILjava/lang/String;)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+java.util.Arrays#fill([BIIB)V
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V

@@ -1,0 +1,63 @@
+
+I__sonar_lambda_68$org.apache.commons.compress.archivers.examples.Expanders
+iC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/examples/Expander.javav |(	"startingBlock*ù
+2y y(·´
+y y(-8
+%32org.apache.commons.compress.archivers.ArchiveEntry"{org.apache.commons.compress.archivers.ArchiveInputStream#getNextEntry()Lorg/apache/commons/compress/archivers/ArchiveEntry;*a
+
+__unknown_file (E
+C
+archive8org.apache.commons.compress.archivers.ArchiveInputStream2getNextEntry()§
+¤
+y y(-:
+next2org.apache.commons.compress.archivers.ArchiveEntry"__id*V
+
+__unknown_file (:
+8
+%32org.apache.commons.compress.archivers.ArchiveEntry*
+3
+1*¼
+3x$ x(+¤¡
+x$ x(B
+%2boolean"€org.apache.commons.compress.archivers.ArchiveInputStream#canReadEntryData(Lorg/apache/commons/compress/archivers/ArchiveEntry;)Z*a
+
+__unknown_file (E
+C
+archive8org.apache.commons.compress.archivers.ArchiveInputStream*X
+
+__unknown_file (<
+:
+next2org.apache.commons.compress.archivers.ArchiveEntry2FcanReadEntryData(Lorg/apache/commons/compress/archivers/ArchiveEntry;)*
+2
+1*ï
+startingBlockv |(	Î
+Ë
+
+__unknown_file (C
+archive8org.apache.commons.compress.archivers.ArchiveInputStream"__id*d
+
+__unknown_file (H*F9
+7org.apache.commons.compress.archivers.examples.Expander"	
+archive*
+5*ù
+5w  w('·´
+w  w(68
+%12org.apache.commons.compress.archivers.ArchiveEntry"{org.apache.commons.compress.archivers.ArchiveInputStream#getNextEntry()Lorg/apache/commons/compress/archivers/ArchiveEntry;*a
+
+__unknown_file (E
+C
+archive8org.apache.commons.compress.archivers.ArchiveInputStream2getNextEntry()§
+¤
+w w(7:
+next2org.apache.commons.compress.archivers.ArchiveEntry"__id*V
+
+__unknown_file (:
+8
+%12org.apache.commons.compress.archivers.ArchiveEntry*
+3
+1*W
+1{ {("H
+{ {(<
+:
+next2org.apache.commons.compress.archivers.ArchiveEntryBPN
+Lorg.apache.commons.compress.archivers.examples.Expander$ArchiveEntrySupplier

@@ -1,0 +1,3 @@
+org.apache.commons.compress.utils.FixedLengthBlockOutputStream#isOpen()Z
+java.util.concurrent.atomic.AtomicBoolean#get()Z
+java.util.concurrent.atomic.AtomicBoolean#set(Z)V

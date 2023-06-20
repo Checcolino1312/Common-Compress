@@ -1,0 +1,32 @@
+
+oorg.apache.commons.compress.harmony.unpack200.bytecode.LocalVariableTableAttribute#toString()Ljava/lang/String;‘
+„C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/LocalVariableTableAttribute.java— —("1*Ÿ
+1
+˜ ˜(%n
+l
+
+˜ ˜(A
+%0java.lang.String"__concat*&
+
+˜ ˜(%
+LocalVariableTable: *
+
+˜( ˜(A
+""v
+t
+
+˜ ˜(P
+%1java.lang.String"__concat*&
+
+˜ ˜(A
+
+%0java.lang.String*
+
+˜D ˜(P
+
+ variables"&
+
+˜ ˜(Q
+
+%1java.lang.StringBVT
+Rorg.apache.commons.compress.harmony.unpack200.bytecode.LocalVariableTableAttributeH

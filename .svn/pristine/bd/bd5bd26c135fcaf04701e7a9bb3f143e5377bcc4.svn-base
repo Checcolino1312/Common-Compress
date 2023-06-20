@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ExtraFieldUtils#createExtraFieldNoDefault(Lorg/apache/commons/compress/archivers/zip/ZipShort;)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;
+java.lang.Class#newInstance()Ljava/lang/Object;

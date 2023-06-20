@@ -1,0 +1,35 @@
+
+‡org.apache.commons.compress.archivers.tar.TarArchiveInputStream#canReadEntryData(Lorg/apache/commons/compress/archivers/ArchiveEntry;)Z}
+qC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.javaÁ Á(#"startingBlock*Ì
+startingBlock
+Á# Á(:­
+ª
+
+À À(
+%0"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*V
+
+__unknown_file (:
+8
+ae2org.apache.commons.compress.archivers.ArchiveEntryz
+x
+
+Á7 Á(98
+ae2org.apache.commons.compress.archivers.ArchiveEntry"__annotation*"
+
+__unknown_file (
+
+%0*
+1*%
+1
+Â Â("
+
+Â Â(-
+"":F
+
+Á$ Á(98
+ae2org.apache.commons.compress.archivers.ArchiveEntryBCA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStreamHP

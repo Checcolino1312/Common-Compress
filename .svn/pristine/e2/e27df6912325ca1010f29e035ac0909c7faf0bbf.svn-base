@@ -1,0 +1,58 @@
+
+__sonar_lambda_58$„
+xC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/ArchiveStreamFactory.java½4 ½(|"startingBlock*¿
+startingBlock
+½4 ½(|¢
+Ÿ
+
+__unknown_file (
+mapjava.util.TreeMap"__id*c
+
+__unknown_file (G*E<
+:org.apache.commons.compress.archivers.ArchiveStreamFactory"
+map÷
+ô
+
+__unknown_file (W
+ArchiveStreamFactory.this:org.apache.commons.compress.archivers.ArchiveStreamFactory"__id*y
+
+__unknown_file (]*[<
+:org.apache.commons.compress.archivers.ArchiveStreamFactory"
+ArchiveStreamFactory.this*
+1*´
+1
+½@ ½(F’
+
+½G ½(l
+%9java.util.Set"gorg.apache.commons.compress.archivers.ArchiveStreamProvider#getInputStreamArchiveNames()Ljava/util/Set;*e
+
+__unknown_file (I
+G
+provider;org.apache.commons.compress.archivers.ArchiveStreamProvider2getInputStreamArchiveNames()ð
+í
+
+½@ ½(|
+%10void"£org.apache.commons.compress.archivers.ArchiveStreamFactory#putAll(Ljava/util/Set;Lorg/apache/commons/compress/archivers/ArchiveStreamProvider;Ljava/util/TreeMap;)V*Z
+
+__unknown_file (>"<
+:org.apache.commons.compress.archivers.ArchiveStreamFactory*1
+
+__unknown_file (
+
+%9java.util.Set*e
+
+__unknown_file (I
+G
+provider;org.apache.commons.compress.archivers.ArchiveStreamProvider*6
+
+__unknown_file (
+
+mapjava.util.TreeMap"
+
+½@ ½(|
+
+%10void:U
+
+½4 ½(<G
+provider;org.apache.commons.compress.archivers.ArchiveStreamProviderB
+java.util.function.Consumer

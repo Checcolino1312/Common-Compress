@@ -1,0 +1,8 @@
+org.apache.commons.compress.harmony.pack200.ClassBands#pack(Ljava/io/OutputStream;)V
+org.apache.commons.compress.harmony.pack200.ClassBands#writeMethodAttributeBands(Ljava/io/OutputStream;)V
+org.apache.commons.compress.harmony.pack200.ClassBands#getInts([Lorg/apache/commons/compress/harmony/pack200/CPClass;)[I
+org.apache.commons.compress.harmony.pack200.PackingUtils#log(Ljava/lang/String;)V
+org.apache.commons.compress.harmony.pack200.ClassBands#writeCodeBands(Ljava/io/OutputStream;)V
+org.apache.commons.compress.harmony.pack200.ClassBands#sum([I)I
+org.apache.commons.compress.harmony.pack200.ClassBands#writeFieldAttributeBands(Ljava/io/OutputStream;)V
+org.apache.commons.compress.harmony.pack200.ClassBands#writeClassAttributeBands(Ljava/io/OutputStream;)V

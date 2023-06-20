@@ -1,0 +1,17 @@
+org.apache.commons.compress.harmony.unpack200.ClassBands#parseFieldAttrBands(Ljava/io/InputStream;)V
+java.util.ArrayList#<init>()V
+org.apache.commons.compress.harmony.unpack200.bytecode.ConstantValueAttribute#<init>(Lorg/apache/commons/compress/harmony/unpack200/bytecode/ClassFileEntry;)V
+java.util.ArrayList#instance-init#
+org.apache.commons.compress.harmony.unpack200.ClassBands#getCallCount([[I[[JI)I
+org.apache.commons.compress.harmony.unpack200.bytecode.SignatureAttribute#instance-init#
+org.apache.commons.compress.harmony.unpack200.bytecode.SignatureAttribute#<init>(Lorg/apache/commons/compress/harmony/unpack200/bytecode/CPUTF8;)V
+org.apache.commons.compress.harmony.unpack200.ClassBands#parseFieldMetadataBands(Ljava/io/InputStream;[I)I
+org.apache.commons.compress.harmony.unpack200.bytecode.DeprecatedAttribute#instance-init#
+java.lang.String#substring(I)Ljava/lang/String;
+org.apache.commons.compress.harmony.unpack200.SegmentUtils#countBit16([[J)I
+java.lang.String#equals(Ljava/lang/Object;)Z
+org.apache.commons.compress.harmony.unpack200.bytecode.DeprecatedAttribute#<init>()V
+org.apache.commons.compress.harmony.unpack200.bytecode.ConstantValueAttribute#instance-init#
+java.lang.String#indexOf(I)I
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+org.apache.commons.compress.harmony.unpack200.SegmentUtils#countMatches([[JLorg/apache/commons/compress/harmony/unpack200/IMatcher;)I

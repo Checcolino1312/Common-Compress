@@ -1,0 +1,10 @@
+org.apache.commons.compress.harmony.pack200.PackingOptions#addOrUpdateAttributeActions(Ljava/util/List;Ljava/util/Map;I)V
+org.apache.commons.compress.harmony.pack200.NewAttribute#<init>(Ljava/lang/String;Ljava/lang/String;I)V
+org.apache.commons.compress.harmony.pack200.NewAttribute$StripAttribute#instance-init#
+org.apache.commons.compress.harmony.pack200.NewAttribute$StripAttribute#<init>(Ljava/lang/String;I)V
+org.apache.commons.compress.harmony.pack200.NewAttribute#instance-init#
+java.lang.String#equals(Ljava/lang/Object;)Z
+org.apache.commons.compress.harmony.pack200.NewAttribute$PassAttribute#instance-init#
+org.apache.commons.compress.harmony.pack200.NewAttribute$ErrorAttribute#instance-init#
+org.apache.commons.compress.harmony.pack200.NewAttribute$ErrorAttribute#<init>(Ljava/lang/String;I)V
+org.apache.commons.compress.harmony.pack200.NewAttribute$PassAttribute#<init>(Ljava/lang/String;I)V

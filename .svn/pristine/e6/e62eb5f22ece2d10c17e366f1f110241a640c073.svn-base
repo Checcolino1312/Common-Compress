@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#evaluateType(Ljava/util/Map;[B)I
+org.apache.commons.compress.utils.ArchiveUtils#matchAsciiBuffer(Ljava/lang/String;[BII)Z
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#isXstar(Ljava/util/Map;[B)Z

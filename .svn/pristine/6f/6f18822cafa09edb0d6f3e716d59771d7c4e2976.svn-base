@@ -1,0 +1,14 @@
+
+…org.apache.commons.compress.archivers.zip.UnparseableExtraFieldData#getHeaderId()Lorg/apache/commons/compress/archivers/zip/ZipShort;
+uC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/UnparseableExtraFieldData.javaD D("1*Ç
+1E E(p
+n
+E E(8
+%02org.apache.commons.compress.archivers.zip.ZipShort"__id*"
+
+__unknown_file (
+"""F
+E E(:
+8
+%02org.apache.commons.compress.archivers.zip.ZipShortBGE
+Corg.apache.commons.compress.archivers.zip.UnparseableExtraFieldDataH

@@ -1,0 +1,8 @@
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#<init>(Ljava/io/OutputStream;ILjava/lang/String;)V
+org.apache.commons.compress.archivers.zip.ZipEncodingHelper#getZipEncoding(Ljava/lang/String;)Lorg/apache/commons/compress/archivers/zip/ZipEncoding;
+org.apache.commons.compress.utils.CountingOutputStream#instance-init#
+org.apache.commons.compress.utils.CountingOutputStream#<init>(Ljava/io/OutputStream;)V
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.utils.FixedLengthBlockOutputStream#<init>(Ljava/io/OutputStream;I)V
+java.lang.IllegalArgumentException#instance-init#
+org.apache.commons.compress.utils.FixedLengthBlockOutputStream#instance-init#

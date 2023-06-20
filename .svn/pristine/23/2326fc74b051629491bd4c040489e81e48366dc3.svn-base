@@ -1,0 +1,6 @@
+org.apache.commons.compress.harmony.unpack200.Segment#setLogStream(Ljava/io/OutputStream;)V
+java.nio.charset.Charset#defaultCharset()Ljava/nio/charset/Charset;
+java.io.OutputStreamWriter#instance-init#
+java.io.OutputStreamWriter#<init>(Ljava/io/OutputStream;Ljava/nio/charset/Charset;)V
+java.io.PrintWriter#instance-init#
+java.io.PrintWriter#<init>(Ljava/io/Writer;Z)V

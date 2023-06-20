@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.zip.ScatterZipOutputStream#instance-init#
+java.util.concurrent.atomic.AtomicBoolean#<init>()V
+java.util.concurrent.ConcurrentLinkedQueue#<init>()V
+java.util.concurrent.ConcurrentLinkedQueue#instance-init#
+java.util.concurrent.atomic.AtomicBoolean#instance-init#

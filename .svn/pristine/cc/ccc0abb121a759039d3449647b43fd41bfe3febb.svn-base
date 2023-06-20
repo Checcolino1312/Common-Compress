@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder#close()V
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder$InitialState#instance-init#
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder$InitialState#<init>()V

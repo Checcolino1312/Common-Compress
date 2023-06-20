@@ -1,0 +1,5 @@
+org.apache.commons.compress.harmony.unpack200.BandSet#parseCPLongReferences(Ljava/lang/String;Ljava/io/InputStream;Lorg/apache/commons/compress/harmony/pack200/BHSDCodec;I)[Lorg/apache/commons/compress/harmony/unpack200/bytecode/CPLong;
+org.apache.commons.compress.harmony.pack200.Pack200Exception#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.harmony.pack200.Pack200Exception#instance-init#
+==
+decodeBandInt org.apache.commons.compress.harmony.unpack200.BandSet#decodeBandInt(Ljava/lang/String;Ljava/io/InputStream;Lorg/apache/commons/compress/harmony/pack200/BHSDCodec;I)[I

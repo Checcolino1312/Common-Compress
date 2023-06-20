@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#<init>([B)V
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#<init>(Z)V
+==
+parseTarHeader org.apache.commons.compress.archivers.tar.TarArchiveEntry#parseTarHeader([B)V

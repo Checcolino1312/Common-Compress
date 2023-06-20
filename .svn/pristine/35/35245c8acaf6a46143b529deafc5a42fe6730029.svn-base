@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#read()I
+==
+read org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#read([BII)I

@@ -1,0 +1,58 @@
+
+Qorg.apache.commons.compress.harmony.unpack200.bytecode.CodeAttribute#getLength()I€
+vC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CodeAttribute.javae e("4*á
+2g g(&†
+ƒ
+g g(&M
+	attribute@org.apache.commons.compress.harmony.unpack200.bytecode.Attribute"__id*"
+
+__unknown_file (
+""À
+½
+g g(&M
+	attribute@org.apache.commons.compress.harmony.unpack200.bytecode.Attribute"
+__arrayGet*2
+
+__unknown_file (
+
+%0java.util.List*"
+
+__unknown_file (
+""*
+3
+1*”
+3h h(ÿü
+h h(B	
+%1int"\org.apache.commons.compress.harmony.unpack200.bytecode.Attribute#getLengthIncludingHeader()I*k
+
+__unknown_file (O
+M
+	attribute@org.apache.commons.compress.harmony.unpack200.bytecode.Attribute2getLengthIncludingHeader()*
+2*´
+4g) g(3Ÿ
+œ
+g) g(3
+%0java.util.List"__id*t
+
+__unknown_file (X*VF
+Dorg.apache.commons.compress.harmony.unpack200.bytecode.CodeAttribute"
+
+attributes*
+2*´
+1j j(£
+ 
+j, j(:
+%2java.util.List"__id*x
+
+__unknown_file (\*ZF
+Dorg.apache.commons.compress.harmony.unpack200.bytecode.CodeAttribute"
+exceptionTableki
+j, j(A	
+%3int"java.util.List#size()I*2
+
+__unknown_file (
+
+%2java.util.List2size()"
+j j(i
+""BHF
+Dorg.apache.commons.compress.harmony.unpack200.bytecode.CodeAttributeP

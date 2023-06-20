@@ -1,0 +1,15 @@
+
+worg.apache.commons.compress.changes.ChangeSetPerformer$ArchiveInputStreamIterator#getInputStream()Ljava/io/InputStream;r
+hC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/changes/ChangeSetPerformer.javaD D()"1*¬
+1E E(Î
+Ë
+E E(>
+%08org.apache.commons.compress.archivers.ArchiveInputStream"__id*y
+
+__unknown_file (]*[S
+Qorg.apache.commons.compress.changes.ChangeSetPerformer$ArchiveInputStreamIterator"
+in"L
+E E(@
+>
+%08org.apache.commons.compress.archivers.ArchiveInputStreamBUS
+Qorg.apache.commons.compress.changes.ChangeSetPerformer$ArchiveInputStreamIteratorH

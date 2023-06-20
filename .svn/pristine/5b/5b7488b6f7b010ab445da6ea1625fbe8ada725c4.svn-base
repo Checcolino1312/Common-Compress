@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.pack200.Segment#passCurrentClass()V
+org.apache.commons.compress.harmony.pack200.Segment$PassException#<init>()V
+org.apache.commons.compress.harmony.pack200.Segment$PassException#instance-init#

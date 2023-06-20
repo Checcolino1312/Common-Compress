@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.CpBands#addIndices()V
+java.util.HashMap#<init>()V
+java.util.HashMap#instance-init#
+java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;

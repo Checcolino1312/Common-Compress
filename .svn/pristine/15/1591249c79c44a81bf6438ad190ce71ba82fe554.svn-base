@@ -1,0 +1,45 @@
+
+„org.apache.commons.compress.archivers.sevenz.DeltaDecoder#getOptionsFromCoder(Lorg/apache/commons/compress/archivers/sevenz/Coder;)Iu
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/DeltaDecoder.java8 8(#"4*!
+2: :("
+: :(
+""*¤
+39( 9(-Œ
+‰
+9( 9(8
+%1byte[]"__id*i
+
+__unknown_file (M*K
+;
+coder2org.apache.commons.compress.archivers.sevenz.Coder"
+
+properties*
+2
+1*¤
+49 9(Œ
+‰
+9 9(
+%0byte[]"__id*i
+
+__unknown_file (M*K
+;
+coder2org.apache.commons.compress.archivers.sevenz.Coder"
+
+properties*
+2
+3*°
+1< <(Œ
+‰
+< <('
+%2byte[]"__id*i
+
+__unknown_file (M*K
+;
+coder2org.apache.commons.compress.archivers.sevenz.Coder"
+
+properties"
+< <(0
+"":G
+8$ 8(5;
+coder2org.apache.commons.compress.archivers.sevenz.CoderB=;
+9org.apache.commons.compress.archivers.sevenz.DeltaDecoderP

@@ -1,0 +1,25 @@
+
+`org.apache.commons.compress.harmony.unpack200.bytecode.NewAttribute#toString()Ljava/lang/String;Å
+uC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/NewAttribute.java— —("1*ë
+1
+“ “(“
+œ
+
+“ “(C
+%0=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8"__id*v
+
+__unknown_file (Z*XE
+Corg.apache.commons.compress.harmony.unpack200.bytecode.NewAttribute"
+attributeNameÇˇ
+
+“ “(/
+%1java.lang.String"borg.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8#underlyingString()Ljava/lang/String;*a
+
+__unknown_file (E
+C
+%0=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF82underlyingString()"&
+
+“ “(0
+
+%1java.lang.StringBGE
+Corg.apache.commons.compress.harmony.unpack200.bytecode.NewAttributeH

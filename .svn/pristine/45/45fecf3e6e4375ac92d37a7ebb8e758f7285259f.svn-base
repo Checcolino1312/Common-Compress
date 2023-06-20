@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.ClassBands#<init>(Lorg/apache/commons/compress/harmony/pack200/Segment;IIZ)V
+org.apache.commons.compress.harmony.pack200.MetadataBandGroup#<init>(Ljava/lang/String;ILorg/apache/commons/compress/harmony/pack200/CpBands;Lorg/apache/commons/compress/harmony/pack200/SegmentHeader;I)V
+org.apache.commons.compress.harmony.pack200.ClassBands#createNewAttributeBands()V
+org.apache.commons.compress.harmony.pack200.MetadataBandGroup#instance-init#

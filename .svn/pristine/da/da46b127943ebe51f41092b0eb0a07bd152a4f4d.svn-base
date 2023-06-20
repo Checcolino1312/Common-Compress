@@ -1,0 +1,86 @@
+
+F__sonar_lambda_0$org.apache.commons.compress.harmony.unpack200.IcBands
+sC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/IcBands.java… ‰(	"1*„
+
+1
+†# †(*ÑÎ
+
+†3 †(G
+
+%38int"Forg.apache.commons.compress.harmony.unpack200.IcTuple#getTupleIndex()I*[
+
+__unknown_file (?
+=
+arg05org.apache.commons.compress.harmony.unpack200.IcTuple2getTupleIndex()·
+´
+
+†# †(H
+%39java.lang.Integer"/java.lang.Integer#valueOf(I)Ljava/lang/Integer;*1
+
+__unknown_file ("
+java.lang.Integer*(
+
+__unknown_file (
+
+
+%38inti
+g
+
+† †(I
+index1java.lang.Integer"__id*6
+
+__unknown_file (
+
+%39java.lang.IntegerÑÎ
+
+‡3 ‡(G
+
+%40int"Forg.apache.commons.compress.harmony.unpack200.IcTuple#getTupleIndex()I*[
+
+__unknown_file (?
+=
+arg15org.apache.commons.compress.harmony.unpack200.IcTuple2getTupleIndex()·
+´
+
+‡# ‡(H
+%41java.lang.Integer"/java.lang.Integer#valueOf(I)Ljava/lang/Integer;*1
+
+__unknown_file ("
+java.lang.Integer*(
+
+__unknown_file (
+
+
+%40inti
+g
+
+‡ ‡(I
+index2java.lang.Integer"__id*6
+
+__unknown_file (
+
+%41java.lang.Integeräá
+
+ˆ ˆ(+
+
+%42int"1java.lang.Integer#compareTo(Ljava/lang/Integer;)I*9
+
+__unknown_file (
+
+index1java.lang.Integer*9
+
+__unknown_file (
+
+index2java.lang.Integer2compareTo(Ljava/lang/Integer;)"
+
+ˆ ˆ(,
+
+
+%42int:K
+
+… …("=
+arg05org.apache.commons.compress.harmony.unpack200.IcTuple:K
+
+…# …('=
+arg15org.apache.commons.compress.harmony.unpack200.IcTupleB
+java.util.Comparator

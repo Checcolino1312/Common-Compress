@@ -1,0 +1,139 @@
+
+´org.apache.commons.compress.harmony.unpack200.SegmentConstantPool#matchSpecificPoolEntryIndex([Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;I)Iã
+C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/SegmentConstantPool.javaç ç(-"8*ä
+2
+ñ ñ("V
+T
+
+ñ ñ("
+elementjava.lang.Integer"__id*"
+
+__unknown_file (
+""ò
+ï
+
+ñ ñ("
+elementjava.lang.Integer"
+__arrayGet*9
+
+__unknown_file (
+
+	indexListjava.util.List*"
+
+__unknown_file (
+""*
+5
+1*%
+3
+õ õ(%"
+
+õ õ(&
+""*≤
+5
+ó# ó(*Ä~
+
+ó# ó(5	
+%3int"java.lang.Integer#intValue()I*:
+
+__unknown_file (
+
+elementjava.lang.Integer2
+intValue()õ
+ò
+
+ò4 ò(N
+%4java.lang.String"
+__arrayGet*B
+
+__unknown_file (&
+$
+secondaryArrayjava.lang.String[]*"
+
+__unknown_file (
+""˜
+Ù
+
+ò ò(O
+%5boolean"uorg.apache.commons.compress.harmony.unpack200.SegmentConstantPool#regexMatches(Ljava/lang/String;Ljava/lang/String;)Z*a
+
+__unknown_file (E"C
+Aorg.apache.commons.compress.harmony.unpack200.SegmentConstantPool*G
+
+__unknown_file (+
+)
+secondaryCompareRegexjava.lang.String*4
+
+__unknown_file (
+
+%4java.lang.String*
+2
+3*%
+7
+ì ì("
+
+ì ì(
+""*“
+8
+è è(€
+ÿ
+
+ê( ê(2Q
+%0Korg.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCache"__id*q
+
+__unknown_file (U*SC
+Aorg.apache.commons.compress.harmony.unpack200.SegmentConstantPool"
+
+arrayCacheÛ
+
+ê( ê(i
+%1java.util.List"ïorg.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCache#indexesForArrayKey([Ljava/lang/String;Ljava/lang/String;)Ljava/util/List;*o
+
+__unknown_file (S
+Q
+%0Korg.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCache*@
+
+__unknown_file ($
+"
+primaryArrayjava.lang.String[]*F
+
+__unknown_file (*
+(
+primaryCompareStringjava.lang.String29indexesForArrayKey([Ljava/lang/String;Ljava/lang/String;)e
+c
+
+ê ê(j
+	indexListjava.util.List"__id*2
+
+__unknown_file (
+
+%1java.util.List~|
+
+ë ë(
+%2boolean"java.util.List#isEmpty()Z*9
+
+__unknown_file (
+
+	indexListjava.util.List2	isEmpty()*
+2
+7*%
+1
+° °("
+
+° °(
+"":0
+
+ç. ç(J"
+primaryArrayjava.lang.String[]:2
+
+çK ç(i$
+secondaryArrayjava.lang.String[]:6
+
+é é(*(
+primaryCompareStringjava.lang.String:7
+
+é+ é(N)
+secondaryCompareRegexjava.lang.String: 
+
+__unknown_file (
+""BEC
+Aorg.apache.commons.compress.harmony.unpack200.SegmentConstantPoolP

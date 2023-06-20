@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.X000A_NTFS#getCentralDirectoryLength()Lorg/apache/commons/compress/archivers/zip/ZipShort;
+==
+getLocalFileDataLength org.apache.commons.compress.archivers.zip.X000A_NTFS#getLocalFileDataLength()Lorg/apache/commons/compress/archivers/zip/ZipShort;

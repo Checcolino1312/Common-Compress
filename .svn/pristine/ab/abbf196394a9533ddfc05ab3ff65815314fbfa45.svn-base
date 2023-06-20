@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.pack200.Pack200PackerAdapter#instance-init#
+org.apache.commons.compress.harmony.pack200.PackingOptions#instance-init#
+org.apache.commons.compress.harmony.pack200.PackingOptions#<init>()V

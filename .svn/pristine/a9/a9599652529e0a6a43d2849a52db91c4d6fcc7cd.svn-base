@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#getNextEntry()Lorg/apache/commons/compress/archivers/ArchiveEntry;
+==
+getNextZipEntry org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#getNextZipEntry()Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;

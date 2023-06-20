@@ -1,0 +1,25 @@
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#processPaxHeader(Ljava/lang/String;Ljava/lang/String;Ljava/util/Map;)V
+java.lang.Integer#parseInt(Ljava/lang/String;)I
+java.lang.Long#parseLong(Ljava/lang/String;)J
+java.nio.file.attribute.FileTime#from(Ljava/time/Instant;)Ljava/nio/file/attribute/FileTime;
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#parseInstantFromDecimalSeconds(Ljava/lang/String;)Ljava/time/Instant;
+==
+setStatusChangeTime org.apache.commons.compress.archivers.tar.TarArchiveEntry#setStatusChangeTime(Ljava/nio/file/attribute/FileTime;)V
+setSize org.apache.commons.compress.archivers.tar.TarArchiveEntry#setSize(J)V
+setGroupName org.apache.commons.compress.archivers.tar.TarArchiveEntry#setGroupName(Ljava/lang/String;)V
+setName org.apache.commons.compress.archivers.tar.TarArchiveEntry#setName(Ljava/lang/String;)V
+setGroupId org.apache.commons.compress.archivers.tar.TarArchiveEntry#setGroupId(J)V
+setUserName org.apache.commons.compress.archivers.tar.TarArchiveEntry#setUserName(Ljava/lang/String;)V
+setLastAccessTime org.apache.commons.compress.archivers.tar.TarArchiveEntry#setLastAccessTime(Ljava/nio/file/attribute/FileTime;)V
+fillStarSparseData org.apache.commons.compress.archivers.tar.TarArchiveEntry#fillStarSparseData(Ljava/util/Map;)V
+fillGNUSparse1xData org.apache.commons.compress.archivers.tar.TarArchiveEntry#fillGNUSparse1xData(Ljava/util/Map;)V
+fillGNUSparse0xData org.apache.commons.compress.archivers.tar.TarArchiveEntry#fillGNUSparse0xData(Ljava/util/Map;)V
+setLastModifiedTime org.apache.commons.compress.archivers.tar.TarArchiveEntry#setLastModifiedTime(Ljava/nio/file/attribute/FileTime;)V
+setUserId org.apache.commons.compress.archivers.tar.TarArchiveEntry#setUserId(J)V
+setDevMinor org.apache.commons.compress.archivers.tar.TarArchiveEntry#setDevMinor(I)V
+setCreationTime org.apache.commons.compress.archivers.tar.TarArchiveEntry#setCreationTime(Ljava/nio/file/attribute/FileTime;)V
+setDevMajor org.apache.commons.compress.archivers.tar.TarArchiveEntry#setDevMajor(I)V
+setLinkName org.apache.commons.compress.archivers.tar.TarArchiveEntry#setLinkName(Ljava/lang/String;)V

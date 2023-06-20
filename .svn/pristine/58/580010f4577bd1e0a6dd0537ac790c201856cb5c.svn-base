@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#writeUnpackInfo(Ljava/io/DataOutput;)V
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#writeUint64(Ljava/io/DataOutput;J)V
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#writeFolder(Ljava/io/DataOutput;Lorg/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry;)V
+java.lang.Integer#reverseBytes(I)I

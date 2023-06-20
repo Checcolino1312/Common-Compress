@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.unpack200.Segment#unpackWrite(Ljava/util/jar/JarOutputStream;)V
+==
+writeJar org.apache.commons.compress.harmony.unpack200.Segment#writeJar(Ljava/util/jar/JarOutputStream;)V

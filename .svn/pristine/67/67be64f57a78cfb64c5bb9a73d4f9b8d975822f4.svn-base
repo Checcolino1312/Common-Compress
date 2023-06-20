@@ -1,0 +1,13 @@
+org.apache.commons.compress.harmony.unpack200.CpBands#read(Ljava/io/InputStream;)V
+org.apache.commons.compress.harmony.unpack200.CpBands#parseCpDouble(Ljava/io/InputStream;)V
+org.apache.commons.compress.harmony.unpack200.CpBands#parseCpField(Ljava/io/InputStream;)V
+org.apache.commons.compress.harmony.unpack200.CpBands#parseCpUtf8(Ljava/io/InputStream;)V
+org.apache.commons.compress.harmony.unpack200.CpBands#parseCpDescriptor(Ljava/io/InputStream;)V
+org.apache.commons.compress.harmony.unpack200.CpBands#parseCpClass(Ljava/io/InputStream;)V
+org.apache.commons.compress.harmony.unpack200.CpBands#parseCpSignature(Ljava/io/InputStream;)V
+org.apache.commons.compress.harmony.unpack200.CpBands#parseCpInt(Ljava/io/InputStream;)V
+org.apache.commons.compress.harmony.unpack200.CpBands#parseCpString(Ljava/io/InputStream;)V
+org.apache.commons.compress.harmony.unpack200.CpBands#parseCpMethod(Ljava/io/InputStream;)V
+org.apache.commons.compress.harmony.unpack200.CpBands#parseCpLong(Ljava/io/InputStream;)V
+org.apache.commons.compress.harmony.unpack200.CpBands#parseCpFloat(Ljava/io/InputStream;)V
+org.apache.commons.compress.harmony.unpack200.CpBands#parseCpIMethod(Ljava/io/InputStream;)V

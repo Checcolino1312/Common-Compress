@@ -1,0 +1,37 @@
+
+Xorg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#usesDataDescriptor(IZ)ZŠ
+~C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.javaÒ Ò(&"2"4"1*È
+2
+Ó3 Ó(:±
+®
+
+Ó3 Ó(:+
+%1%java.nio.channels.SeekableByteChannel"__id*m
+
+__unknown_file (Q*OB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"	
+channel*
+1*\
+4
+Ó Ó(#C
+A
+
+Ó' Ó(/	
+%0int"__id*"
+
+__unknown_file (
+""*
+2
+1*%
+1
+Ó Ó(C"
+
+Ó Ó(C
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BDB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStreamP

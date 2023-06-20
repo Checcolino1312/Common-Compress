@@ -1,0 +1,52 @@
+
+Jorg.apache.commons.compress.harmony.pack200.BHSDCodec#calculateSmallest()Js
+gC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/BHSDCodec.javaÅ Å(""6"1*×
+2
+Î Î(C
+A
+
+Î Î(/	
+%1int"__id*"
+
+__unknown_file (
+""ÇÄ
+
+Î2 Î(?
+
+%2long"Dorg.apache.commons.compress.harmony.pack200.BHSDCodec#cardinality()J*U
+
+__unknown_file (97
+5org.apache.commons.compress.harmony.pack200.BHSDCodec2cardinality()±
+®
+
+Î Î(K
+
+%3long"java.lang.Math#max(JJ)J*.
+
+__unknown_file ("
+java.lang.Math*'
+
+__unknown_file (
+	
+%1int*"
+
+__unknown_file (
+""*
+1*Þ
+6
+Ç Ç(ÄÁ
+
+Ç Ç(!
+%0boolean"Aorg.apache.commons.compress.harmony.pack200.BHSDCodec#isSigned()Z*U
+
+__unknown_file (97
+5org.apache.commons.compress.harmony.pack200.BHSDCodec2
+isSigned()*
+2
+1*%
+1
+Ð Ð("
+
+Ð Ð(
+""B97
+5org.apache.commons.compress.harmony.pack200.BHSDCodecP

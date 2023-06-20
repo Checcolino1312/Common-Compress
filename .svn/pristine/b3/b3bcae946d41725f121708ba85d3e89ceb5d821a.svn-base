@@ -1,0 +1,7 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.RuntimeVisibleorInvisibleAnnotationsAttribute#writeBody(Ljava/io/DataOutputStream;)V
+java.lang.Error#<init>()V
+java.io.DataOutputStream#writeShort(I)V
+java.lang.Error#instance-init#
+java.io.DataOutputStream#size()I
+==
+getLength org.apache.commons.compress.harmony.unpack200.bytecode.RuntimeVisibleorInvisibleAnnotationsAttribute#getLength()I

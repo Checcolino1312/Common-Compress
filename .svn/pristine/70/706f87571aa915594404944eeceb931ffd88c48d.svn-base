@@ -1,0 +1,59 @@
+
+¿org.apache.commons.compress.archivers.zip.StreamCompressor#create(ILorg/apache/commons/compress/parallel/ScatterGatherBackingStore;)Lorg/apache/commons/compress/archivers/zip/StreamCompressor;Ñ
+xC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/StreamCompressor.javaÄ# Ä()"1*›	
+1
+Å/ Å(?DB
+
+Å& Å(.
+%0java.util.zip.Deflater"java.util.zip.Deflaterª
+∏
+
+Å" Å(F
+%1""java.util.zip.Deflater#<init>(IZ)V*:
+
+__unknown_file (
+
+%0java.util.zip.Deflater*"
+
+__unknown_file (
+""* 
+
+__unknown_file (2t
+r
+
+Å Å(G"
+deflaterjava.util.zip.Deflater"__id*:
+
+__unknown_file (
+
+%0java.util.zip.Deflater’“
+
+Ç Ç(6d
+%2^org.apache.commons.compress.archivers.zip.StreamCompressor$ScatterGatherBackingStoreCompressor"^org.apache.commons.compress.archivers.zip.StreamCompressor$ScatterGatherBackingStoreCompressorÉ
+Ä
+
+Ç Ç(D
+%3"¿org.apache.commons.compress.archivers.zip.StreamCompressor$ScatterGatherBackingStoreCompressor#<init>(Ljava/util/zip/Deflater;Lorg/apache/commons/compress/parallel/ScatterGatherBackingStore;)V*Ç
+
+__unknown_file (f
+d
+%2^org.apache.commons.compress.archivers.zip.StreamCompressor$ScatterGatherBackingStoreCompressor*@
+
+__unknown_file ($
+"
+deflaterjava.util.zip.Deflater*b
+
+__unknown_file (F
+D
+bs>org.apache.commons.compress.parallel.ScatterGatherBackingStore"t
+
+Ç Ç(Ef
+d
+%2^org.apache.commons.compress.archivers.zip.StreamCompressor$ScatterGatherBackingStoreCompressor: 
+
+__unknown_file (
+"":R
+
+ÄF Ä(hD
+bs>org.apache.commons.compress.parallel.ScatterGatherBackingStoreB>"<
+:org.apache.commons.compress.archivers.zip.StreamCompressorH

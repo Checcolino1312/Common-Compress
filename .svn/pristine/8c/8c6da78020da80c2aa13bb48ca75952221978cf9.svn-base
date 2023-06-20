@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.PKWareExtraHeader#getCentralDirectoryData()[B
+org.apache.commons.compress.archivers.zip.ZipUtil#copy([B)[B
+==
+getLocalFileDataData org.apache.commons.compress.archivers.zip.PKWareExtraHeader#getLocalFileDataData()[B

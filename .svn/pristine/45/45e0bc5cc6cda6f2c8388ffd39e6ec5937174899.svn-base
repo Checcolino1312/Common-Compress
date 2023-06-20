@@ -1,0 +1,15 @@
+
+èorg.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm#fixUpByteCodeTargets(Lorg/apache/commons/compress/harmony/unpack200/bytecode/ByteCode;Lorg/apache/commons/compress/harmony/unpack200/bytecode/CodeAttribute;)V”
+‡C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/forms/ByteCodeForm.javaü ü($"1*%
+1
+þ þ("
+
+þ þ(
+"":Y
+
+ü% ü(=K
+byteCode?org.apache.commons.compress.harmony.unpack200.bytecode.ByteCode:c
+
+ü> ü(_U
+codeAttributeDorg.apache.commons.compress.harmony.unpack200.bytecode.CodeAttributeBMK
+Iorg.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeFormH

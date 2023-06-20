@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.ClassBands#addMaxStack(II)V
+java.lang.Long#longValue()J
+java.lang.Long#intValue()I
+java.lang.Long#valueOf(J)Ljava/lang/Long;

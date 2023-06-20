@@ -1,0 +1,48 @@
+
+‘org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#isTooLargeForZip32(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z~
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.javaõ	 õ	(&"3*§
+2
+ö	J ö	(YÉÆ
+
+ö	J ö	(m
+
+%2long"+java.util.zip.ZipEntry#getCompressedSize()J*j
+
+__unknown_file (N
+L
+zipArchiveEntry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getCompressedSize()E
+C
+ö	q ö	(‰
+
+%3long"__id*"
+
+__unknown_file (
+""*
+1*¼
+3
+ö	 ö	(ÜÙ
+
+ö	 ö	(*
+
+%0long"Forg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getSpazio()J*j
+
+__unknown_file (N
+L
+zipArchiveEntry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getSpazio()D
+B
+
+ö	. ö	(F
+
+%1long"__id*"
+
+__unknown_file (
+""*
+2
+1*'
+1ö	 ö	(Š"
+ö	 ö	(Š
+"":Z
+
+õ	' õ	(LL
+zipArchiveEntry9org.apache.commons.compress.archivers.zip.ZipArchiveEntryBDB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStreamP

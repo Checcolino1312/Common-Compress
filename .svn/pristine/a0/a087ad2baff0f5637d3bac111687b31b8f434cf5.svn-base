@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.unpack200.ClassBands#processAttributes(Lorg/apache/commons/compress/harmony/unpack200/AttributeLayoutMap;[JI[Lorg/apache/commons/compress/harmony/unpack200/AttributeLayout;[I)V
+org.apache.commons.compress.harmony.unpack200.SegmentUtils#countMatches([JLorg/apache/commons/compress/harmony/unpack200/IMatcher;)I

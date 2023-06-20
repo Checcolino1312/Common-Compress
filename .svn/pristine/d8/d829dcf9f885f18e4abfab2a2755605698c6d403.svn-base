@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.ZipFile#getRawInputStream(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Ljava/io/InputStream;
+org.apache.commons.compress.archivers.zip.ZipFile#createBoundedInputStream(JJ)Lorg/apache/commons/compress/utils/BoundedArchiveInputStream;
+org.apache.commons.compress.archivers.zip.ZipFile#getDataOffset(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)J

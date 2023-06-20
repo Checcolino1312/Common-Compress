@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.BandSet#initializeCanonicalArrays()V
+org.apache.commons.compress.harmony.pack200.BHSDCodec#largest()J
+org.apache.commons.compress.harmony.pack200.BHSDCodec#smallest()J
+org.apache.commons.compress.harmony.pack200.CodecEncoding#getCanonicalCodec(I)Lorg/apache/commons/compress/harmony/pack200/BHSDCodec;

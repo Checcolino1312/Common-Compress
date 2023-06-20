@@ -1,0 +1,19 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readEncodedHeader(Ljava/nio/ByteBuffer;Lorg/apache/commons/compress/archivers/sevenz/Archive;[B)Ljava/nio/ByteBuffer;
+java.nio.ByteBuffer#order(Ljava/nio/ByteOrder;)Ljava/nio/ByteBuffer;
+java.nio.ByteBuffer#wrap([B)Ljava/nio/ByteBuffer;
+org.apache.commons.compress.utils.IOUtils#readRange(Ljava/io/InputStream;I)[B
+java.nio.Buffer#position()I
+org.apache.commons.compress.archivers.sevenz.BoundedSeekableByteChannelInputStream#instance-init#
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.sevenz.BoundedSeekableByteChannelInputStream#<init>(Ljava/nio/channels/SeekableByteChannel;J)V
+org.apache.commons.compress.utils.CRC32VerifyingInputStream#<init>(Ljava/io/InputStream;JJ)V
+org.apache.commons.compress.utils.CRC32VerifyingInputStream#instance-init#
+org.apache.commons.compress.archivers.sevenz.Coders#addDecoder(Ljava/lang/String;Ljava/io/InputStream;JLorg/apache/commons/compress/archivers/sevenz/Coder;[BI)Ljava/io/InputStream;
+org.apache.commons.compress.archivers.sevenz.SevenZFile$ArchiveStatistics#<init>()V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#sanityCheckStreamsInfo(Ljava/nio/ByteBuffer;Lorg/apache/commons/compress/archivers/sevenz/SevenZFile$ArchiveStatistics;)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile$ArchiveStatistics#instance-init#
+org.apache.commons.compress.archivers.sevenz.SevenZFile#assertFitsIntoNonNegativeInt(Ljava/lang/String;J)I
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readStreamsInfo(Ljava/nio/ByteBuffer;Lorg/apache/commons/compress/archivers/sevenz/Archive;)V
+==
+assertValidity org.apache.commons.compress.archivers.sevenz.SevenZFile$ArchiveStatistics#assertValidity(I)V

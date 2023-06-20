@@ -1,0 +1,20 @@
+
+Sorg.apache.commons.compress.compressors.lzma.LZMACompressorInputStream#available()I‚
+xC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/lzma/LZMACompressorInputStream.javah h("1*Ã
+1i i(ž
+›
+i i(
+%0java.io.InputStream"__id*n
+
+__unknown_file (R*PH
+Forg.apache.commons.compress.compressors.lzma.LZMACompressorInputStream"
+in}
+i i(	
+%1int" java.io.InputStream#available()I*7
+
+__unknown_file (
+
+%0java.io.InputStream2available()"
+i i(
+""BJH
+Forg.apache.commons.compress.compressors.lzma.LZMACompressorInputStreamHP

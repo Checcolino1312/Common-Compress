@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveUtil#getIno([B)I
+org.apache.commons.compress.archivers.dump.DumpArchiveUtil#convert32([BI)I

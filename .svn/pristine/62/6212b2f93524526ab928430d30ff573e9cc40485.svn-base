@@ -1,0 +1,15 @@
+
+Jorg.apache.commons.compress.changes.Change#getInput()Ljava/io/InputStream;f
+\C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/changes/Change.javaO O("1*¾
+1P P(…
+‚
+P P(
+%0java.io.InputStream"__id*U
+
+__unknown_file (9*7,
+*org.apache.commons.compress.changes.Change"
+input"'
+P P(
+
+%0java.io.InputStreamB.,
+*org.apache.commons.compress.changes.Change

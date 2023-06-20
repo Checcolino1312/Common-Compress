@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorOutputStream#instance-init#
+org.apache.commons.compress.compressors.lz4.XXHash32#instance-init#
+org.apache.commons.compress.compressors.lz4.XXHash32#<init>()V

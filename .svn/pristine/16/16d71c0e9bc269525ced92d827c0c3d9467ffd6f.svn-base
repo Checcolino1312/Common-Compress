@@ -1,0 +1,11 @@
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#getOrderedSparseHeaders()Ljava/util/List;
+java.util.stream.Collectors#toList()Ljava/util/stream/Collector;
+java.util.Collections#emptyList()Ljava/util/List;
+java.util.Comparator#comparingLong(Ljava/util/function/ToLongFunction;)Ljava/util/Comparator;
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.tar.TarArchiveStructSparse#getOffset()J
+org.apache.commons.compress.archivers.tar.TarArchiveStructSparse#getNumbytes()J
+==
+getRealSize org.apache.commons.compress.archivers.tar.TarArchiveEntry#getRealSize()J
+getName org.apache.commons.compress.archivers.tar.TarArchiveEntry#getName()Ljava/lang/String;

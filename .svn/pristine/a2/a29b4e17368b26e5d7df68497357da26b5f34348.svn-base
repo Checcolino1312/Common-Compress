@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#processZip64Extra(Lorg/apache/commons/compress/archivers/zip/ZipLong;Lorg/apache/commons/compress/archivers/zip/ZipLong;)V
+java.util.zip.ZipException#instance-init#
+org.apache.commons.compress.archivers.zip.ZipLong#equals(Ljava/lang/Object;)Z
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#getLongValue()J
+org.apache.commons.compress.archivers.zip.ZipLong#getValue()J
+java.util.zip.ZipException#<init>(Ljava/lang/String;)V

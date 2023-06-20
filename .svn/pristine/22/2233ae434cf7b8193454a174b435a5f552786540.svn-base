@@ -1,0 +1,73 @@
+
+πorg.apache.commons.compress.archivers.zip.ExtraFieldUtils#createExtraField(Lorg/apache/commons/compress/archivers/zip/ZipShort;)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;É
+wC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ExtraFieldUtils.javaó  ó(0"3*a
+2
+õ õ("P
+
+õ õ(B
+@
+field7org.apache.commons.compress.archivers.zip.ZipExtraField*ù
+3
+ô$ ô(=Ã
+…
+
+ô$ ô(G=
+%07org.apache.commons.compress.archivers.zip.ZipExtraField"¬org.apache.commons.compress.archivers.zip.ExtraFieldUtils#createExtraFieldNoDefault(Lorg/apache/commons/compress/archivers/zip/ZipShort;)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;*Y
+
+__unknown_file (=";
+9org.apache.commons.compress.archivers.zip.ExtraFieldUtils*\
+
+__unknown_file (@
+>
+headerId2org.apache.commons.compress.archivers.zip.ZipShort¥
+±
+
+ô ô(H@
+field7org.apache.commons.compress.archivers.zip.ZipExtraField"__id*[
+
+__unknown_file (?
+=
+%07org.apache.commons.compress.archivers.zip.ZipExtraField*
+2
+1*ª
+1
+ù) ù(Eôñ
+
+ù- ù(CF
+%1@org.apache.commons.compress.archivers.zip.UnrecognizedExtraField"@org.apache.commons.compress.archivers.zip.UnrecognizedExtraField«
+ƒ
+
+ù) ù(E
+%2"Jorg.apache.commons.compress.archivers.zip.UnrecognizedExtraField#<init>()V*d
+
+__unknown_file (H
+F
+%1@org.apache.commons.compress.archivers.zip.UnrecognizedExtraField¬
+ø
+
+ù ù(FE
+u@org.apache.commons.compress.archivers.zip.UnrecognizedExtraField"__id*d
+
+__unknown_file (H
+F
+%1@org.apache.commons.compress.archivers.zip.UnrecognizedExtraFieldß§
+
+û û(
+
+%3void"Éorg.apache.commons.compress.archivers.zip.UnrecognizedExtraField#setHeaderId(Lorg/apache/commons/compress/archivers/zip/ZipShort;)V*c
+
+__unknown_file (G
+E
+u@org.apache.commons.compress.archivers.zip.UnrecognizedExtraField*\
+
+__unknown_file (@
+>
+headerId2org.apache.commons.compress.archivers.zip.ZipShort2AsetHeaderId(Lorg/apache/commons/compress/archivers/zip/ZipShort;)"U
+
+ü ü(G
+E
+u@org.apache.commons.compress.archivers.zip.UnrecognizedExtraField:L
+
+ó1 ó(H>
+headerId2org.apache.commons.compress.archivers.zip.ZipShortB=";
+9org.apache.commons.compress.archivers.zip.ExtraFieldUtilsH

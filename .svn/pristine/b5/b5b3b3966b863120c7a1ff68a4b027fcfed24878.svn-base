@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.snappy.SnappyCompressorOutputStream#writeBackReferenceWithLittleEndianOffset(IIII)V
+org.apache.commons.compress.compressors.snappy.SnappyCompressorOutputStream#writeLittleEndian(II)V

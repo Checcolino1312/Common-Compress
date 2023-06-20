@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#getCount()I
+==
+getBytesRead org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#getBytesRead()J

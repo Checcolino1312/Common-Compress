@@ -1,0 +1,39 @@
+
+¦org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#shouldContinueReadingDirectoryEntry(Lorg/apache/commons/compress/archivers/dump/DumpArchiveEntry;Z)Z
+sC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveInputStream.javaí í(7"2"1*«
+2
+î î(,
+Š
+
+î î(9R
+%0Lorg.apache.commons.compress.archivers.dump.DumpArchiveConstants$SEGMENT_TYPE"__id*"
+
+__unknown_file (
+""
+Š
+
+î î(>R
+%1Lorg.apache.commons.compress.archivers.dump.DumpArchiveConstants$SEGMENT_TYPE"__id*"
+
+__unknown_file (
+""ôñ
+
+îB î(WR
+%2Lorg.apache.commons.compress.archivers.dump.DumpArchiveConstants$SEGMENT_TYPE"™org.apache.commons.compress.archivers.dump.DumpArchiveEntry#getHeaderType()Lorg/apache/commons/compress/archivers/dump/DumpArchiveConstants$SEGMENT_TYPE;*b
+
+__unknown_file (F
+D
+entry;org.apache.commons.compress.archivers.dump.DumpArchiveEntry2getHeaderType()*
+1*%
+1
+î î(X"
+
+î î(X
+"":R
+
+í8 í(OD
+entry;org.apache.commons.compress.archivers.dump.DumpArchiveEntry: 
+
+__unknown_file (
+""BEC
+Aorg.apache.commons.compress.archivers.dump.DumpArchiveInputStreamP

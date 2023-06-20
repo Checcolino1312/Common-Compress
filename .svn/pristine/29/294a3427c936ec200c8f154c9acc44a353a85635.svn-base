@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.pack200.ClassBands#writeFieldAttributeBands(Ljava/io/OutputStream;)V
+org.apache.commons.compress.harmony.pack200.PackingUtils#log(Ljava/lang/String;)V

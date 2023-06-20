@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.sevenz.BoundedSeekableByteChannelInputStream#read()I
+org.apache.commons.compress.archivers.sevenz.BoundedSeekableByteChannelInputStream#read(I)I

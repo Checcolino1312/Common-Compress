@@ -1,0 +1,24 @@
+
+eorg.apache.commons.compress.archivers.arj.ArjArchiveInputStream#getArchiveComment()Ljava/lang/String;{
+qC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/arj/ArjArchiveInputStream.javaw w(#"1*ã
+1x x(¿
+Ω
+x x(:
+%04org.apache.commons.compress.archivers.arj.MainHeader"__id*o
+
+__unknown_file (S*QA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStream"
+
+mainHeaderí
+è
+x x(!
+%1java.lang.String"__id*e
+
+__unknown_file (I*G
+:
+%04org.apache.commons.compress.archivers.arj.MainHeader"	
+comment"$
+x x("
+
+%1java.lang.StringBCA
+?org.apache.commons.compress.archivers.arj.ArjArchiveInputStreamH

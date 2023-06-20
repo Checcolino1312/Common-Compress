@@ -1,0 +1,50 @@
+
+†org.apache.commons.compress.harmony.unpack200.SegmentConstantPool#matchSpecificPoolEntryIndex([Ljava/lang/String;Ljava/lang/String;I)I
+sC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/SegmentConstantPool.javaû û(-"1*¨
+1
+ý ý(*P
+N
+
+ýP ý(_
+%0java.lang.String"__id*"
+
+__unknown_file (
+.*®«
+
+ý ý(n	
+%1int"«org.apache.commons.compress.harmony.unpack200.SegmentConstantPool#matchSpecificPoolEntryIndex([Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;I)I*a
+
+__unknown_file (EC
+Aorg.apache.commons.compress.harmony.unpack200.SegmentConstantPool*=
+
+__unknown_file (!
+
+	nameArrayjava.lang.String[]*=
+
+__unknown_file (!
+
+	nameArrayjava.lang.String[]*?
+
+__unknown_file (#
+!
+compareStringjava.lang.String*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+""2hmatchSpecificPoolEntryIndex([Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;I)"
+
+ý ý(o
+"":-
+
+û. û(G
+	nameArrayjava.lang.String[]:/
+
+ûH û(c!
+compareStringjava.lang.String: 
+
+__unknown_file (
+""BEC
+Aorg.apache.commons.compress.harmony.unpack200.SegmentConstantPoolP

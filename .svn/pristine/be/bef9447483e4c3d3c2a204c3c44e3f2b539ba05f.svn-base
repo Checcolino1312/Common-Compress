@@ -1,0 +1,106 @@
+
+Sorg.apache.commons.compress.archivers.zip.ZipFile$Entry#equals(Ljava/lang/Object;)Zy
+oC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.javas s("startingBlock*!
+2w |(;"
+w |(;
+""*ã
+3{ {(é
+ã
+{ {(1
+
+%5long"Oorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getDiskNumberStart()J*"
+
+__unknown_file (
+""Â‚
+| |(:
+
+%6long"Oorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getDiskNumberStart()J*c
+
+__unknown_file (G
+E
+
+otherEntry7org.apache.commons.compress.archivers.zip.ZipFile$Entry2getDiskNumberStart()*
+2*à
+startingBlocks s(1å
+â
+r r(
+%7"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*7
+
+__unknown_file (
+
+otherjava.lang.ObjectY
+W
+s+ s(0
+otherjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%7*
+7*ˇ
+5y y(â
+Ü
+y y(,
+
+%3long"Jorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getDataOffset()J*"
+
+__unknown_file (
+""€ÿ
+z z(5
+
+%4long"Jorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getDataOffset()J*c
+
+__unknown_file (G
+E
+
+otherEntry7org.apache.commons.compress.archivers.zip.ZipFile$Entry2getDataOffset()*
+2
+3*˙
+6v1 v(6ì
+ê
+v v(7E
+
+otherEntry7org.apache.commons.compress.archivers.zip.ZipFile$Entry"__id*7
+
+__unknown_file (
+
+otherjava.lang.Object›⁄
+w w(-
+
+%1long"Qorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getLocalHeaderOffset()J*W
+
+__unknown_file (;9
+7org.apache.commons.compress.archivers.zip.ZipFile$Entry2getLocalHeaderOffset()ÈÊ
+x x(<
+
+%2long"Qorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getLocalHeaderOffset()J*c
+
+__unknown_file (G
+E
+
+otherEntry7org.apache.commons.compress.archivers.zip.ZipFile$Entry2getLocalHeaderOffset()*	
+2
+3
+5*Ë
+7t t(–
+Õ
+t t(#
+%0boolean"Uorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#equals(Ljava/lang/Object;)Z*"
+
+__unknown_file (
+""*7
+
+__unknown_file (
+
+otherjava.lang.Object*
+6
+1*!
+1~ ~("
+~ ~(
+"":%
+s s(0
+otherjava.lang.ObjectB;9
+7org.apache.commons.compress.archivers.zip.ZipFile$EntryHP

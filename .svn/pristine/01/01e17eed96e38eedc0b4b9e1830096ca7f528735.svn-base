@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.zstandard.ZstdUtils#isZstdCompressionAvailable()Z
+org.apache.commons.compress.compressors.zstandard.ZstdUtils#internalIsZstdCompressionAvailable()Z

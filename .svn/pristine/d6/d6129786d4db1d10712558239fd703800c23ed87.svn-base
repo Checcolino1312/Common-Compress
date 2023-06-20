@@ -1,0 +1,128 @@
+
+Worg.apache.commons.compress.archivers.zip.ZipArchiveInputStream#readFromInflater([BII)I‰
+}C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.javaõ õ( "16*Ì
+2
+‡	 ‡	(!
+›
+
+‡	 ‡	(!
+%12java.util.zip.Inflater"__id*h
+
+__unknown_file (L*JA
+?org.apache.commons.compress.archivers.zip.ZipArchiveInputStream"
+inf
+
+‡	 ‡	(.
+%13boolean"$java.util.zip.Inflater#needsInput()Z*;
+
+__unknown_file (
+
+%12java.util.zip.Inflater2needsInput()*
+16
+1*ƒ
+14
+û û(×
+Ô
+
+û û(R
+%3Lorg.apache.commons.compress.archivers.zip.ZipArchiveInputStream$CurrentEntry"__id*l
+
+__unknown_file (P*NA
+?org.apache.commons.compress.archivers.zip.ZipArchiveInputStream"	
+currentš
+—
+
+û3 û(6
+%4java.nio.ByteBuffer"__id*h
+
+__unknown_file (L*JA
+?org.apache.commons.compress.archivers.zip.ZipArchiveInputStream"
+bufus
+
+û3 û(>	
+%5int"java.nio.Buffer#limit()I*7
+
+__unknown_file (
+
+%4java.nio.ByteBuffer2limit()*
+9*ä
+15
+ù ù("Ä
+Á
+
+ù ù($	
+%2int"Gorg.apache.commons.compress.archivers.zip.ZipArchiveInputStream#fill()I*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.zip.ZipArchiveInputStream*
+14
+12
+1*Ê
+16
+ø ø(
+š
+
+ø ø(
+%0java.util.zip.Inflater"__id*h
+
+__unknown_file (L*JA
+?org.apache.commons.compress.archivers.zip.ZipArchiveInputStream"
+inf‹
+
+ø ø( 
+%1boolean"$java.util.zip.Inflater#needsInput()Z*:
+
+__unknown_file (
+
+%0java.util.zip.Inflater2needsInput()*
+15
+9*¾
+9
+ƒ	 ƒ	(
+š
+
+ƒ	 ƒ	(
+%6java.util.zip.Inflater"__id*h
+
+__unknown_file (L*JA
+?org.apache.commons.compress.archivers.zip.ZipArchiveInputStream"
+inf„
+
+ƒ	 ƒ	(:	
+%7int"%java.util.zip.Inflater#inflate([BII)I*:
+
+__unknown_file (
+
+%6java.util.zip.Inflater*.
+
+__unknown_file (
+
+bufferbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2inflate([BII)*
+2
+1*&
+12
+ı ı("
+
+ı ı(
+""*%
+1
+ˆ	 ˆ	("
+
+ˆ	 ˆ	(
+"":
+
+õ! õ(5
+bufferbyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BCA
+?org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamP

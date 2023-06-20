@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ResourceAlignmentExtraField#getCentralDirectoryData()[B
+org.apache.commons.compress.archivers.zip.ZipShort#getBytes(I)[B

@@ -1,0 +1,53 @@
+
+€org.apache.commons.compress.archivers.sevenz.Folder#getUnpackSizeForCoder(Lorg/apache/commons/compress/archivers/sevenz/Coder;)Jo
+eC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/Folder.javak	 k("7*!
+3o o(&"
+o o(*
+""*œ
+4n n(°
+­
+n n(:
+%24org.apache.commons.compress.archivers.sevenz.Coder[]"__id*_
+
+__unknown_file (C*A5
+3org.apache.commons.compress.archivers.sevenz.Folder"
+codersÑ
+Î
+n n(8
+%32org.apache.commons.compress.archivers.sevenz.Coder"
+__arrayGet*X
+
+__unknown_file (<
+:
+%24org.apache.commons.compress.archivers.sevenz.Coder[]*"
+
+__unknown_file (
+""*
+3
+5*È
+5m m(°
+­
+m  m(&:
+%14org.apache.commons.compress.archivers.sevenz.Coder[]"__id*_
+
+__unknown_file (C*A5
+3org.apache.commons.compress.archivers.sevenz.Folder"
+coders*
+4
+1*È
+7l l(°
+­
+l l(:
+%04org.apache.commons.compress.archivers.sevenz.Coder[]"__id*_
+
+__unknown_file (C*A5
+3org.apache.commons.compress.archivers.sevenz.Folder"
+coders*
+5
+1*!
+1s s("
+s s(
+"":G
+k k(0;
+coder2org.apache.commons.compress.archivers.sevenz.CoderB75
+3org.apache.commons.compress.archivers.sevenz.FolderP

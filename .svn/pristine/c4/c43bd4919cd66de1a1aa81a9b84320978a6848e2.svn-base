@@ -1,0 +1,117 @@
+
+Sorg.apache.commons.compress.archivers.zip.X7875_NewUnix#equals(Ljava/lang/Object;)ZÅ
+uC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/X7875_NewUnix.javaõ õ("startingBlock*%
+2
+ü ü(U"
+
+ü ü(U
+""*ß
+3
+üB ü(Eì
+ê
+
+üB ü(E
+%3java.math.BigInteger"__id*`
+
+__unknown_file (D*B9
+7org.apache.commons.compress.archivers.zip.X7875_NewUnix"
+gidó
+î
+
+üM ü(S
+%4java.math.BigInteger"__id*d
+
+__unknown_file (H*F
+=
+xf7org.apache.commons.compress.archivers.zip.X7875_NewUnix"
+gid‡›
+
+üB ü(T
+%5boolean"0java.math.BigInteger#equals(Ljava/lang/Object;)Z*8
+
+__unknown_file (
+
+%3java.math.BigInteger*8
+
+__unknown_file (
+
+%4java.math.BigInteger2equals(Ljava/lang/Object;)*
+2*â
+startingBlock
+õ õ()ä
+á
+
+ö ö(
+%6"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectW
+U
+
+õ' õ((
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%6*
+6
+1*™
+5
+ü, ü(/ì
+ê
+
+ü, ü(/
+%0java.math.BigInteger"__id*`
+
+__unknown_file (D*B9
+7org.apache.commons.compress.archivers.zip.X7875_NewUnix"
+uidó
+î
+
+ü7 ü(=
+%1java.math.BigInteger"__id*d
+
+__unknown_file (H*F
+=
+xf7org.apache.commons.compress.archivers.zip.X7875_NewUnix"
+uid‡›
+
+ü, ü(>
+%2boolean"0java.math.BigInteger#equals(Ljava/lang/Object;)Z*8
+
+__unknown_file (
+
+%0java.math.BigInteger*8
+
+__unknown_file (
+
+%1java.math.BigInteger2equals(Ljava/lang/Object;)*
+2
+3*¶
+6
+ù5 ù(6â
+Ü
+
+ù ù(7=
+xf7org.apache.commons.compress.archivers.zip.X7875_NewUnix"__id*3
+
+__unknown_file (
+
+ojava.lang.Object*	
+2
+3
+5*%
+1
+° °("
+
+° °(
+"":#
+
+õ õ((
+ojava.lang.ObjectB;9
+7org.apache.commons.compress.archivers.zip.X7875_NewUnixHP

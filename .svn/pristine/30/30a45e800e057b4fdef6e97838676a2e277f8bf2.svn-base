@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#setContentCompression(Lorg/apache/commons/compress/archivers/sevenz/SevenZMethod;)V
+org.apache.commons.compress.archivers.sevenz.SevenZMethodConfiguration#<init>(Lorg/apache/commons/compress/archivers/sevenz/SevenZMethod;)V
+org.apache.commons.compress.archivers.sevenz.SevenZMethodConfiguration#instance-init#
+java.util.Collections#singletonList(Ljava/lang/Object;)Ljava/util/List;
+==
+setContentMethods org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#setContentMethods(Ljava/lang/Iterable;)V

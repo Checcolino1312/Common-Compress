@@ -1,0 +1,125 @@
+
+__sonar_lambda_80$â
+}C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/CompressorStreamFactory.javaæm √(	"startingBlock*´
+startingBlock
+æm √(	à
+Ö
+
+__unknown_file (_
+CompressorStreamFactory.this?org.apache.commons.compress.compressors.CompressorStreamFactory"__id*Å
+
+__unknown_file (e*cA
+?org.apache.commons.compress.compressors.CompressorStreamFactory"
+CompressorStreamFactory.this*
+1*—
+1
+øB ø(Q:8
+
+øF ø(O
+%1java.util.TreeMap"java.util.TreeMaph
+f
+
+øB ø(Q
+%2"java.util.TreeMap#<init>()V*5
+
+__unknown_file (
+
+%1java.util.TreeMape
+c
+
+ø ø(R
+mapjava.util.TreeMap"__id*5
+
+__unknown_file (
+
+%1java.util.TreeMap
+}
+
+¿ ¿(E
+%3?org.apache.commons.compress.compressors.CompressorStreamFactory"__id*"
+
+__unknown_file (
+""öó
+
+¿ ¿(<
+%4java.util.Set"norg.apache.commons.compress.compressors.CompressorStreamFactory#getInputStreamCompressorNames()Ljava/util/Set;*c
+
+__unknown_file (G
+E
+%3?org.apache.commons.compress.compressors.CompressorStreamFactory2getInputStreamCompressorNames()
+}
+
+¿> ¿(GE
+%5?org.apache.commons.compress.compressors.CompressorStreamFactory"__id*"
+
+__unknown_file (
+""¸
+˘
+
+¿ ¿(M
+
+%6void"≠org.apache.commons.compress.compressors.CompressorStreamFactory#putAll(Ljava/util/Set;Lorg/apache/commons/compress/compressors/CompressorStreamProvider;Ljava/util/TreeMap;)V*_
+
+__unknown_file (C"A
+?org.apache.commons.compress.compressors.CompressorStreamFactory*1
+
+__unknown_file (
+
+%4java.util.Set*c
+
+__unknown_file (G
+E
+%5?org.apache.commons.compress.compressors.CompressorStreamFactory*6
+
+__unknown_file (
+
+mapjava.util.TreeMapˇ
+¸
+
+¡ ¡(+
+%7java.lang.Iterable"sorg.apache.commons.compress.compressors.CompressorStreamFactory#archiveStreamProviderIterable()Ljava/lang/Iterable;*_
+
+__unknown_file (C"A
+?org.apache.commons.compress.compressors.CompressorStreamFactoryx
+v
+
+¡4 ¡(!
+%8java.util.function.Consumer"__declareFunction*2
+
+__unknown_file (
+__sonar_lambda_81$á
+Ñ
+
+__unknown_file (*
+!
+%8java.util.function.Consumer"
+map"__id*6
+
+__unknown_file (
+
+mapjava.util.TreeMapÁ
+‰
+
+__unknown_file (C
+!
+%8java.util.function.Consumer"
+CompressorStreamFactory.this"__id*}
+
+__unknown_file (a
+_
+CompressorStreamFactory.this?org.apache.commons.compress.compressors.CompressorStreamFactory˙˜
+¡ ¡(Ä
+%11void":java.lang.Iterable#forEach(Ljava/util/function/Consumer;)V*6
+
+__unknown_file (
+
+%7java.lang.Iterable*?
+
+__unknown_file (#
+!
+%8java.util.function.Consumer2&forEach(Ljava/util/function/Consumer;)"(
+
+¬ ¬(
+
+mapjava.util.TreeMapB" 
+java.security.PrivilegedAction

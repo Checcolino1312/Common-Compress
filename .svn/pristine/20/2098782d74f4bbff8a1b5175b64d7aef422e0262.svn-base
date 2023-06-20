@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.deflate64.Deflate64CompressorInputStream#<init>(Ljava/io/InputStream;)V
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder#instance-init#
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder#<init>(Ljava/io/InputStream;)V
+==
+Deflate64CompressorInputStream org.apache.commons.compress.compressors.deflate64.Deflate64CompressorInputStream#<init>(Lorg/apache/commons/compress/compressors/deflate64/HuffmanDecoder;)V

@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.CPRef#equals(Ljava/lang/Object;)Z
+java.lang.Object#getClass()Ljava/lang/Class;
+==
+hashCode org.apache.commons.compress.harmony.unpack200.bytecode.CPRef#hashCode()I

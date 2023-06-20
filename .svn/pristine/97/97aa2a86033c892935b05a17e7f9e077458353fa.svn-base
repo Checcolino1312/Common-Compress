@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.X7875_NewUnix#getUID()J
+org.apache.commons.compress.archivers.zip.ZipUtil#bigToLong(Ljava/math/BigInteger;)J

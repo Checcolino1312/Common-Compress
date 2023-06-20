@@ -1,0 +1,14 @@
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#handleLongName(Lorg/apache/commons/compress/archivers/tar/TarArchiveEntry;Ljava/lang/String;Ljava/util/Map;Ljava/lang/String;BLjava/lang/String;)Z
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#transferModTime(Lorg/apache/commons/compress/archivers/tar/TarArchiveEntry;Lorg/apache/commons/compress/archivers/tar/TarArchiveEntry;)V
+java.nio.Buffer#position()I
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.nio.Buffer#limit()I
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#instance-init#
+java.nio.ByteBuffer#array()[B
+java.nio.ByteBuffer#arrayOffset()I
+java.lang.IllegalArgumentException#instance-init#
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#<init>(Ljava/lang/String;B)V
+==
+putArchiveEntry org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#putArchiveEntry(Lorg/apache/commons/compress/archivers/ArchiveEntry;)V
+write org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#write([BII)V
+closeArchiveEntry org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#closeArchiveEntry()V

@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.ArchiveStreamFactory#getArchiveInputStreamProviders()Ljava/util/SortedMap;
+org.apache.commons.compress.archivers.ArchiveStreamFactory#findAvailableArchiveInputStreamProviders()Ljava/util/SortedMap;
+java.util.Collections#unmodifiableSortedMap(Ljava/util/SortedMap;)Ljava/util/SortedMap;

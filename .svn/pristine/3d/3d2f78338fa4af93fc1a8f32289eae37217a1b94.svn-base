@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ZipFile#canReadEntryData(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z
+org.apache.commons.compress.archivers.zip.ZipUtil#canHandleEntryData(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z

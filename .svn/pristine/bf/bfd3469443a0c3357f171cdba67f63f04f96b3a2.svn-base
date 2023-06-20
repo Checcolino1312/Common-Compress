@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#<init>(Ljava/io/InputStream;Ljava/lang/String;ZZZ)V
+org.apache.commons.compress.archivers.zip.ZipEncodingHelper#getZipEncoding(Ljava/lang/String;)Lorg/apache/commons/compress/archivers/zip/ZipEncoding;
+java.io.PushbackInputStream#instance-init#
+java.io.PushbackInputStream#<init>(Ljava/io/InputStream;I)V
+java.nio.Buffer#capacity()I

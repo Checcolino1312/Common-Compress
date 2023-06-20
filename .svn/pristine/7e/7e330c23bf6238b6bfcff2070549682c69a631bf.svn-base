@@ -1,0 +1,6 @@
+org.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream#readFromBuffer([BII)I
+org.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream#slideBuffer()V
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+java.lang.Math#min(II)I
+==
+available org.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream#available()I

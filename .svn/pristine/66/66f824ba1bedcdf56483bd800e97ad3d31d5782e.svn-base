@@ -1,0 +1,45 @@
+
+Sorg.apache.commons.compress.MemoryLimitException#buildMessage(JI)Ljava/lang/String;x
+nC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/MemoryLimitException.java# #(&"1*´
+1$ $(}
+{
+$ $(M
+%0java.lang.String"__concat*
+$ $(
+""*9
+$" $(M-+
+) kb of memory would be needed; limit was h
+f
+$ %(!
+%1java.lang.String"__concat*$
+$ $(M
+
+%0java.lang.String*
+% %(!
+""k
+i
+$ %(+
+%2java.lang.String"__concat*$
+$ %(!
+
+%1java.lang.String*
+%$ %(+	
+ kb. ¨
+¥
+$ &(S
+%3java.lang.String"__concat*$
+$ %(+
+
+%2java.lang.String*Q
+& &(SEC
+AIf the file is not corrupt, consider increasing the memory limit."$
+$ &(T
+
+%3java.lang.String: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B4"2
+0org.apache.commons.compress.MemoryLimitException

@@ -1,0 +1,178 @@
+
+Porg.apache.commons.compress.archivers.sevenz.Folder#toString()Ljava/lang/String;o
+eC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/Folder.javaw w("4*v
+2|, |(9b
+`
+|, |(9
+%14java.lang.String"__id*5
+
+__unknown_file (
+
+%16java.lang.String*
+1*Ö
+3| |(#^
+\
+| |()
+%15java.lang.String"__concat*
+| |(#
+	with CRC *
+|& |()
+""b
+`
+| |()
+%14java.lang.String"__id*5
+
+__unknown_file (
+
+%15java.lang.String*
+1*Ã
+4x x(°
+­
+x  x(&:
+%04org.apache.commons.compress.archivers.sevenz.Coder[]"__id*_
+
+__unknown_file (C*A5
+3org.apache.commons.compress.archivers.sevenz.Folder"
+coders`
+^
+x x(-
+%1java.lang.String"__concat*
+x x(
+Folder with *
+x  x(-
+""o
+m
+x x(;
+%2java.lang.String"__concat*$
+x x(-
+
+%1java.lang.String*
+x0 x(;
+	 coders, h
+f
+x x(O
+%3java.lang.String"__concat*$
+x x(;
+
+%2java.lang.String*
+x> x(O
+""v
+t
+x y( 
+%4java.lang.String"__concat*$
+x x(O
+
+%3java.lang.String* 
+y y( 
+ input streams, h
+f
+x y(5
+%5java.lang.String"__concat*$
+x y( 
+
+%4java.lang.String*
+y# y(5
+""w
+u
+x y(K
+%6java.lang.String"__concat*$
+x y(5
+
+%5java.lang.String*!
+y8 y(K
+ output streams, ¶
+³
+z z(=
+%77org.apache.commons.compress.archivers.sevenz.BindPair[]"__id*b
+
+__unknown_file (F*D5
+3org.apache.commons.compress.archivers.sevenz.Folder"
+	bindPairsh
+f
+x z(
+%8java.lang.String"__concat*$
+x y(K
+
+%6java.lang.String*
+z z(
+""s
+q
+x z(0
+%9java.lang.String"__concat*$
+x z(
+
+%8java.lang.String*
+z! z(0
+ bind pairs, i
+g
+x z(G
+%10java.lang.String"__concat*$
+x z(0
+
+%9java.lang.String*
+z3 z(G
+""y
+w
+x {(!
+%11java.lang.String"__concat*%
+x z(G
+
+%10java.lang.String*!
+{ {(!
+ packed streams, j
+h
+x {(6
+%12java.lang.String"__concat*%
+x {(!
+
+%11java.lang.String*
+{$ {(6
+""w
+u
+x {(J
+%13java.lang.String"__concat*%
+x {(6
+
+%12java.lang.String*
+{9 {(J
+ unpack sizes, *
+2
+3*‡
+1x |(:}
+{
+x |(:
+%17java.lang.String"__concat*%
+x {(J
+
+%13java.lang.String*%
+| |(:
+
+%14java.lang.Stringm
+k
+x }(
+%18java.lang.String"__concat*%
+x |(:
+
+%17java.lang.String*
+} }(	
+ and j
+h
+x }(+
+%19java.lang.String"__concat*%
+x }(
+
+%18java.lang.String*
+} }(+
+""w
+u
+x }(?
+%20java.lang.String"__concat*%
+x }(+
+
+%19java.lang.String*
+}. }(?
+ unpack streams"%
+x }(@
+
+%20java.lang.StringB75
+3org.apache.commons.compress.archivers.sevenz.FolderH

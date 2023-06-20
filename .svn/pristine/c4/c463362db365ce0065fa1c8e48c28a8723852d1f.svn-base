@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.X000A_NTFS#setCreateJavaTime(Ljava/util/Date;)V
+org.apache.commons.compress.archivers.zip.X000A_NTFS#dateToZip(Ljava/util/Date;)Lorg/apache/commons/compress/archivers/zip/ZipEightByteInteger;
+==
+setCreateTime org.apache.commons.compress.archivers.zip.X000A_NTFS#setCreateTime(Lorg/apache/commons/compress/archivers/zip/ZipEightByteInteger;)V

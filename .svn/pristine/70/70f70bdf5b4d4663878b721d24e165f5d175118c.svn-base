@@ -1,0 +1,70 @@
+
+­org.apache.commons.compress.compressors.snappy.SnappyCompressorOutputStream#createParameterBuilder(I)Lorg/apache/commons/compress/compressors/lz77support/Parameters$Builder;‡
+}C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/snappy/SnappyCompressorOutputStream.javaa% a(;"1*¹
+1e e(ó
+ð
+e e(,L
+%0Forg.apache.commons.compress.compressors.lz77support.Parameters$Builder"‘org.apache.commons.compress.compressors.lz77support.Parameters#builder(I)Lorg/apache/commons/compress/compressors/lz77support/Parameters$Builder;*^
+
+__unknown_file (B"@
+>org.apache.commons.compress.compressors.lz77support.Parameters*"
+
+__unknown_file (
+""A
+?
+f( f(8	
+%1int"__id*"
+
+__unknown_file (
+""¾»
+e f(9L
+%2Forg.apache.commons.compress.compressors.lz77support.Parameters$Builder"¬org.apache.commons.compress.compressors.lz77support.Parameters$Builder#withMinBackReferenceLength(I)Lorg/apache/commons/compress/compressors/lz77support/Parameters$Builder;*j
+
+__unknown_file (N
+L
+%0Forg.apache.commons.compress.compressors.lz77support.Parameters$Builder*'
+
+__unknown_file (
+	
+%1int2withMinBackReferenceLength(I)A
+?
+g( g(8	
+%3int"__id*"
+
+__unknown_file (
+""¾»
+e g(9L
+%4Forg.apache.commons.compress.compressors.lz77support.Parameters$Builder"¬org.apache.commons.compress.compressors.lz77support.Parameters$Builder#withMaxBackReferenceLength(I)Lorg/apache/commons/compress/compressors/lz77support/Parameters$Builder;*j
+
+__unknown_file (N
+L
+%2Forg.apache.commons.compress.compressors.lz77support.Parameters$Builder*'
+
+__unknown_file (
+	
+%3int2withMaxBackReferenceLength(I)Ÿœ
+e h(%L
+%5Forg.apache.commons.compress.compressors.lz77support.Parameters$Builder"Ÿorg.apache.commons.compress.compressors.lz77support.Parameters$Builder#withMaxOffset(I)Lorg/apache/commons/compress/compressors/lz77support/Parameters$Builder;*j
+
+__unknown_file (N
+L
+%4Forg.apache.commons.compress.compressors.lz77support.Parameters$Builder*"
+
+__unknown_file (
+""2withMaxOffset(I)­ª
+e i(,L
+%6Forg.apache.commons.compress.compressors.lz77support.Parameters$Builder"¦org.apache.commons.compress.compressors.lz77support.Parameters$Builder#withMaxLiteralLength(I)Lorg/apache/commons/compress/compressors/lz77support/Parameters$Builder;*j
+
+__unknown_file (N
+L
+%5Forg.apache.commons.compress.compressors.lz77support.Parameters$Builder*"
+
+__unknown_file (
+""2withMaxLiteralLength(I)"Z
+e i(-N
+L
+%6Forg.apache.commons.compress.compressors.lz77support.Parameters$Builder: 
+
+__unknown_file (
+""BO"M
+Korg.apache.commons.compress.compressors.snappy.SnappyCompressorOutputStreamH

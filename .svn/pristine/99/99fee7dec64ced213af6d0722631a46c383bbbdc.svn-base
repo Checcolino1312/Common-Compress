@@ -1,0 +1,68 @@
+
+Yorg.apache.commons.compress.archivers.zip.ZipEightByteInteger#equals(Ljava/lang/Object;)Z{
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipEightByteInteger.java½ ½("startingBlock*%
+2
+¿ ¿("
+
+¿ ¿(
+""*‰
+startingBlock
+½ ½()Š
+‡
+
+¼ ¼(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectW
+U
+
+½' ½((
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%3*
+2
+1*õ
+1
+Á Á(›
+˜
+
+Á Á(
+%0java.math.BigInteger"__id*h
+
+__unknown_file (L*J?
+=org.apache.commons.compress.archivers.zip.ZipEightByteInteger"
+valueÌÉ
+
+Á Á(@
+%1java.math.BigInteger"^org.apache.commons.compress.archivers.zip.ZipEightByteInteger#getValue()Ljava/math/BigInteger;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getValue()àÝ
+
+Á Á(A
+%2boolean"0java.math.BigInteger#equals(Ljava/lang/Object;)Z*8
+
+__unknown_file (
+
+%0java.math.BigInteger*8
+
+__unknown_file (
+
+%1java.math.BigInteger2equals(Ljava/lang/Object;)"
+
+Á Á(B
+"":#
+
+½ ½((
+ojava.lang.ObjectBA?
+=org.apache.commons.compress.archivers.zip.ZipEightByteIntegerHP

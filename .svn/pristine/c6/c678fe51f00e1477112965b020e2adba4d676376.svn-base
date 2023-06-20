@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#getZip64Extra(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Lorg/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField;
+org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField#<init>()V
+org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField#instance-init#

@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm#getRewriteCopy()[I
+java.util.Arrays#copyOf([II)[I

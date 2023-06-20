@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream#isEOFRecord([B)Z
+org.apache.commons.compress.utils.ArchiveUtils#isArrayZero([BI)Z

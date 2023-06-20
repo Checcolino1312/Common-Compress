@@ -1,0 +1,4 @@
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorOutputStream#<init>(Ljava/io/OutputStream;)V
+org.apache.commons.compress.compressors.snappy.SnappyCompressorOutputStream#createParameterBuilder(I)Lorg/apache/commons/compress/compressors/lz77support/Parameters$Builder;
+==
+FramedSnappyCompressorOutputStream org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorOutputStream#<init>(Ljava/io/OutputStream;Lorg/apache/commons/compress/compressors/lz77support/Parameters;)V

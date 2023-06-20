@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry#setContentMethods(Ljava/lang/Iterable;)V
+java.util.LinkedList#<init>()V
+java.util.LinkedList#instance-init#
+java.util.Collections#unmodifiableList(Ljava/util/List;)Ljava/util/List;

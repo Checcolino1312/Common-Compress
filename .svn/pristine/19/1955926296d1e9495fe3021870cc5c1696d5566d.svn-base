@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveEntry#setMode(I)V
+org.apache.commons.compress.archivers.dump.DumpArchiveEntry$PERMISSION#find(I)Ljava/util/Set;

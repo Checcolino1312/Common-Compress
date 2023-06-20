@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.examples.Archiver#create(Lorg/apache/commons/compress/archivers/sevenz/SevenZOutputFile;Ljava/io/File;)V
+==
+create org.apache.commons.compress.archivers.examples.Archiver#create(Lorg/apache/commons/compress/archivers/sevenz/SevenZOutputFile;Ljava/nio/file/Path;)V

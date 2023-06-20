@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.pack200.NewAttributeBands#pack(Ljava/io/OutputStream;)V
+==
+pack org.apache.commons.compress.harmony.pack200.NewAttributeBands$AttributeLayoutElement#pack(Ljava/io/OutputStream;)V

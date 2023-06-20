@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.NewAttribute#addBCOffset(II)V
+org.apache.commons.compress.harmony.unpack200.bytecode.NewAttribute$BCOffset#<init>(I)V
+org.apache.commons.compress.harmony.unpack200.bytecode.NewAttribute$BCOffset#instance-init#
+java.lang.Integer#valueOf(I)Ljava/lang/Integer;

@@ -1,0 +1,80 @@
+
+¶org.apache.commons.compress.harmony.unpack200.BandSet#parseFlags(Ljava/lang/String;Ljava/io/InputStream;[ILorg/apache/commons/compress/harmony/pack200/BHSDCodec;Z)[[J
+sC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/BandSet.javaë ë("2"3*ò
+2
+ì= ì(AÅ
+
+
+ì= ì(A;
+%05org.apache.commons.compress.harmony.pack200.BHSDCodec"__id*.
+
+__unknown_file (
+
+%1
+<nulltype>*
+1*«
+3
+ì5 ì(:∞
+≠
+
+ì5 ì(:;
+%05org.apache.commons.compress.harmony.pack200.BHSDCodec"__id*\
+
+__unknown_file (@
+>
+codec5org.apache.commons.compress.harmony.pack200.BHSDCodec*
+1*§
+1
+ìD ì(I∞
+≠
+
+ìD ì(I;
+%05org.apache.commons.compress.harmony.pack200.BHSDCodec"__id*\
+
+__unknown_file (@
+>
+codec5org.apache.commons.compress.harmony.pack200.BHSDCodec…∆
+
+ì ì(J
+%2long[][]"‹org.apache.commons.compress.harmony.unpack200.BandSet#parseFlags(Ljava/lang/String;Ljava/io/InputStream;[ILorg/apache/commons/compress/harmony/pack200/BHSDCodec;Lorg/apache/commons/compress/harmony/pack200/BHSDCodec;)[[J*U
+
+__unknown_file (97
+5org.apache.commons.compress.harmony.unpack200.BandSet*6
+
+__unknown_file (
+
+namejava.lang.String*7
+
+__unknown_file (
+
+injava.io.InputStream*"
+
+__unknown_file (
+""*Y
+
+__unknown_file (=
+;
+%05org.apache.commons.compress.harmony.pack200.BHSDCodec*\
+
+__unknown_file (@
+>
+codec5org.apache.commons.compress.harmony.pack200.BHSDCodec2£parseFlags(Ljava/lang/String;Ljava/io/InputStream;[ILorg/apache/commons/compress/harmony/pack200/BHSDCodec;Lorg/apache/commons/compress/harmony/pack200/BHSDCodec;)"
+
+ì ì(K
+"":&
+
+ë ë(1
+namejava.lang.String:'
+
+ë2 ë(G
+injava.io.InputStream: 
+
+__unknown_file (
+"":L
+
+ë\ ë(r>
+codec5org.apache.commons.compress.harmony.pack200.BHSDCodec: 
+
+__unknown_file (
+""B97
+5org.apache.commons.compress.harmony.unpack200.BandSetH

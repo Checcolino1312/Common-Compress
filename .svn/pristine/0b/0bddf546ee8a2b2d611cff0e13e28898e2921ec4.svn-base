@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.sevenz.DeltaDecoder#decode(Ljava/lang/String;Ljava/io/InputStream;JLorg/apache/commons/compress/archivers/sevenz/Coder;[BI)Ljava/io/InputStream;
+org.tukaani.xz.DeltaOptions#instance-init#
+org.tukaani.xz.DeltaOptions#<init>(I)V
+org.apache.commons.compress.archivers.sevenz.DeltaDecoder#getOptionsFromCoder(Lorg/apache/commons/compress/archivers/sevenz/Coder;)I

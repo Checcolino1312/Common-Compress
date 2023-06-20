@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.tar.TarFile#<init>(Ljava/nio/channels/SeekableByteChannel;IILjava/lang/String;Z)V
+java.nio.ByteBuffer#allocate(I)Ljava/nio/ByteBuffer;
+org.apache.commons.compress.archivers.tar.TarFile#getNextTarEntry()Lorg/apache/commons/compress/archivers/tar/TarArchiveEntry;
+org.apache.commons.compress.archivers.zip.ZipEncodingHelper#getZipEncoding(Ljava/lang/String;)Lorg/apache/commons/compress/archivers/zip/ZipEncoding;

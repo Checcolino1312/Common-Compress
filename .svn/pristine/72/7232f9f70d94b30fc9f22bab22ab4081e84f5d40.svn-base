@@ -1,0 +1,20 @@
+
+\org.apache.commons.compress.compressors.zstandard.ZstdCompressorInputStream#markSupported()Zî
+âC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/zstandard/ZstdCompressorInputStream.javaX X( "1*è
+1Y Y(∏
+µ
+Y Y(+
+%0%com.github.luben.zstd.ZstdInputStream"__id*v
+
+__unknown_file (Z*XM
+Korg.apache.commons.compress.compressors.zstandard.ZstdCompressorInputStream"
+decIS∞≠
+Y Y($
+%1boolean"6com.github.luben.zstd.ZstdInputStream#markSupported()Z*I
+
+__unknown_file (-
++
+%0%com.github.luben.zstd.ZstdInputStream2markSupported()"
+Y Y(%
+""BOM
+Korg.apache.commons.compress.compressors.zstandard.ZstdCompressorInputStreamHP

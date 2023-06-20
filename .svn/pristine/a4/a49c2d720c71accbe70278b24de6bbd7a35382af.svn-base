@@ -1,0 +1,7 @@
+org.apache.commons.compress.harmony.pack200.BandSet#tryCodecs(Ljava/lang/String;[ILorg/apache/commons/compress/harmony/pack200/BHSDCodec;Lorg/apache/commons/compress/harmony/pack200/BandSet$BandData;Lorg/apache/commons/compress/harmony/pack200/BandSet$BandAnalysisResults;[B[Lorg/apache/commons/compress/harmony/pack200/BHSDCodec;)V
+org.apache.commons.compress.harmony.pack200.BHSDCodec#largest()J
+org.apache.commons.compress.harmony.pack200.BHSDCodec#smallest()J
+org.apache.commons.compress.harmony.pack200.CodecEncoding#getSpecifier(Lorg/apache/commons/compress/harmony/pack200/Codec;Lorg/apache/commons/compress/harmony/pack200/Codec;)[I
+org.apache.commons.compress.harmony.pack200.BHSDCodec#equals(Ljava/lang/Object;)Z
+org.apache.commons.compress.harmony.pack200.BHSDCodec#isDelta()Z
+org.apache.commons.compress.harmony.pack200.BandSet#timeToStop(Lorg/apache/commons/compress/harmony/pack200/BandSet$BandAnalysisResults;)Z

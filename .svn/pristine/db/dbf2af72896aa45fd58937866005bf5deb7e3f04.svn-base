@@ -1,0 +1,2 @@
+org.apache.commons.compress.utils.ArchiveUtils#toAsciiBytes(Ljava/lang/String;)[B
+java.lang.String#getBytes(Ljava/nio/charset/Charset;)[B

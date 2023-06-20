@@ -1,0 +1,91 @@
+
+…org.apache.commons.compress.archivers.tar.TarUtils#parseSparse([BI)Lorg/apache/commons/compress/archivers/tar/TarArchiveStructSparse;|
+pC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.javaê) ê(4"1*â
+
+1
+ë" ë(4C
+A
+
+ëE ë(c	
+%0int"__id*"
+
+__unknown_file (
+""º
+·
+
+ë" ë(d
+
+%1long"Lorg.apache.commons.compress.archivers.tar.TarUtils#parseOctalOrBinary([BII)J*R
+
+__unknown_file (6"4
+2org.apache.commons.compress.archivers.tar.TarUtils*.
+
+__unknown_file (
+
+bufferbyte[]*"
+
+__unknown_file (
+""*'
+
+__unknown_file (
+	
+%0intC
+A
+
+ìH ì(f	
+%2int"__id*"
+
+__unknown_file (
+""D
+B
+ìh ì(ˆ	
+%3int"__id*"
+
+__unknown_file (
+""»
+¸
+ì$ ì(‰
+
+%4long"Lorg.apache.commons.compress.archivers.tar.TarUtils#parseOctalOrBinary([BII)J*R
+
+__unknown_file (6"4
+2org.apache.commons.compress.archivers.tar.TarUtils*.
+
+__unknown_file (
+
+bufferbyte[]*"
+
+__unknown_file (
+""*'
+
+__unknown_file (
+	
+%3int™–
+
+î î()F
+%5@org.apache.commons.compress.archivers.tar.TarArchiveStructSparse"@org.apache.commons.compress.archivers.tar.TarArchiveStructSparse‘
+Ž
+
+î î(G
+%6"Lorg.apache.commons.compress.archivers.tar.TarArchiveStructSparse#<init>(JJ)V*d
+
+__unknown_file (H
+F
+%5@org.apache.commons.compress.archivers.tar.TarArchiveStructSparse*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""V
+
+î î(HH
+F
+%5@org.apache.commons.compress.archivers.tar.TarArchiveStructSparse:
+
+ê5 ê(I
+bufferbyte[]: 
+
+__unknown_file (
+""B6"4
+2org.apache.commons.compress.archivers.tar.TarUtilsH

@@ -1,0 +1,61 @@
+
+Borg.apache.commons.compress.utils.ServiceLoaderIterator#hasNext()Z
+uC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/utils/ServiceLoaderIterator.java5 5("12*¢
+2; ;(@Œ
+‰
+; ;(@P9
+7org.apache.commons.compress.utils.ServiceLoaderIterator"
+nextServiceLoader"__id*%
+
+__unknown_file (	
+
+%4E*
+12*¼
+7;$ ;(9¡
+ž
+;$ ;(9
+%3java.util.Iterator"__id*r
+
+__unknown_file (V*T9
+7org.apache.commons.compress.utils.ServiceLoaderIterator"
+serviceLoaderIteratorƒ€
+;$ ;(@
+%4E"+java.util.Iterator#next()Ljava/lang/Object;*6
+
+__unknown_file (
+
+%3java.util.Iterator2next()*
+2*!
+89 9( "
+9 9(!
+""*¹
+108 8(*¡
+ž
+8 8(*
+%1java.util.Iterator"__id*r
+
+__unknown_file (V*T9
+7org.apache.commons.compress.utils.ServiceLoaderIterator"
+serviceLoaderIterator}{
+8 8(4
+%2boolean"java.util.Iterator#hasNext()Z*6
+
+__unknown_file (
+
+%1java.util.Iterator2	hasNext()*
+7
+8*¦
+126 6( Œ
+‰
+6 6( 
+%0E"__id*n
+
+__unknown_file (R*P9
+7org.apache.commons.compress.utils.ServiceLoaderIterator"
+nextServiceLoader*
+10
+1*!
+1E E("
+E E(
+""B;9
+7org.apache.commons.compress.utils.ServiceLoaderIteratorHP

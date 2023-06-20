@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.pack200.ClassBands#addCode()V
+java.lang.Long#valueOf(J)Ljava/lang/Long;

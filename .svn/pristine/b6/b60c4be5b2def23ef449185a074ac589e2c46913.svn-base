@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#<init>(Ljava/io/OutputStream;IILjava/lang/String;)V
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#
+==
+TarArchiveOutputStream org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#<init>(Ljava/io/OutputStream;ILjava/lang/String;)V

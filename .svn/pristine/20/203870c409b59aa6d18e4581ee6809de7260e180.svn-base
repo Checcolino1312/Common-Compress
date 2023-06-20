@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#setupRandPartC()I
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#setupRandPartA()I

@@ -1,0 +1,57 @@
+
+Torg.apache.commons.compress.compressors.lzma.LZMAUtils#isLZMACompressionAvailable()Z~
+tC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/lzma/LZMAUtils.javaq q(4"3*·
+2t t(ˆ
+…
+t# t(5O
+%3Iorg.apache.commons.compress.compressors.lzma.LZMAUtils$CachedAvailability"__id*"
+
+__unknown_file (
+""ˆ
+…
+t# t(FO
+%4Iorg.apache.commons.compress.compressors.lzma.LZMAUtils$CachedAvailability"__id*"
+
+__unknown_file (
+"""
+t t(G
+""*æ
+3r0 r(FØ
+Õ
+r0 r(FO
+%0Iorg.apache.commons.compress.compressors.lzma.LZMAUtils$CachedAvailability"__id*r
+
+__unknown_file (V*T8
+6org.apache.commons.compress.compressors.lzma.LZMAUtils"
+cachedLZMAAvailabilityÝ
+Ú
+r r(GY
+cachedResultIorg.apache.commons.compress.compressors.lzma.LZMAUtils$CachedAvailability"__id*m
+
+__unknown_file (Q
+O
+%0Iorg.apache.commons.compress.compressors.lzma.LZMAUtils$CachedAvailabilityˆ
+…
+s s(.O
+%1Iorg.apache.commons.compress.compressors.lzma.LZMAUtils$CachedAvailability"__id*"
+
+__unknown_file (
+""ˆ
+…
+s s(9O
+%2Iorg.apache.commons.compress.compressors.lzma.LZMAUtils$CachedAvailability"__id*"
+
+__unknown_file (
+""*
+2
+1*ö
+1v v(1Ò
+Ï
+v v(3
+%5boolean"\org.apache.commons.compress.compressors.lzma.LZMAUtils#internalIsLZMACompressionAvailable()Z*V
+
+__unknown_file (:"8
+6org.apache.commons.compress.compressors.lzma.LZMAUtils"
+v v(4
+""B:"8
+6org.apache.commons.compress.compressors.lzma.LZMAUtilsHP

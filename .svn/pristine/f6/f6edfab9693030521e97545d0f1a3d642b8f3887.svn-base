@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#getNextEntry()Lorg/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry;
+org.apache.commons.compress.archivers.sevenz.SevenZFile#buildDecodingStream(IZ)V
+==
+getDefaultName org.apache.commons.compress.archivers.sevenz.SevenZFile#getDefaultName()Ljava/lang/String;

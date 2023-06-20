@@ -1,0 +1,87 @@
+
+Uorg.apache.commons.compress.archivers.arj.ArjArchiveEntry#getName()Ljava/lang/String;u
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/arj/ArjArchiveEntry.java~ ~("3*Ω
+2
+Ä Ä("∆
+√
+
+Ä Ä("?
+%29org.apache.commons.compress.archivers.arj.LocalFileHeader"__id*n
+
+__unknown_file (R*P;
+9org.apache.commons.compress.archivers.arj.ArjArchiveEntry"
+localFileHeaderñ
+ì
+
+Ä Ä('
+%3java.lang.String"__id*g
+
+__unknown_file (K*I
+?
+%29org.apache.commons.compress.archivers.arj.LocalFileHeader"
+nameP
+N
+
+Å Å("
+%4java.lang.String"__id*"
+
+__unknown_file (
+""œÃ
+
+Ä Å(#
+%5java.lang.String"\java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;*4
+
+__unknown_file (
+
+%3java.lang.String*!
+
+__unknown_file (
+/*4
+
+__unknown_file (
+
+%4java.lang.String29replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)"&
+
+Ä Å($
+
+%5java.lang.String*ü
+3 (ƒ
+¡
+ (?
+%09org.apache.commons.compress.archivers.arj.LocalFileHeader"__id*n
+
+__unknown_file (R*P;
+9org.apache.commons.compress.archivers.arj.ArjArchiveEntry"
+localFileHeaderA
+?
+( (E	
+%1int"__id*"
+
+__unknown_file (
+""*
+2
+1*ô
+1
+É É(∆
+√
+
+É É(?
+%69org.apache.commons.compress.archivers.arj.LocalFileHeader"__id*n
+
+__unknown_file (R*P;
+9org.apache.commons.compress.archivers.arj.ArjArchiveEntry"
+localFileHeaderñ
+ì
+
+É É(#
+%7java.lang.String"__id*g
+
+__unknown_file (K*I
+?
+%69org.apache.commons.compress.archivers.arj.LocalFileHeader"
+name"&
+
+É É($
+
+%7java.lang.StringB=;
+9org.apache.commons.compress.archivers.arj.ArjArchiveEntryH

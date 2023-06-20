@@ -1,0 +1,27 @@
+
+n	java:S127è"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+s
+java:S1450G"XRemove the "bcEscByte" field and declare it as a local variable in the relevant methods.(“ô¬úýÿÿÿÿ
+r
+java:S1450D"WRemove the "bcEscRef" field and declare it as a local variable in the relevant methods.(ØÃû²ýÿÿÿÿ
+v
+java:S1450E"[Remove the "bcEscRefSize" field and declare it as a local variable in the relevant methods.(â”—±úÿÿÿÿ
+n
+java:S1450F"XRemove the "bcEscSize" field and declare it as a local variable in the relevant methods.(íÔ²Ð
+H
+java:S1135/"2Complete the task associated to this TODO comment.(îÔúä
+M
+java:S1135L"2Complete the task associated to this TODO comment.(•úö¶üÿÿÿÿ
+i
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(š¥ÒÄ
+I
+java:S1481Ö"-Remove this unused "bcParsed" local variable.(ýÑ×–ùÿÿÿÿ
+Y	java:S125±"<This block of commented-out lines of code should be removed.(†€éˆ8’×ŒÑ‰1
+G
+java:S1068D",Remove this unused "bcEscRef" private field.(ØÃû²ýÿÿÿÿ
+K
+java:S1068E"0Remove this unused "bcEscRefSize" private field.(â”—±úÿÿÿÿ
+H
+java:S1068G"-Remove this unused "bcEscByte" private field.(“ô¬úýÿÿÿÿ
+Þ
+java:S6541´"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 235 to 64, Complexity from 86 to 14, Nesting Level from 6 to 2, Number of Variables from 44 to 6.(š¥ÒÄ

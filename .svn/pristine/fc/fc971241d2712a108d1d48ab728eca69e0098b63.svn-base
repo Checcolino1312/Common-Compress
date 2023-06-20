@@ -1,0 +1,581 @@
+
+åorg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#handleSizesAndCrc(JJLorg/apache/commons/compress/archivers/zip/Zip64Mode;)Zä
+~C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.javaï	 ï	(%"9*ﬁ
+2
+≤	 ≤	(ÿ
+’
+
+≤	 ≤	(T
+%49Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"__id*k
+
+__unknown_file (O*MB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"
+entry÷
+”
+
+≤	 ≤	(@
+%509org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*}
+
+__unknown_file (a*_
+T
+%49Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"
+entryÛ
+
+≤	 ≤	(-
+%51void"Eorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#setSize(J)V*^
+
+__unknown_file (B
+@
+%509org.apache.commons.compress.archivers.zip.ZipArchiveEntry*"
+
+__unknown_file (
+""2
+setSize(J)ÿ
+’
+
+≥	 ≥	(T
+%52Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"__id*k
+
+__unknown_file (O*MB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"
+entry÷
+”
+
+≥	 ≥	(@
+%539org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*}
+
+__unknown_file (a*_
+T
+%52Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"
+entry‰·
+
+≥	 ≥	(7
+%54void",java.util.zip.ZipEntry#setCompressedSize(J)V*^
+
+__unknown_file (B
+@
+%539org.apache.commons.compress.archivers.zip.ZipArchiveEntry*"
+
+__unknown_file (
+""2setCompressedSize(J)ÿ
+’
+
+¥	 ¥	(T
+%55Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"__id*k
+
+__unknown_file (O*MB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"
+entry÷
+”
+
+¥	 ¥	(@
+%569org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*}
+
+__unknown_file (a*_
+T
+%55Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"
+entryŒÀ
+
+¥	 ¥	(#
+%57void"!java.util.zip.ZipEntry#setCrc(J)V*^
+
+__unknown_file (B
+@
+%569org.apache.commons.compress.archivers.zip.ZipArchiveEntry*"
+
+__unknown_file (
+""2	setCrc(J)*
+1*≤
+3
+´	' ´	(<ÿ
+’
+
+¨	) ¨	(.T
+%36Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"__id*k
+
+__unknown_file (O*MB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"
+entry÷
+”
+
+¨	) ¨	(4@
+%379org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*}
+
+__unknown_file (a*_
+T
+%36Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"
+entryÍÁ
+
+¨	) ¨	(>
+%38java.lang.String"Uorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getName()Ljava/lang/String;*^
+
+__unknown_file (B
+@
+%379org.apache.commons.compress.archivers.zip.ZipArchiveEntry2	getName()Å
+
+
+´	' ¨	(>
+%39java.lang.String"__concat*%
+
+´	' ´	(<
+Bad size for entry *'
+
+¨	) ¨	(>
+
+%38java.lang.Stringp
+n
+
+´	' ¨	(E
+%40java.lang.String"__concat*'
+
+´	' ¨	(>
+
+%39java.lang.String*
+
+¨	A ¨	(E
+: ÿ
+’
+
+≠	) ≠	(.T
+%41Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"__id*k
+
+__unknown_file (O*MB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"
+entry÷
+”
+
+≠	) ≠	(4@
+%429org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*}
+
+__unknown_file (a*_
+T
+%41Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"
+entry—Œ
+
+≠	) ≠	(@
+%43long"Forg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getSpazio()J*^
+
+__unknown_file (B
+@
+%429org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getSpazio()w
+u
+
+´	' ≠	(@
+%44java.lang.String"__concat*'
+
+´	' ¨	(E
+
+%40java.lang.String*
+
+≠	) ≠	(@
+
+%43longz
+x
+
+´	' Æ	(7
+%45java.lang.String"__concat*'
+
+´	' ≠	(@
+
+%44java.lang.String*
+
+Æ	) Æ	(7
+ instead of p
+n
+
+´	' Ø	(5
+%46java.lang.String"__concat*'
+
+´	' Æ	(7
+
+%45java.lang.String*
+
+Ø	) Ø	(5
+""MK
+
+´	 ´	(&!
+%47java.util.zip.ZipException"java.util.zip.ZipException∆
+√
+
+´	 Ø	(6
+%48"6java.util.zip.ZipException#<init>(Ljava/lang/String;)V*?
+
+__unknown_file (#
+!
+%47java.util.zip.ZipException*5
+
+__unknown_file (
+
+%46java.lang.String*
+0*ü
+4
+™	 ™	(ÿ
+’
+
+™	 ™	(T
+%33Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"__id*k
+
+__unknown_file (O*MB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"
+entry÷
+”
+
+™	 ™	(@
+%349org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*}
+
+__unknown_file (a*_
+T
+%33Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"
+entry—Œ
+
+™	 ™	('
+%35long"Forg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getSpazio()J*^
+
+__unknown_file (B
+@
+%349org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getSpazio()*
+3
+1*ú
+5
+£	' £	(Dÿ
+’
+
+§	) §	(.T
+%18Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"__id*k
+
+__unknown_file (O*MB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"
+entry÷
+”
+
+§	) §	(4@
+%199org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*}
+
+__unknown_file (a*_
+T
+%18Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"
+entryÍÁ
+
+§	) §	(>
+%20java.lang.String"Uorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getName()Ljava/lang/String;*^
+
+__unknown_file (B
+@
+%199org.apache.commons.compress.archivers.zip.ZipArchiveEntry2	getName()ä
+á
+
+£	' §	(>
+%21java.lang.String"__concat*-
+
+£	' £	(D
+Bad CRC checksum for entry *'
+
+§	) §	(>
+
+%20java.lang.Stringp
+n
+
+£	' §	(E
+%22java.lang.String"__concat*'
+
+£	' §	(>
+
+%21java.lang.String*
+
+§	A §	(E
+: ÿ
+’
+
+•	: •	(?T
+%23Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"__id*k
+
+__unknown_file (O*MB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"
+entry÷
+”
+
+•	: •	(E@
+%249org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*}
+
+__unknown_file (a*_
+T
+%23Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"
+entry®•
+
+•	: •	(N
+%25long" java.util.zip.ZipEntry#getCrc()J*^
+
+__unknown_file (B
+@
+%249org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getCrc()¥
+±
+
+•	) •	(O
+%26java.lang.String"/java.lang.Long#toHexString(J)Ljava/lang/String;*.
+
+__unknown_file ("
+java.lang.Long*)
+
+__unknown_file (
+
+%25longÑ
+Å
+
+£	' •	(O
+%27java.lang.String"__concat*'
+
+£	' §	(E
+
+%22java.lang.String*'
+
+•	) •	(O
+
+%26java.lang.Stringz
+x
+
+£	' ¶	(7
+%28java.lang.String"__concat*'
+
+£	' •	(O
+
+%27java.lang.String*
+
+¶	) ¶	(7
+ instead of ≠
+™
+
+ß	) ß	(>
+%29java.lang.String"/java.lang.Long#toHexString(J)Ljava/lang/String;*.
+
+__unknown_file ("
+java.lang.Long*"
+
+__unknown_file (
+""Ñ
+Å
+
+£	' ß	(>
+%30java.lang.String"__concat*'
+
+£	' ¶	(7
+
+%28java.lang.String*'
+
+ß	) ß	(>
+
+%29java.lang.StringMK
+
+£	 £	(&!
+%31java.util.zip.ZipException"java.util.zip.ZipException∆
+√
+
+£	 ß	(?
+%32"6java.util.zip.ZipException#<init>(Ljava/lang/String;)V*?
+
+__unknown_file (#
+!
+%31java.util.zip.ZipException*5
+
+__unknown_file (
+
+%30java.lang.String*
+0*ˆ
+6
+¢	 ¢	(ÿ
+’
+
+¢	 ¢	(T
+%15Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"__id*k
+
+__unknown_file (O*MB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"
+entry÷
+”
+
+¢	 ¢	(@
+%169org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*}
+
+__unknown_file (a*_
+T
+%15Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"
+entry®•
+
+¢	 ¢	($
+%17long" java.util.zip.ZipEntry#getCrc()J*^
+
+__unknown_file (B
+@
+%169org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getCrc()*
+4
+5*Ã
+7
+°	 °	(≤
+Ø
+
+°	 °	(,
+%14%java.nio.channels.SeekableByteChannel"__id*m
+
+__unknown_file (Q*OB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"	
+channel*
+2
+6*Ø
+8
+ù	 ù	(◊
+‘
+
+ù	 ù	(S
+%4Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"__id*k
+
+__unknown_file (O*MB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"
+entry‘
+—
+
+ù	 ù	(?
+%59org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*|
+
+__unknown_file (`*^
+S
+%4Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"
+entry◊
+‘
+
+ù	  ù	(%S
+%6Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"__id*k
+
+__unknown_file (O*MB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"
+entryÒÓ
+
+ù	 ù	(0
+
+%7void"Eorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#setSize(J)V*]
+
+__unknown_file (A
+?
+%59org.apache.commons.compress.archivers.zip.ZipArchiveEntry*"
+
+__unknown_file (
+""2
+setSize(J)◊
+‘
+
+û	 û	(S
+%8Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"__id*k
+
+__unknown_file (O*MB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"
+entry‘
+—
+
+û	 û	(?
+%99org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*|
+
+__unknown_file (`*^
+S
+%8Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"
+entry„‡
+
+û	 û	(7
+%10void",java.util.zip.ZipEntry#setCompressedSize(J)V*]
+
+__unknown_file (A
+?
+%99org.apache.commons.compress.archivers.zip.ZipArchiveEntry*"
+
+__unknown_file (
+""2setCompressedSize(J)ÿ
+’
+
+ü	 ü	(T
+%11Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"__id*k
+
+__unknown_file (O*MB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"
+entry÷
+”
+
+ü	 ü	(@
+%129org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*}
+
+__unknown_file (a*_
+T
+%11Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"
+entryŒÀ
+
+ü	 ü	(#
+%13void"!java.util.zip.ZipEntry#setCrc(J)V*^
+
+__unknown_file (B
+@
+%129org.apache.commons.compress.archivers.zip.ZipArchiveEntry*"
+
+__unknown_file (
+""2	setCrc(J)*
+1*ﬁ
+9
+ò	 ò	(◊
+‘
+
+ò	 ò	(S
+%0Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"__id*k
+
+__unknown_file (O*MB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream"
+entry‘
+—
+
+ò	 ò	(?
+%19org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*|
+
+__unknown_file (`*^
+S
+%0Morg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry"
+entryŒÀ
+
+ò	 ò	(#	
+%2int"Forg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getMethod()I*]
+
+__unknown_file (A
+?
+%19org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getMethod()C
+A
+
+ò	' ò	(/	
+%3int"__id*"
+
+__unknown_file (
+""*
+7
+8*(
+0 "!
+
+∏	 ∏	(
+implicit return*ö
+1
+∑	 ∑	( Ú
+Ô
+
+∑	 ∑	(/
+%58boolean"äorg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#checkIfNeedsZip64(Lorg/apache/commons/compress/archivers/zip/Zip64Mode;)Z*`
+
+__unknown_file (DB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream*b
+
+__unknown_file (F
+D
+effectiveMode3org.apache.commons.compress.archivers.zip.Zip64Mode"
+
+∑	 ∑	(0
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"":R
+
+ñ	& ñ	(CD
+effectiveMode3org.apache.commons.compress.archivers.zip.Zip64ModeBDB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStreamP

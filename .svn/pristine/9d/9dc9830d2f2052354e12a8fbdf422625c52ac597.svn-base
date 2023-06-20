@@ -1,0 +1,44 @@
+
+}org.apache.commons.compress.archivers.zip.ExtraFieldUtils#parse([B)[Lorg/apache/commons/compress/archivers/zip/ZipExtraField;w
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ExtraFieldUtils.java«" «('"1*Ë
+1
+¬ ¬(
+
+
+¬! ¬(6U
+%0Oorg.apache.commons.compress.archivers.zip.ExtraFieldUtils$UnparseableExtraField"__id*"
+
+__unknown_file (
+""
+
+
+¬! ¬(<U
+%1Oorg.apache.commons.compress.archivers.zip.ExtraFieldUtils$UnparseableExtraField"__id*"
+
+__unknown_file (
+""Â
+¿
+
+¬ ¬(=?
+%29org.apache.commons.compress.archivers.zip.ZipExtraField[]"Ïorg.apache.commons.compress.archivers.zip.ExtraFieldUtils#parse([BZLorg/apache/commons/compress/archivers/zip/ExtraFieldUtils$UnparseableExtraField;)[Lorg/apache/commons/compress/archivers/zip/ZipExtraField;*Y
+
+__unknown_file (=";
+9org.apache.commons.compress.archivers.zip.ExtraFieldUtils*,
+
+__unknown_file (
+
+databyte[]* 
+
+__unknown_file (2*s
+
+__unknown_file (W
+U
+%1Oorg.apache.commons.compress.archivers.zip.ExtraFieldUtils$UnparseableExtraField"O
+
+¬ ¬(>A
+?
+%29org.apache.commons.compress.archivers.zip.ZipExtraField[]:
+
+«( «(9
+databyte[]B=";
+9org.apache.commons.compress.archivers.zip.ExtraFieldUtilsH

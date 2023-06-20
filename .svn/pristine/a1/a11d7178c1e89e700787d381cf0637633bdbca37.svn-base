@@ -1,0 +1,76 @@
+
+©org.apache.commons.compress.harmony.unpack200.SegmentHeader#decodeScalar(Ljava/lang/String;Ljava/io/InputStream;Lorg/apache/commons/compress/harmony/pack200/BHSDCodec;)Iw
+mC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/SegmentHeader.javal l("1*Ñ	
+1n n(¤¡
+n n((	
+%0int"Torg.apache.commons.compress.harmony.pack200.BHSDCodec#decode(Ljava/io/InputStream;)I*\
+
+__unknown_file (@
+>
+codec5org.apache.commons.compress.harmony.pack200.BHSDCodec*7
+
+__unknown_file (
+
+injava.io.InputStream2decode(Ljava/io/InputStream;)º
+·
+o o(;
+%15org.apache.commons.compress.harmony.unpack200.Segment"__id*h
+
+__unknown_file (L*J=
+;org.apache.commons.compress.harmony.unpack200.SegmentHeader"	
+segmentA
+?
+o o(-	
+%2int"__id*"
+
+__unknown_file (
+""p
+n
+o/ o(@
+%3java.lang.String"__concat*
+o/ o(9
+
+Parsed #*&
+o< o(@
+
+namejava.lang.Stringj
+h
+o/ o(I
+%4java.lang.String"__concat*$
+o/ o(@
+
+%3java.lang.String*
+oC o(I
+ as h
+f
+o/ o(O
+%5java.lang.String"__concat*$
+o/ o(I
+
+%4java.lang.String*
+oL o(O
+""¾»
+o o(P
+
+%6void"Oorg.apache.commons.compress.harmony.unpack200.Segment#log(ILjava/lang/String;)V*Y
+
+__unknown_file (=
+;
+%15org.apache.commons.compress.harmony.unpack200.Segment*'
+
+__unknown_file (
+	
+%2int*4
+
+__unknown_file (
+
+%5java.lang.String2log(ILjava/lang/String;)"
+p p(
+"":$
+l l(/
+namejava.lang.String:%
+l0 l(E
+injava.io.InputStream:J
+lF l([>
+codec5org.apache.commons.compress.harmony.pack200.BHSDCodecB?=
+;org.apache.commons.compress.harmony.unpack200.SegmentHeaderP

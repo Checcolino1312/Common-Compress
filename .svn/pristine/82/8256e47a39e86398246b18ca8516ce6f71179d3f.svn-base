@@ -1,0 +1,30 @@
+
+Œorg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#hasZip64Extra(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z~
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.javaã	 ã	(!"1*Ÿ
+1
+ä	 ä	(r
+p
+
+ä	  å	(*8
+%02org.apache.commons.compress.archivers.zip.ZipShort"__id*"
+
+__unknown_file (
+""ƒ€
+
+ä	 å	(+=
+%17org.apache.commons.compress.archivers.zip.ZipExtraField"¶org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getExtraField(Lorg/apache/commons/compress/archivers/zip/ZipShort;)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;*]
+
+__unknown_file (A
+?
+ze9org.apache.commons.compress.archivers.zip.ZipArchiveEntry*V
+
+__unknown_file (:
+8
+%02org.apache.commons.compress.archivers.zip.ZipShort2CgetExtraField(Lorg/apache/commons/compress/archivers/zip/ZipShort;)"
+
+ä	 æ	(:
+"":M
+
+ã	" ã	(:?
+ze9org.apache.commons.compress.archivers.zip.ZipArchiveEntryBDB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStreamP

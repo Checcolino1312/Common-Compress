@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getLastModifiedDate()Ljava/util/Date;
+java.util.Date#<init>(J)V
+java.util.Date#instance-init#
+==
+getTime org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getTime()J

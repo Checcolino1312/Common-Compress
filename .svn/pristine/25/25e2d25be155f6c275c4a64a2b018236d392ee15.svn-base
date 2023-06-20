@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.pack200.ClassBands#addLocalVariable(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lorg/objectweb/asm/Label;Lorg/objectweb/asm/Label;I)V
+java.lang.Long#intValue()I
+java.lang.Long#valueOf(J)Ljava/lang/Long;

@@ -1,0 +1,150 @@
+
+`org.apache.commons.compress.archivers.sevenz.SevenZFile#getPropertyTypeName(I)Ljava/lang/String;Å
+uC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZFile.java€ €(&"1**
+2
+Ò Ú(!"
+
+Ú Ú(!	
+Unknown*)
+3
+Ô ( "
+
+ ( 
+
+kDummy*,
+4
+Ì Ó(#"
+
+Ó Ó(#
+	kStartPos*1
+5
+Î Ï((" 
+
+Ï Ï((
+kWinAttributes*)
+6
+È Í( "
+
+Í Í( 
+
+kMTime*)
+7
+Á Ë( "
+
+Ë Ë( 
+
+kATime*)
+8
+Â Ê( "
+
+Ê Ê( 
+
+kCTime*(
+9
+„ ‰("
+
+‰ ‰(	
+kName*)
+10
+· ‚("
+
+‚ ‚(	
+kAnti*.
+11
+ﬂ ‡($"
+
+‡ ‡($
+
+kEmptyFile*Á
+1
+‹ ‹(C
+A
+
+› ›(!	
+%0int"__id*"
+
+__unknown_file (
+""C
+A
+
+ﬂ ﬂ(	
+%1int"__id*"
+
+__unknown_file (
+""C
+A
+
+· ·(	
+%2int"__id*"
+
+__unknown_file (
+""C
+A
+
+„ „(	
+%3int"__id*"
+
+__unknown_file (
+""C
+A
+
+Â Â(	
+%4int"__id*"
+
+__unknown_file (
+""C
+A
+
+Á Á(	
+%5int"__id*"
+
+__unknown_file (
+""C
+A
+
+È È(	
+%6int"__id*"
+
+__unknown_file (
+""C
+A
+
+Î Î(#	
+%7int"__id*"
+
+__unknown_file (
+""C
+A
+
+Ì Ì(	
+%8int"__id*"
+
+__unknown_file (
+""C
+A
+
+Ô Ô(	
+%9int"__id*"
+
+__unknown_file (
+""*$
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12*0
+12
+› ﬁ(&"
+
+ﬁ ﬁ(&
+kEmptyStream: 
+
+__unknown_file (
+""B;9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile

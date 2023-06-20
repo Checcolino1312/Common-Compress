@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.arj.ArjArchiveInputStream#<init>(Ljava/io/InputStream;)V
+==
+ArjArchiveInputStream org.apache.commons.compress.archivers.arj.ArjArchiveInputStream#<init>(Ljava/io/InputStream;Ljava/lang/String;)V

@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.gzip.GzipCompressorInputStream#<init>(Ljava/io/InputStream;)V
+==
+GzipCompressorInputStream org.apache.commons.compress.compressors.gzip.GzipCompressorInputStream#<init>(Ljava/io/InputStream;Z)V

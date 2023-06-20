@@ -1,0 +1,146 @@
+
+Ñorg.apache.commons.compress.archivers.zip.X7875_NewUnix#getLocalFileDataLength()Lorg/apache/commons/compress/archivers/zip/ZipShort;u
+iC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/X7875_NewUnix.javaÖ Ö(*"7*_
+2
+â, â(-I
+G
+
+â, â(4	
+%9int"__id*(
+
+__unknown_file (
+
+
+%11int*
+1*_
+3
+â( â()I
+G
+
+â( â()	
+%9int"__id*(
+
+__unknown_file (
+
+
+%10int*
+1*è
+4
+á á(5ì
+ê
+
+à, à(/
+%6java.math.BigInteger"__id*`
+
+__unknown_file (D*B9
+7org.apache.commons.compress.archivers.zip.X7875_NewUnix"
+gidåâ
+
+à, à(=
+%7byte[]"$java.math.BigInteger#toByteArray()[B*8
+
+__unknown_file (
+
+%6java.math.BigInteger2toByteArray()Å
+˛
+
+à à(>
+%8byte[]"]org.apache.commons.compress.archivers.zip.X7875_NewUnix#trimLeadingZeroesForceMinLength([B)[B*W
+
+__unknown_file (;"9
+7org.apache.commons.compress.archivers.zip.X7875_NewUnix**
+
+__unknown_file (
+
+%7byte[]M
+K
+
+à à(>
+bbyte[]"__id**
+
+__unknown_file (
+
+%8byte[]*
+2
+3*^
+5
+á, á(-H
+F
+
+á, á(4	
+%3int"__id*'
+
+__unknown_file (
+	
+%5int*
+4*^
+6
+á( á()H
+F
+
+á( á()	
+%3int"__id*'
+
+__unknown_file (
+	
+%4int*
+4*è
+7
+Ü Ü(2ì
+ê
+
+Ü3 Ü(6
+%0java.math.BigInteger"__id*`
+
+__unknown_file (D*B9
+7org.apache.commons.compress.archivers.zip.X7875_NewUnix"
+uidåâ
+
+Ü3 Ü(D
+%1byte[]"$java.math.BigInteger#toByteArray()[B*8
+
+__unknown_file (
+
+%0java.math.BigInteger2toByteArray()Å
+˛
+
+Ü Ü(E
+%2byte[]"]org.apache.commons.compress.archivers.zip.X7875_NewUnix#trimLeadingZeroesForceMinLength([B)[B*W
+
+__unknown_file (;"9
+7org.apache.commons.compress.archivers.zip.X7875_NewUnix**
+
+__unknown_file (
+
+%1byte[]M
+K
+
+Ü Ü(F
+bbyte[]"__id**
+
+__unknown_file (
+
+%2byte[]*
+5
+6*Æ
+1
+â â(5}{
+
+å å(9
+%122org.apache.commons.compress.archivers.zip.ZipShort"2org.apache.commons.compress.archivers.zip.ZipShort“
+œ
+
+å å(2
+%13"=org.apache.commons.compress.archivers.zip.ZipShort#<init>(I)V*W
+
+__unknown_file (;
+9
+%122org.apache.commons.compress.archivers.zip.ZipShort*"
+
+__unknown_file (
+"""I
+
+å å(3;
+9
+%122org.apache.commons.compress.archivers.zip.ZipShortB;9
+7org.apache.commons.compress.archivers.zip.X7875_NewUnixH

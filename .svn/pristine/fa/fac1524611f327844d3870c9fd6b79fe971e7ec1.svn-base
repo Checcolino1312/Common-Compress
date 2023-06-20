@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#read()I
+==
+read org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#read([BII)I

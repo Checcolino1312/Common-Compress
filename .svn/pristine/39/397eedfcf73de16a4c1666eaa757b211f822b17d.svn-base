@@ -1,0 +1,23 @@
+
+gorg.apache.commons.compress.harmony.unpack200.bytecode.SourceFileAttribute#toString()Ljava/lang/String;Ü
+|C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/SourceFileAttribute.java^ ^("1*ß
+1_ _(Œ
+À
+_  _($C
+%0=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8"__id*t
+
+__unknown_file (X*VL
+Jorg.apache.commons.compress.harmony.unpack200.bytecode.SourceFileAttribute"
+name†
+ù
+_ _($
+%1java.lang.String"__concat*
+_ _(
+SourceFile: *Q
+_  _($E
+C
+%0=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8"$
+_ _(%
+
+%1java.lang.StringBNL
+Jorg.apache.commons.compress.harmony.unpack200.bytecode.SourceFileAttributeH

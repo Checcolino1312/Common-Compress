@@ -1,0 +1,153 @@
+
+^org.apache.commons.compress.archivers.sevenz.BoundedSeekableByteChannelInputStream#read([BII)Iè
+ÑC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/BoundedSeekableByteChannelInputStream.javaG G("startingBlock*©
+2] ](îë
+] ](&
+%8java.nio.ByteBuffer"2java.nio.ByteBuffer#get([BII)Ljava/nio/ByteBuffer;*8
+
+__unknown_file (
+
+bufjava.nio.ByteBuffer*)
+
+__unknown_file (
+
+bbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2	get([BII)*
+1*Ò
+startingBlockG G(A}
+{
+F F(
+%9"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*)
+
+__unknown_file (
+
+bbyte[]K
+I
+G! G("
+bbyte[]"__annotation*"
+
+__unknown_file (
+
+%9*
+
+6
+9
+11*õ
+4X X(∑
+¥
+X X(2
+%4java.nio.ByteBuffer"4java.nio.ByteBuffer#allocate(I)Ljava/nio/ByteBuffer;*3
+
+__unknown_file ("
+java.nio.ByteBuffer*"
+
+__unknown_file (
+""g
+e
+X X(2
+bufjava.nio.ByteBuffer"__id*7
+
+__unknown_file (
+
+%4java.nio.ByteBuffer¡
+æ
+Y Y(+
+%5%java.nio.channels.SeekableByteChannel"__id*
+
+__unknown_file (c*aT
+Rorg.apache.commons.compress.archivers.sevenz.BoundedSeekableByteChannelInputStream"	
+channel˛˚
+Y Y()	
+%6int"Bjava.nio.channels.SeekableByteChannel#read(Ljava/nio/ByteBuffer;)I*I
+
+__unknown_file (-
++
+%5%java.nio.channels.SeekableByteChannel*8
+
+__unknown_file (
+
+bufjava.nio.ByteBuffer2read(Ljava/nio/ByteBuffer;)õò
+Z Z(
+%7java.nio.ByteBuffer"/java.nio.ByteBuffer#flip()Ljava/nio/ByteBuffer;*8
+
+__unknown_file (
+
+bufjava.nio.ByteBuffer2flip()*
+2
+1*ø
+5U U(Æ
+´
+U U(
+%2java.nio.ByteBuffer"__id*~
+
+__unknown_file (b*`T
+Rorg.apache.commons.compress.archivers.sevenz.BoundedSeekableByteChannelInputStream"
+bufferg
+e
+U U(
+bufjava.nio.ByteBuffer"__id*7
+
+__unknown_file (
+
+%2java.nio.ByteBufferç
+ä
+V V()	
+%3int"[org.apache.commons.compress.archivers.sevenz.BoundedSeekableByteChannelInputStream#read(I)I*r
+
+__unknown_file (VT
+Rorg.apache.commons.compress.archivers.sevenz.BoundedSeekableByteChannelInputStream*"
+
+__unknown_file (
+""*
+2
+1*ï
+6R R(R
+P
+S S(
+bufjava.nio.ByteBuffer"__id*"
+
+__unknown_file (
+""Æ
+´
+T T(!
+%0java.nio.ByteBuffer"__id*~
+
+__unknown_file (b*`T
+Rorg.apache.commons.compress.archivers.sevenz.BoundedSeekableByteChannelInputStream"
+bufferyw
+T T(,	
+%1int"java.nio.Buffer#capacity()I*7
+
+__unknown_file (
+
+%0java.nio.ByteBuffer2
+capacity()*
+4
+5*!
+9L L("
+L L(
+""*"
+11I I("
+I I(
+""*!
+1` `("
+` `(
+"":
+G G(#
+bbyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BVT
+Rorg.apache.commons.compress.archivers.sevenz.BoundedSeekableByteChannelInputStreamHP

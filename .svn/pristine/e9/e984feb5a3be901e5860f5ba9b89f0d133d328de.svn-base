@@ -1,0 +1,45 @@
+
+qorg.apache.commons.compress.archivers.tar.TarFile$BoundedTarEntryInputStream#readArchive(JLjava/nio/ByteBuffer;)Iy
+oC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/tar/TarFile.java^ ^("1*±
+1_ _(ª
+∏
+_ _(+
+%0%java.nio.channels.SeekableByteChannel"__id*y
+
+__unknown_file (]*[N
+Lorg.apache.commons.compress.archivers.tar.TarFile$BoundedTarEntryInputStream"	
+channelêç
+_ _(!+
+%1%java.nio.channels.SeekableByteChannel"Xjava.nio.channels.SeekableByteChannel#position(J)Ljava/nio/channels/SeekableByteChannel;*I
+
+__unknown_file (-
++
+%0%java.nio.channels.SeekableByteChannel*"
+
+__unknown_file (
+""2position(J)ª
+∏
+` `(+
+%2%java.nio.channels.SeekableByteChannel"__id*y
+
+__unknown_file (]*[N
+Lorg.apache.commons.compress.archivers.tar.TarFile$BoundedTarEntryInputStream"	
+channel˛˚
+` `($	
+%3int"Bjava.nio.channels.SeekableByteChannel#read(Ljava/nio/ByteBuffer;)I*I
+
+__unknown_file (-
++
+%2%java.nio.channels.SeekableByteChannel*8
+
+__unknown_file (
+
+bufjava.nio.ByteBuffer2read(Ljava/nio/ByteBuffer;)"
+` `(%
+"": 
+
+__unknown_file (
+"":&
+^0 ^(D
+bufjava.nio.ByteBufferBPN
+Lorg.apache.commons.compress.archivers.tar.TarFile$BoundedTarEntryInputStreamP

@@ -1,0 +1,6 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.Attribute#doWrite(Ljava/io/DataOutputStream;)V
+java.io.DataOutputStream#writeInt(I)V
+java.io.DataOutputStream#writeShort(I)V
+==
+getLength org.apache.commons.compress.harmony.unpack200.bytecode.Attribute#getLength()I
+writeBody org.apache.commons.compress.harmony.unpack200.bytecode.Attribute#writeBody(Ljava/io/DataOutputStream;)V

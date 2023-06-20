@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.jar.JarArchiveInputStream#getNextJarEntry()Lorg/apache/commons/compress/archivers/jar/JarArchiveEntry;
+org.apache.commons.compress.archivers.jar.JarArchiveEntry#instance-init#
+org.apache.commons.compress.archivers.jar.JarArchiveEntry#<init>(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)V

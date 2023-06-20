@@ -1,0 +1,23 @@
+
+forg.apache.commons.compress.harmony.unpack200.bytecode.SignatureAttribute#toString()Ljava/lang/String;’
+‡C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/SignatureAttribute.javaE E("1*ª
+1G G(Ò
+Ï
+G G((C
+%0=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8"__id*x
+
+__unknown_file (\*ZK
+Iorg.apache.commons.compress.harmony.unpack200.bytecode.SignatureAttribute"
+	signatureŸ
+œ
+G G((
+%1java.lang.String"__concat*
+G G(
+Signature: *Q
+G G((E
+C
+%0=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8"$
+G G()
+
+%1java.lang.StringBMK
+Iorg.apache.commons.compress.harmony.unpack200.bytecode.SignatureAttributeH

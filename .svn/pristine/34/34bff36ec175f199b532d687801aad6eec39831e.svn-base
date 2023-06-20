@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.ExplodingInputStream#fillBuffer()V
+org.apache.commons.compress.archivers.zip.ExplodingInputStream#init()V
+org.apache.commons.compress.utils.ExactMath#add(IJ)I

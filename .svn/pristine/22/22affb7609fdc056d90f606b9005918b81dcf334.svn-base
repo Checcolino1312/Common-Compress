@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.FileNameUtil#getCompressedFilename(Ljava/lang/String;)Ljava/lang/String;
+java.lang.String#toLowerCase(Ljava/util/Locale;)Ljava/lang/String;
+java.lang.String#length()I
+java.lang.String#substring(I)Ljava/lang/String;
+java.lang.String#substring(II)Ljava/lang/String;

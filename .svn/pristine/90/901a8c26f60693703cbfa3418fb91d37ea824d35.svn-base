@@ -1,0 +1,6 @@
+org.apache.commons.compress.compressors.snappy.SnappyCompressorOutputStream#<init>(Ljava/io/OutputStream;JLorg/apache/commons/compress/compressors/lz77support/Parameters;)V
+org.apache.commons.compress.utils.ByteUtils$OutputStreamByteConsumer#instance-init#
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#instance-init#
+org.apache.commons.compress.utils.ByteUtils$OutputStreamByteConsumer#<init>(Ljava/io/OutputStream;)V
+org.apache.commons.compress.compressors.snappy.SnappyCompressorOutputStream#writeUncompressedSize(J)V
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#<init>(Lorg/apache/commons/compress/compressors/lz77support/Parameters;Lorg/apache/commons/compress/compressors/lz77support/LZ77Compressor$Callback;)V

@@ -1,0 +1,2 @@
+org.apache.commons.compress.utils.Iterators#addAll(Ljava/util/Collection;Ljava/util/Iterator;)Z
+java.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;

@@ -1,0 +1,4 @@
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#<init>(Lorg/apache/commons/compress/compressors/lz77support/Parameters;Lorg/apache/commons/compress/compressors/lz77support/LZ77Compressor$Callback;)V
+org.apache.commons.compress.compressors.lz77support.Parameters#getWindowSize()I
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
+java.util.Arrays#fill([II)V

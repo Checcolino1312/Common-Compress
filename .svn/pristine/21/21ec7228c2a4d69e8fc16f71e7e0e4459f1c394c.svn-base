@@ -1,0 +1,29 @@
+
+Sorg.apache.commons.compress.archivers.tar.TarUtils$1#canEncode(Ljava/lang/String;)Zn
+dC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/tar/TarUtils.java; ;($"startingBlock*†
+startingBlock;$ ;(7‹
+ˆ
+: :(
+%0"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*6
+
+__unknown_file (
+
+namejava.lang.StringX
+V
+;2 ;(6
+namejava.lang.String"__annotation*"
+
+__unknown_file (
+
+%0*
+1*!
+1;A ;(E"
+;: ;(F
+"":$
+;% ;(6
+namejava.lang.StringB86
+4org.apache.commons.compress.archivers.tar.TarUtils$1HP

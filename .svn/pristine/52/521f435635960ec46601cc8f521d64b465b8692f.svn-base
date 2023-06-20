@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#handleZipException(Lorg/apache/commons/compress/archivers/zip/ZipExtraField;[BZ)V
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#internalAddExtraField(Lorg/apache/commons/compress/archivers/zip/ZipExtraField;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#createUnrecognizedExtraField(Lorg/apache/commons/compress/archivers/zip/ZipExtraField;[BZ)Lorg/apache/commons/compress/archivers/zip/UnrecognizedExtraField;
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#internalRemoveExtraField(Lorg/apache/commons/compress/archivers/zip/ZipShort;)V

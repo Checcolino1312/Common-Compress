@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.sevenz.Coders#addDecoder(Ljava/lang/String;Ljava/io/InputStream;JLorg/apache/commons/compress/archivers/sevenz/Coder;[BI)Ljava/io/InputStream;
+org.apache.commons.compress.archivers.sevenz.SevenZMethod#byId([B)Lorg/apache/commons/compress/archivers/sevenz/SevenZMethod;
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.sevenz.Coders#findByMethod(Lorg/apache/commons/compress/archivers/sevenz/SevenZMethod;)Lorg/apache/commons/compress/archivers/sevenz/AbstractCoder;
+java.util.Arrays#toString([B)Ljava/lang/String;

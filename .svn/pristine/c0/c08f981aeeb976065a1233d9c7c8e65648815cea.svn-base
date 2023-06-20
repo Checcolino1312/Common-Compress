@@ -1,0 +1,6 @@
+org.apache.commons.compress.harmony.unpack200.IcBands#getRelevantIcTuples(Ljava/lang/String;Lorg/apache/commons/compress/harmony/unpack200/bytecode/ClassConstantPool;)[Lorg/apache/commons/compress/harmony/unpack200/IcTuple;
+java.util.ArrayList#<init>()V
+java.util.HashSet#<init>()V
+java.util.ArrayList#instance-init#
+java.util.ArrayList#<init>(Ljava/util/Collection;)V
+java.util.HashSet#instance-init#

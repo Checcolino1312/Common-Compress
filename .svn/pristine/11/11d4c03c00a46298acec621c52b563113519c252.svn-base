@@ -1,0 +1,37 @@
+
+_org.apache.commons.compress.utils.Lists#newArrayList(Ljava/util/Iterator;)Ljava/util/ArrayList;c
+YC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/utils/Lists.java3# 3(/"1*©
+14" 4(.¾
+»
+4" 4(0
+%0java.util.ArrayList"Korg.apache.commons.compress.utils.Lists#newArrayList()Ljava/util/ArrayList;*G
+
+__unknown_file (+")
+'org.apache.commons.compress.utils.Listsh
+f
+4 4(1
+listjava.util.ArrayList"__id*7
+
+__unknown_file (
+
+%0java.util.ArrayListÃ
+À
+5 5((
+%1boolean"_org.apache.commons.compress.utils.Iterators#addAll(Ljava/util/Collection;Ljava/util/Iterator;)Z*K
+
+__unknown_file (/"-
++org.apache.commons.compress.utils.Iterators*9
+
+__unknown_file (
+
+listjava.util.ArrayList*<
+
+__unknown_file ( 
+
+iteratorjava.util.Iterator")
+6 6(
+
+listjava.util.ArrayList:*
+30 3(T
+iteratorjava.util.IteratorB+")
+'org.apache.commons.compress.utils.ListsH

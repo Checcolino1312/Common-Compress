@@ -1,0 +1,33 @@
+
+Iorg.apache.commons.compress.changes.ChangeSet#getChanges()Ljava/util/Set;k
+_C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/changes/ChangeSet.java   ("1*Ð
+1
+¡# ¡(*†
+ƒ
+
+¡# ¡(*
+%0java.util.Set"__id*Z
+
+__unknown_file (>*</
+-org.apache.commons.compress.changes.ChangeSet"	
+changesFD
+
+¡ ¡("
+%1java.util.LinkedHashSet"java.util.LinkedHashSet¾
+»
+
+¡ ¡(+
+%2"7java.util.LinkedHashSet#<init>(Ljava/util/Collection;)V*;
+
+__unknown_file (
+
+%1java.util.LinkedHashSet*1
+
+__unknown_file (
+
+%0java.util.Set"-
+
+¡ ¡(,
+
+%1java.util.LinkedHashSetB1/
+-org.apache.commons.compress.changes.ChangeSet

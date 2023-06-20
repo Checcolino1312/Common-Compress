@@ -1,0 +1,10 @@
+org.apache.commons.compress.harmony.unpack200.Segment#unpackRead(Ljava/io/InputStream;)V
+org.apache.commons.compress.harmony.unpack200.SegmentHeader#instance-init#
+org.apache.commons.compress.harmony.unpack200.SegmentHeader#<init>(Lorg/apache/commons/compress/harmony/unpack200/Segment;)V
+java.io.ByteArrayInputStream#instance-init#
+java.io.ByteArrayInputStream#<init>([B)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.harmony.unpack200.Segment#readSegment(Ljava/io/InputStream;)V
+java.io.BufferedInputStream#instance-init#
+java.io.BufferedInputStream#<init>(Ljava/io/InputStream;)V

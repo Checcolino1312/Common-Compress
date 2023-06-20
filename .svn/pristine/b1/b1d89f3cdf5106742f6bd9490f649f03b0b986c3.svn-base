@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.NewAttribute#addBCIndex(II)V
+org.apache.commons.compress.harmony.unpack200.bytecode.NewAttribute$BCIndex#<init>(I)V
+java.lang.Integer#valueOf(I)Ljava/lang/Integer;
+org.apache.commons.compress.harmony.unpack200.bytecode.NewAttribute$BCIndex#instance-init#

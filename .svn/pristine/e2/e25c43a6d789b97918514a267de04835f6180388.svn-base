@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.ClassBands#currentClassReferencesInnerClass(Lorg/apache/commons/compress/harmony/pack200/CPClass;)V
+org.apache.commons.compress.harmony.pack200.ClassBands#isInnerClassOf(Ljava/lang/String;Lorg/apache/commons/compress/harmony/pack200/CPClass;)Z
+java.util.HashSet#<init>()V
+java.util.HashSet#instance-init#

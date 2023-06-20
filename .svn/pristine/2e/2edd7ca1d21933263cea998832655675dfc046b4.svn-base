@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.BcBands#visitLdcInsn(Ljava/lang/Object;)V
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.harmony.pack200.BcBands#updateRenumbering()V
+java.lang.IllegalArgumentException#instance-init#

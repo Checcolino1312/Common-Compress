@@ -1,0 +1,93 @@
+
+gorg.apache.commons.compress.harmony.unpack200.bytecode.ExceptionsAttribute#toString()Ljava/lang/String;†
+|C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/ExceptionsAttribute.javai i("5*
+2l l($„
+
+l l($K
+	exception>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass"__id*"
+
+__unknown_file (
+""ð
+í
+l l($K
+	exception>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass"
+__arrayGet*d
+
+__unknown_file (H
+F
+%3@org.apache.commons.compress.harmony.unpack200.bytecode.CPClass[]*"
+
+__unknown_file (
+""*
+3
+1*¨
+3m m(½º
+m m( 
+%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*;
+
+__unknown_file (
+
+sbjava.lang.StringBuilder*i
+
+__unknown_file (M
+K
+	exception>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass2append(Ljava/lang/Object;)ÓÐ
+n n(
+%5java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*;
+
+__unknown_file (
+
+sbjava.lang.StringBuilder*!
+
+__unknown_file (
+ 2	append(C)*
+2*ì
+4l' l(1×
+Ô
+l' l(1F
+%3@org.apache.commons.compress.harmony.unpack200.bytecode.CPClass[]"__id*z
+
+__unknown_file (^*\L
+Jorg.apache.commons.compress.harmony.unpack200.bytecode.ExceptionsAttribute"
+
+exceptions*
+2*¿
+5j! j(4DB
+j% j(2
+%0java.lang.StringBuilder"java.lang.StringBuilderr
+p
+j! j(4
+%1"!java.lang.StringBuilder#<init>()V*;
+
+__unknown_file (
+
+%0java.lang.StringBuildern
+l
+j j(5
+sbjava.lang.StringBuilder"__id*;
+
+__unknown_file (
+
+%0java.lang.StringBuilder€ý
+k k(!
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*;
+
+__unknown_file (
+
+sbjava.lang.StringBuilder*,
+
+__unknown_file (
+Exceptions: 2append(Ljava/lang/String;)*
+4*Ú
+1p p(¤¡
+p p(
+%6java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*;
+
+__unknown_file (
+
+sbjava.lang.StringBuilder2
+toString()"$
+p p(
+
+%6java.lang.StringBNL
+Jorg.apache.commons.compress.harmony.unpack200.bytecode.ExceptionsAttributeH

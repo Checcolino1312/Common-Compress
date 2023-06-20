@@ -1,0 +1,69 @@
+
+@org.apache.commons.compress.utils.BoundedInputStream#read([BII)I|
+rC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/utils/BoundedInputStream.javaB B("startingBlock*•
+3M M( Œ
+‰
+M M( 
+%0java.io.InputStream"__id*\
+
+__unknown_file (@*>6
+4org.apache.commons.compress.utils.BoundedInputStream"
+inñî
+M M(:	
+%1int"java.io.InputStream#read([BII)I*7
+
+__unknown_file (
+
+%0java.io.InputStream*)
+
+__unknown_file (
+
+bbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2
+read([BII)*
+1*ð
+startingBlockB B(A}
+{
+A A(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*)
+
+__unknown_file (
+
+bbyte[]K
+I
+B! B("
+bbyte[]"__annotation*"
+
+__unknown_file (
+
+%2*	
+3
+6
+8*!
+6G G("
+G G(
+""*!
+8D D("
+D D(
+""*!
+1Q Q("
+Q Q(
+"":
+B B(#
+bbyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B86
+4org.apache.commons.compress.utils.BoundedInputStreamHP

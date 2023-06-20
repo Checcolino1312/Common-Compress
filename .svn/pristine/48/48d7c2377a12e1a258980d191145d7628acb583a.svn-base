@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.unpack200.CpBands#parseCpDouble(Ljava/io/InputStream;)V
+java.util.Arrays#setAll([DLjava/util/function/IntToDoubleFunction;)V

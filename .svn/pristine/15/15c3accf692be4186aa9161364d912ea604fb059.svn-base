@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#checkIfNeedsZip64(Lorg/apache/commons/compress/archivers/zip/Zip64Mode;)Z
+org.apache.commons.compress.archivers.zip.Zip64RequiredException#getEntryTooBigMessage(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Ljava/lang/String;
+org.apache.commons.compress.archivers.zip.Zip64RequiredException#instance-init#
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#isZip64Required(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;Lorg/apache/commons/compress/archivers/zip/Zip64Mode;)Z
+org.apache.commons.compress.archivers.zip.Zip64RequiredException#<init>(Ljava/lang/String;)V

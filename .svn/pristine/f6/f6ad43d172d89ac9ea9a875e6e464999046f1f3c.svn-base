@@ -1,0 +1,9 @@
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#stripTo7Bits(Ljava/lang/String;)Ljava/lang/String;
+java.lang.StringBuilder#instance-init#
+java.lang.String#length()I
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#shouldBeReplaced(C)Z
+java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#<init>(I)V
+java.lang.String#charAt(I)C
+java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#toString()Ljava/lang/String;

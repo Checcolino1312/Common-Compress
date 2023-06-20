@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.pack200.Pack200CompressorInputStream#skip(J)J
+org.apache.commons.compress.utils.IOUtils#skip(Ljava/io/InputStream;J)J

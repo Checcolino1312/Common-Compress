@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#matches([BI)Z
+java.util.Arrays#copyOf([BI)[B
+java.util.Arrays#equals([B[B)Z

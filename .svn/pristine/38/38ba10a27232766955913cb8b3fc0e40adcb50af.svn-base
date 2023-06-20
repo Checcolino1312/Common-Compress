@@ -1,0 +1,21 @@
+
+Korg.apache.commons.compress.harmony.pack200.CPSignature#getIndexInCpUtf8()Is
+iC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/CPSignature.javaE E("1*§
+1F F(¹
+¶
+F F(8
+%02org.apache.commons.compress.harmony.pack200.CPUTF8"__id*j
+
+__unknown_file (N*L9
+7org.apache.commons.compress.harmony.pack200.CPSignature"
+signatureFormÇÄ
+F F('	
+%1int"Iorg.apache.commons.compress.harmony.pack200.ConstantPoolEntry#getIndex()I*V
+
+__unknown_file (:
+8
+%02org.apache.commons.compress.harmony.pack200.CPUTF82
+getIndex()"
+F F((
+""B;9
+7org.apache.commons.compress.harmony.pack200.CPSignatureHP

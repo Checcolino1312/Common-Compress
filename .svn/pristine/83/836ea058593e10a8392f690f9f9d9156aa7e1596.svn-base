@@ -1,0 +1,65 @@
+
+∑org.apache.commons.compress.archivers.examples.Archiver$ArchiverFileVisitor#visitFile(Ljava/nio/file/Path;Ljava/nio/file/attribute/BasicFileAttributes;)Ljava/nio/file/FileVisitResult;s
+iC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/examples/Archiver.java[ [(("startingBlock*™
+startingBlock[( [(Zç
+ä
+Z Z(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*8
+
+__unknown_file (
+
+filejava.nio.file.PathZ
+X
+[4 [(8
+filejava.nio.file.Path"__annotation*"
+
+__unknown_file (
+
+%1ß
+§
+Z Z(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*R
+
+__unknown_file (6
+4
+attrs+java.nio.file.attribute.BasicFileAttributest
+r
+[T [(Y4
+attrs+java.nio.file.attribute.BasicFileAttributes"__annotation*"
+
+__unknown_file (
+
+%2*
+1*î
+1\ \(—Œ
+\ \(+#
+%0java.nio.file.FileVisitResult"¥org.apache.commons.compress.archivers.examples.Archiver$ArchiverFileVisitor#visit(Ljava/nio/file/Path;Ljava/nio/file/attribute/BasicFileAttributes;Z)Ljava/nio/file/FileVisitResult;*k
+
+__unknown_file (OM
+Korg.apache.commons.compress.archivers.examples.Archiver$ArchiverFileVisitor*8
+
+__unknown_file (
+
+filejava.nio.file.Path*R
+
+__unknown_file (6
+4
+attrs+java.nio.file.attribute.BasicFileAttributes* 
+
+__unknown_file (22Ivisit(Ljava/nio/file/Path;Ljava/nio/file/attribute/BasicFileAttributes;Z)"1
+\ \(,%
+#
+%0java.nio.file.FileVisitResult:&
+[) [(9
+filejava.nio.file.Path:@
+[: [(Y4
+attrs+java.nio.file.attribute.BasicFileAttributesBOM
+Korg.apache.commons.compress.archivers.examples.Archiver$ArchiverFileVisitorH

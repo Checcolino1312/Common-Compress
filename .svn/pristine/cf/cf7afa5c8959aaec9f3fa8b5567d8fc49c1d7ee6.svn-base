@@ -1,0 +1,59 @@
+
+aorg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#versionNeededToExtractMethod(I)IŠ
+~C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java± ±(,"4*£
+2
+²J ²(VC
+A
+
+²J ²(f	
+%3int"__id*"
+
+__unknown_file (
+""H
+F
+
+²J ²(f	
+%1int"__id*'
+
+__unknown_file (
+	
+%3int*
+1*£
+3
+²' ²(3C
+A
+
+²' ²(G	
+%2int"__id*"
+
+__unknown_file (
+""H
+F
+
+²' ²(G	
+%1int"__id*'
+
+__unknown_file (
+	
+%2int*
+1*\
+4
+² ²(C
+A
+
+² ²($	
+%0int"__id*"
+
+__unknown_file (
+""*
+2
+3*%
+1
+² ²(g"
+
+² ²(g
+"": 
+
+__unknown_file (
+""BDB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStreamP

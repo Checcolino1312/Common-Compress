@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.PackingUtils#getPackingFileListFromJar(Ljava/util/jar/JarFile;Z)Ljava/util/List;
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+org.apache.commons.compress.harmony.pack200.PackingUtils#reorderPackingFiles(Ljava/util/List;)V

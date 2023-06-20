@@ -1,0 +1,9 @@
+org.apache.commons.compress.archivers.ar.ArArchiveOutputStream#writeEntryHeader(Lorg/apache/commons/compress/archivers/ar/ArArchiveEntry;)V
+java.lang.Integer#toString(II)Ljava/lang/String;
+java.lang.String#length()I
+org.apache.commons.compress.archivers.ar.ArArchiveOutputStream#write(Ljava/lang/String;)J
+org.apache.commons.compress.archivers.ar.ArArchiveOutputStream#fill(JJC)J
+java.lang.String#contains(Ljava/lang/CharSequence;)Z
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+java.lang.String#valueOf(J)Ljava/lang/String;

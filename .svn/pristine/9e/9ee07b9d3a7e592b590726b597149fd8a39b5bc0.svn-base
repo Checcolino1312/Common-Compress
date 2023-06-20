@@ -1,0 +1,2 @@
+org.apache.commons.compress.utils.IOUtils#readFully(Ljava/io/InputStream;[B)I
+org.apache.commons.compress.utils.IOUtils#readFully(Ljava/io/InputStream;[BII)I

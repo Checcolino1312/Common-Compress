@@ -1,0 +1,44 @@
+
+Ãorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getExistingExtraField(Lorg/apache/commons/compress/archivers/zip/ZipExtraField;)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;w
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.javaı ı(/"2"1*¾
+2
+ÿ ÿ(#Ñ
+Î
+
+ÿ ÿ(#I
+%0Corg.apache.commons.compress.archivers.zip.UnparseableExtraFieldData"__id*o
+
+__unknown_file (S*Q;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry"
+unparseableExtra"Y
+
+ÿ ÿ($K
+I
+%0Corg.apache.commons.compress.archivers.zip.UnparseableExtraFieldData*˜
+1
+ ( µ²
+
+! (68
+%12org.apache.commons.compress.archivers.zip.ZipShort"yorg.apache.commons.compress.archivers.zip.ZipExtraField#getHeaderId()Lorg/apache/commons/compress/archivers/zip/ZipShort;*`
+
+__unknown_file (D
+B
+element7org.apache.commons.compress.archivers.zip.ZipExtraField2getHeaderId()ÿü
+
+ (7=
+%27org.apache.commons.compress.archivers.zip.ZipExtraField"¶org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getExtraField(Lorg/apache/commons/compress/archivers/zip/ZipShort;)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry*V
+
+__unknown_file (:
+8
+%12org.apache.commons.compress.archivers.zip.ZipShort2CgetExtraField(Lorg/apache/commons/compress/archivers/zip/ZipShort;)"M
+
+ (8?
+=
+%27org.apache.commons.compress.archivers.zip.ZipExtraField:P
+
+ı0 ı(KB
+element7org.apache.commons.compress.archivers.zip.ZipExtraFieldB=;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry

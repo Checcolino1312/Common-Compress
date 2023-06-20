@@ -1,0 +1,146 @@
+
+^org.apache.commons.compress.archivers.zip.ZipArchiveInputStream$BoundedInputStream#read([BII)Iâ
+}C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.javaà à("startingBlock*%
+2
+ì ì("
+
+ì ì(
+""*º
+3
+è è(K¨
+©
+
+ê" ê($
+%3java.io.InputStream"__id*z
+
+__unknown_file (^*\T
+Rorg.apache.commons.compress.archivers.zip.ZipArchiveInputStream$BoundedInputStream"
+inÛ
+
+ê" ê(@	
+%4int"java.io.InputStream#read([BII)I*7
+
+__unknown_file (
+
+%3java.io.InputStream*)
+
+__unknown_file (
+
+bbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2
+read([BII)*
+2
+1*˙
+startingBlock
+à à(E
+}
+
+á á(
+%7"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*)
+
+__unknown_file (
+
+bbyte[]M
+K
+
+à% à(&
+bbyte[]"__annotation*"
+
+__unknown_file (
+
+%7*
+4
+5
+7
+10*_
+4
+èG è(JI
+G
+
+èG è(J
+
+%0long"__id*'
+
+__unknown_file (
+	
+%2int*
+3*è
+5
+è, è(0¨
+©
+
+è, è(D
+
+%1long"java.lang.Math#min(JJ)J*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""J
+H
+
+è, è(D
+
+%0long"__id*(
+
+__unknown_file (
+
+
+%1long*
+3*%
+7
+ç ç("
+
+ç ç(
+""*&
+10
+ä ä("
+
+ä ä(
+""*ñ
+1
+ñ ñ(Å˛
+
+ó ó(
+
+%5void"Borg.apache.commons.compress.archivers.ArchiveInputStream#count(I)V*r
+
+__unknown_file (VT
+Rorg.apache.commons.compress.archivers.zip.ZipArchiveInputStream$BoundedInputStream*"
+
+__unknown_file (
+""2count(I)Í
+Á
+
+ò ò(R
+%6Lorg.apache.commons.compress.archivers.zip.ZipArchiveInputStream$CurrentEntry"__id*
+
+__unknown_file (c*aT
+Rorg.apache.commons.compress.archivers.zip.ZipArchiveInputStream$BoundedInputStream"	
+current"
+
+ô ô(
+"":
+
+à à('
+bbyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BVT
+Rorg.apache.commons.compress.archivers.zip.ZipArchiveInputStream$BoundedInputStreamHP

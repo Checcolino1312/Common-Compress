@@ -1,0 +1,9 @@
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#<init>(Ljava/io/InputStream;ILorg/apache/commons/compress/compressors/snappy/FramedSnappyDialect;)V
+org.apache.commons.compress.utils.CountingInputStream#<init>(Ljava/io/InputStream;)V
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#readStreamIdentifier()V
+org.apache.commons.compress.utils.CountingInputStream#instance-init#
+java.io.PushbackInputStream#instance-init#
+org.apache.commons.compress.compressors.snappy.FramedSnappyDialect#hasStreamIdentifier()Z
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.io.PushbackInputStream#<init>(Ljava/io/InputStream;I)V
+java.lang.IllegalArgumentException#instance-init#

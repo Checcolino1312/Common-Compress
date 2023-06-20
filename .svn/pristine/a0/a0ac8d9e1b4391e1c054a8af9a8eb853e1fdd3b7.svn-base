@@ -1,0 +1,6 @@
+org.apache.commons.compress.utils.ByteUtils#fromLittleEndian(Lorg/apache/commons/compress/utils/ByteUtils$ByteSupplier;I)J
+org.apache.commons.compress.utils.ByteUtils#checkReadLength(I)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+==
+getAsByte org.apache.commons.compress.utils.ByteUtils$ByteSupplier#getAsByte()I

@@ -1,0 +1,53 @@
+
+U__sonar_lambda_11$org.apache.commons.compress.archivers.zip.ParallelScatterZipCreator
+uC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ParallelScatterZipCreator.javaù" ü(	"startingBlock*û
+startingBlock
+ù" ü(	Á
+¾
+
+__unknown_file ()
+callablejava.util.concurrent.Callable"__id*q
+
+__unknown_file (U*SE
+Corg.apache.commons.compress.archivers.zip.ParallelScatterZipCreator"
+
+callable”
+‘
+
+__unknown_file (e
+ParallelScatterZipCreator.thisCorg.apache.commons.compress.archivers.zip.ParallelScatterZipCreator"__id*‡
+
+__unknown_file (k*iE
+Corg.apache.commons.compress.archivers.zip.ParallelScatterZipCreator" 
+ParallelScatterZipCreator.this*
+1*¯
+1
+ú ú(©¦
+
+ú ú(
+%1	!capture!"6java.util.concurrent.Callable#call()Ljava/lang/Object;*G
+
+__unknown_file (+
+)
+callablejava.util.concurrent.Callable2call()Î
+Ë
+
+û û(#
+%2java.lang.ThreadLocal"__id*™
+
+__unknown_file (}*{
+e
+ParallelScatterZipCreator.thisCorg.apache.commons.compress.archivers.zip.ParallelScatterZipCreator"
+tlScatterStreamsÈÅ
+
+û û()F
+%3@org.apache.commons.compress.archivers.zip.ScatterZipOutputStream"-java.lang.ThreadLocal#get()Ljava/lang/Object;*9
+
+__unknown_file (
+
+%2java.lang.ThreadLocal2get()"V
+
+û û(*H
+F
+%3@org.apache.commons.compress.archivers.zip.ScatterZipOutputStreamB!
+java.util.concurrent.Callable

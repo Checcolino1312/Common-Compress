@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.PopulationCodec#findBHSDCodec()V
+org.apache.commons.compress.harmony.pack200.BHSDCodec#<init>(III)V
+org.apache.commons.compress.harmony.pack200.BHSDCodec#instance-init#
+org.apache.commons.compress.harmony.pack200.BHSDCodec#encodes(J)Z

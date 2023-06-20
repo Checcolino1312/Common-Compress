@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.sevenz.LZMA2Decoder#getOptionsAsProperties(Ljava/lang/Object;)[B
+org.apache.commons.compress.archivers.sevenz.LZMA2Decoder#getDictSize(Ljava/lang/Object;)I
+java.lang.Integer#numberOfLeadingZeros(I)I

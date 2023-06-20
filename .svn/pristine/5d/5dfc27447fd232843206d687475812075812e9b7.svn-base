@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#bufferContainsSignature(Ljava/io/ByteArrayOutputStream;III)Z
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#pushback([BII)V
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#readDataDescriptor()V
+java.nio.ByteBuffer#array()[B

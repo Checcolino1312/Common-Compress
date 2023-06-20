@@ -1,0 +1,79 @@
+
+Zorg.apache.commons.compress.harmony.pack200.BHSDCodec#decodeInts(ILjava/io/InputStream;)[Is
+gC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/BHSDCodec.javaš š("startingBlock*ÿ
+3
+¢ ¢(å
+â
+
+¢ ¢(A	
+%2int"4org.apache.commons.compress.utils.ExactMath#add(IJ)I*K
+
+__unknown_file (/"-
++org.apache.commons.compress.utils.ExactMath*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+3
+1*Ž
+startingBlock
+š š(>Ž
+‹
+
+™ ™(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*7
+
+__unknown_file (
+
+injava.io.InputStream[
+Y
+
+š; š(=
+injava.io.InputStream"__annotation*"
+
+__unknown_file (
+
+%3*
+9*Ô
+9
+› ›( õ
+ò
+
+› ›(2
+%0int[]"Vorg.apache.commons.compress.harmony.pack200.Codec#decodeInts(ILjava/io/InputStream;)[I*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*7
+
+__unknown_file (
+
+injava.io.InputStreamÂ¿
+
+œ œ(
+%1boolean"@org.apache.commons.compress.harmony.pack200.BHSDCodec#isDelta()Z*U
+
+__unknown_file (97
+5org.apache.commons.compress.harmony.pack200.BHSDCodec2	isDelta()*
+3
+1*%
+1
+¦ ¦("
+
+¦ ¦(
+"": 
+
+__unknown_file (
+"":'
+
+š) š(=
+injava.io.InputStreamB97
+5org.apache.commons.compress.harmony.pack200.BHSDCodecH

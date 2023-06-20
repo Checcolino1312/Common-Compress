@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ZipFile#<init>(Ljava/nio/channels/SeekableByteChannel;Ljava/lang/String;Ljava/lang/String;ZZ)V
+org.apache.commons.compress.archivers.zip.ZipFile#<init>(Ljava/nio/channels/SeekableByteChannel;Ljava/lang/String;Ljava/lang/String;ZZZ)V

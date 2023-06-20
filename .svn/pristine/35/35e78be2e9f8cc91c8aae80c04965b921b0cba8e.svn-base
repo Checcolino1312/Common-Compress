@@ -1,0 +1,238 @@
+
+¥org.apache.commons.compress.archivers.examples.Archiver$ArchiverFileVisitor#visit(Ljava/nio/file/Path;Ljava/nio/file/attribute/BasicFileAttributes;Z)Ljava/nio/file/FileVisitResult;s
+iC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/examples/Archiver.javaH" H('"9*≈
+2U U(Œ
+À
+U U(@
+%179org.apache.commons.compress.archivers.ArchiveOutputStream"__id*w
+
+__unknown_file ([*YM
+Korg.apache.commons.compress.archivers.examples.Archiver$ArchiverFileVisitor"
+targetﬂ‹
+U U(*
+%18void"Norg.apache.commons.compress.archivers.ArchiveOutputStream#closeArchiveEntry()V*^
+
+__unknown_file (B
+@
+%179org.apache.commons.compress.archivers.ArchiveOutputStream2closeArchiveEntry()*
+1*ñ
+3S S(Œ
+À
+S% S(+@
+%159org.apache.commons.compress.archivers.ArchiveOutputStream"__id*w
+
+__unknown_file ([*YM
+Korg.apache.commons.compress.archivers.examples.Archiver$ArchiverFileVisitor"
+target∞
+≠
+S S(,
+%16long"Ejava.nio.file.Files#copy(Ljava/nio/file/Path;Ljava/io/OutputStream;)J*3
+
+__unknown_file ("
+java.nio.file.Files*8
+
+__unknown_file (
+
+pathjava.nio.file.Path*^
+
+__unknown_file (B
+@
+%159org.apache.commons.compress.archivers.ArchiveOutputStream*
+2*Ò
+4OF O(Q¥
+±
+OF O(Q!
+%11java.nio.file.LinkOption[]"__id*|
+
+__unknown_file (`*^M
+Korg.apache.commons.compress.archivers.examples.Archiver$ArchiverFileVisitor"
+linkOptionsıÚ
+N2 O(R9
+%122org.apache.commons.compress.archivers.ArchiveEntry"√org.apache.commons.compress.archivers.ArchiveOutputStream#createArchiveEntry(Ljava/nio/file/Path;Ljava/lang/String;[Ljava/nio/file/LinkOption;)Lorg/apache/commons/compress/archivers/ArchiveEntry;*]
+
+__unknown_file (A
+?
+%79org.apache.commons.compress.archivers.ArchiveOutputStream*8
+
+__unknown_file (
+
+pathjava.nio.file.Path*4
+
+__unknown_file (
+
+%9java.lang.String*?
+
+__unknown_file (#
+!
+%11java.nio.file.LinkOption[]2UcreateArchiveEntry(Ljava/nio/file/Path;Ljava/lang/String;[Ljava/nio/file/LinkOption;)∞
+≠
+N O(SB
+archiveEntry2org.apache.commons.compress.archivers.ArchiveEntry"__id*W
+
+__unknown_file (;
+9
+%122org.apache.commons.compress.archivers.ArchiveEntryŒ
+À
+P P(@
+%139org.apache.commons.compress.archivers.ArchiveOutputStream"__id*w
+
+__unknown_file ([*YM
+Korg.apache.commons.compress.archivers.examples.Archiver$ArchiverFileVisitor"
+target¶£
+P P(4
+%14void"Äorg.apache.commons.compress.archivers.ArchiveOutputStream#putArchiveEntry(Lorg/apache/commons/compress/archivers/ArchiveEntry;)V*^
+
+__unknown_file (B
+@
+%139org.apache.commons.compress.archivers.ArchiveOutputStream*`
+
+__unknown_file (D
+B
+archiveEntry2org.apache.commons.compress.archivers.ArchiveEntry2EputArchiveEntry(Lorg/apache/commons/compress/archivers/ArchiveEntry;)*
+2
+3*≈
+5O: O(>b
+`
+O: O(>
+%9java.lang.String"__id*6
+
+__unknown_file (
+
+namejava.lang.Stringj
+h
+O: O(D
+%10java.lang.String"__concat*&
+O: O(>
+
+namejava.lang.String*
+OA O(D
+/a
+_
+O: O(D
+%9java.lang.String"__id*5
+
+__unknown_file (
+
+%10java.lang.String*
+4*v
+6O3 O(7b
+`
+O3 O(7
+%9java.lang.String"__id*6
+
+__unknown_file (
+
+namejava.lang.String*
+4*›
+7O O("≈¬
+O O(0
+%8boolean".java.lang.String#endsWith(Ljava/lang/String;)Z*6
+
+__unknown_file (
+
+namejava.lang.String*!
+
+__unknown_file (
+/2endsWith(Ljava/lang/String;)*
+5
+6*Â
+8N2 N(8Õ
+ 
+N2 N(8?
+%79org.apache.commons.compress.archivers.ArchiveOutputStream"__id*w
+
+__unknown_file ([*YM
+Korg.apache.commons.compress.archivers.examples.Archiver$ArchiverFileVisitor"
+target*
+6
+7*ô
+9J J(‹
+Ÿ
+J J((
+%0java.nio.file.Path"Fjava.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;*1
+
+__unknown_file ("
+java.util.Objects*8
+
+__unknown_file (
+
+pathjava.nio.file.Pathè
+å
+K K()1
+%1+java.nio.file.attribute.BasicFileAttributes"Fjava.util.Objects#requireNonNull(Ljava/lang/Object;)Ljava/lang/Object;*1
+
+__unknown_file ("
+java.util.Objects*R
+
+__unknown_file (6
+4
+attrs+java.nio.file.attribute.BasicFileAttributes©
+¶
+L  L()
+%2java.nio.file.Path"__id*z
+
+__unknown_file (^*\M
+Korg.apache.commons.compress.archivers.examples.Archiver$ArchiverFileVisitor"
+	directoryÑÅ
+L  L(:
+%3java.nio.file.Path"Gjava.nio.file.Path#relativize(Ljava/nio/file/Path;)Ljava/nio/file/Path;*6
+
+__unknown_file (
+
+%2java.nio.file.Path*8
+
+__unknown_file (
+
+pathjava.nio.file.Path2 relativize(Ljava/nio/file/Path;)öó
+L  L(E
+%4java.lang.String"/java.nio.file.Path#toString()Ljava/lang/String;*6
+
+__unknown_file (
+
+%3java.nio.file.Path2
+toString()ﬂ‹
+L  L(X
+%5java.lang.String".java.lang.String#replace(CC)Ljava/lang/String;*4
+
+__unknown_file (
+
+%4java.lang.String*"
+
+__unknown_file (
+\\*!
+
+__unknown_file (
+/2replace(CC)b
+`
+L L(Y
+namejava.lang.String"__id*4
+
+__unknown_file (
+
+%5java.lang.String{y
+M M(
+%6boolean"java.lang.String#isEmpty()Z*6
+
+__unknown_file (
+
+namejava.lang.String2	isEmpty()*
+8
+1*ü
+1W W("\
+Z
+W W(+$
+%19java.nio.file.FileVisitResult"__id*"
+
+__unknown_file (
+"""2
+W W(,&
+$
+%19java.nio.file.FileVisitResult:&
+H( H(8
+pathjava.nio.file.Path:@
+H9 H(Y4
+attrs+java.nio.file.attribute.BasicFileAttributes: 
+
+__unknown_file (
+""BOM
+Korg.apache.commons.compress.archivers.examples.Archiver$ArchiverFileVisitor

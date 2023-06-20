@@ -1,0 +1,72 @@
+
+U__sonar_lambda_10$org.apache.commons.compress.archivers.zip.ParallelScatterZipCreatorÅ
+uC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ParallelScatterZipCreator.javaŸ ›(	"startingBlock*”
+startingBlock
+Ÿ ›(	ô
+ñ
+
+__unknown_file (j
+zipArchiveEntryRequestSupplierHorg.apache.commons.compress.archivers.zip.ZipArchiveEntryRequestSupplier"__id*á
+
+__unknown_file (k*iE
+Corg.apache.commons.compress.archivers.zip.ParallelScatterZipCreator" 
+zipArchiveEntryRequestSupplierî
+ë
+
+__unknown_file (e
+ParallelScatterZipCreator.thisCorg.apache.commons.compress.archivers.zip.ParallelScatterZipCreator"__id*á
+
+__unknown_file (k*iE
+Corg.apache.commons.compress.archivers.zip.ParallelScatterZipCreator" 
+ParallelScatterZipCreator.this*
+1*¿
+1
+⁄9 ⁄(IŒ
+À
+
+⁄9 ⁄(I
+%1java.lang.ThreadLocal"__id*ô
+
+__unknown_file (}*{
+e
+ParallelScatterZipCreator.thisCorg.apache.commons.compress.archivers.zip.ParallelScatterZipCreator"
+tlScatterStreams»≈
+
+⁄9 ⁄(OF
+%2@org.apache.commons.compress.archivers.zip.ScatterZipOutputStream"-java.lang.ThreadLocal#get()Ljava/lang/Object;*9
+
+__unknown_file (
+
+%1java.lang.ThreadLocal2get()Œ
+À
+
+⁄ ⁄(PQ
+scatterStream@org.apache.commons.compress.archivers.zip.ScatterZipOutputStream"__id*d
+
+__unknown_file (H
+F
+%2@org.apache.commons.compress.archivers.zip.ScatterZipOutputStream¸˘
+
+€* €(NF
+%3@org.apache.commons.compress.archivers.zip.ZipArchiveEntryRequest"êorg.apache.commons.compress.archivers.zip.ZipArchiveEntryRequestSupplier#get()Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntryRequest;*à
+
+__unknown_file (l
+j
+zipArchiveEntryRequestSupplierHorg.apache.commons.compress.archivers.zip.ZipArchiveEntryRequestSupplier2get()ﬂ‹
+
+€ €(O
+
+%4void"ïorg.apache.commons.compress.archivers.zip.ScatterZipOutputStream#addArchiveEntry(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntryRequest;)V*o
+
+__unknown_file (S
+Q
+scatterStream@org.apache.commons.compress.archivers.zip.ScatterZipOutputStream*d
+
+__unknown_file (H
+F
+%3@org.apache.commons.compress.archivers.zip.ZipArchiveEntryRequest2SaddArchiveEntry(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntryRequest;)"a
+
+‹ ‹(!S
+Q
+scatterStream@org.apache.commons.compress.archivers.zip.ScatterZipOutputStreamB!
+java.util.concurrent.Callable

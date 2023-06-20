@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.ar.ArArchiveInputStream#getExtendedName(I)Ljava/lang/String;
+org.apache.commons.compress.utils.ArchiveUtils#toAsciiString([BII)Ljava/lang/String;
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V

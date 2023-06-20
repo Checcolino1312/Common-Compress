@@ -1,0 +1,52 @@
+
+çorg.apache.commons.compress.archivers.zip.ZipArchiveEntry$ExtraFieldParsingMode#fillAndMakeUnrecognizedOnError(Lorg/apache/commons/compress/archivers/zip/ZipExtraField;[BIIZ)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;w
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java¥% ¥(C"11*_
+10
+¨ ¨(T"M
+
+¨ ¨(T?
+=
+%07org.apache.commons.compress.archivers.zip.ZipExtraField*€
+11
+¨ ¨(&ç
+ä
+
+¨ ¨(S=
+%07org.apache.commons.compress.archivers.zip.ZipExtraField"Áorg.apache.commons.compress.archivers.zip.ExtraFieldUtils#fillExtraField(Lorg/apache/commons/compress/archivers/zip/ZipExtraField;[BIIZ)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;*Y
+
+__unknown_file (=";
+9org.apache.commons.compress.archivers.zip.ExtraFieldUtils*^
+
+__unknown_file (B
+@
+field7org.apache.commons.compress.archivers.zip.ZipExtraField*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+10:N
+
+¥D ¥(^@
+field7org.apache.commons.compress.archivers.zip.ZipExtraField:
+
+¥_ ¥(q
+databyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BS"Q
+Oorg.apache.commons.compress.archivers.zip.ZipArchiveEntry$ExtraFieldParsingMode

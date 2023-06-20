@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.examples.Archiver#create(Ljava/lang/String;Ljava/nio/channels/SeekableByteChannel;Ljava/io/File;)V
+==
+create org.apache.commons.compress.archivers.examples.Archiver#create(Ljava/lang/String;Ljava/nio/channels/SeekableByteChannel;Ljava/io/File;Lorg/apache/commons/compress/archivers/examples/CloseableConsumer;)V

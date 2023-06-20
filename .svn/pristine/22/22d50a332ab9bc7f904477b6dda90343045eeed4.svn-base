@@ -1,0 +1,22 @@
+
+Aorg.apache.commons.compress.archivers.zip.AsiExtraField#isLink()Zu
+iC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/AsiExtraField.javañ ñ("1*‘
+1
+ò ò(ìé
+
+ò ò(
+%0java.lang.String"Yorg.apache.commons.compress.archivers.zip.AsiExtraField#getLinkedFile()Ljava/lang/String;*W
+
+__unknown_file (;9
+7org.apache.commons.compress.archivers.zip.AsiExtraField2getLinkedFile(){y
+
+ò ò()
+%1boolean"java.lang.String#isEmpty()Z*4
+
+__unknown_file (
+
+%0java.lang.String2	isEmpty()"
+
+ò ò(*
+""B;9
+7org.apache.commons.compress.archivers.zip.AsiExtraFieldHP

@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.pack200.Codec#decodeInts(ILjava/io/InputStream;I)[I
+==
+decode org.apache.commons.compress.harmony.pack200.Codec#decode(Ljava/io/InputStream;J)I

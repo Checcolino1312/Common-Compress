@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.tar.TarUtils#parseSparse([BI)Lorg/apache/commons/compress/archivers/tar/TarArchiveStructSparse;
+org.apache.commons.compress.archivers.tar.TarArchiveStructSparse#instance-init#
+org.apache.commons.compress.archivers.tar.TarUtils#parseOctalOrBinary([BII)J
+org.apache.commons.compress.archivers.tar.TarArchiveStructSparse#<init>(JJ)V

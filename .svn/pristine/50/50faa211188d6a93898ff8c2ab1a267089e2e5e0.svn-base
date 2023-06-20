@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#<init>(Ljava/io/InputStream;)V
+==
+FramedLZ4CompressorInputStream org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#<init>(Ljava/io/InputStream;Z)V

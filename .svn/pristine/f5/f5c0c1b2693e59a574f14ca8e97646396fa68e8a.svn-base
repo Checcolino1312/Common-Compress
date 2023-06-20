@@ -1,0 +1,40 @@
+
+Norg.apache.commons.compress.archivers.zip.ZipShort#equals(Ljava/lang/Object;)Zn
+dC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipShort.javaz z("startingBlock*!
+2| |("
+| |(
+""*ƒ
+startingBlockz z()ˆ
+…
+y y(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+z' z((
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%1*
+2
+1*½
+1~ ~(™–
+~ ~(1	
+%0int">org.apache.commons.compress.archivers.zip.ZipShort#getValue()I*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getValue()"
+~ ~(2
+"":!
+z z((
+ojava.lang.ObjectB64
+2org.apache.commons.compress.archivers.zip.ZipShortHP

@@ -1,0 +1,8 @@
+org.apache.commons.compress.utils.FixedLengthBlockOutputStream#write([BII)V
+java.nio.channels.ClosedChannelException#instance-init#
+java.nio.channels.ClosedChannelException#<init>()V
+java.nio.Buffer#remaining()I
+org.apache.commons.compress.utils.FixedLengthBlockOutputStream#maybeFlush()V
+java.lang.Math#min(II)I
+==
+isOpen org.apache.commons.compress.utils.FixedLengthBlockOutputStream#isOpen()Z

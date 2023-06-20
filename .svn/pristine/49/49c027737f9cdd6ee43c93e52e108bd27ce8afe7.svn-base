@@ -1,0 +1,4 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#endCompression()V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#bsFinishedWithStream()V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#bsPutInt(I)V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#bsPutUByte(I)V

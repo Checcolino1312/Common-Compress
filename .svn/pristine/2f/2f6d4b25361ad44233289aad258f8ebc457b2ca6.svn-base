@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#addInstantPaxHeader(Ljava/util/Map;Ljava/lang/String;JI)V
+java.math.BigDecimal#valueOf(J)Ljava/math/BigDecimal;

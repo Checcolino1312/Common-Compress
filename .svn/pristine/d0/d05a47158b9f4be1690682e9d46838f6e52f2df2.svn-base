@@ -1,0 +1,5 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm#toString()Ljava/lang/String;
+java.lang.Object#getClass()Ljava/lang/Class;
+java.lang.Class#getName()Ljava/lang/String;
+==
+getName org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm#getName()Ljava/lang/String;

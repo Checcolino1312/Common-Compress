@@ -1,0 +1,6 @@
+org.apache.commons.compress.harmony.pack200.IcBands#addInnerClass(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;I)V
+org.apache.commons.compress.harmony.pack200.IcBands#namesArePredictable(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Z
+org.apache.commons.compress.harmony.pack200.IcBands$IcTuple#instance-init#
+org.apache.commons.compress.harmony.pack200.IcBands#addToMap(Ljava/lang/String;Lorg/apache/commons/compress/harmony/pack200/IcBands$IcTuple;)V
+org.apache.commons.compress.harmony.pack200.IcBands#getOuter(Ljava/lang/String;)Ljava/lang/String;
+org.apache.commons.compress.harmony.pack200.IcBands$IcTuple#<init>(Lorg/apache/commons/compress/harmony/pack200/IcBands;Lorg/apache/commons/compress/harmony/pack200/CPClass;ILorg/apache/commons/compress/harmony/pack200/CPClass;Lorg/apache/commons/compress/harmony/pack200/CPUTF8;)V

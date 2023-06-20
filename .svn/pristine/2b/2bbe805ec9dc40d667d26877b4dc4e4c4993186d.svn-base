@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.BcBands#visitMethodInsn(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+org.apache.commons.compress.harmony.pack200.BcBands#handleInterfaceMethodInvocation(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+org.apache.commons.compress.harmony.pack200.BcBands#handleMethodInvocation(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+org.apache.commons.compress.harmony.pack200.BcBands#updateRenumbering()V

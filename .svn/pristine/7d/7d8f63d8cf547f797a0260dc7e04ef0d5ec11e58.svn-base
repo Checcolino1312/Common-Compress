@@ -1,0 +1,158 @@
+
+Qorg.apache.commons.compress.archivers.zip.X000A_NTFS#toString()Ljava/lang/String;r
+fC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/X000A_NTFS.javaÔ Ô("1*¯
+1
+Õ" Õ(5FD
+
+Õ& Õ(3
+%0java.lang.StringBuilder"java.lang.StringBuildert
+r
+
+Õ" Õ(5
+%1"!java.lang.StringBuilder#<init>()V*;
+
+__unknown_file (
+
+%0java.lang.StringBuilderq
+o
+
+Õ Õ(6
+bufjava.lang.StringBuilder"__id*;
+
+__unknown_file (
+
+%0java.lang.StringBuilderŽ‹
+
+Ö Ö(-
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*<
+
+__unknown_file ( 
+
+bufjava.lang.StringBuilder*7
+
+__unknown_file (
+0x000A Zip Extra Field:2append(Ljava/lang/String;)ÿü
+
+Ö ×( 
+%3java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*;
+
+__unknown_file (
+
+%2java.lang.StringBuilder*)
+
+__unknown_file (
+	 Modify:[2append(Ljava/lang/String;)Ž‹
+
+×( ×(;&
+%4 java.nio.file.attribute.FileTime"jorg.apache.commons.compress.archivers.zip.X000A_NTFS#getModifyFileTime()Ljava/nio/file/attribute/FileTime;*T
+
+__unknown_file (86
+4org.apache.commons.compress.archivers.zip.X000A_NTFS2getModifyFileTime()š—
+
+Ö ×(<
+%5java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*;
+
+__unknown_file (
+
+%3java.lang.StringBuilder*D
+
+__unknown_file ((
+&
+%4 java.nio.file.attribute.FileTime2append(Ljava/lang/Object;)øõ
+
+Ö ×(I
+%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*;
+
+__unknown_file (
+
+%5java.lang.StringBuilder*"
+
+__unknown_file (
+] 2append(Ljava/lang/String;)ÿü
+
+Ö Ø( 
+%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*;
+
+__unknown_file (
+
+%6java.lang.StringBuilder*)
+
+__unknown_file (
+	 Access:[2append(Ljava/lang/String;)Ž‹
+
+Ø( Ø(;&
+%8 java.nio.file.attribute.FileTime"jorg.apache.commons.compress.archivers.zip.X000A_NTFS#getAccessFileTime()Ljava/nio/file/attribute/FileTime;*T
+
+__unknown_file (86
+4org.apache.commons.compress.archivers.zip.X000A_NTFS2getAccessFileTime()š—
+
+Ö Ø(<
+%9java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*;
+
+__unknown_file (
+
+%7java.lang.StringBuilder*D
+
+__unknown_file ((
+&
+%8 java.nio.file.attribute.FileTime2append(Ljava/lang/Object;)ùö
+
+Ö Ø(I
+%10java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*;
+
+__unknown_file (
+
+%9java.lang.StringBuilder*"
+
+__unknown_file (
+] 2append(Ljava/lang/String;)þ
+
+Ö Ù( 
+%11java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*<
+
+__unknown_file ( 
+
+%10java.lang.StringBuilder*)
+
+__unknown_file (
+	 Create:[2append(Ljava/lang/String;)Œ
+
+Ù( Ù(;'
+%12 java.nio.file.attribute.FileTime"jorg.apache.commons.compress.archivers.zip.X000A_NTFS#getCreateFileTime()Ljava/nio/file/attribute/FileTime;*T
+
+__unknown_file (86
+4org.apache.commons.compress.archivers.zip.X000A_NTFS2getCreateFileTime()š
+
+Ö Ù(<
+%13java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*<
+
+__unknown_file ( 
+
+%11java.lang.StringBuilder*E
+
+__unknown_file ()
+'
+%12 java.nio.file.attribute.FileTime2append(Ljava/lang/Object;)ú÷
+
+Ö Ù(I
+%14java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*<
+
+__unknown_file ( 
+
+%13java.lang.StringBuilder*"
+
+__unknown_file (
+] 2append(Ljava/lang/String;)¨¥
+
+Ú Ú(
+%15java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*<
+
+__unknown_file ( 
+
+bufjava.lang.StringBuilder2
+toString()"'
+
+Ú Ú(
+
+%15java.lang.StringB86
+4org.apache.commons.compress.archivers.zip.X000A_NTFSH

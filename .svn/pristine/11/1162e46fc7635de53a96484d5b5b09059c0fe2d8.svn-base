@@ -1,0 +1,43 @@
+
+n
+java:S1192÷"KDefine a constant instead of duplicating this literal "POPULATION" 4 times.(Ï½íãùÿÿÿÿ8ì–Š’ˆ1
+}
+java:S1450Û"`Remove the "canonicalSmallest" field and declare it as a local variable in the relevant methods.(ó98ğØ«‘ˆ1
+W
+java:S5993ã"9Change the visibility of this constructor to "protected".(µë¸ó8Ú“‘’‡1
+P
+java:S1135"2Complete the task associated to this TODO comment.(òºÏ8½ùù‘ˆ1
+V	java:S106Ï"9Replace this use of System.out or System.err by a logger.(×•œ²8‡’ˆ1
+p
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(ê‡„¹8ÀñÕ‘ˆ1
+P
+java:S1135‡"2Complete the task associated to this TODO comment.(ÆÑûÚ8ÁñÕ‘ˆ1
+Y	java:S125"<This block of commented-out lines of code should be removed.(±¨£Œ8ÁñÕ‘ˆ1
+K	java:S108¬")Either remove or fill this block of code.(È¼Íüÿÿÿÿ8ÂñÕ‘ˆ1
+P
+java:S1135Ø"2Complete the task associated to this TODO comment.(ÆÑûÚ8ÅñÕ‘ˆ1
+^	java:S125ô"<This block of commented-out lines of code should be removed.(±ûĞÿÿÿÿÿ8ÆñÕ‘ˆ1
+U
+java:S1135ı"2Complete the task associated to this TODO comment.(™¶°»ÿÿÿÿÿ8ÆñÕ‘ˆ1
+P
+java:S1135•"2Complete the task associated to this TODO comment.(ÆÑûÚ8ÇñÕ‘ˆ1
+P
+java:S1135¡"2Complete the task associated to this TODO comment.(ÆÑûÚ8ÇñÕ‘ˆ1
+p
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(çÊç…8ÈñÕ‘ˆ1
+I
+java:S1172§"+Remove this unused method parameter "name".(çÊç…8ÉñÕ‘ˆ1
+O
+java:S1135®"2Complete the task associated to this TODO comment.(¶ÔäO8ÊñÕ‘ˆ1
+D	java:S131í""Add a default case to this switch.(¦ëÀºûÿÿÿÿ8ÎñÕ‘ˆ1
+U
+java:S1135ì"2Complete the task associated to this TODO comment.(Öª°Ãıÿÿÿÿ8ÑñÕ‘ˆ1
+P
+java:S1135î"2Complete the task associated to this TODO comment.(ÆÑûÚ8ÑñÕ‘ˆ1
+Y	java:S125ú"<This block of commented-out lines of code should be removed.(Ôİ´Ø8ÒñÕ‘ˆ1
+u
+java:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÜçÄúúÿÿÿÿ8ÒñÕ‘ˆ1
+N
+java:S1172ı"+Remove this unused method parameter "name".(ÜçÄúúÿÿÿÿ8ÓñÕ‘ˆ1
+U
+java:S1135ˆ"2Complete the task associated to this TODO comment.(È•æ†ÿÿÿÿÿ8ÓñÕ‘ˆ1

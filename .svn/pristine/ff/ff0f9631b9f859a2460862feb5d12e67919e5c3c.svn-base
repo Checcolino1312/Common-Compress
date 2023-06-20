@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.pack200.Pack200CompressorInputStream#<init>(Ljava/io/InputStream;Lorg/apache/commons/compress/compressors/pack200/Pack200Strategy;Ljava/util/Map;)V
+org.apache.commons.compress.compressors.pack200.Pack200CompressorInputStream#<init>(Ljava/io/InputStream;Ljava/io/File;Lorg/apache/commons/compress/compressors/pack200/Pack200Strategy;Ljava/util/Map;)V

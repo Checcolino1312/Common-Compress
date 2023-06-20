@@ -1,0 +1,12 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#initializeArchive(Lorg/apache/commons/compress/archivers/sevenz/StartHeader;[BZ)Lorg/apache/commons/compress/archivers/sevenz/Archive;
+java.nio.ByteBuffer#order(Ljava/nio/ByteOrder;)Ljava/nio/ByteBuffer;
+org.apache.commons.compress.archivers.sevenz.Archive#<init>()V
+java.nio.ByteBuffer#allocate(I)Ljava/nio/ByteBuffer;
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readHeader(Ljava/nio/ByteBuffer;Lorg/apache/commons/compress/archivers/sevenz/Archive;)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#assertFitsIntoNonNegativeInt(Ljava/lang/String;J)I
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.sevenz.Archive#instance-init#
+org.apache.commons.compress.archivers.sevenz.SevenZFile#getUnsignedByte(Ljava/nio/ByteBuffer;)I
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readFully(Ljava/nio/ByteBuffer;)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readEncodedHeader(Ljava/nio/ByteBuffer;Lorg/apache/commons/compress/archivers/sevenz/Archive;[B)Ljava/nio/ByteBuffer;

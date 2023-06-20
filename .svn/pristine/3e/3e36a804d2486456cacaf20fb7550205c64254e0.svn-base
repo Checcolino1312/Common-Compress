@@ -1,0 +1,6 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#setupRandPartA()I
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#setupBlock()I
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#checkBounds(IILjava/lang/String;)V
+org.apache.commons.compress.compressors.bzip2.Rand#rNums(I)I
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#endBlock()V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#initBlock()V

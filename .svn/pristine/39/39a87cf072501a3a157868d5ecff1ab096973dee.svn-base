@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#flushBackReference(I)V
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor$BackReference#<init>(II)V
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor$BackReference#instance-init#
+==
+accept org.apache.commons.compress.compressors.lz77support.LZ77Compressor$Callback#accept(Lorg/apache/commons/compress/compressors/lz77support/LZ77Compressor$Block;)V

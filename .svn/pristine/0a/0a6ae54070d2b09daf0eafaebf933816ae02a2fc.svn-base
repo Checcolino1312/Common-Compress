@@ -1,0 +1,99 @@
+
+K
+java:S3740“"/Provide the parametrized type for this generic.(‡ñ¶®úÿÿÿÿ
+K
+java:S3740“"/Provide the parametrized type for this generic.(‡ñ¶®úÿÿÿÿ
+K
+java:S3740”"/Provide the parametrized type for this generic.(äÏªÛıÿÿÿÿ
+K
+java:S3740”"/Provide the parametrized type for this generic.(äÏªÛıÿÿÿÿ
+F
+java:S3740•"/Provide the parametrized type for this generic.(š¬¼È
+F
+java:S3740•"/Provide the parametrized type for this generic.(š¬¼È
+K
+java:S3740š"/Provide the parametrized type for this generic.(İî¹©úÿÿÿÿ
+K
+java:S3740š"/Provide the parametrized type for this generic.(İî¹©úÿÿÿÿ
+K
+java:S3740"/Provide the parametrized type for this generic.(ï¾õŸıÿÿÿÿ
+K
+java:S3740"/Provide the parametrized type for this generic.(ï¾õŸıÿÿÿÿ
+K
+java:S3740"/Provide the parametrized type for this generic.(Í›ôûûÿÿÿÿ
+K
+java:S3740"/Provide the parametrized type for this generic.(Í›ôûûÿÿÿÿ
+F
+java:S3740£"/Provide the parametrized type for this generic.(¨ğ›Ì
+F
+java:S3740£"/Provide the parametrized type for this generic.(¨ğ›Ì
+K
+java:S3740¤"/Provide the parametrized type for this generic.(â§½¦øÿÿÿÿ
+K
+java:S3740¤"/Provide the parametrized type for this generic.(â§½¦øÿÿÿÿ
+s
+java:S1192ñ"\Define a constant instead of duplicating this literal "No suitable definition for " 4 times.(ïø®·
+f
+java:S1192Ù"JDefine a constant instead of duplicating this literal "Synthetic" 3 times.(é•¼¸ûÿÿÿÿ
+d
+java:S1192’"HDefine a constant instead of duplicating this literal "Wrote " 55 times.(“‹ªÏıÿÿÿÿ
+j
+java:S3824Õ"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(ˆÚ²æûÿÿÿÿ
+o	java:S116o"URename this field "class_this" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò©í»üÿÿÿÿ
+k	java:S116p"VRename this field "class_super" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×›Úå
+t	java:S116r"ZRename this field "class_interface" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äğ´Şúÿÿÿÿ
+u	java:S116t"`Rename this field "class_interface_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—”µ
+s	java:S116u"YRename this field "major_versions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«å½¤ùÿÿÿÿ
+j	java:S116v"VRename this field "class_flags" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï£¥u
+p	java:S116w"[Rename this field "class_attr_calls" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÍ•²
+w	java:S116€"\Rename this field "class_field_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÈÍ„øÿÿÿÿ
+l	java:S116"VRename this field "field_descr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æˆì
+l	java:S116‚"VRename this field "field_flags" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¦¼½
+q	java:S116ƒ"[Rename this field "field_attr_calls" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ç•
+x	java:S116‡"]Rename this field "class_method_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ú²¸ùÿÿÿÿ
+r	java:S116ˆ"WRename this field "method_descr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ŒÈ±şÿÿÿÿ
+m	java:S116‰"WRename this field "method_flags" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¿å©
+r	java:S116Š"\Rename this field "method_attr_calls" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Ì¯€
+p	java:S116˜"ZRename this field "code_attr_calls" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öı‘í
+u	java:S116©"ZRename this field "class_RVA_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úŸİ¹ÿÿÿÿÿ
+p	java:S116ª"ZRename this field "class_RIA_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç‘¢²
+u	java:S116«"ZRename this field "field_RVA_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßŒÇşÿÿÿÿ
+p	java:S116¬"ZRename this field "field_RIA_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó•Üú
+q	java:S116­"[Rename this field "method_RVA_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÕà˜
+v	java:S116®"[Rename this field "method_RIA_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÀñöüÿÿÿÿ
+q	java:S116¯"\Rename this field "method_RVPA_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ñ­
+w	java:S116±"\Rename this field "method_RIPA_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¡¹üşÿÿÿÿ
+u	java:S116²"ZRename this field "method_AD_bands" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£åáÓıÿÿÿÿ
+z	java:S116Ê"_Rename this field "class_InnerClasses_N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÔ‘§úÿÿÿÿ
+{	java:S116Ë"`Rename this field "class_InnerClasses_RC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ìÒ¬üÿÿÿÿ
+z	java:S116Ì"_Rename this field "class_InnerClasses_F" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıŞëØşÿÿÿÿ
+X	java:S107ü"=Method has 10 parameters, which is greater than 7 authorized.(×ÔŒ±úÿÿÿÿ
+X	java:S107›"=Method has 10 parameters, which is greater than 7 authorized.(åÇ™úÿÿÿÿ
+V	java:S107<"<Method has 9 parameters, which is greater than 7 authorized.(¶ÔÀ÷úÿÿÿÿ
+W	java:S125ç"<This block of commented-out lines of code should be removed.(„Å‘¿ùÿÿÿÿ
+n
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(×ÔŒ±úÿÿÿÿ
+=	java:S131ÿ""Add a default case to this switch.(•˜ÂÜûÿÿÿÿ
+R	java:S125Ü"<This block of commented-out lines of code should be removed.(ó¥¥Ğ
+H
+java:S1135ç"2Complete the task associated to this TODO comment.(¡¾£Q
+D
+java:S1940Ñ"(Use the opposite operator ("<") instead.(ÙÍ‚ïûÿÿÿÿ
+Z
+java:S1155¡">Use isEmpty() to check whether the collection is empty or not.(ŒÎø¨ùÿÿÿÿ
+i
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 84 to the 15 allowed.(ÆâÛ©
+G
+java:S5413³")Verify that "remove()" is used correctly.(Ûšù˜8¬ßøŞˆ1
+L
+java:S5413À")Verify that "remove()" is used correctly.(Ğ£Úûÿÿÿÿÿ8­ßøŞˆ1
+]
+java:S1117¼":Rename "index" which hides the field declared at line 200.(¥ÀÂŞùÿÿÿÿ8­ßøŞˆ1
+G
+java:S5413Ï")Verify that "remove()" is used correctly.(ô½º±8®ßøŞˆ1
+G
+java:S5413á")Verify that "remove()" is used correctly.(¾ƒ×ß8®ßøŞˆ1
+L
+java:S5413ê")Verify that "remove()" is used correctly.(Â–©öúÿÿÿÿ8¯ßøŞˆ1
+P
+java:S1135—	"2Complete the task associated to this TODO comment.(‹°…Ñ8ôù÷Şˆ1

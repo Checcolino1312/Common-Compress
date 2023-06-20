@@ -1,0 +1,60 @@
+
+™org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestamp#fileTimeToZipLong(Ljava/nio/file/attribute/FileTime;)Lorg/apache/commons/compress/archivers/zip/ZipLong;
+sC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestamp.javaå å(,"2"3*∞
+2
+ç% ç(6ç
+ä
+
+ç7 ç(Q
+
+%3long"[org.apache.commons.compress.utils.TimeUtils#toUnixTime(Ljava/nio/file/attribute/FileTime;)J*K
+
+__unknown_file (/"-
++org.apache.commons.compress.utils.TimeUtils*F
+
+__unknown_file (*
+(
+time java.nio.file.attribute.FileTime·
+ﬁ
+
+ç% ç(R7
+%21org.apache.commons.compress.archivers.zip.ZipLong"âorg.apache.commons.compress.archivers.zip.X5455_ExtendedTimestamp#unixTimeToZipLong(J)Lorg/apache/commons/compress/archivers/zip/ZipLong;*a
+
+__unknown_file (E"C
+Aorg.apache.commons.compress.archivers.zip.X5455_ExtendedTimestamp*(
+
+__unknown_file (
+
+
+%3long•
+¢
+
+ç% ç(R7
+%01org.apache.commons.compress.archivers.zip.ZipLong"__id*U
+
+__unknown_file (9
+7
+%21org.apache.commons.compress.archivers.zip.ZipLong*
+1*ì
+3
+ç ç("}
+{
+
+ç ç("7
+%01org.apache.commons.compress.archivers.zip.ZipLong"__id*.
+
+__unknown_file (
+
+%1
+<nulltype>*
+1*X
+1
+ç ç(S"G
+
+ç ç(S9
+7
+%01org.apache.commons.compress.archivers.zip.ZipLong:6
+
+å- å(@(
+time java.nio.file.attribute.FileTimeBE"C
+Aorg.apache.commons.compress.archivers.zip.X5455_ExtendedTimestamp

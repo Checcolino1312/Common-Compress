@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#writeZip64CentralDirectory()V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#shouldUseZip64EOCD()Z
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#writeOut([B)V
+org.apache.commons.compress.archivers.zip.ZipShort#getBytes(I)[B
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#getBytes(J)[B
+org.apache.commons.compress.archivers.zip.ZipLong#getBytes(J)[B

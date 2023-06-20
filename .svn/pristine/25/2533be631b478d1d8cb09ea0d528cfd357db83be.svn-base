@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.jar.JarArchiveInputStream#getNextEntry()Lorg/apache/commons/compress/archivers/ArchiveEntry;
+==
+getNextJarEntry org.apache.commons.compress.archivers.jar.JarArchiveInputStream#getNextJarEntry()Lorg/apache/commons/compress/archivers/jar/JarArchiveEntry;

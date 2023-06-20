@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.pack200.IcBands#namesArePredictable(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Z
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.lang.String#indexOf(I)I

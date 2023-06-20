@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#setName(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#normalizeFileName(Ljava/lang/String;Z)Ljava/lang/String;

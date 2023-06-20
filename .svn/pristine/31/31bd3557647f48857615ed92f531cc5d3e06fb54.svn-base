@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.sevenz.LZMA2Decoder#getDictSize(Ljava/lang/Object;)I
+org.apache.commons.compress.archivers.sevenz.LZMA2Decoder#numberOptionOrDefault(Ljava/lang/Object;)I

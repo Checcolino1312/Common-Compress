@@ -1,0 +1,13 @@
+org.apache.commons.compress.archivers.zip.AsiExtraField#getLocalFileDataData()[B
+java.nio.charset.Charset#defaultCharset()Ljava/nio/charset/Charset;
+java.lang.String#getBytes(Ljava/nio/charset/Charset;)[B
+org.apache.commons.compress.archivers.zip.ZipShort#getValue()I
+org.apache.commons.compress.archivers.zip.ZipShort#getBytes(I)[B
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+org.apache.commons.compress.archivers.zip.ZipLong#getBytes(J)[B
+==
+getLocalFileDataLength org.apache.commons.compress.archivers.zip.AsiExtraField#getLocalFileDataLength()Lorg/apache/commons/compress/archivers/zip/ZipShort;
+getUserId org.apache.commons.compress.archivers.zip.AsiExtraField#getUserId()I
+getMode org.apache.commons.compress.archivers.zip.AsiExtraField#getMode()I
+getGroupId org.apache.commons.compress.archivers.zip.AsiExtraField#getGroupId()I
+getLinkedFile org.apache.commons.compress.archivers.zip.AsiExtraField#getLinkedFile()Ljava/lang/String;

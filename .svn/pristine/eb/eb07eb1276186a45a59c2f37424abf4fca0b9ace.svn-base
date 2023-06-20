@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#getGeneralPurposeBits(ZZ)Lorg/apache/commons/compress/archivers/zip/GeneralPurposeBit;
+org.apache.commons.compress.archivers.zip.GeneralPurposeBit#instance-init#
+org.apache.commons.compress.archivers.zip.GeneralPurposeBit#useUTF8ForNames(Z)V
+org.apache.commons.compress.archivers.zip.GeneralPurposeBit#<init>()V
+org.apache.commons.compress.archivers.zip.GeneralPurposeBit#useDataDescriptor(Z)V

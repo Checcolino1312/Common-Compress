@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.CompressorStreamFactory#getCompressorInputStreamProviders()Ljava/util/SortedMap;
+org.apache.commons.compress.compressors.CompressorStreamFactory#findAvailableCompressorInputStreamProviders()Ljava/util/SortedMap;
+java.util.Collections#unmodifiableSortedMap(Ljava/util/SortedMap;)Ljava/util/SortedMap;

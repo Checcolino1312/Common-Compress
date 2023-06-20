@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveUtil#convert16([BI)I
+org.apache.commons.compress.utils.ByteUtils#fromLittleEndian([BII)J

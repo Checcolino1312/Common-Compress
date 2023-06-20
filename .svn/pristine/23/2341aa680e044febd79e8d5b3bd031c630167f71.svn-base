@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.pack200.PackingOptions#getUnknownMethodAttributeAction(Ljava/lang/String;)Ljava/lang/String;
+org.apache.commons.compress.harmony.pack200.PackingOptions#getOrDefault(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;

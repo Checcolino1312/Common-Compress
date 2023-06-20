@@ -1,0 +1,1 @@
+org.apache.commons.compress.compressors.brotli.BrotliUtils#getCachedBrotliAvailability()Lorg/apache/commons/compress/compressors/brotli/BrotliUtils$CachedAvailability;

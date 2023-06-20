@@ -1,0 +1,50 @@
+
+¥org.apache.commons.compress.archivers.zip.X000A_NTFS#zipToFileTime(Lorg/apache/commons/compress/archivers/zip/ZipEightByteInteger;)Ljava/nio/file/attribute/FileTime;p
+fC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/X000A_NTFS.javad d()"2"3*!
+2f f("
+f f(
+""*í
+3e e(,{
+y
+e e(1C
+%0=org.apache.commons.compress.archivers.zip.ZipEightByteInteger"__id*"
+
+__unknown_file (
+""ØÕ
+e e(;
+%1boolean"Yorg.apache.commons.compress.archivers.zip.ZipEightByteInteger#equals(Ljava/lang/Object;)Z*a
+
+__unknown_file (E
+C
+%0=org.apache.commons.compress.archivers.zip.ZipEightByteInteger*`
+
+__unknown_file (D
+B
+z=org.apache.commons.compress.archivers.zip.ZipEightByteInteger2equals(Ljava/lang/Object;)*
+2
+1*´
+1h h(Ú×
+h, h(<
+
+%2long"Morg.apache.commons.compress.archivers.zip.ZipEightByteInteger#getLongValue()J*`
+
+__unknown_file (D
+B
+z=org.apache.commons.compress.archivers.zip.ZipEightByteInteger2getLongValue()‘
+Ž
+h h(=&
+%3 java.nio.file.attribute.FileTime"corg.apache.commons.compress.utils.TimeUtils#ntfsTimeToFileTime(J)Ljava/nio/file/attribute/FileTime;*K
+
+__unknown_file (/"-
++org.apache.commons.compress.utils.TimeUtils*(
+
+__unknown_file (
+
+
+%2long"4
+h h(>(
+&
+%3 java.nio.file.attribute.FileTime:N
+d* d(EB
+z=org.apache.commons.compress.archivers.zip.ZipEightByteIntegerB8"6
+4org.apache.commons.compress.archivers.zip.X000A_NTFS

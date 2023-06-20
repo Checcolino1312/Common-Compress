@@ -1,0 +1,11 @@
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#writeFileWindowsAttributes(Ljava/io/DataOutput;)V
+java.io.DataOutputStream#writeInt(I)V
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#writeUint64(Ljava/io/DataOutput;J)V
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#writeBits(Ljava/io/DataOutput;Ljava/util/BitSet;I)V
+java.io.ByteArrayOutputStream#<init>()V
+java.util.BitSet#instance-init#
+java.io.ByteArrayOutputStream#instance-init#
+java.util.BitSet#<init>(I)V
+java.io.DataOutputStream#instance-init#
+java.io.DataOutputStream#<init>(Ljava/io/OutputStream;)V
+java.lang.Integer#reverseBytes(I)I

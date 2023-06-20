@@ -1,0 +1,12 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#closeEntry()V
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#pushback([BII)V
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#drainCurrentEntryData()V
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#currentEntryHasOutstandingBytes()Z
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#readDataDescriptor()V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+java.nio.Buffer#limit()I
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#getBytesInflated()J
+java.nio.ByteBuffer#array()[B
+==
+skip org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#skip(J)J

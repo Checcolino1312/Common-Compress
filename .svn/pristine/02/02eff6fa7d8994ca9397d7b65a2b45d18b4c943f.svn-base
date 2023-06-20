@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveEntry#isSparseRecord(I)Z
+==
+getCdata org.apache.commons.compress.archivers.dump.DumpArchiveEntry$TapeSegmentHeader#getCdata(I)I

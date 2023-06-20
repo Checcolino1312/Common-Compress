@@ -1,0 +1,85 @@
+
+Uorg.apache.commons.compress.archivers.arj.ArjArchiveEntry#equals(Ljava/lang/Object;)ZÅ
+wC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/arj/ArjArchiveEntry.java= =("startingBlock*!
+2B B("
+B B(
+""*È
+3A A(#π∂
+A A(%
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.arj.ArjArchiveEntry2
+getClass()ïí
+A) A(7
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*5
+
+__unknown_file (
+
+objjava.lang.Object2
+getClass()*
+2
+1*ä
+startingBlock= =(+ä
+á
+< <(
+%5"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectW
+U
+=' =(*
+objjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%5*	
+2
+3
+5*!
+5? ?("
+? ?(
+""*ó
+1D8 D(;é
+ã
+D D(<B
+other9org.apache.commons.compress.archivers.arj.ArjArchiveEntry"__id*5
+
+__unknown_file (
+
+objjava.lang.Objectƒ
+¡
+E E(?
+%29org.apache.commons.compress.archivers.arj.LocalFileHeader"__id*n
+
+__unknown_file (R*P;
+9org.apache.commons.compress.archivers.arj.ArjArchiveEntry"
+localFileHeaderÀ
+»
+E& E(;?
+%39org.apache.commons.compress.archivers.arj.LocalFileHeader"__id*u
+
+__unknown_file (Y*W
+B
+other9org.apache.commons.compress.archivers.arj.ArjArchiveEntry"
+localFileHeaderÕ 
+E E(<
+%4boolean"Uorg.apache.commons.compress.archivers.arj.LocalFileHeader#equals(Ljava/lang/Object;)Z*]
+
+__unknown_file (A
+?
+%29org.apache.commons.compress.archivers.arj.LocalFileHeader*]
+
+__unknown_file (A
+?
+%39org.apache.commons.compress.archivers.arj.LocalFileHeader2equals(Ljava/lang/Object;)"
+E E(=
+"":#
+= =(*
+objjava.lang.ObjectB=;
+9org.apache.commons.compress.archivers.arj.ArjArchiveEntryHP

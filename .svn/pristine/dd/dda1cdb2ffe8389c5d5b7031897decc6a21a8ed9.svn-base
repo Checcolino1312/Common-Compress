@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.X000A_NTFS#getAccessFileTime()Ljava/nio/file/attribute/FileTime;
+org.apache.commons.compress.archivers.zip.X000A_NTFS#zipToFileTime(Lorg/apache/commons/compress/archivers/zip/ZipEightByteInteger;)Ljava/nio/file/attribute/FileTime;

@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.ZipSplitReadOnlySeekableByteChannel#forFiles([Ljava/io/File;)Ljava/nio/channels/SeekableByteChannel;
+java.util.ArrayList#<init>()V
+org.apache.commons.compress.archivers.zip.ZipSplitReadOnlySeekableByteChannel#forPaths([Ljava/nio/file/Path;)Ljava/nio/channels/SeekableByteChannel;
+java.util.ArrayList#instance-init#

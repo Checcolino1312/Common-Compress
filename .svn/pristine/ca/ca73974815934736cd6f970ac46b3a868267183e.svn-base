@@ -1,0 +1,23 @@
+
+Zorg.apache.commons.compress.harmony.unpack200.bytecode.CPLong#toString()Ljava/lang/String;y
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPLong.java   ("1*”
+1! !(ðí
+! !($
+%0java.lang.Object"^org.apache.commons.compress.harmony.unpack200.bytecode.CPConstant#getValue()Ljava/lang/Object;*]
+
+__unknown_file (A?
+=org.apache.commons.compress.harmony.unpack200.bytecode.CPLong2
+getValue()l
+j
+! !($
+%1java.lang.String"__concat*
+! !(
+
+Long: *$
+! !($
+
+%0java.lang.Object"$
+! !(%
+
+%1java.lang.StringBA?
+=org.apache.commons.compress.harmony.unpack200.bytecode.CPLongH

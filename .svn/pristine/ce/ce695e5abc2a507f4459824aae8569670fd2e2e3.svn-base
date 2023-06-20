@@ -1,0 +1,7 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#createCentralFileHeader(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)[B
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#hasZip64Extra(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#getName(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Ljava/nio/ByteBuffer;
+org.apache.commons.compress.archivers.zip.Zip64RequiredException#instance-init#
+org.apache.commons.compress.archivers.zip.Zip64RequiredException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#handleZip64Extra(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;JZ)V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#createCentralFileHeader(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;Ljava/nio/ByteBuffer;Lorg/apache/commons/compress/archivers/zip/ZipArchiveOutputStream$EntryMetaData;Z)[B

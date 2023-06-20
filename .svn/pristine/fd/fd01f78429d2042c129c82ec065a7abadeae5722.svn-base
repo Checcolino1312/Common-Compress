@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getCentralDirectoryExtra()[B
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getAllExtraFieldsNoCopy()[Lorg/apache/commons/compress/archivers/zip/ZipExtraField;
+org.apache.commons.compress.archivers.zip.ExtraFieldUtils#mergeCentralDirectoryData([Lorg/apache/commons/compress/archivers/zip/ZipExtraField;)[B

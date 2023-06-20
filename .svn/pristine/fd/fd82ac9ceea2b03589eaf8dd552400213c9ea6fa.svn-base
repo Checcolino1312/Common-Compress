@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.arj.ArjArchiveEntry#getLastModifiedDate()Ljava/util/Date;
+java.util.Date#<init>(J)V
+java.util.Date#instance-init#
+org.apache.commons.compress.archivers.zip.ZipUtil#dosToJavaTime(J)J
+==
+isHostOsUnix org.apache.commons.compress.archivers.arj.ArjArchiveEntry#isHostOsUnix()Z

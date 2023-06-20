@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.unpack200.Segment#unpackProcess()V
+org.apache.commons.compress.harmony.unpack200.Segment#parseSegment()V
+org.apache.commons.compress.harmony.unpack200.Segment#readSegment(Ljava/io/InputStream;)V

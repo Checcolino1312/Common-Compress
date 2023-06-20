@@ -1,0 +1,10 @@
+org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream#writeAsciiLong(JII)V
+java.lang.StringBuilder#instance-init#
+org.apache.commons.compress.utils.ArchiveUtils#toAsciiBytes(Ljava/lang/String;)[B
+java.lang.Long#toHexString(J)Ljava/lang/String;
+java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+java.lang.Long#toOctalString(J)Ljava/lang/String;
+java.lang.StringBuilder#<init>()V
+java.lang.StringBuilder#append(J)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#insert(ILjava/lang/String;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#toString()Ljava/lang/String;

@@ -1,0 +1,12 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#buildDecoderStack(Lorg/apache/commons/compress/archivers/sevenz/Folder;JILorg/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry;)Ljava/io/InputStream;
+org.apache.commons.compress.archivers.sevenz.Coders#addDecoder(Ljava/lang/String;Ljava/io/InputStream;JLorg/apache/commons/compress/archivers/sevenz/Coder;[BI)Ljava/io/InputStream;
+java.util.LinkedList#<init>()V
+org.apache.commons.compress.archivers.sevenz.SevenZMethodConfiguration#<init>(Lorg/apache/commons/compress/archivers/sevenz/SevenZMethod;Ljava/lang/Object;)V
+java.util.LinkedList#instance-init#
+org.apache.commons.compress.archivers.sevenz.SevenZMethod#byId([B)Lorg/apache/commons/compress/archivers/sevenz/SevenZMethod;
+org.apache.commons.compress.archivers.sevenz.SevenZMethodConfiguration#instance-init#
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.sevenz.Coders#findByMethod(Lorg/apache/commons/compress/archivers/sevenz/SevenZMethod;)Lorg/apache/commons/compress/archivers/sevenz/AbstractCoder;
+org.apache.commons.compress.utils.CRC32VerifyingInputStream#<init>(Ljava/io/InputStream;JJ)V
+org.apache.commons.compress.utils.CRC32VerifyingInputStream#instance-init#

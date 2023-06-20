@@ -1,0 +1,152 @@
+
+©org.apache.commons.compress.harmony.pack200.Segment#visitField(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;)Lorg/objectweb/asm/FieldVisitor;}
+qC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/pack200/Segment.javaÃ Ã(""startingBlock*‹
+startingBlock
+Ã" Õ(ç
+ä
+
+À À(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*6
+
+__unknown_file (
+
+namejava.lang.StringZ
+X
+
+ÃA Ã(E
+namejava.lang.String"__annotation*"
+
+__unknown_file (
+
+%3ç
+ä
+
+À À(
+%4"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*6
+
+__unknown_file (
+
+descjava.lang.StringZ
+X
+
+ÃT Ã(X
+descjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%4í
+è
+
+À À(
+%5"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*;
+
+__unknown_file (
+
+	signaturejava.lang.String_
+]
+
+Ãg Ã(p
+	signaturejava.lang.String"__annotation*"
+
+__unknown_file (
+
+%5é
+ã
+
+À À(
+%6"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*7
+
+__unknown_file (
+
+valuejava.lang.Object[
+Y
+
+Õ Õ(
+valuejava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%6*
+1*ﬁ
+1
+Œ Œ(∏
+µ
+
+Œ Œ(<
+%06org.apache.commons.compress.harmony.pack200.ClassBands"__id*c
+
+__unknown_file (G*E5
+3org.apache.commons.compress.harmony.pack200.Segment"
+
+classBands‰·
+
+Œ Œ(@
+
+%1void"ãorg.apache.commons.compress.harmony.pack200.ClassBands#addField(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;)V*Z
+
+__unknown_file (>
+<
+%06org.apache.commons.compress.harmony.pack200.ClassBands*"
+
+__unknown_file (
+""*6
+
+__unknown_file (
+
+namejava.lang.String*6
+
+__unknown_file (
+
+descjava.lang.String*;
+
+__unknown_file (
+
+	signaturejava.lang.String*7
+
+__unknown_file (
+
+valuejava.lang.Object2SaddField(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;)À
+»
+
+œ œ(M
+%2Gorg.apache.commons.compress.harmony.pack200.Segment$SegmentFieldVisitor"__id*e
+
+__unknown_file (I*G5
+3org.apache.commons.compress.harmony.pack200.Segment"
+fieldVisitor"]
+
+œ œ(O
+M
+%2Gorg.apache.commons.compress.harmony.pack200.Segment$SegmentFieldVisitor: 
+
+__unknown_file (
+"":&
+
+Ã4 Ã(F
+namejava.lang.String:&
+
+ÃG Ã(Y
+descjava.lang.String:+
+
+ÃZ Ã(q
+	signaturejava.lang.String:'
+
+Õ Õ(
+valuejava.lang.ObjectB75
+3org.apache.commons.compress.harmony.pack200.SegmentH

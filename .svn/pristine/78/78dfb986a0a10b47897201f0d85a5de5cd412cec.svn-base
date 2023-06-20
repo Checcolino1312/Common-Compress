@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.ArchiveStreamFactory#toKey(Ljava/lang/String;)Ljava/lang/String;
+java.lang.String#toUpperCase(Ljava/util/Locale;)Ljava/lang/String;

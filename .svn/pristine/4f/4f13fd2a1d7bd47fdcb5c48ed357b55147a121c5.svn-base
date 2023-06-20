@@ -1,0 +1,26 @@
+
+„org.apache.commons.compress.archivers.zip.ZipUtil#supportsEncryptionOf(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z{
+oC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipUtil.javañ ñ(/"1*ç
+1
+ò ò(ÜÙ
+
+ò ò(,A
+%0;org.apache.commons.compress.archivers.zip.GeneralPurposeBit"org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getGeneralPurposeBit()Lorg/apache/commons/compress/archivers/zip/GeneralPurposeBit;*`
+
+__unknown_file (D
+B
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getGeneralPurposeBit()àÝ
+
+ò ò(=
+%1boolean"Morg.apache.commons.compress.archivers.zip.GeneralPurposeBit#usesEncryption()Z*_
+
+__unknown_file (C
+A
+%0;org.apache.commons.compress.archivers.zip.GeneralPurposeBit2usesEncryption()"
+
+ò ò(>
+"":P
+
+ñ0 ñ(KB
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntryB5"3
+1org.apache.commons.compress.archivers.zip.ZipUtilP

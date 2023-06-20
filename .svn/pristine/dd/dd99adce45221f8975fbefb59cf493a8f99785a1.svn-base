@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.X7875_NewUnix#trimLeadingZeroesForceMinLength([B)[B
+java.lang.Math#max(II)I
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V

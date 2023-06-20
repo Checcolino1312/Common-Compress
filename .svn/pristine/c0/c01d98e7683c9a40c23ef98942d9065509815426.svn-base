@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.pack200.PopulationCodec#encode([I[I[I)[B
+java.util.Arrays#copyOf([II)[I
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V

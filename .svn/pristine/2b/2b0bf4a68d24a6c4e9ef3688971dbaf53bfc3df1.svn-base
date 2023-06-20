@@ -1,0 +1,154 @@
+
+—org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#supportsCompressedSizeFor(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z‰
+}C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.javaó
+ ó
+(-"10*®
+2
+ù
+ ù
+(ÑÎ
+
+ù
+ ù
+($	
+%9int"Forg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getMethod()I*`
+
+__unknown_file (D
+B
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getMethod()D
+B
+
+ù
+( ù
+(7
+
+%10int"__id*"
+
+__unknown_file (
+""*
+1*á
+5
+÷
+ ÷
+(ÜÙ
+
+÷
+ ÷
+(,A
+%7;org.apache.commons.compress.archivers.zip.GeneralPurposeBit"org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getGeneralPurposeBit()Lorg/apache/commons/compress/archivers/zip/GeneralPurposeBit;*`
+
+__unknown_file (D
+B
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getGeneralPurposeBit()èå
+
+÷
+ ÷
+(A
+%8boolean"Qorg.apache.commons.compress.archivers.zip.GeneralPurposeBit#usesDataDescriptor()Z*_
+
+__unknown_file (C
+A
+%7;org.apache.commons.compress.archivers.zip.GeneralPurposeBit2usesDataDescriptor()*
+2
+1*¡
+7
+ö
+ ö
+(ÑÎ
+
+ö
+ ö
+( 	
+%4int"Forg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getMethod()I*`
+
+__unknown_file (D
+B
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getMethod()s
+q
+
+ö
+$ ö
+(?9
+%53org.apache.commons.compress.archivers.zip.ZipMethod"__id*"
+
+__unknown_file (
+""¾»
+
+ö
+$ ö
+(I	
+%6int">org.apache.commons.compress.archivers.zip.ZipMethod#getCode()I*W
+
+__unknown_file (;
+9
+%53org.apache.commons.compress.archivers.zip.ZipMethod2	getCode()*
+5
+1*³
+9
+õ
+ õ
+(ÑÎ
+
+õ
+ õ
+( 	
+%2int"Forg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getMethod()I*`
+
+__unknown_file (D
+B
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getMethod()C
+A
+
+õ
+$ õ
+(5	
+%3int"__id*"
+
+__unknown_file (
+""*	
+5
+7
+1*¦
+10
+ô
+ ô
+(¿¼
+
+ô
+ ô
+((
+
+%0long"+java.util.zip.ZipEntry#getCompressedSize()J*`
+
+__unknown_file (D
+B
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getCompressedSize()D
+B
+
+ô
+, ô
+(E
+
+%1long"__id*"
+
+__unknown_file (
+""*
+5
+7
+9
+1*%
+1
+ô
+ ù
+(9"
+
+ô
+ ù
+(9
+"":P
+
+ó
+. ó
+(IB
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntryBCA
+?org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamP

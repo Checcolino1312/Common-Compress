@@ -1,0 +1,60 @@
+
+__sonar_lambda_84$}
+qC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/CompressorStreamFactory.java« «(<"startingBlock*­
+startingBlock
+« «(<§
+¤
+
+__unknown_file (
+mapjava.util.TreeMap"__id*h
+
+__unknown_file (L*JA
+?org.apache.commons.compress.compressors.CompressorStreamFactory"
+mapà
+Ý
+
+__unknown_file (L
+provider@org.apache.commons.compress.compressors.CompressorStreamProvider"__id*m
+
+__unknown_file (Q*OA
+?org.apache.commons.compress.compressors.CompressorStreamFactory"
+
+provider*
+1*Õ
+1
+« «(!­
+ª
+
+«& «(1
+%1java.lang.String"korg.apache.commons.compress.compressors.CompressorStreamFactory#toKey(Ljava/lang/String;)Ljava/lang/String;*_
+
+__unknown_file (C"A
+?org.apache.commons.compress.compressors.CompressorStreamFactory*6
+
+__unknown_file (
+
+namejava.lang.String»
+¸
+
+« «(<F
+%2@org.apache.commons.compress.compressors.CompressorStreamProvider"__mapSet*6
+
+__unknown_file (
+
+mapjava.util.TreeMap*4
+
+__unknown_file (
+
+%1java.lang.String*j
+
+__unknown_file (N
+L
+provider@org.apache.commons.compress.compressors.CompressorStreamProvider"V
+
+« «(<H
+F
+%2@org.apache.commons.compress.compressors.CompressorStreamProvider:&
+
+« «(
+namejava.lang.StringB
+java.util.function.Consumer

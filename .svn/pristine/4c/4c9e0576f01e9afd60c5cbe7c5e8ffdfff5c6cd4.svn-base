@@ -1,0 +1,6 @@
+org.apache.commons.compress.harmony.unpack200.AttributeLayoutMap#checkMap()V
+org.apache.commons.compress.harmony.pack200.Pack200Exception#<init>(Ljava/lang/String;)V
+java.util.ArrayList#instance-init#
+java.util.ArrayList#<init>(Ljava/util/Collection;)V
+java.lang.String#equals(Ljava/lang/Object;)Z
+org.apache.commons.compress.harmony.pack200.Pack200Exception#instance-init#

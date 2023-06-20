@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ZipFile#getContentBeforeFirstLocalFileHeader()Ljava/io/InputStream;
+org.apache.commons.compress.archivers.zip.ZipFile#createBoundedInputStream(JJ)Lorg/apache/commons/compress/utils/BoundedArchiveInputStream;

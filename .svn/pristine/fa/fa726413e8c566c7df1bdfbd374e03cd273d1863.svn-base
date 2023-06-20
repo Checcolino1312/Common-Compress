@@ -1,0 +1,15 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#putArchiveEntry(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;Z)V
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#instance-init#
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#writeLocalFileHeader(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;Z)V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#setDefaults(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#getEffectiveZip64Mode(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Lorg/apache/commons/compress/archivers/zip/Zip64Mode;
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#validateSizeInformation(Lorg/apache/commons/compress/archivers/zip/Zip64Mode;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#shouldAddZip64Extra(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;Lorg/apache/commons/compress/archivers/zip/Zip64Mode;)Z
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#<init>(J)V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry#<init>(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry#instance-init#
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#getZip64Extra(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Lorg/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField;
+==
+closeArchiveEntry org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#closeArchiveEntry()V

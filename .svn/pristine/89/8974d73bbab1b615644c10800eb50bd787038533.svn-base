@@ -1,0 +1,59 @@
+
+Torg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readAsciiLong(II)J
+sC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream.java• •("1*Î
+1
+—! —(*ö
+ó
+
+—! —(2
+%0byte[]"Porg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readRange(I)[B*a
+
+__unknown_file (EC
+Aorg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream*"
+
+__unknown_file (
+""U
+S
+
+— —(3
+	tmpBufferbyte[]"__id**
+
+__unknown_file (
+
+%0byte[]þ
+û
+
+˜ ˜(C
+%1java.lang.String"Rorg.apache.commons.compress.utils.ArchiveUtils#toAsciiString([B)Ljava/lang/String;*N
+
+__unknown_file (2"0
+.org.apache.commons.compress.utils.ArchiveUtils*1
+
+__unknown_file (
+
+	tmpBufferbyte[]Õ
+Ò
+
+˜ ˜(K
+
+%2long".java.lang.Long#parseLong(Ljava/lang/String;I)J*.
+
+__unknown_file ("
+java.lang.Long*4
+
+__unknown_file (
+
+%1java.lang.String*"
+
+__unknown_file (
+"""
+
+˜ ˜(L
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BEC
+Aorg.apache.commons.compress.archivers.cpio.CpioArchiveInputStreamP

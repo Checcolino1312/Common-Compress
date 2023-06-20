@@ -1,0 +1,116 @@
+
+‡org.apache.commons.compress.harmony.unpack200.CpBands#cpDoubleValue(I)Lorg/apache/commons/compress/harmony/unpack200/bytecode/CPDouble;s
+gC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/CpBands.javaƒ ƒ(!"3*‚	
+2
+‡$ ‡('—”
+
+‡ ‡(#E
+%3?org.apache.commons.compress.harmony.unpack200.bytecode.CPDouble"?org.apache.commons.compress.harmony.unpack200.bytecode.CPDouble³
+°
+
+‡ ‡(>
+%4"\org.apache.commons.compress.harmony.unpack200.bytecode.CPDouble#<init>(Ljava/lang/Double;I)V*c
+
+__unknown_file (G
+E
+%3?org.apache.commons.compress.harmony.unpack200.bytecode.CPDouble*5
+
+__unknown_file (
+
+dbljava.lang.Double*"
+
+__unknown_file (
+""Ç
+Ä
+
+‡ ‡(>K
+cpDouble?org.apache.commons.compress.harmony.unpack200.bytecode.CPDouble"__id*c
+
+__unknown_file (G
+E
+%3?org.apache.commons.compress.harmony.unpack200.bytecode.CPDouble™
+–
+
+ˆ ˆ(
+%5java.util.Map"__id*m
+
+__unknown_file (Q*O7
+5org.apache.commons.compress.harmony.unpack200.CpBands"
+doublesToCPDoublesµ
+²
+
+ˆ ˆ(1E
+%6?org.apache.commons.compress.harmony.unpack200.bytecode.CPDouble"__mapSet*1
+
+__unknown_file (
+
+%5java.util.Map*5
+
+__unknown_file (
+
+dbljava.lang.Double*i
+
+__unknown_file (M
+K
+cpDouble?org.apache.commons.compress.harmony.unpack200.bytecode.CPDouble*
+1*Þ
+3
+„ „(!¬
+©
+
+„ „(:
+%0java.lang.Double"-java.lang.Double#valueOf(D)Ljava/lang/Double;*0
+
+__unknown_file ("
+java.lang.Double*"
+
+__unknown_file (
+""c
+a
+
+„ „(;
+dbljava.lang.Double"__id*4
+
+__unknown_file (
+
+%0java.lang.Double™
+–
+
+… …(.
+%1java.util.Map"__id*m
+
+__unknown_file (Q*O7
+5org.apache.commons.compress.harmony.unpack200.CpBands"
+doublesToCPDoublesÊ
+Ç
+
+… …(7E
+%2?org.apache.commons.compress.harmony.unpack200.bytecode.CPDouble"__mapGet*1
+
+__unknown_file (
+
+%1java.util.Map*5
+
+__unknown_file (
+
+dbljava.lang.DoubleÇ
+Ä
+
+… …(8K
+cpDouble?org.apache.commons.compress.harmony.unpack200.bytecode.CPDouble"__id*c
+
+__unknown_file (G
+E
+%2?org.apache.commons.compress.harmony.unpack200.bytecode.CPDouble*
+2
+1*l
+1
+Š Š("[
+
+Š Š(M
+K
+cpDouble?org.apache.commons.compress.harmony.unpack200.bytecode.CPDouble: 
+
+__unknown_file (
+""B97
+5org.apache.commons.compress.harmony.unpack200.CpBandsH

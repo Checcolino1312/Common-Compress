@@ -1,0 +1,17 @@
+
+^org.apache.commons.compress.archivers.zip.ZipFile$StoredStatisticsStream#getCompressedCount()J{
+oC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java• •(&"1*®
+1
+– –(†
+ƒ
+
+– –('
+
+%0long"Eorg.apache.commons.compress.utils.CountingInputStream#getBytesRead()J*"
+
+__unknown_file (
+"""
+
+– –((
+""BLJ
+Horg.apache.commons.compress.archivers.zip.ZipFile$StoredStatisticsStreamHP

@@ -1,0 +1,67 @@
+
+H__sonar_lambda_86$org.apache.commons.compress.harmony.pack200.ClassBandst
+hC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/ClassBands.javaÔ. Ô(T"startingBlock*®
+startingBlock
+Ô. Ô(T­
+ª
+
+__unknown_file ( 
+
+interfacesjava.lang.String[]"__id*f
+
+__unknown_file (J*H8
+6org.apache.commons.compress.harmony.pack200.ClassBands"
+
+interfacesÛ
+Ø
+
+__unknown_file (I
+ClassBands.this6org.apache.commons.compress.harmony.pack200.ClassBands"__id*k
+
+__unknown_file (O*M8
+6org.apache.commons.compress.harmony.pack200.ClassBands"
+ClassBands.this*
+1*É
+1
+Ô3 Ô(:Ç
+Ä
+
+Ô3 Ô(::
+%143org.apache.commons.compress.harmony.pack200.CpBands"__id*t
+
+__unknown_file (X*V
+I
+ClassBands.this6org.apache.commons.compress.harmony.pack200.ClassBands"	
+cpBands˜
+•
+
+ÔF Ô(S
+%15java.lang.String"
+__arrayGet*>
+
+__unknown_file ("
+ 
+
+interfacesjava.lang.String[]*"
+
+__unknown_file (
+""†ƒ
+
+Ô3 Ô(T:
+%163org.apache.commons.compress.harmony.pack200.CPClass"‡org.apache.commons.compress.harmony.pack200.CpBands#getCPClass(Ljava/lang/String;)Lorg/apache/commons/compress/harmony/pack200/CPClass;*X
+
+__unknown_file (<
+:
+%143org.apache.commons.compress.harmony.pack200.CpBands*5
+
+__unknown_file (
+
+%15java.lang.String2getCPClass(Ljava/lang/String;)"J
+
+Ô3 Ô(T<
+:
+%163org.apache.commons.compress.harmony.pack200.CPClass: 
+
+__unknown_file (
+""B" 
+java.util.function.IntFunction

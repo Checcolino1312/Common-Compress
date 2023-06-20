@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.tar.TarFile#isEOFRecord(Ljava/nio/ByteBuffer;)Z
+org.apache.commons.compress.utils.ArchiveUtils#isArrayZero([BI)Z
+java.nio.ByteBuffer#array()[B

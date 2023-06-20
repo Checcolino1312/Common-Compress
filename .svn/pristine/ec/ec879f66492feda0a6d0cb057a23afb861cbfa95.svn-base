@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#writeStreamsInfo(Ljava/io/DataOutput;)V
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#writePackInfo(Ljava/io/DataOutput;)V
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#writeSubStreamsInfo(Ljava/io/DataOutput;)V
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#writeUnpackInfo(Ljava/io/DataOutput;)V

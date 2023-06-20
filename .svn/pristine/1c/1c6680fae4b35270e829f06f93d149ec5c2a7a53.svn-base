@@ -1,0 +1,1 @@
+org.apache.commons.compress.archivers.zip.ZipFile#getEntry(Ljava/lang/String;)Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;

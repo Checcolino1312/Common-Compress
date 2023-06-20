@@ -1,0 +1,48 @@
+
+org.apache.commons.compress.harmony.pack200.PackingOptions#getUnknownFieldAttributeAction(Ljava/lang/String;)Ljava/lang/String;x
+lC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/PackingOptions.java© ©(0"1*»
+1
+ª ª(¡
+ž
+
+ª ª(1
+%0java.util.Map"__id*u
+
+__unknown_file (Y*W<
+:org.apache.commons.compress.harmony.pack200.PackingOptions"
+fieldAttributeActions¥
+¢
+
+ª9 ª(O
+%1java.lang.String"__id*v
+
+__unknown_file (Z*X<
+:org.apache.commons.compress.harmony.pack200.PackingOptions"
+unknownAttributeActionµ
+²
+
+ª ª(P
+%2java.lang.String"Žorg.apache.commons.compress.harmony.pack200.PackingOptions#getOrDefault(Ljava/util/Map;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*Z
+
+__unknown_file (><
+:org.apache.commons.compress.harmony.pack200.PackingOptions*1
+
+__unknown_file (
+
+%0java.util.Map*6
+
+__unknown_file (
+
+typejava.lang.String*4
+
+__unknown_file (
+
+%1java.lang.String"&
+
+ª ª(Q
+
+%2java.lang.String:&
+
+©1 ©(B
+typejava.lang.StringB><
+:org.apache.commons.compress.harmony.pack200.PackingOptionsH

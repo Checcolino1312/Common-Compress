@@ -1,0 +1,8 @@
+org.apache.commons.compress.archivers.zip.GeneralPurposeBit#parse([BI)Lorg/apache/commons/compress/archivers/zip/GeneralPurposeBit;
+org.apache.commons.compress.archivers.zip.ZipShort#getValue([BI)I
+org.apache.commons.compress.archivers.zip.GeneralPurposeBit#instance-init#
+org.apache.commons.compress.archivers.zip.GeneralPurposeBit#useUTF8ForNames(Z)V
+org.apache.commons.compress.archivers.zip.GeneralPurposeBit#<init>()V
+org.apache.commons.compress.archivers.zip.GeneralPurposeBit#useDataDescriptor(Z)V
+org.apache.commons.compress.archivers.zip.GeneralPurposeBit#useEncryption(Z)V
+org.apache.commons.compress.archivers.zip.GeneralPurposeBit#useStrongEncryption(Z)V

@@ -1,0 +1,24 @@
+
+lorg.apache.commons.compress.harmony.unpack200.bytecode.LineNumberTableAttribute#toString()Ljava/lang/String;å
+ÅC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/LineNumberTableAttribute.javaa a("1*à
+1b b("e
+c
+b b(:
+%0java.lang.String"__concat*!
+b b("
+LineNumberTable: *
+b% b(:
+""l
+j
+b b(E
+%1java.lang.String"__concat*$
+b b(:
+
+%0java.lang.String*
+b= b(E
+
+ lines"$
+b b(F
+
+%1java.lang.StringBSQ
+Oorg.apache.commons.compress.harmony.unpack200.bytecode.LineNumberTableAttributeH

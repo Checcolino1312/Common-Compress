@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readArchiveProperties(Ljava/nio/ByteBuffer;)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#get(Ljava/nio/ByteBuffer;[B)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#getUnsignedByte(Ljava/nio/ByteBuffer;)I
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readUint64(Ljava/nio/ByteBuffer;)J

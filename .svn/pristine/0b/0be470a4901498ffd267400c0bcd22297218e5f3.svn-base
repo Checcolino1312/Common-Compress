@@ -1,0 +1,6 @@
+org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorInputStream#readSizes()V
+org.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream#startLiteral(J)V
+org.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream#readOneByte()I
+org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorInputStream#readSizeBytes()J
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V

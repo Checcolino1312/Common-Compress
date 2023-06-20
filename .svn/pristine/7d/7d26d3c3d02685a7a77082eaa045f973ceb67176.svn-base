@@ -1,0 +1,11 @@
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#setupFileOutputStream()Lorg/apache/commons/compress/utils/CountingOutputStream;
+java.util.ArrayList#<init>()V
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile$OutputStreamWrapper#instance-init#
+java.lang.IllegalStateException#instance-init#
+org.apache.commons.compress.utils.CountingOutputStream#instance-init#
+java.util.ArrayList#instance-init#
+org.apache.commons.compress.utils.CountingOutputStream#<init>(Ljava/io/OutputStream;)V
+java.lang.IllegalStateException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.sevenz.Coders#addEncoder(Ljava/io/OutputStream;Lorg/apache/commons/compress/archivers/sevenz/SevenZMethod;Ljava/lang/Object;)Ljava/io/OutputStream;
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile$OutputStreamWrapper#<init>(Lorg/apache/commons/compress/archivers/sevenz/SevenZOutputFile;)V
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#getContentMethods(Lorg/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry;)Ljava/lang/Iterable;

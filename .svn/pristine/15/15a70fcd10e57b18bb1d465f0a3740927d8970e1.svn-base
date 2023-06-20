@@ -1,0 +1,88 @@
+
+Sorg.apache.commons.compress.archivers.sevenz.StreamMap#toString()Ljava/lang/String;r
+hC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/StreamMap.java ("1*¬	
+1   (+n
+l
+   (O
+%0java.lang.String"__concat**
+   (+
+StreamMap with indices of *
+ .  (O
+""{
+y
+  !(%
+%1java.lang.String"__concat*$
+   (O
+
+%0java.lang.String*%
+! !(%
+ folders, offsets of h
+f
+  !(@
+%2java.lang.String"__concat*$
+  !(%
+
+%1java.lang.String*
+!( !(@
+""v
+t
+  !(U
+%3java.lang.String"__concat*$
+  !(@
+
+%2java.lang.String* 
+!C !(U
+ packed streams,v
+t
+  "( 
+%4java.lang.String"__concat*$
+  !(U
+
+%3java.lang.String* 
+" "( 
+ first files of h
+f
+  "(>
+%5java.lang.String"__concat*$
+  "( 
+
+%4java.lang.String*
+"# "(>
+""r
+p
+  "(O
+%6java.lang.String"__concat*$
+  "(>
+
+%5java.lang.String*
+"A "(O
+ folders andz
+x
+  #($
+%7java.lang.String"__concat*$
+  "(O
+
+%6java.lang.String*$
+# #($
+ folder indices for h
+f
+  #(=
+%8java.lang.String"__concat*$
+  #($
+
+%7java.lang.String*
+#' #(=
+""l
+j
+  #(H
+%9java.lang.String"__concat*$
+  #(=
+
+%8java.lang.String*
+#@ #(H
+
+ files"$
+  #(I
+
+%9java.lang.StringB:8
+6org.apache.commons.compress.archivers.sevenz.StreamMapH

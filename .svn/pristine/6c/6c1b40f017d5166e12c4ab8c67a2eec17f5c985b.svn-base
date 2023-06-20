@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.cpio.CpioArchiveEntry#<init>(SLjava/lang/String;J)V
+==
+CpioArchiveEntry org.apache.commons.compress.archivers.cpio.CpioArchiveEntry#<init>(SLjava/lang/String;)V
+setSize org.apache.commons.compress.archivers.cpio.CpioArchiveEntry#setSize(J)V

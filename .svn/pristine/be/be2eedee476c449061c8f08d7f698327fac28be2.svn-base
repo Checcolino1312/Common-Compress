@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#matches([BI)Z
+java.util.Arrays#copyOf([BI)[B
+java.util.Arrays#equals([B[B)Z

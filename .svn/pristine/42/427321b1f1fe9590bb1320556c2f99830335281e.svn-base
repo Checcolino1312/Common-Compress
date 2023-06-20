@@ -1,0 +1,3 @@
+org.apache.commons.compress.utils.SeekableInMemoryByteChannel#<init>(I)V
+==
+SeekableInMemoryByteChannel org.apache.commons.compress.utils.SeekableInMemoryByteChannel#<init>([B)V

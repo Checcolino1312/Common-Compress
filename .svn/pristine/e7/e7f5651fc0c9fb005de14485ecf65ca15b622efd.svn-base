@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8#<init>(Ljava/lang/String;)V
+==
+CPUTF8 org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8#<init>(Ljava/lang/String;I)V

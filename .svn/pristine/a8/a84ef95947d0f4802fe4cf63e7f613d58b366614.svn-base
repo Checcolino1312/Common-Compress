@@ -1,0 +1,158 @@
+
+Qorg.apache.commons.compress.harmony.unpack200.IcTuple#equals(Ljava/lang/Object;)Zq
+gC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/IcTuple.javaj j("startingBlock*!
+2y y("
+y y(
+""*Á
+3x x(‰
+†
+x x("
+%8java.lang.String"__id*\
+
+__unknown_file (@*>7
+5org.apache.commons.compress.harmony.unpack200.IcTuple"
+N—
+”
+x$ x(2
+%9java.lang.String"__id*j
+
+__unknown_file (N*L
+E
+compareTuple5org.apache.commons.compress.harmony.unpack200.IcTuple"
+Nƒ€
+x x(3
+%10boolean"korg.apache.commons.compress.harmony.unpack200.IcTuple#nullSafeEquals(Ljava/lang/String;Ljava/lang/String;)Z*U
+
+__unknown_file (97
+5org.apache.commons.compress.harmony.unpack200.IcTuple*4
+
+__unknown_file (
+
+%8java.lang.String*4
+
+__unknown_file (
+
+%9java.lang.String24nullSafeEquals(Ljava/lang/String;Ljava/lang/String;)*
+2
+1*
+startingBlockj j(.Ž
+‹
+i i(
+%11"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*8
+
+__unknown_file (
+
+objectjava.lang.Object[
+Y
+j' j(-
+objectjava.lang.Object"__annotation*#
+
+__unknown_file (
+
+%11*
+8
+9*!
+4u u("
+u u(
+""*Â
+5t t(Š
+‡
+t t(#
+%5java.lang.String"__id*]
+
+__unknown_file (A*?7
+5org.apache.commons.compress.harmony.unpack200.IcTuple"
+C2˜
+•
+t% t(4
+%6java.lang.String"__id*k
+
+__unknown_file (O*M
+E
+compareTuple5org.apache.commons.compress.harmony.unpack200.IcTuple"
+C2‚ÿ
+t t(5
+%7boolean"korg.apache.commons.compress.harmony.unpack200.IcTuple#nullSafeEquals(Ljava/lang/String;Ljava/lang/String;)Z*U
+
+__unknown_file (97
+5org.apache.commons.compress.harmony.unpack200.IcTuple*4
+
+__unknown_file (
+
+%5java.lang.String*4
+
+__unknown_file (
+
+%6java.lang.String24nullSafeEquals(Ljava/lang/String;Ljava/lang/String;)*
+3
+4*!
+6q q("
+q q(
+""*×
+7n/ n(5”
+‘
+n n(6E
+compareTuple5org.apache.commons.compress.harmony.unpack200.IcTuple"__id*8
+
+__unknown_file (
+
+objectjava.lang.Object‰
+†
+p p("
+%2java.lang.String"__id*\
+
+__unknown_file (@*>7
+5org.apache.commons.compress.harmony.unpack200.IcTuple"
+C—
+”
+p$ p(2
+%3java.lang.String"__id*j
+
+__unknown_file (N*L
+E
+compareTuple5org.apache.commons.compress.harmony.unpack200.IcTuple"
+C‚ÿ
+p p(3
+%4boolean"korg.apache.commons.compress.harmony.unpack200.IcTuple#nullSafeEquals(Ljava/lang/String;Ljava/lang/String;)Z*U
+
+__unknown_file (97
+5org.apache.commons.compress.harmony.unpack200.IcTuple*4
+
+__unknown_file (
+
+%2java.lang.String*4
+
+__unknown_file (
+
+%3java.lang.String24nullSafeEquals(Ljava/lang/String;Ljava/lang/String;)*
+5
+6*!
+8l l("
+l l(
+""*è
+9k! k('˜•
+k! k(2
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*8
+
+__unknown_file (
+
+objectjava.lang.Object2
+getClass()µ²
+k6 k(E
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*U
+
+__unknown_file (97
+5org.apache.commons.compress.harmony.unpack200.IcTuple2
+getClass()*
+7
+8*!
+1{ {("
+{ {(
+"":&
+j j(-
+objectjava.lang.ObjectB97
+5org.apache.commons.compress.harmony.unpack200.IcTupleHP

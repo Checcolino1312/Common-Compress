@@ -1,0 +1,33 @@
+
+”org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestamp#dateToZipLong(Ljava/util/Date;)Lorg/apache/commons/compress/archivers/zip/ZipLong;}
+sC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/X5455_ExtendedTimestamp.java| |(("2"1*!
+2~ ~("
+~ ~(
+""*«
+1
+€ €( sq
+
+€! €(,
+
+%0long"java.util.Date#getTime()J*1
+
+__unknown_file (
+
+djava.util.Date2	getTime()Û
+Ø
+
+€ €(47
+%11org.apache.commons.compress.archivers.zip.ZipLong"‰org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestamp#unixTimeToZipLong(J)Lorg/apache/commons/compress/archivers/zip/ZipLong;*a
+
+__unknown_file (E"C
+Aorg.apache.commons.compress.archivers.zip.X5455_ExtendedTimestamp*"
+
+__unknown_file (
+"""G
+
+€ €(59
+7
+%11org.apache.commons.compress.archivers.zip.ZipLong:
+|) |(5
+djava.util.DateBE"C
+Aorg.apache.commons.compress.archivers.zip.X5455_ExtendedTimestamp

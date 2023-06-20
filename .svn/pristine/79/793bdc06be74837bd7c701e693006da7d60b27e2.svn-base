@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveEntry#instance-init#
+java.util.Collections#emptySet()Ljava/util/Set;
+org.apache.commons.compress.archivers.dump.DumpArchiveEntry$TapeSegmentHeader#<init>()V
+org.apache.commons.compress.archivers.dump.DumpArchiveEntry$TapeSegmentHeader#instance-init#

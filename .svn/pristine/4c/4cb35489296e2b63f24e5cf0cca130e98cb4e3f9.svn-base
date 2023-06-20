@@ -1,0 +1,190 @@
+
+dorg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#getAndMoveToFrontDecode0()Iì
+ÜC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream.javaä ä(("4*å
+2
+ì ì(C
+A
+
+ì ì(,	
+%8int"__id*"
+
+__unknown_file (
+""„
+‡
+
+ì ì(3
+
+%9void"korg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#checkBounds(IILjava/lang/String;)V*h
+
+__unknown_file (L"J
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream*"
+
+__unknown_file (
+""*'
+
+__unknown_file (
+	
+%8int*"
+
+__unknown_file (
+zn¡
+æ
+
+î% î((7
+%100org.apache.commons.compress.utils.BitInputStream"__id*q
+
+__unknown_file (U*SJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream"
+binÉ
+Ä
+
+î! î(,
+
+%11int"Çorg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#bsR(Lorg/apache/commons/compress/utils/BitInputStream;I)I*h
+
+__unknown_file (L"J
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream*U
+
+__unknown_file (9
+7
+%100org.apache.commons.compress.utils.BitInputStream* 
+
+__unknown_file (2*
+2
+1*Ø
+4
+ã  ã($ﬁ
+€
+
+ã  ã()S
+%0Morg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream$Data"__id*r
+
+__unknown_file (V*TJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream"
+dataÂ
+‚
+
+ã ã(*[
+
+dataShadowMorg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream$Data"__id*q
+
+__unknown_file (U
+S
+%0Morg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream$Data≠
+™
+
+å å(*
+%1byte[]"__id*á
+
+__unknown_file (k*i
+[
+
+dataShadowMorg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream$Data"
+
+selectorC
+A
+
+ç ç( 	
+%2int"__id*"
+
+__unknown_file (
+""„
+‡
+
+ç ç('
+
+%3void"korg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#checkBounds(IILjava/lang/String;)V*h
+
+__unknown_file (L"J
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream*"
+
+__unknown_file (
+""*'
+
+__unknown_file (
+	
+%2int*"
+
+__unknown_file (
+ztC
+A
+
+ê ê(&	
+%4int"__id*"
+
+__unknown_file (
+""„
+‡
+
+ê ê(-
+
+%5void"korg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#checkBounds(IILjava/lang/String;)V*h
+
+__unknown_file (L"J
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream*"
+
+__unknown_file (
+""*'
+
+__unknown_file (
+	
+%4int*"
+
+__unknown_file (
+zn¿
+Ω
+
+ë ë(6
+%60org.apache.commons.compress.utils.BitInputStream"__id*q
+
+__unknown_file (U*SJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream"
+binÉ
+Ä
+
+ë ë(	
+%7int"Çorg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#bsR(Lorg/apache/commons/compress/utils/BitInputStream;I)I*h
+
+__unknown_file (L"J
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream*T
+
+__unknown_file (8
+6
+%60org.apache.commons.compress.utils.BitInputStream*"
+
+__unknown_file (
+""*
+2
+1*’
+1
+ñ ñ(D
+B
+
+ó ó('
+
+%12int"__id*"
+
+__unknown_file (
+""Á
+‰
+
+ó ó(0
+%13void"korg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#checkBounds(IILjava/lang/String;)V*h
+
+__unknown_file (L"J
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream*"
+
+__unknown_file (
+""*(
+
+__unknown_file (
+
+
+%12int*$
+
+__unknown_file (
+zvec"
+
+ô ô((
+""BLJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStreamP

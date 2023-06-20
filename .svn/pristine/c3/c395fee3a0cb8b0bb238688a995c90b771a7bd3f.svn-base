@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setUnixMode(I)V
+==
+isDirectory org.apache.commons.compress.archivers.zip.ZipArchiveEntry#isDirectory()Z
+setExternalAttributes org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setExternalAttributes(J)V

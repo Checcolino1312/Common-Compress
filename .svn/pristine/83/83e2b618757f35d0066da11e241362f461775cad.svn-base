@@ -1,0 +1,8 @@
+org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField#getCentralDirectoryData()[B
+org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField#addSizes([B)I
+org.apache.commons.compress.archivers.zip.ZipShort#getValue()I
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#getBytes()[B
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+org.apache.commons.compress.archivers.zip.ZipLong#getBytes()[B
+==
+getCentralDirectoryLength org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField#getCentralDirectoryLength()Lorg/apache/commons/compress/archivers/zip/ZipShort;

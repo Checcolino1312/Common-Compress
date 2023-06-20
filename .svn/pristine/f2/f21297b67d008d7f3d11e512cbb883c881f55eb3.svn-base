@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.ZipUtil#bigToLong(Ljava/math/BigInteger;)J
+java.lang.NumberFormatException#<init>(Ljava/lang/String;)V
+java.lang.NumberFormatException#instance-init#

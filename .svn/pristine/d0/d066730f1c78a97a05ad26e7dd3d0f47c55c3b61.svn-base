@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.sevenz.LZMADecoder#getDictionarySize(Lorg/apache/commons/compress/archivers/sevenz/Coder;)I
+org.apache.commons.compress.utils.ByteUtils#fromLittleEndian([BII)J

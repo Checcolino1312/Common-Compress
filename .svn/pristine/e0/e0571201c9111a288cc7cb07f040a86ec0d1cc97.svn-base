@@ -1,0 +1,41 @@
+
+Rorg.apache.commons.compress.harmony.pack200.NewAttributeBands$UnionCase#hasTag(J)Z{
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/NewAttributeBands.javaî î("1*Ñ
+1
+ï ï(ž
+›
+
+ï ï(
+%0java.util.List"__id*q
+
+__unknown_file (U*SI
+Gorg.apache.commons.compress.harmony.pack200.NewAttributeBands$UnionCase"
+tags°
+­
+
+ï! ï(9
+%1java.lang.Integer"/java.lang.Integer#valueOf(I)Ljava/lang/Integer;*1
+
+__unknown_file ("
+java.lang.Integer*"
+
+__unknown_file (
+""ÕÒ
+
+ï ï(:
+%2boolean",java.util.List#contains(Ljava/lang/Object;)Z*2
+
+__unknown_file (
+
+%0java.util.List*5
+
+__unknown_file (
+
+%1java.lang.Integer2contains(Ljava/lang/Object;)"
+
+ï ï(;
+"": 
+
+__unknown_file (
+""BKI
+Gorg.apache.commons.compress.harmony.pack200.NewAttributeBands$UnionCaseHP

@@ -1,0 +1,465 @@
+
+íorg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readOldAsciiEntry()Lorg/apache/commons/compress/archivers/cpio/CpioArchiveEntry;ã
+C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream.javaﬂ ﬂ(."10*û	
+2
+¯" ¯(Uè
+å
+
+˘$ ˘(?
+%33java.lang.String"]org.apache.commons.compress.utils.ArchiveUtils#sanitize(Ljava/lang/String;)Ljava/lang/String;*N
+
+__unknown_file (2"0
+.org.apache.commons.compress.utils.ArchiveUtils*6
+
+__unknown_file (
+
+namejava.lang.String†
+ù
+
+¯" ˘(?
+%34java.lang.String"__concat*C
+
+¯" ¯(U53
+1Mode 0 only allowed in the trailer. Found entry: *'
+
+˘$ ˘(?
+
+%33java.lang.StringÅ
+
+
+¯" ˙(9
+%35java.lang.String"__concat*'
+
+¯" ˘(?
+
+%34java.lang.String*%
+
+˙$ ˙(9
+ Occurred at byte: Ÿ÷
+
+˙< ˙(J
+%36long"Horg.apache.commons.compress.archivers.ArchiveInputStream#getBytesRead()J*a
+
+__unknown_file (EC
+Aorg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream2getBytesRead()w
+u
+
+¯" ˙(J
+%37java.lang.String"__concat*'
+
+¯" ˙(9
+
+%35java.lang.String*
+
+˙< ˙(J
+
+%36long?=
+
+¯ ¯(!
+%38java.io.IOException"java.io.IOException∏
+µ
+
+¯ ˙(K
+%39"/java.io.IOException#<init>(Ljava/lang/String;)V*8
+
+__unknown_file (
+
+%38java.io.IOException*5
+
+__unknown_file (
+
+%37java.lang.String*
+0*Õ
+3
+˜- ˜(1Y
+W
+
+˜9 ˜(E
+%31java.lang.String"__id**
+
+__unknown_file (
+
+TRAILER!!!ÿ’
+
+˜- ˜(F
+%32boolean",java.lang.String#equals(Ljava/lang/Object;)Z*6
+
+__unknown_file (
+
+namejava.lang.String*5
+
+__unknown_file (
+
+%31java.lang.String2equals(Ljava/lang/Object;)*
+2
+1*û
+4
+ı ı('ì
+ê
+
+ı ı(7
+%28java.lang.String"borg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readCString(I)Ljava/lang/String;*a
+
+__unknown_file (EC
+Aorg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream*"
+
+__unknown_file (
+""e
+c
+
+ı ı(8
+namejava.lang.String"__id*5
+
+__unknown_file (
+
+%28java.lang.String≠™
+
+ˆ ˆ(
+%29void"Xorg.apache.commons.compress.archivers.cpio.CpioArchiveEntry#setName(Ljava/lang/String;)V*`
+
+__unknown_file (D
+B
+ret;org.apache.commons.compress.archivers.cpio.CpioArchiveEntry*6
+
+__unknown_file (
+
+namejava.lang.String2setName(Ljava/lang/String;)◊
+‘
+
+˜ ˜(#
+%30long"@org.apache.commons.compress.archivers.cpio.CpioUtil#fileType(J)J*S
+
+__unknown_file (7"5
+3org.apache.commons.compress.archivers.cpio.CpioUtil*"
+
+__unknown_file (
+""*
+3
+1*£
+5
+Û" Û(L?=
+
+Û Û(!
+%26java.io.IOException"java.io.IOExceptionÀ
+»
+
+Û Û(M
+%27"/java.io.IOException#<init>(Ljava/lang/String;)V*8
+
+__unknown_file (
+
+%26java.io.IOException*H
+
+__unknown_file (,*
+(Found illegal entry with negative length*
+0*à
+6
+Ò Ò(ô
+ñ
+
+Ò Ò((
+%23long"Torg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readAsciiLong(II)J*a
+
+__unknown_file (EC
+Aorg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream* 
+
+__unknown_file (2* 
+
+__unknown_file (2˛˚
+
+Ò Ò()
+%24void"Gorg.apache.commons.compress.archivers.cpio.CpioArchiveEntry#setSize(J)V*`
+
+__unknown_file (D
+B
+ret;org.apache.commons.compress.archivers.cpio.CpioArchiveEntry*)
+
+__unknown_file (
+
+%23long2
+setSize(J)—Œ
+
+Ú Ú(
+%25long"Forg.apache.commons.compress.archivers.cpio.CpioArchiveEntry#getSize()J*`
+
+__unknown_file (D
+B
+ret;org.apache.commons.compress.archivers.cpio.CpioArchiveEntry2	getSize()*
+4
+5*®
+7
+Ô" Ô(Q?=
+
+Ô Ô(!
+%21java.io.IOException"java.io.IOException–
+Õ
+
+Ô Ô(R
+%22"/java.io.IOException#<init>(Ljava/lang/String;)V*8
+
+__unknown_file (
+
+%21java.io.IOException*M
+
+__unknown_file (1/
+-Found illegal entry with negative name length*
+0*‚
+8
+Ë Ë(ô
+ñ
+
+Ë Ë(&
+%10long"Torg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readAsciiLong(II)J*a
+
+__unknown_file (EC
+Aorg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream* 
+
+__unknown_file (2* 
+
+__unknown_file (2¸˘
+
+Ë Ë('
+%11void"Forg.apache.commons.compress.archivers.cpio.CpioArchiveEntry#setUID(J)V*`
+
+__unknown_file (D
+B
+ret;org.apache.commons.compress.archivers.cpio.CpioArchiveEntry*)
+
+__unknown_file (
+
+%10long2	setUID(J)ô
+ñ
+
+È È(&
+%12long"Torg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readAsciiLong(II)J*a
+
+__unknown_file (EC
+Aorg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream* 
+
+__unknown_file (2* 
+
+__unknown_file (2¸˘
+
+È È('
+%13void"Forg.apache.commons.compress.archivers.cpio.CpioArchiveEntry#setGID(J)V*`
+
+__unknown_file (D
+B
+ret;org.apache.commons.compress.archivers.cpio.CpioArchiveEntry*)
+
+__unknown_file (
+
+%12long2	setGID(J)ô
+ñ
+
+Í Í(0
+%14long"Torg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readAsciiLong(II)J*a
+
+__unknown_file (EC
+Aorg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream* 
+
+__unknown_file (2* 
+
+__unknown_file (2êç
+
+Í Í(1
+%15void"Porg.apache.commons.compress.archivers.cpio.CpioArchiveEntry#setNumberOfLinks(J)V*`
+
+__unknown_file (D
+B
+ret;org.apache.commons.compress.archivers.cpio.CpioArchiveEntry*)
+
+__unknown_file (
+
+%14long2setNumberOfLinks(J)ô
+ñ
+
+Î Î(/
+%16long"Torg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readAsciiLong(II)J*a
+
+__unknown_file (EC
+Aorg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream* 
+
+__unknown_file (2* 
+
+__unknown_file (2éã
+
+Î Î(0
+%17void"Oorg.apache.commons.compress.archivers.cpio.CpioArchiveEntry#setRemoteDevice(J)V*`
+
+__unknown_file (D
+B
+ret;org.apache.commons.compress.archivers.cpio.CpioArchiveEntry*)
+
+__unknown_file (
+
+%16long2setRemoteDevice(J)ô
+ñ
+
+Ï Ï((
+%18long"Torg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readAsciiLong(II)J*a
+
+__unknown_file (EC
+Aorg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream* 
+
+__unknown_file (2* 
+
+__unknown_file (2˛˚
+
+Ï Ï()
+%19void"Gorg.apache.commons.compress.archivers.cpio.CpioArchiveEntry#setTime(J)V*`
+
+__unknown_file (D
+B
+ret;org.apache.commons.compress.archivers.cpio.CpioArchiveEntry*)
+
+__unknown_file (
+
+%18long2
+setTime(J)ô
+ñ
+
+Ì Ì(1
+%20long"Torg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readAsciiLong(II)J*a
+
+__unknown_file (EC
+Aorg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream* 
+
+__unknown_file (2* 
+
+__unknown_file (2*
+6
+7*ç
+9
+Ê Ê(ˆÛ
+
+Ê Ê(
+
+%9void"Gorg.apache.commons.compress.archivers.cpio.CpioArchiveEntry#setMode(J)V*`
+
+__unknown_file (D
+B
+ret;org.apache.commons.compress.archivers.cpio.CpioArchiveEntry*"
+
+__unknown_file (
+""2
+setMode(J)*
+8*»
+10
+‡: ‡(JE
+C
+
+‡: ‡(J
+%0short"__id*"
+
+__unknown_file (
+""èå
+
+‡) ‡(9A
+%1;org.apache.commons.compress.archivers.cpio.CpioArchiveEntry";org.apache.commons.compress.archivers.cpio.CpioArchiveEntryÈ
+Ê
+
+‡% ‡(K
+%2"Forg.apache.commons.compress.archivers.cpio.CpioArchiveEntry#<init>(S)V*_
+
+__unknown_file (C
+A
+%1;org.apache.commons.compress.archivers.cpio.CpioArchiveEntry*)
+
+__unknown_file (
+
+%0short∫
+∑
+
+‡ ‡(LB
+ret;org.apache.commons.compress.archivers.cpio.CpioArchiveEntry"__id*_
+
+__unknown_file (C
+A
+%1;org.apache.commons.compress.archivers.cpio.CpioArchiveEntryò
+ï
+
+‚ ‚()
+
+%3long"Torg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readAsciiLong(II)J*a
+
+__unknown_file (EC
+Aorg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream* 
+
+__unknown_file (2* 
+
+__unknown_file (2Ä˝
+
+‚ ‚(*
+
+%4void"Iorg.apache.commons.compress.archivers.cpio.CpioArchiveEntry#setDevice(J)V*`
+
+__unknown_file (D
+B
+ret;org.apache.commons.compress.archivers.cpio.CpioArchiveEntry*(
+
+__unknown_file (
+
+
+%3long2setDevice(J)ò
+ï
+
+„ „((
+
+%5long"Torg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readAsciiLong(II)J*a
+
+__unknown_file (EC
+Aorg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream* 
+
+__unknown_file (2* 
+
+__unknown_file (2˛˚
+
+„ „()
+
+%6void"Horg.apache.commons.compress.archivers.cpio.CpioArchiveEntry#setInode(J)V*`
+
+__unknown_file (D
+B
+ret;org.apache.commons.compress.archivers.cpio.CpioArchiveEntry*(
+
+__unknown_file (
+
+
+%5long2setInode(J)ò
+ï
+
+‰ ‰(-
+
+%7long"Torg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readAsciiLong(II)J*a
+
+__unknown_file (EC
+Aorg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream* 
+
+__unknown_file (2* 
+
+__unknown_file (2÷
+”
+
+Â Â(#
+
+%8long"@org.apache.commons.compress.archivers.cpio.CpioUtil#fileType(J)J*S
+
+__unknown_file (7"5
+3org.apache.commons.compress.archivers.cpio.CpioUtil*"
+
+__unknown_file (
+""*
+8
+9*(
+0 "!
+
+˛ ˛(
+implicit return*c
+1
+˝ ˝("R
+
+˝ ˝(D
+B
+ret;org.apache.commons.compress.archivers.cpio.CpioArchiveEntryBEC
+Aorg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream

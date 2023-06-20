@@ -1,0 +1,70 @@
+
+€org.apache.commons.compress.harmony.pack200.IcBands#namesArePredictable(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Z}
+qC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/pack200/IcBands.javaž ž('"3*»
+2
+ ;  (D¤¡
+
+ ;  (Q	
+%3int"java.lang.String#indexOf(I)I*;
+
+__unknown_file (
+
+	innerNamejava.lang.String*!
+
+__unknown_file (
+$2
+indexOf(I)*
+1*ñ
+3
+   (t
+r
+
+   (*
+%0java.lang.String"__concat*-
+
+   ($
+
+	outerNamejava.lang.String*
+
+ '  (*
+$ˆ
+…
+
+   (6
+%1java.lang.String"__concat*&
+
+   (*
+
+%0java.lang.String*-
+
+ -  (6
+
+	innerNamejava.lang.StringÖÓ
+
+   (7
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*6
+
+__unknown_file (
+
+namejava.lang.String*4
+
+__unknown_file (
+
+%1java.lang.String2equals(Ljava/lang/Object;)*
+2
+1*%
+1
+   (X"
+
+   (X
+"":&
+
+ž( ž(:
+namejava.lang.String:+
+
+ž; ž(R
+	outerNamejava.lang.String:+
+
+žS ž(i
+	innerNamejava.lang.StringB75
+3org.apache.commons.compress.harmony.pack200.IcBandsP

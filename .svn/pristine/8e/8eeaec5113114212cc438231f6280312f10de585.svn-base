@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#isFile()Z
+java.nio.file.Files#isRegularFile(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z
+java.lang.String#endsWith(Ljava/lang/String;)Z
+==
+getName org.apache.commons.compress.archivers.tar.TarArchiveEntry#getName()Ljava/lang/String;

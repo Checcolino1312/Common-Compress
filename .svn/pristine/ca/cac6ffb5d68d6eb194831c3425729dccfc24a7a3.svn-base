@@ -1,0 +1,5 @@
+org.apache.commons.compress.harmony.unpack200.ClassBands#read(Ljava/io/InputStream;)V
+org.apache.commons.compress.harmony.unpack200.ClassBands#parseCodeBands(Ljava/io/InputStream;)V
+org.apache.commons.compress.harmony.unpack200.ClassBands#parseFieldBands(Ljava/io/InputStream;)V
+org.apache.commons.compress.harmony.unpack200.ClassBands#parseClassAttrBands(Ljava/io/InputStream;)V
+org.apache.commons.compress.harmony.unpack200.ClassBands#parseMethodBands(Ljava/io/InputStream;)V

@@ -1,0 +1,3 @@
+org.apache.commons.compress.utils.FixedLengthBlockOutputStream#maybeFlush()V
+java.nio.Buffer#hasRemaining()Z
+org.apache.commons.compress.utils.FixedLengthBlockOutputStream#writeBlock()V

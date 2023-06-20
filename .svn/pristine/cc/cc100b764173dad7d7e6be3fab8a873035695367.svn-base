@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.unpack200.BandSet#unpack(Ljava/io/InputStream;)V
+==
+unpack org.apache.commons.compress.harmony.unpack200.BandSet#unpack()V
+read org.apache.commons.compress.harmony.unpack200.BandSet#read(Ljava/io/InputStream;)V

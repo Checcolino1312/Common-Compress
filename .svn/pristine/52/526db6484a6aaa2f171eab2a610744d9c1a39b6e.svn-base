@@ -1,0 +1,7 @@
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#getContentMethods(Lorg/apache/commons/compress/archivers/sevenz/SevenZArchiveEntry;)Ljava/lang/Iterable;
+java.util.stream.Collectors#toList()Ljava/util/stream/Collector;
+java.util.stream.StreamSupport#stream(Ljava/util/Spliterator;Z)Ljava/util/stream/Stream;
+org.apache.commons.compress.archivers.sevenz.SevenZMethodConfiguration#<init>(Lorg/apache/commons/compress/archivers/sevenz/SevenZMethod;Ljava/lang/Object;)V
+org.apache.commons.compress.archivers.sevenz.SevenZMethodConfiguration#instance-init#
+java.util.stream.Stream#concat(Ljava/util/stream/Stream;Ljava/util/stream/Stream;)Ljava/util/stream/Stream;
+java.util.stream.Stream#of(Ljava/lang/Object;)Ljava/util/stream/Stream;

@@ -1,0 +1,32 @@
+
+Horg.apache.commons.compress.archivers.tar.TarArchiveEntry#getRealSize()Jw
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.java¾ ¾("3*ï
+2
+À À(ÇÄ
+
+À À(
+
+%1long"Dorg.apache.commons.compress.archivers.tar.TarArchiveEntry#getSize()J*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntry2	getSize()"
+
+À À(
+""*æ
+3
+¿ ¿(ÌÉ
+
+¿ ¿(
+%0boolean"Eorg.apache.commons.compress.archivers.tar.TarArchiveEntry#isSparse()Z*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntry2
+isSparse()*
+2
+1*%
+1
+Â Â("
+
+Â Â(
+""B=;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntryHP

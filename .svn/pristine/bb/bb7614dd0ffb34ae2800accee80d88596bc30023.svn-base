@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.pack200.ClassBands#addLineNumber(ILorg/objectweb/asm/Label;)V
+java.lang.Long#intValue()I
+java.lang.Long#valueOf(J)Ljava/lang/Long;

@@ -1,0 +1,16 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#sanityCheckFilesInfo(Ljava/nio/ByteBuffer;Lorg/apache/commons/compress/archivers/sevenz/SevenZFile$ArchiveStatistics;)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#checkWinAttributesProperty(Ljava/nio/ByteBuffer;I)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#checkTimeProperty(Ljava/nio/ByteBuffer;ILjava/lang/String;)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+java.lang.Math#max(II)I
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readEmptyStream(Ljava/nio/ByteBuffer;I)I
+org.apache.commons.compress.archivers.sevenz.SevenZFile#checkNameProperty(Ljava/nio/ByteBuffer;JI)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readBits(Ljava/nio/ByteBuffer;I)Ljava/util/BitSet;
+org.apache.commons.compress.archivers.sevenz.SevenZFile#skipDummyProperty(Ljava/nio/ByteBuffer;J)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#checkEmptyStreamsAvailability(ILjava/lang/String;)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#assertFitsIntoNonNegativeInt(Ljava/lang/String;J)I
+org.apache.commons.compress.archivers.sevenz.SevenZFile#getPropertyTypeName(I)Ljava/lang/String;
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readUint64(Ljava/nio/ByteBuffer;)J
+org.apache.commons.compress.archivers.sevenz.SevenZFile#getUnsignedByte(Ljava/nio/ByteBuffer;)I
+org.apache.commons.compress.archivers.sevenz.SevenZFile#skipProperty(Ljava/nio/ByteBuffer;JI)V

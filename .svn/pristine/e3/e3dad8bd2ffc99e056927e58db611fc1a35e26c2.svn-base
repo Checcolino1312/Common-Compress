@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.zip.ZipSplitOutputStream#createNewSplitSegmentFile(Ljava/lang/Integer;)Ljava/nio/file/Path;
+org.apache.commons.compress.utils.FileNameUtils#getBaseName(Ljava/nio/file/Path;)Ljava/lang/String;
+java.nio.file.Files#exists(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z
+java.util.Objects#nonNull(Ljava/lang/Object;)Z
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V

@@ -1,0 +1,14 @@
+
+uorg.apache.commons.compress.archivers.zip.JarMarker#getHeaderId()Lorg/apache/commons/compress/archivers/zip/ZipShort;o
+eC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/JarMarker.javaH H("1*Ç
+1I I(p
+n
+I I(8
+%02org.apache.commons.compress.archivers.zip.ZipShort"__id*"
+
+__unknown_file (
+"""F
+I I(:
+8
+%02org.apache.commons.compress.archivers.zip.ZipShortB75
+3org.apache.commons.compress.archivers.zip.JarMarkerH

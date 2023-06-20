@@ -1,0 +1,37 @@
+
+Z__sonar_lambda_53$org.apache.commons.compress.harmony.unpack200.bytecode.ClassConstantPool†
+zC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/ClassConstantPool.java´ ´(3"startingBlock*±
+startingBlock
+´ ´(3Ž
+‹
+
+__unknown_file (b
+ClassConstantPool.thisHorg.apache.commons.compress.harmony.unpack200.bytecode.ClassConstantPool"__id*„
+
+__unknown_file (h*fJ
+Horg.apache.commons.compress.harmony.unpack200.bytecode.ClassConstantPool"
+ClassConstantPool.this*
+1*¬
+1
+´  ´(%þû
+
+´  ´(3
+
+%8void"šorg.apache.commons.compress.harmony.unpack200.bytecode.ClassFileEntry#resolve(Lorg/apache/commons/compress/harmony/unpack200/bytecode/ClassConstantPool;)V*l
+
+__unknown_file (P
+N
+entryEorg.apache.commons.compress.harmony.unpack200.bytecode.ClassFileEntry*€
+
+__unknown_file (d
+b
+ClassConstantPool.thisHorg.apache.commons.compress.harmony.unpack200.bytecode.ClassConstantPool2Sresolve(Lorg/apache/commons/compress/harmony/unpack200/bytecode/ClassConstantPool;)"
+
+´  ´(3
+
+
+%8void:\
+
+´ ´(N
+entryEorg.apache.commons.compress.harmony.unpack200.bytecode.ClassFileEntryB
+java.util.function.Consumer

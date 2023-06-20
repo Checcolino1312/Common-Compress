@@ -1,0 +1,5 @@
+org.apache.commons.compress.harmony.unpack200.Segment#unpack(Ljava/io/InputStream;Ljava/util/jar/JarOutputStream;)V
+==
+unpackWrite org.apache.commons.compress.harmony.unpack200.Segment#unpackWrite(Ljava/util/jar/JarOutputStream;)V
+unpackRead org.apache.commons.compress.harmony.unpack200.Segment#unpackRead(Ljava/io/InputStream;)V
+unpackProcess org.apache.commons.compress.harmony.unpack200.Segment#unpackProcess()V

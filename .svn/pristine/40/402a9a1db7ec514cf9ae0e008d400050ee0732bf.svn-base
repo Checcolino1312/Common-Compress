@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.zip.PKWareExtraHeader#parseFromCentralDirectoryData([BII)V
+java.util.Arrays#copyOfRange([BII)[B
+==
+setLocalFileDataData org.apache.commons.compress.archivers.zip.PKWareExtraHeader#setLocalFileDataData([B)V
+setCentralDirectoryData org.apache.commons.compress.archivers.zip.PKWareExtraHeader#setCentralDirectoryData([B)V

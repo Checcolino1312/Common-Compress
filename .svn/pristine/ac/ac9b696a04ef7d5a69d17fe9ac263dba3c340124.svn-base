@@ -1,0 +1,27 @@
+
+Morg.apache.commons.compress.archivers.cpio.CpioArchiveEntry#isSymbolicLink()Z…
+yC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveEntry.javaž ž(!"1*Ã
+1
+Ÿ Ÿ(Ö
+Ó
+
+Ÿ Ÿ(&
+
+%0long"@org.apache.commons.compress.archivers.cpio.CpioUtil#fileType(J)J*S
+
+__unknown_file (7"5
+3org.apache.commons.compress.archivers.cpio.CpioUtil*"
+
+__unknown_file (
+""C
+A
+
+Ÿ* Ÿ(1	
+%1int"__id*"
+
+__unknown_file (
+"""
+
+Ÿ Ÿ(2
+""B?=
+;org.apache.commons.compress.archivers.cpio.CpioArchiveEntryHP

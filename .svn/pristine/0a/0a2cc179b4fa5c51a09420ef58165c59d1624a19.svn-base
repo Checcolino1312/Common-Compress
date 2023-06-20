@@ -1,0 +1,62 @@
+
+\org.apache.commons.compress.archivers.tar.TarArchiveStructSparse#equals(Ljava/lang/Object;)Z|
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveStructSparse.java3 3("startingBlock*ß
+3:E :(Fí
+è
+: :(GH
+that@org.apache.commons.compress.archivers.tar.TarArchiveStructSparse"__id*3
+
+__unknown_file (
+
+ojava.lang.Object*
+1*Ü
+startingBlock3 3()à
+Ö
+2 2(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+3' 3((
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%2*	
+4
+5
+7*!
+48 8("
+8 8(
+""*Ó
+57 7(!¿Ω
+7 7(#
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*`
+
+__unknown_file (DB
+@org.apache.commons.compress.archivers.tar.TarArchiveStructSparse2
+getClass()ìê
+7' 7(3
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()*
+3
+4*!
+75 5("
+5 5(
+""*!
+1; <(*"
+; <(*
+"":!
+3 3((
+ojava.lang.ObjectBDB
+@org.apache.commons.compress.archivers.tar.TarArchiveStructSparseHP

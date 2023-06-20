@@ -1,0 +1,99 @@
+
+\org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#setupNoRandPartB()I“
+†C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream.javaø ø( "2"4"1*×
+2
+þ þ(Þ
+Û
+
+þ& þ(/S
+%1Morg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream$Data"__id*r
+
+__unknown_file (V*TJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream"
+dataŸ
+œ
+
+þ& þ(3
+%2byte[]"__id*z
+
+__unknown_file (^*\
+S
+%1Morg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream$Data"
+ll8ã
+à
+
+þ þ(F
+
+%3void"korg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#checkBounds(IILjava/lang/String;)V*h
+
+__unknown_file (L"J
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*'
+
+__unknown_file (	
+su_tPosÞ
+Û
+
+ÿ  ÿ()S
+%4Morg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream$Data"__id*r
+
+__unknown_file (V*TJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream"
+dataŸ
+œ
+
+ÿ  ÿ(-
+%5byte[]"__id*z
+
+__unknown_file (^*\
+S
+%4Morg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream$Data"
+ll8Þ
+Û
+
+€ €($S
+%6Morg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream$Data"__id*r
+
+__unknown_file (V*TJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream"
+dataâ
+ß
+
+‚ ‚(%	
+%7int"\org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#setupNoRandPartC()I*h
+
+__unknown_file (LJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream"
+
+‚ ‚(&
+""*Š
+4
+ú ú(â
+ß
+
+û û(%	
+%0int"\org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#setupNoRandPartA()I*h
+
+__unknown_file (LJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream"
+
+û û(&
+""*Š
+1
+„ „(â
+ß
+
+„ „(!	
+%8int"\org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#setupNoRandPartA()I*h
+
+__unknown_file (LJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream"
+
+„ „("
+""BLJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStreamP

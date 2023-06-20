@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorOutputStream#<init>(Ljava/io/OutputStream;Lorg/apache/commons/compress/compressors/lz77support/Parameters;)V
+org.apache.commons.compress.utils.ByteUtils$OutputStreamByteConsumer#instance-init#
+org.apache.commons.compress.utils.ByteUtils$OutputStreamByteConsumer#<init>(Ljava/io/OutputStream;)V

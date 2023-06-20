@@ -1,0 +1,5 @@
+org.apache.commons.compress.utils.FixedLengthBlockOutputStream#<init>(Ljava/io/OutputStream;I)V
+java.nio.ByteBuffer#allocateDirect(I)Ljava/nio/ByteBuffer;
+java.nio.ByteBuffer#allocate(I)Ljava/nio/ByteBuffer;
+org.apache.commons.compress.utils.FixedLengthBlockOutputStream$BufferAtATimeOutputChannel#instance-init#
+org.apache.commons.compress.utils.FixedLengthBlockOutputStream$BufferAtATimeOutputChannel#<init>(Ljava/io/OutputStream;)V

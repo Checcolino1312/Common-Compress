@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#getDefaultName()Ljava/lang/String;
+java.io.File#<init>(Ljava/lang/String;)V
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.io.File#instance-init#
+java.lang.String#substring(II)Ljava/lang/String;
+java.lang.String#lastIndexOf(Ljava/lang/String;)I

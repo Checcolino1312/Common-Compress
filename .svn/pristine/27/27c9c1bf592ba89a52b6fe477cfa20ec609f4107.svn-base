@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#validateIfZip64IsNeededInEOCD()V
+org.apache.commons.compress.archivers.zip.Zip64RequiredException#instance-init#
+org.apache.commons.compress.archivers.zip.Zip64RequiredException#<init>(Ljava/lang/String;)V

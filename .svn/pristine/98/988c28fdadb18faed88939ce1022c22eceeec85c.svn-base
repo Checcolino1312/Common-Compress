@@ -1,0 +1,126 @@
+
+[org.apache.commons.compress.utils.SeekableInMemoryByteChannel#write(Ljava/nio/ByteBuffer;)I{
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/utils/SeekableInMemoryByteChannel.java¡ ¡("startingBlock*ª
+3
+Œ Œ(	å
+â
+
+Œ Œ(
+%6byte[]"__id*g
+
+__unknown_file (K*I?
+=org.apache.commons.compress.utils.SeekableInMemoryByteChannel"
+dataïí
+
+Œ Œ(%
+%7java.nio.ByteBuffer"2java.nio.ByteBuffer#get([BII)Ljava/nio/ByteBuffer;*6
+
+__unknown_file (
+
+bjava.nio.ByteBuffer**
+
+__unknown_file (
+
+%6byte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2	get([BII)*
+1*å
+startingBlock
+¡ ¡((ç
+ä
+
+¿ ¿(
+%8"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*6
+
+__unknown_file (
+
+bjava.nio.ByteBufferZ
+X
+
+¡& ¡('
+bjava.nio.ByteBuffer"__annotation*"
+
+__unknown_file (
+
+%8*
+7*ˇ
+4
+À À(Ë
+Â
+
+À À(
+
+%5void"Horg.apache.commons.compress.utils.SeekableInMemoryByteChannel#resize(I)V*]
+
+__unknown_file (A?
+=org.apache.commons.compress.utils.SeekableInMemoryByteChannel*"
+
+__unknown_file (
+""*
+3*é
+5
+» »(C
+A
+
+» »((	
+%2int"__id*"
+
+__unknown_file (
+""Ì
+Í
+
+» »()
+
+%3void"Horg.apache.commons.compress.utils.SeekableInMemoryByteChannel#resize(I)V*]
+
+__unknown_file (A?
+=org.apache.commons.compress.utils.SeekableInMemoryByteChannel*'
+
+__unknown_file (
+	
+%2intC
+A
+
+… …(*	
+%4int"__id*"
+
+__unknown_file (
+""*
+3*‚
+7
+¬ ¬(«
+ƒ
+
+¬ ¬(
+
+%0void"Korg.apache.commons.compress.utils.SeekableInMemoryByteChannel#ensureOpen()V*]
+
+__unknown_file (A?
+=org.apache.commons.compress.utils.SeekableInMemoryByteChannel|z
+
+√ √("	
+%1int"java.nio.Buffer#remaining()I*6
+
+__unknown_file (
+
+bjava.nio.ByteBuffer2remaining()*	
+3
+4
+5*%
+1
+” ”("
+
+” ”(
+"":&
+
+¡ ¡('
+bjava.nio.ByteBufferBA?
+=org.apache.commons.compress.utils.SeekableInMemoryByteChannelHP

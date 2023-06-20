@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.CpBands#getCPIMethod(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Lorg/apache/commons/compress/harmony/pack200/CPMethodOrField;
+==
+getCPIMethod org.apache.commons.compress.harmony.pack200.CpBands#getCPIMethod(Lorg/apache/commons/compress/harmony/pack200/CPClass;Ljava/lang/String;Ljava/lang/String;)Lorg/apache/commons/compress/harmony/pack200/CPMethodOrField;
+getCPClass org.apache.commons.compress.harmony.pack200.CpBands#getCPClass(Ljava/lang/String;)Lorg/apache/commons/compress/harmony/pack200/CPClass;

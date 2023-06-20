@@ -1,0 +1,7 @@
+org.apache.commons.compress.harmony.pack200.BcBands#instance-init#
+java.util.ArrayList#<init>()V
+java.util.HashMap#<init>()V
+java.util.ArrayList#instance-init#
+org.apache.commons.compress.harmony.pack200.IntList#<init>()V
+java.util.HashMap#instance-init#
+org.apache.commons.compress.harmony.pack200.IntList#instance-init#

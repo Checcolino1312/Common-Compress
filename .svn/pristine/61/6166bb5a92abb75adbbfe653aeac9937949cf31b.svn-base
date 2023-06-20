@@ -1,0 +1,74 @@
+
+dorg.apache.commons.compress.archivers.zip.ZipFile#getEntries(Ljava/lang/String;)Ljava/lang/Iterable;o
+cC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.javaÊ% Ê(/"4*ä
+2
+È È(è
+å
+
+È È(%
+%3java.util.List"1java.util.Collections#emptyList()Ljava/util/List;*5
+
+__unknown_file ("
+java.util.Collectionsb
+`
+
+È È(%
+%2java.lang.Iterable"__id*2
+
+__unknown_file (
+
+%3java.util.List*
+1*á
+3
+Ë+ Ë(<q
+o
+
+Ë+ Ë(<
+%2java.lang.Iterable"__id*A
+
+__unknown_file (%
+#
+entriesOfThatNamejava.util.List*
+1*º
+4
+Á8 Á(?ä
+á
+
+Á8 Á(?
+%0java.util.Map"__id*^
+
+__unknown_file (B*@3
+1org.apache.commons.compress.archivers.zip.ZipFile"	
+nameMap†
+ù
+
+Á8 Á(I
+%1java.util.LinkedList"__mapGet*1
+
+__unknown_file (
+
+%0java.util.Map*6
+
+__unknown_file (
+
+namejava.lang.Strings
+q
+
+Á Á(J#
+entriesOfThatNamejava.util.List"__id*8
+
+__unknown_file (
+
+%1java.util.LinkedList*
+2
+3*9
+1
+Ë È(&"(
+
+Ë È(&
+
+%2java.lang.Iterable:&
+
+Ê0 Ê(A
+namejava.lang.StringB53
+1org.apache.commons.compress.archivers.zip.ZipFileH

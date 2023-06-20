@@ -1,0 +1,41 @@
+
+Vorg.apache.commons.compress.archivers.sevenz.SevenZFile#getInt(Ljava/nio/ByteBuffer;)Iu
+iC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZFile.javaÄ Ä("1*Å
+1
+Å Å(C
+A
+
+Å# Å(0	
+%0int"__id*"
+
+__unknown_file (
+""Û
+Ø
+
+Å Å(1
+%1java.nio.ByteBuffer"sorg.apache.commons.compress.archivers.sevenz.SevenZFile#checkEndOfFile(Ljava/nio/ByteBuffer;I)Ljava/nio/ByteBuffer;*W
+
+__unknown_file (;"9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*8
+
+__unknown_file (
+
+bufjava.nio.ByteBuffer*'
+
+__unknown_file (
+	
+%0int{y
+
+Å Å(:	
+%2int"java.nio.ByteBuffer#getInt()I*7
+
+__unknown_file (
+
+%1java.nio.ByteBuffer2getInt()"
+
+Å Å(;
+"":(
+
+Ä Ä(2
+bufjava.nio.ByteBufferB;"9
+7org.apache.commons.compress.archivers.sevenz.SevenZFileP

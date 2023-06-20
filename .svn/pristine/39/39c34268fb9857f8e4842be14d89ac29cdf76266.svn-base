@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.arj.ArjArchiveInputStream#read8(Ljava/io/DataInputStream;)I
+java.io.DataInputStream#readUnsignedByte()I

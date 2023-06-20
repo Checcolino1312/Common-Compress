@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.pack200.ClassBands#endOfMethod()V
+java.lang.Long#longValue()J
+java.lang.Long#valueOf(J)Ljava/lang/Long;

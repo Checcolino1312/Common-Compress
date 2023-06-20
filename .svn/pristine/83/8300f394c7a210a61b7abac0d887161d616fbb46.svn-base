@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.Codec#encode([I)[B
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+==
+encode org.apache.commons.compress.harmony.pack200.Codec#encode(II)[B

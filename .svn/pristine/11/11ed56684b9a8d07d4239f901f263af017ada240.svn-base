@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorOutputStream#finish()V
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorOutputStream#writeTrailer()V
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorOutputStream#flushBlock()V

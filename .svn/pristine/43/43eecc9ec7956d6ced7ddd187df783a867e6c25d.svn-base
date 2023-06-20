@@ -1,0 +1,7 @@
+org.apache.commons.compress.compressors.lzw.LZWInputStream#initializeTables(II)V
+org.apache.commons.compress.MemoryLimitException#<init>(JI)V
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.MemoryLimitException#instance-init#
+java.lang.IllegalArgumentException#instance-init#
+==
+initializeTables org.apache.commons.compress.compressors.lzw.LZWInputStream#initializeTables(I)V

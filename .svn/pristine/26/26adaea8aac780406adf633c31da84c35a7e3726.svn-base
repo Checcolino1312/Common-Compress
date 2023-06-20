@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.sevenz.LZMA2Decoder#encode(Ljava/io/OutputStream;Ljava/lang/Object;)Ljava/io/OutputStream;
+org.tukaani.xz.FinishableWrapperOutputStream#<init>(Ljava/io/OutputStream;)V
+org.apache.commons.compress.archivers.sevenz.LZMA2Decoder#getOptions(Ljava/lang/Object;)Lorg/tukaani/xz/LZMA2Options;
+org.tukaani.xz.FinishableWrapperOutputStream#instance-init#

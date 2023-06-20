@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.ZipFile#copyRawEntries(Lorg/apache/commons/compress/archivers/zip/ZipArchiveOutputStream;Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntryPredicate;)V
+==
+getRawInputStream org.apache.commons.compress.archivers.zip.ZipFile#getRawInputStream(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Ljava/io/InputStream;
+getEntriesInPhysicalOrder org.apache.commons.compress.archivers.zip.ZipFile#getEntriesInPhysicalOrder()Ljava/util/Enumeration;

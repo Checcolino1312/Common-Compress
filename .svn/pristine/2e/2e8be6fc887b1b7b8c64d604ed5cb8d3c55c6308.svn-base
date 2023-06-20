@@ -1,0 +1,7 @@
+org.apache.commons.compress.harmony.unpack200.IcTuple#innerBreakAtDollar(Ljava/lang/String;)[Ljava/lang/String;
+java.util.ArrayList#<init>()V
+java.lang.String#length()I
+java.lang.String#substring(I)Ljava/lang/String;
+java.util.ArrayList#instance-init#
+java.lang.String#charAt(I)C
+java.lang.String#substring(II)Ljava/lang/String;

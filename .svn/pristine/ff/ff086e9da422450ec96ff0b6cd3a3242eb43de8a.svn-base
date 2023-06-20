@@ -1,0 +1,2 @@
+org.apache.commons.compress.utils.BoundedInputStream#skip(J)J
+java.lang.Math#min(JJ)J

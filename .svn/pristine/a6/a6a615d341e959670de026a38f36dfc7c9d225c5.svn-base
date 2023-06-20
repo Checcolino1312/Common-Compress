@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry#hashCode()I
+java.lang.String#hashCode()I
+==
+getName org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry#getName()Ljava/lang/String;

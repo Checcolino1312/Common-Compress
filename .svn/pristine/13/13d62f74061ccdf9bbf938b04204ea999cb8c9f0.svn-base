@@ -1,0 +1,8 @@
+org.apache.commons.compress.archivers.sevenz.Folder#getOrderedCoders()Ljava/lang/Iterable;
+java.util.LinkedList#<init>()V
+java.util.Collections#emptyList()Ljava/util/List;
+java.util.LinkedList#instance-init#
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+==
+findBindPairForOutStream org.apache.commons.compress.archivers.sevenz.Folder#findBindPairForOutStream(I)I

@@ -1,0 +1,138 @@
+
+Torg.apache.commons.compress.harmony.pack200.RunCodec#decode(Ljava/io/InputStream;J)Ip
+fC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/RunCodec.java6 6("startingBlock*µ
+29 9(,Æ
+´
+:$ :(*7
+%51org.apache.commons.compress.harmony.pack200.Codec"__id*`
+
+__unknown_file (D*B6
+4org.apache.commons.compress.harmony.pack200.RunCodec"
+aCodec‡
+›
+: :(+	
+%6int"uorg.apache.commons.compress.harmony.pack200.RunCodec#normalise(ILorg/apache/commons/compress/harmony/pack200/Codec;)I*T
+
+__unknown_file (86
+4org.apache.commons.compress.harmony.pack200.RunCodec*"
+
+__unknown_file (
+""*U
+
+__unknown_file (9
+7
+%51org.apache.commons.compress.harmony.pack200.Codec"
+: :(,
+""*Z
+39& 9(+F
+D
+9& 9(+	
+%2int"__id*'
+
+__unknown_file (
+	
+%4int*
+2*ç
+startingBlock6 6(<ç
+ä
+5 5(
+%11"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*7
+
+__unknown_file (
+
+injava.io.InputStreamZ
+X
+6( 6(*
+injava.io.InputStream"__annotation*#
+
+__unknown_file (
+
+%11*
+5
+1*Z
+49" 9(#F
+D
+9" 9(#	
+%2int"__id*'
+
+__unknown_file (
+	
+%3int*
+2*à
+58 8($Æ
+´
+8 8($7
+%01org.apache.commons.compress.harmony.pack200.Codec"__id*`
+
+__unknown_file (D*B6
+4org.apache.commons.compress.harmony.pack200.RunCodec"
+aCodecøº
+8 8(:	
+%1int"Qorg.apache.commons.compress.harmony.pack200.Codec#decode(Ljava/io/InputStream;J)I*U
+
+__unknown_file (9
+7
+%01org.apache.commons.compress.harmony.pack200.Codec*7
+
+__unknown_file (
+
+injava.io.InputStream*"
+
+__unknown_file (
+""2decode(Ljava/io/InputStream;J)*
+3
+4*©
+1< <(Æ
+´
+< <(7
+%71org.apache.commons.compress.harmony.pack200.Codec"__id*`
+
+__unknown_file (D*B6
+4org.apache.commons.compress.harmony.pack200.RunCodec"
+bCodecøº
+< <(0	
+%8int"Qorg.apache.commons.compress.harmony.pack200.Codec#decode(Ljava/io/InputStream;J)I*U
+
+__unknown_file (9
+7
+%71org.apache.commons.compress.harmony.pack200.Codec*7
+
+__unknown_file (
+
+injava.io.InputStream*"
+
+__unknown_file (
+""2decode(Ljava/io/InputStream;J)Æ
+´
+=$ =(*7
+%91org.apache.commons.compress.harmony.pack200.Codec"__id*`
+
+__unknown_file (D*B6
+4org.apache.commons.compress.harmony.pack200.RunCodec"
+bCodec·
+ﬁ
+= =(+
+
+%10int"uorg.apache.commons.compress.harmony.pack200.RunCodec#normalise(ILorg/apache/commons/compress/harmony/pack200/Codec;)I*T
+
+__unknown_file (86
+4org.apache.commons.compress.harmony.pack200.RunCodec*"
+
+__unknown_file (
+""*U
+
+__unknown_file (9
+7
+%91org.apache.commons.compress.harmony.pack200.Codec"
+= =(,
+"":%
+6 6(+
+injava.io.InputStream: 
+
+__unknown_file (
+""B86
+4org.apache.commons.compress.harmony.pack200.RunCodecHP

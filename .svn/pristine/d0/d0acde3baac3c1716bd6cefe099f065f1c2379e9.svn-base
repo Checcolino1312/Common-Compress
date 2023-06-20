@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCache#arrayIsCached([Ljava/lang/String;)Z
+==
+lastKnownSize org.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCache$CachedArray#lastKnownSize()I

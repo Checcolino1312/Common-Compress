@@ -1,0 +1,42 @@
+
+dorg.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream#readOneByte()Iî
+áC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/lz77support/AbstractLZ77CompressorInputStream.javaå å(#"3*Ø
+2
+è è(áÑ
+
+è è(
+
+%2void"Gorg.apache.commons.compress.compressors.CompressorInputStream#count(I)V*u
+
+__unknown_file (YW
+Uorg.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream* 
+
+__unknown_file (22count(I)"
+
+ê ê(
+""*™
+3
+ç ç(—
+Œ
+
+ç ç(;
+%05org.apache.commons.compress.utils.CountingInputStream"__id*}
+
+__unknown_file (a*_W
+Uorg.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream"
+inºπ
+
+ç ç(	
+%1int"=org.apache.commons.compress.utils.CountingInputStream#read()I*Y
+
+__unknown_file (=
+;
+%05org.apache.commons.compress.utils.CountingInputStream2read()*
+2
+1*%
+1
+í í("
+
+í í(
+""BYW
+Uorg.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStreamP

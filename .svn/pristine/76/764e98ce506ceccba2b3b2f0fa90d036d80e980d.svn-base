@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#readSize()I
+org.apache.commons.compress.utils.ByteUtils#fromLittleEndian(Lorg/apache/commons/compress/utils/ByteUtils$ByteSupplier;I)J

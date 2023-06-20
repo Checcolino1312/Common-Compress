@@ -1,0 +1,23 @@
+
+Gorg.apache.commons.compress.archivers.dump.TapeInputStream#available()Iv
+lC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/dump/TapeInputStream.java; ;("2"1*!
+2= =("
+= =(*
+""*∑
+1@ @(í
+è
+@ @(
+%0java.io.InputStream"__id*b
+
+__unknown_file (F*D<
+:org.apache.commons.compress.archivers.dump.TapeInputStream"
+in}
+@ @(	
+%1int" java.io.InputStream#available()I*7
+
+__unknown_file (
+
+%0java.io.InputStream2available()"
+@ @(
+""B><
+:org.apache.commons.compress.archivers.dump.TapeInputStreamHP

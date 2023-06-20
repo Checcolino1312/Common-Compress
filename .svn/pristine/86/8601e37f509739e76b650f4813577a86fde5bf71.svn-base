@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#checkEntryIsInitialized(Ljava/util/Map;I)V
+org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry#instance-init#
+org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry#<init>()V

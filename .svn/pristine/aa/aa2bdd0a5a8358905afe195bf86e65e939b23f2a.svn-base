@@ -1,0 +1,80 @@
+
+Lorg.apache.commons.compress.archivers.tar.TarArchiveInputStream#available()I}
+qC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStream.java„ „("5*j
+2
+Š Š(C
+A
+
+Š Š($	
+%4int"__id*"
+
+__unknown_file (
+"""
+
+Š Š(%
+""*û
+3
+‰ ‰(Æ
+Ã
+
+‰ ‰(?
+%19org.apache.commons.compress.archivers.tar.TarArchiveEntry"__id*n
+
+__unknown_file (R*PA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStream"
+	currEntryÓÐ
+
+‰ ‰(#
+
+%2long"Horg.apache.commons.compress.archivers.tar.TarArchiveEntry#getRealSize()J*]
+
+__unknown_file (A
+?
+%19org.apache.commons.compress.archivers.tar.TarArchiveEntry2getRealSize()C
+A
+
+‰4 ‰(E	
+%3int"__id*"
+
+__unknown_file (
+""*
+2
+1*%
+4
+† †("
+
+† †(
+""*é
+5
+… …(Ï
+Ì
+
+… …(
+%0boolean"Norg.apache.commons.compress.archivers.tar.TarArchiveInputStream#isDirectory()Z*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStream*
+3
+4*Ä
+1
+Œ Œ(Æ
+Ã
+
+Œ Œ(?
+%59org.apache.commons.compress.archivers.tar.TarArchiveEntry"__id*n
+
+__unknown_file (R*PA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStream"
+	currEntryÓÐ
+
+Œ Œ(-
+
+%6long"Horg.apache.commons.compress.archivers.tar.TarArchiveEntry#getRealSize()J*]
+
+__unknown_file (A
+?
+%59org.apache.commons.compress.archivers.tar.TarArchiveEntry2getRealSize()"
+
+Œ Œ(=
+""BCA
+?org.apache.commons.compress.archivers.tar.TarArchiveInputStreamHP

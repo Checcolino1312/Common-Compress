@@ -1,0 +1,277 @@
+
+]org.apache.commons.compress.utils.ArchiveUtils#sanitize(Ljava/lang/String;)Ljava/lang/String;x
+lC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/utils/ArchiveUtils.javaÂ Â(!"14*f
+13
+ÄF Ä(HN
+L
+
+ÄF Ä(H
+%2char[]"__id**
+
+__unknown_file (
+
+cschar[]*
+11*µ
+14
+Ã Ã(ƒ€
+
+Ã Ã()
+%0char[]" java.lang.String#toCharArray()[C*3
+
+__unknown_file (
+
+sjava.lang.String2toCharArray()N
+L
+
+Ã Ã(*
+cschar[]"__id**
+
+__unknown_file (
+
+%0char[]C
+A
+
+Ä* Ä(C	
+%1int"__id*"
+
+__unknown_file (
+""*
+13
+12*ğ
+3
+Ñ Ñ(ÖÓ
+
+Ñ Ñ(
+%17java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*;
+
+__unknown_file (
+
+sbjava.lang.StringBuilder*!
+
+__unknown_file (
+?2	append(C)*
+7
+1*ñ
+4
+Í Í(×Ô
+
+Í Í( 
+%16java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*;
+
+__unknown_file (
+
+sbjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(C)*
+7
+1*İ
+5
+Ì% Ì(*a
+_
+
+Ì. Ì(D'
+%14 java.lang.Character$UnicodeBlock"__id*"
+
+__unknown_file (
+""a
+_
+
+Ì. Ì(M'
+%15 java.lang.Character$UnicodeBlock"__id*"
+
+__unknown_file (
+""*
+3
+4*ï
+6
+Ë5 Ë(>a
+_
+
+Ë5 Ë(K'
+%12 java.lang.Character$UnicodeBlock"__id*"
+
+__unknown_file (
+""è
+å
+
+Ë5 Ë(Q'
+%13 java.lang.Character$UnicodeBlock"Hjava.lang.Character$UnicodeBlock#of(C)Ljava/lang/Character$UnicodeBlock;*@
+
+__unknown_file ($""
+ java.lang.Character$UnicodeBlock*"
+
+__unknown_file (
+""‡
+„
+
+Ë Ë(R)
+block java.lang.Character$UnicodeBlock"__id*E
+
+__unknown_file ()
+'
+%13 java.lang.Character$UnicodeBlock*
+3
+5*¸
+7
+Ê Ê(
+›
+
+Ê Ê(*
+%11boolean"$java.lang.Character#isISOControl(C)Z*3
+
+__unknown_file ("
+java.lang.Character*"
+
+__unknown_file (
+""*
+3
+6*È
+9
+È! È(4FD
+
+È% È(2
+%9java.lang.StringBuilder"java.lang.StringBuilderu
+s
+
+È! È(4
+%10"!java.lang.StringBuilder#<init>()V*;
+
+__unknown_file (
+
+%9java.lang.StringBuilderp
+n
+
+È È(5
+sbjava.lang.StringBuilder"__id*;
+
+__unknown_file (
+
+%9java.lang.StringBuilder*
+7
+1*­
+10
+Æ Æ(C
+A
+
+Æ Æ(8	
+%6int"__id*"
+
+__unknown_file (
+""C
+A
+
+Æ> Æ(W	
+%7int"__id*"
+
+__unknown_file (
+""‹
+ˆ
+
+Æ Æ(]
+
+%8void"java.util.Arrays#fill([CIIC)V*0
+
+__unknown_file ("
+java.util.Arrays*-
+
+__unknown_file (
+
+charschar[]*"
+
+__unknown_file (
+""*'
+
+__unknown_file (
+	
+%7int*!
+
+__unknown_file (
+.*
+9*
+11
+Ä Ä(xQ
+O
+
+Ä Ä(x
+charschar[]"__id**
+
+__unknown_file (
+
+%2char[]N
+L
+
+Å Å(
+%2char[]"__id**
+
+__unknown_file (
+
+cschar[]C
+A
+
+Å Å(1	
+%5int"__id*"
+
+__unknown_file (
+""*
+9
+10*Â
+12
+ÄK Ä(QN
+L
+
+ÄY Ä([
+%2char[]"__id**
+
+__unknown_file (
+
+cschar[]C
+A
+
+Ä] Ä(v	
+%4int"__id*"
+
+__unknown_file (
+""Ä
+Á
+
+ÄK Ä(w
+%3char[]"java.util.Arrays#copyOf([CI)[C*0
+
+__unknown_file ("
+java.util.Arrays**
+
+__unknown_file (
+
+cschar[]*'
+
+__unknown_file (
+	
+%4intN
+L
+
+ÄK Ä(w
+%2char[]"__id**
+
+__unknown_file (
+
+%3char[]*
+11*â
+1
+Ó Ó(§¤
+
+Ó Ó(
+%18java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*;
+
+__unknown_file (
+
+sbjava.lang.StringBuilder2
+toString()"'
+
+Ó Ó(
+
+%18java.lang.String:#
+
+Â" Â(0
+sjava.lang.StringB2"0
+.org.apache.commons.compress.utils.ArchiveUtilsH

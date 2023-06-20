@@ -1,0 +1,50 @@
+
+Morg.apache.commons.compress.archivers.zip.ZipLong#equals(Ljava/lang/Object;)Z{
+oC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipLong.java¨ ¨("startingBlock*%
+2
+ª ª("
+
+ª ª(
+""*‰
+startingBlock
+¨ ¨()Š
+‡
+
+§ §(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectW
+U
+
+¨' ¨((
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%1*
+2
+1*Ã
+1
+¬ ¬(›˜
+
+¬ ¬(0
+
+%0long"=org.apache.commons.compress.archivers.zip.ZipLong#getValue()J*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getValue()"
+
+¬ ¬(1
+"":#
+
+¨ ¨((
+ojava.lang.ObjectB53
+1org.apache.commons.compress.archivers.zip.ZipLongHP

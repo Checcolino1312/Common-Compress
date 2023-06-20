@@ -1,0 +1,5 @@
+org.apache.commons.compress.harmony.pack200.AttributeDefinitionBands#<init>(Lorg/apache/commons/compress/harmony/pack200/Segment;I[Lorg/objectweb/asm/Attribute;)V
+java.util.HashMap#<init>()V
+org.apache.commons.compress.harmony.pack200.AttributeDefinitionBands#addAttributeDefinitions(Ljava/util/Map;[II)V
+java.util.HashMap#instance-init#
+org.apache.commons.compress.harmony.pack200.AttributeDefinitionBands#addHighIndices([I)[I

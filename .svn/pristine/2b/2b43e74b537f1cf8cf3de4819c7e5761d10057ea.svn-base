@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#setContentMethods(Ljava/lang/Iterable;)V
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#reverse(Ljava/lang/Iterable;)Ljava/lang/Iterable;

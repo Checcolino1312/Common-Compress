@@ -1,0 +1,6 @@
+org.apache.commons.compress.harmony.unpack200.ClassBands#parseCodeBands(Ljava/io/InputStream;)V
+org.apache.commons.compress.harmony.unpack200.ClassBands#parseCodeAttrBands(Ljava/io/InputStream;I)V
+java.lang.IllegalStateException#instance-init#
+java.util.Arrays#setAll([Ljava/lang/Object;Ljava/util/function/IntFunction;)V
+java.lang.IllegalStateException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.harmony.unpack200.SegmentUtils#countMatches([[JLorg/apache/commons/compress/harmony/unpack200/IMatcher;)I

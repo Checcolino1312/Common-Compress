@@ -1,0 +1,36 @@
+
+úorg.apache.commons.compress.archivers.zip.ScatterZipOutputStream#fileBased(Ljava/io/File;)Lorg/apache/commons/compress/archivers/zip/ScatterZipOutputStream;|
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ScatterZipOutputStream.javar) r(2"1*˙
+1s s(êç
+s s(&
+%0java.nio.file.Path")java.io.File#toPath()Ljava/nio/file/Path;*2
+
+__unknown_file (
+
+filejava.io.File2toPath()A
+?
+s( s(D	
+%1int"__id*"
+
+__unknown_file (
+""æ
+ª
+s s(EF
+%2@org.apache.commons.compress.archivers.zip.ScatterZipOutputStream"£org.apache.commons.compress.archivers.zip.ScatterZipOutputStream#pathBased(Ljava/nio/file/Path;I)Lorg/apache/commons/compress/archivers/zip/ScatterZipOutputStream;*`
+
+__unknown_file (D"B
+@org.apache.commons.compress.archivers.zip.ScatterZipOutputStream*6
+
+__unknown_file (
+
+%0java.nio.file.Path*'
+
+__unknown_file (
+	
+%1int"T
+s s(FH
+F
+%2@org.apache.commons.compress.archivers.zip.ScatterZipOutputStream: 
+r3 r(B
+filejava.io.FileBD"B
+@org.apache.commons.compress.archivers.zip.ScatterZipOutputStreamH

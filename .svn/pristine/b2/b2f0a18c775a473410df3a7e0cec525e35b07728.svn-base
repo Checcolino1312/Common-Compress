@@ -1,0 +1,30 @@
+
+Korg.apache.commons.compress.archivers.zip.ZipEightByteInteger#getBytes(J)[By
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipEightByteInteger.java^ ^(!"1*ÿ
+1_ _(º
+·
+_ _(1
+%0java.math.BigInteger"5java.math.BigInteger#valueOf(J)Ljava/math/BigInteger;*4
+
+__unknown_file ("
+java.math.BigInteger*"
+
+__unknown_file (
+""–
+“
+_ _(2
+%1byte[]"`org.apache.commons.compress.archivers.zip.ZipEightByteInteger#getBytes(Ljava/math/BigInteger;)[B*]
+
+__unknown_file (A"?
+=org.apache.commons.compress.archivers.zip.ZipEightByteInteger*8
+
+__unknown_file (
+
+%0java.math.BigInteger"
+_ _(3
+
+%1byte[]: 
+
+__unknown_file (
+""BA"?
+=org.apache.commons.compress.archivers.zip.ZipEightByteIntegerH

@@ -1,0 +1,43 @@
+
+K__sonar_lambda_65$org.apache.commons.compress.archivers.zip.ZipArchiveEntryƒ
+wC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java”" ”(G"startingBlock*ï
+startingBlock
+”" ”(GÌ
+É
+
+__unknown_file (>
+headerId2org.apache.commons.compress.archivers.zip.ZipShort"__id*g
+
+__unknown_file (K*I;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry"
+
+headerId*
+1*£
+1
+”' ”(/¯¬
+
+”7 ”(F8
+%22org.apache.commons.compress.archivers.zip.ZipShort"yorg.apache.commons.compress.archivers.zip.ZipExtraField#getHeaderId()Lorg/apache/commons/compress/archivers/zip/ZipShort;*Z
+
+__unknown_file (>
+<
+f7org.apache.commons.compress.archivers.zip.ZipExtraField2getHeaderId()À½
+
+”' ”(G
+%3boolean"Norg.apache.commons.compress.archivers.zip.ZipShort#equals(Ljava/lang/Object;)Z*\
+
+__unknown_file (@
+>
+headerId2org.apache.commons.compress.archivers.zip.ZipShort*V
+
+__unknown_file (:
+8
+%22org.apache.commons.compress.archivers.zip.ZipShort2equals(Ljava/lang/Object;)"
+
+”' ”(G
+
+%3boolean:J
+
+”" ”(#<
+f7org.apache.commons.compress.archivers.zip.ZipExtraFieldB 
+java.util.function.Predicate

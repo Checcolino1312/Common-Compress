@@ -1,0 +1,6 @@
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#readSignature(Z)Z
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#matches([BI)Z
+org.apache.commons.compress.utils.IOUtils#readFully(Ljava/io/InputStream;[B)I
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#skipSkippableFrame([B)I

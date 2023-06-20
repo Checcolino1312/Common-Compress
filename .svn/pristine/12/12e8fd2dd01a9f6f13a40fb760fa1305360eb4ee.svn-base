@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#supportsDataDescriptorFor(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z
+org.apache.commons.compress.archivers.zip.ZipMethod#getCode()I
+org.apache.commons.compress.archivers.zip.GeneralPurposeBit#usesDataDescriptor()Z

@@ -1,0 +1,227 @@
+
+xorg.apache.commons.compress.harmony.pack200.PackingOptions#getUnknownAttributePrototypes()[Lorg/objectweb/asm/Attribute;„
+xC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/pack200/PackingOptions.java• •(4"3*º
+2
+—/ —(@><
+
+—3 —(>
+%1java.util.ArrayList"java.util.ArrayListl
+j
+
+—/ —(@
+%2"java.util.ArrayList#<init>()V*7
+
+__unknown_file (
+
+%1java.util.ArrayListk
+i
+
+— —(A
+
+prototypesjava.util.List"__id*7
+
+__unknown_file (
+
+%1java.util.ArrayList¡
+ž
+
+˜4 ˜(I
+%3java.util.Map"__id*u
+
+__unknown_file (Y*W<
+:org.apache.commons.compress.harmony.pack200.PackingOptions"
+classAttributeActionsC
+A
+
+˜K ˜(q	
+%4int"__id*"
+
+__unknown_file (
+""Š
+‡
+
+˜ ˜(r
+
+%5void"yorg.apache.commons.compress.harmony.pack200.PackingOptions#addOrUpdateAttributeActions(Ljava/util/List;Ljava/util/Map;I)V*Z
+
+__unknown_file (><
+:org.apache.commons.compress.harmony.pack200.PackingOptions*:
+
+__unknown_file (
+
+
+prototypesjava.util.List*1
+
+__unknown_file (
+
+%3java.util.Map*'
+
+__unknown_file (
+	
+%4int¢
+Ÿ
+
+™4 ™(J
+%6java.util.Map"__id*v
+
+__unknown_file (Z*X<
+:org.apache.commons.compress.harmony.pack200.PackingOptions"
+methodAttributeActionsC
+A
+
+™L ™(s	
+%7int"__id*"
+
+__unknown_file (
+""Š
+‡
+
+™ ™(t
+
+%8void"yorg.apache.commons.compress.harmony.pack200.PackingOptions#addOrUpdateAttributeActions(Ljava/util/List;Ljava/util/Map;I)V*Z
+
+__unknown_file (><
+:org.apache.commons.compress.harmony.pack200.PackingOptions*:
+
+__unknown_file (
+
+
+prototypesjava.util.List*1
+
+__unknown_file (
+
+%6java.util.Map*'
+
+__unknown_file (
+	
+%7int¡
+ž
+
+š4 š(I
+%9java.util.Map"__id*u
+
+__unknown_file (Y*W<
+:org.apache.commons.compress.harmony.pack200.PackingOptions"
+fieldAttributeActionsD
+B
+
+šK š(q
+
+%10int"__id*"
+
+__unknown_file (
+""Œ
+‰
+
+š š(r
+%11void"yorg.apache.commons.compress.harmony.pack200.PackingOptions#addOrUpdateAttributeActions(Ljava/util/List;Ljava/util/Map;I)V*Z
+
+__unknown_file (><
+:org.apache.commons.compress.harmony.pack200.PackingOptions*:
+
+__unknown_file (
+
+
+prototypesjava.util.List*1
+
+__unknown_file (
+
+%9java.util.Map*(
+
+__unknown_file (
+
+
+%10int¡
+ž
+
+›4 ›(H
+%12java.util.Map"__id*t
+
+__unknown_file (X*V<
+:org.apache.commons.compress.harmony.pack200.PackingOptions"
+codeAttributeActionsD
+B
+
+›J ›(o
+
+%13int"__id*"
+
+__unknown_file (
+""
+Š
+
+› ›(p
+%14void"yorg.apache.commons.compress.harmony.pack200.PackingOptions#addOrUpdateAttributeActions(Ljava/util/List;Ljava/util/Map;I)V*Z
+
+__unknown_file (><
+:org.apache.commons.compress.harmony.pack200.PackingOptions*:
+
+__unknown_file (
+
+
+prototypesjava.util.List*2
+
+__unknown_file (
+
+%12java.util.Map*(
+
+__unknown_file (
+
+
+%13int^
+\
+
+œ7 œ(L$
+%15org.objectweb.asm.Attribute[]"__id*"
+
+__unknown_file (
+""“
+
+œ$ œ(M$
+%16org.objectweb.asm.Attribute[]">java.util.List#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*:
+
+__unknown_file (
+
+
+prototypesjava.util.List*B
+
+__unknown_file (&
+$
+%15org.objectweb.asm.Attribute[]2toArray([Ljava/lang/Object;)²
+¯
+
+œ œ(MW<
+:org.apache.commons.compress.harmony.pack200.PackingOptions"
+unknownAttributeTypes"__id*B
+
+__unknown_file (&
+$
+%16org.objectweb.asm.Attribute[]*
+1*Ë
+3
+– –(!±
+®
+
+– –(!#
+%0org.objectweb.asm.Attribute[]"__id*u
+
+__unknown_file (Y*W<
+:org.apache.commons.compress.harmony.pack200.PackingOptions"
+unknownAttributeTypes*
+2
+1*ú
+1
+ž ž($²
+¯
+
+ž ž($$
+%17org.objectweb.asm.Attribute[]"__id*u
+
+__unknown_file (Y*W<
+:org.apache.commons.compress.harmony.pack200.PackingOptions"
+unknownAttributeTypes"4
+
+ž ž(%&
+$
+%17org.objectweb.asm.Attribute[]B><
+:org.apache.commons.compress.harmony.pack200.PackingOptionsH

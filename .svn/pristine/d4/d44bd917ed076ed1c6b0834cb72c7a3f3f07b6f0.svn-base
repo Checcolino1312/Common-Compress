@@ -1,0 +1,35 @@
+
+Äorg.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm#createSuperMethodRefForm(ILjava/lang/String;[I)Lorg/apache/commons/compress/harmony/unpack200/bytecode/forms/ByteCodeForm;’
+‡C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/forms/ByteCodeForm.javac c(7"1*¥
+1d& d(,µ²
+d d(%U
+%0Oorg.apache.commons.compress.harmony.unpack200.bytecode.forms.SuperMethodRefForm"Oorg.apache.commons.compress.harmony.unpack200.bytecode.forms.SuperMethodRefFormø
+õ
+d d(<
+%1"norg.apache.commons.compress.harmony.unpack200.bytecode.forms.SuperMethodRefForm#<init>(ILjava/lang/String;[I)V*s
+
+__unknown_file (W
+U
+%0Oorg.apache.commons.compress.harmony.unpack200.bytecode.forms.SuperMethodRefForm*"
+
+__unknown_file (
+""*6
+
+__unknown_file (
+
+namejava.lang.String*"
+
+__unknown_file (
+"""c
+d d(=W
+U
+%0Oorg.apache.commons.compress.harmony.unpack200.bytecode.forms.SuperMethodRefForm: 
+
+__unknown_file (
+"":$
+cD c(P
+namejava.lang.String: 
+
+__unknown_file (
+""BM"K
+Iorg.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeFormH

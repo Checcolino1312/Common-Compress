@@ -1,0 +1,88 @@
+
+Xorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#matches([BI)Z“
+ˆC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/lz4/FramedLZ4CompressorInputStream.javaT T(!"5*÷
+2\ \(!D
+B
+\4 \(A
+%2byte[]"__id*"
+
+__unknown_file (
+""Ä
+Á
+\ \(I
+%3byte[]"java.util.Arrays#copyOf([BI)[B*0
+
+__unknown_file ("
+java.util.Arrays*1
+
+__unknown_file (
+
+	signaturebyte[]*"
+
+__unknown_file (
+""V
+T
+\ \(I
+shortenedSigbyte[]"__id**
+
+__unknown_file (
+
+%3byte[]*
+1*º
+3Z Z(']
+[
+Z Z((
+shortenedSigbyte[]"__id*1
+
+__unknown_file (
+
+	signaturebyte[]D
+B
+[ [(,
+%1byte[]"__id*"
+
+__unknown_file (
+""*
+2
+1*!
+4W W("
+W W(
+""*[
+5V V(D
+B
+V V("
+%0byte[]"__id*"
+
+__unknown_file (
+""*
+3
+4*º
+1_ _(D
+B
+_+ _(8
+%4byte[]"__id*"
+
+__unknown_file (
+""Ð
+Í
+_ _(9
+%5boolean"java.util.Arrays#equals([B[B)Z*0
+
+__unknown_file ("
+java.util.Arrays*4
+
+__unknown_file (
+
+shortenedSigbyte[]**
+
+__unknown_file (
+
+%4byte[]"
+_ _(:
+"":
+T" T(9
+	signaturebyte[]: 
+
+__unknown_file (
+""BN"L
+Jorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamHP

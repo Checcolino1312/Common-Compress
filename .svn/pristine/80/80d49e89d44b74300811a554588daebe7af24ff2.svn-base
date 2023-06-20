@@ -1,0 +1,61 @@
+
+oorg.apache.commons.compress.archivers.sevenz.SevenZOutputFile#reverse(Ljava/lang/Iterable;)Ljava/lang/Iterable;y
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZOutputFile.javah# h(*"5*Ò
+2j j(>
+<
+j j(
+tT"__id*"
+
+__unknown_file (
+""{
+y
+j j(
+tT"
+__arrayGet*5
+
+__unknown_file (
+
+ijava.lang.Iterable*"
+
+__unknown_file (
+""*
+3
+1*ß
+3k k(ÊÇ
+k k(
+
+%2void"2java.util.LinkedList#addFirst(Ljava/lang/Object;)V*7
+
+__unknown_file (
+
+ljava.util.LinkedList*$
+
+__unknown_file (
+
+tT2addFirst(Ljava/lang/Object;)*
+2*©
+5i  i(2><
+i$ i(0
+%0java.util.LinkedList"java.util.LinkedListl
+j
+i  i(2
+%1"java.util.LinkedList#<init>()V*8
+
+__unknown_file (
+
+%0java.util.LinkedListg
+e
+i i(3
+ljava.util.LinkedList"__id*8
+
+__unknown_file (
+
+%0java.util.LinkedList*
+2*6
+1m m("'
+m m(
+
+ljava.util.LinkedList:#
+h+ h(>
+ijava.lang.IterableBA"?
+=org.apache.commons.compress.archivers.sevenz.SevenZOutputFile

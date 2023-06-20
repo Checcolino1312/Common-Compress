@@ -1,0 +1,44 @@
+
+\org.apache.commons.compress.archivers.zip.UnrecognizedExtraField#getCentralDirectoryData()[B|
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/UnrecognizedExtraField.java7 7()"3*›
+29 9(”
+‘
+9  9(+
+%1byte[]"__id*q
+
+__unknown_file (U*SB
+@org.apache.commons.compress.archivers.zip.UnrecognizedExtraField"
+centralDataØ
+Õ
+9 9(,
+%2byte[]"<org.apache.commons.compress.archivers.zip.ZipUtil#copy([B)[B*Q
+
+__unknown_file (5"3
+1org.apache.commons.compress.archivers.zip.ZipUtil**
+
+__unknown_file (
+
+%1byte[]"
+9 9(-
+
+%2byte[]*¬
+38 8(”
+‘
+8 8(
+%0byte[]"__id*q
+
+__unknown_file (U*SB
+@org.apache.commons.compress.archivers.zip.UnrecognizedExtraField"
+centralData*
+2
+1*œ
+1; ;(#ðí
+; ;(%
+%3byte[]"Yorg.apache.commons.compress.archivers.zip.UnrecognizedExtraField#getLocalFileDataData()[B*`
+
+__unknown_file (DB
+@org.apache.commons.compress.archivers.zip.UnrecognizedExtraField2getLocalFileDataData()"
+; ;(&
+
+%3byte[]BDB
+@org.apache.commons.compress.archivers.zip.UnrecognizedExtraFieldH

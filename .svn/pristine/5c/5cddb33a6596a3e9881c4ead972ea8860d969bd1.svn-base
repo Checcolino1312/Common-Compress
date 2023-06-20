@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.unpack200.CpBands#parseCpFloat(Ljava/io/InputStream;)V
+java.lang.Float#intBitsToFloat(I)F

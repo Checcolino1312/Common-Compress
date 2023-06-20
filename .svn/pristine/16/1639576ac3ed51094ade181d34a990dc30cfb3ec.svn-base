@@ -1,0 +1,123 @@
+
+borg.apache.commons.compress.archivers.sevenz.SevenZMethodConfiguration#equals(Ljava/lang/Object;)ZÇ
+xC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZMethodConfiguration.javaD D("startingBlock*ﬁ
+2M M(†
+ù
+M M(%
+%5java.lang.Object"__id*s
+
+__unknown_file (W*UH
+Forg.apache.commons.compress.archivers.sevenz.SevenZMethodConfiguration"	
+optionsß
+§
+M' M(4
+%6java.lang.Object"__id*z
+
+__unknown_file (^*\
+O
+otherForg.apache.commons.compress.archivers.sevenz.SevenZMethodConfiguration"	
+options¸
+˘
+M M(5
+%7boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*4
+
+__unknown_file (
+
+%5java.lang.Object*4
+
+__unknown_file (
+
+%6java.lang.Object*
+1*°
+3KL K(Oõ
+ò
+K K(PO
+otherForg.apache.commons.compress.archivers.sevenz.SevenZMethodConfiguration"__id*5
+
+__unknown_file (
+
+objjava.lang.Object»
+≈
+L L($?
+%29org.apache.commons.compress.archivers.sevenz.SevenZMethod"__id*r
+
+__unknown_file (V*TH
+Forg.apache.commons.compress.archivers.sevenz.SevenZMethodConfiguration"
+methodœ
+Ã
+L& L(2?
+%39org.apache.commons.compress.archivers.sevenz.SevenZMethod"__id*y
+
+__unknown_file (]*[
+O
+otherForg.apache.commons.compress.archivers.sevenz.SevenZMethodConfiguration"
+methodŒ
+À
+L L(3
+%4boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*]
+
+__unknown_file (A
+?
+%29org.apache.commons.compress.archivers.sevenz.SevenZMethod*]
+
+__unknown_file (A
+?
+%39org.apache.commons.compress.archivers.sevenz.SevenZMethod*
+2
+1*ä
+startingBlockD D(+ä
+á
+C C(
+%8"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectW
+U
+D' D(*
+objjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%8*	
+4
+5
+7*!
+4I I("
+I I(
+""*ˆ
+5H H(#∆√
+H H(%
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*f
+
+__unknown_file (JH
+Forg.apache.commons.compress.archivers.sevenz.SevenZMethodConfiguration2
+getClass()ïí
+H) H(7
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*5
+
+__unknown_file (
+
+objjava.lang.Object2
+getClass()*
+3
+4*!
+7F F("
+F F(
+""*!
+1L M(6"
+L M(6
+"":#
+D D(*
+objjava.lang.ObjectBJH
+Forg.apache.commons.compress.archivers.sevenz.SevenZMethodConfigurationHP

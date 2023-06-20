@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bom serialNumber="urn:uuid:3dafda4a-7de8-4c50-a195-a18c739577cf" version="1" xmlns="http://cyclonedx.org/schema/bom/1.4">
+  <metadata>
+    <timestamp>2023-06-05T17:31:14Z</timestamp>
+    <tools>
+      <tool>
+        <vendor>OWASP Foundation</vendor>
+        <name>CycloneDX Maven plugin</name>
+        <version>2.7.3</version>
+        <hashes>
+          <hash alg="MD5">ab886f1cb1a79b4244ac54dde22a0989</hash>
+          <hash alg="SHA-1">9ed658496dfeef87fe6072b95c62ec37165cc741</hash>
+          <hash alg="SHA-256">df9b43417bef6aeac86a393abcc1ac2ed0518239ba544aaeb595b9619c603503</hash>
+          <hash alg="SHA-512">223da34bb51c5339e0f7285757608c1a56b1ea887f7ad835af9299fabacc693053163da74af352af86b16e18e04db730bd44214eda04291410c42b6ae657d85c</hash>
+          <hash alg="SHA-384">3aaf057329ed0f90ec3a49a45b3cf4ec5ce637fd75d6202e9483fa4274cec3e7b74308016e146b6ba087df5fce9397bb</hash>
+          <hash alg="SHA3-384">0e2ce6d2a0e0ddea90f63d2e521e640e83aeac1230c201042e542186e9f32bceaf54ed9d26e6a9dec04c0f7895bbae19</hash>
+          <hash alg="SHA3-256">dd3ba8325a1a759e5a8f159a3363213d4a34d51120c4e4c77097a6779964fb33</hash>
+          <hash alg="SHA3-512">e5f87b2380e9785330fce113fedd5866a1498d5a9e365b7b00cb6fea50fd47166c471a6347d46d3edb7dd247a583874169624db5be2845c5c87dfdbcd58d9e89</hash>
+        </hashes>
+      </tool>
+    </tools>
+    <component type="library" bom-ref="pkg:maven/org.apache.commons/commons-compress@1.23.1-SNAPSHOT?type=jar">
+      <publisher>The Apache Software Foundation</publisher>
+      <group>org.apache.commons</group>
+      <name>commons-compress</name>
+      <version>1.23.1-SNAPSHOT</version>
+      <description>Apache Commons Compress defines an API for working with
+compression and archive formats.  These include: bzip2, gzip, pack200,
+lzma, xz, Snappy, traditional Unix Compress, DEFLATE, DEFLATE64, LZ4,
+Brotli, Zstandard and ar, cpio, jar, tar, zip, dump, 7z, arj.</description>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+          <url>https://www.apache.org/licenses/LICENSE-2.0</url>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.apache.commons/commons-compress@1.23.1-SNAPSHOT?type=jar</purl>
+      <externalReferences><reference type="website"><url>https://www.apache.org/</url></reference><reference type="build-system"><url>https://github.com/apache/commons-parent/actions</url></reference><reference type="distribution"><url>https://repository.apache.org/service/local/staging/deploy/maven2</url></reference><reference type="issue-tracker"><url>https://issues.apache.org/jira/browse/COMPRESS</url></reference><reference type="mailing-list"><url>https://mail-archives.apache.org/mod_mbox/commons-user/</url></reference><reference type="vcs"><url>https://gitbox.apache.org/repos/asf?p=commons-compress.git</url></reference></externalReferences>
+    </component>
+  </metadata>
+  <components>
+    <component type="library" bom-ref="pkg:maven/com.github.luben/zstd-jni@1.5.4-2?type=jar">
+      <publisher>com.github.luben</publisher>
+      <group>com.github.luben</group>
+      <name>zstd-jni</name>
+      <version>1.5.4-2</version>
+      <description>JNI bindings for Zstd native library that provides fast and high compression lossless algorithm for Java and all JVM languages.</description>
+      <scope>required</scope>
+      <hashes>
+        <hash alg="MD5">889255a1eaac0b68961729cde3687ed4</hash>
+        <hash alg="SHA-1">a4f8af58b52af2a3b6ff93c824ac1f7a58cb0b7a</hash>
+        <hash alg="SHA-256">d697a4c06cc06b507123a113a3eb4d2b83e69e531c3ee40f3e2658785992fd1f</hash>
+        <hash alg="SHA-512">a5b99695b50ea2b151e984eece6a23dd6f790b088a3cbc8e0bebee2f001182b032f8f0b9d44755a984c88a222fd09180db7e044160d253891f735271b9a34325</hash>
+        <hash alg="SHA-384">0b78355abc6a5c7af9bc2e467bba97619b508687d8423b7b6ed96d7d903f6c5b778114b9cb3e9e11a2d49a865eb9fca0</hash>
+        <hash alg="SHA3-384">a47633ce8733d4085ba0ba73af24385c3b872456eb364896c5162ee476ccd125485c7aa5f5295e90a04542a28eb4d3ae</hash>
+        <hash alg="SHA3-256">b31f263ccf3645675d8538f1102a62a7b1851bb270e159508135112e7837bceb</hash>
+        <hash alg="SHA3-512">b504903f5ff08d81e7a28d8ba247c77f49a95a1245e8a432202f25da8e3f15de7c36c8c9775a88f6719d890c96db61fef31206777c4c11de5971d42e9682f337</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>BSD-2-Clause</id>
+        </license>
+      </licenses>
+      <purl>pkg:maven/com.github.luben/zstd-jni@1.5.4-2?type=jar</purl>
+    </component>
+    <component type="library" bom-ref="pkg:maven/org.brotli/dec@0.1.2?type=jar">
+      <group>org.brotli</group>
+      <name>dec</name>
+      <version>0.1.2</version>
+      <description>Brotli is a generic-purpose lossless compression algorithm.</description>
+      <scope>required</scope>
+      <hashes>
+        <hash alg="MD5">4b1cd14cf29733941cc536b27e6aedfa</hash>
+        <hash alg="SHA-1">0c26a897ae0d524809eef1c786cc6183b4ddcc3b</hash>
+        <hash alg="SHA-256">615c0c3efef990d77831104475fba6a1f7971388691d4bad1471ad84101f6d52</hash>
+        <hash alg="SHA-512">d4cd2b33f7c358012ff01db6a13ebfe1e8051a580698bffcd942c47451012cf53ce49a400b1c8bf7502b01e631d79d7c6417202a145622572d79fd145ccde61a</hash>
+        <hash alg="SHA-384">d6b8ad9d0ee6baf8c3a29c1dc2911eaf207352e2c7de893a0185e987e7eae87827890c1d4dbf31c46f25846fbcdc08bb</hash>
+        <hash alg="SHA3-384">d16c32130bf6b168ff4c8a3dedf1b17787f8d6f0eab9de21e51ed3ab1e7d85925dd02315972f6ca3a4493357aad545cb</hash>
+        <hash alg="SHA3-256">962dc76a5c487de8d34308860ab65927bf91f50ccb12f37bffb036a7a05145a4</hash>
+        <hash alg="SHA3-512">a82a3f79b57d30613606ca51dc432b097fa75aab5c87fb45eabec6d80ddeff1b329100b325bb07005aebaec166952c4599a863d4bfd5a684bad21103a2046311</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>MIT</id>
+          <url>https://opensource.org/licenses/MIT</url>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.brotli/dec@0.1.2?type=jar</purl>
+      <externalReferences><reference type="vcs"><url>https://github.com/google/brotli</url></reference></externalReferences>
+    </component>
+    <component type="library" bom-ref="pkg:maven/org.tukaani/xz@1.9?type=jar">
+      <group>org.tukaani</group>
+      <name>xz</name>
+      <version>1.9</version>
+      <description>XZ data compression</description>
+      <scope>required</scope>
+      <hashes>
+        <hash alg="MD5">57c2fbfeb55e307ccae52e5322082e02</hash>
+        <hash alg="SHA-1">1ea4bec1a921180164852c65006d928617bd2caf</hash>
+        <hash alg="SHA-256">211b306cfc44f8f96df3a0a3ddaf75ba8c5289eed77d60d72f889bb855f535e5</hash>
+        <hash alg="SHA-512">a4362db234d4e83683e90f5baf90c82107450cc4404acab96e3fab14b8a3d4588a19722171d32f27d18463682a6994cad9af0b1065c954e3a77ea7bdcf586bac</hash>
+        <hash alg="SHA-384">aa30349b094723369908369a18e2cb5beb5b7ca0b24b4d56c2f5725fae152220f6526466672b22bfec939e2e0622a01d</hash>
+        <hash alg="SHA3-384">b3e1fee7784188df5e1931c9e8137ac0e20e63f66f93e7f938a448fc0b3adb4be5205c7a5f1835007e233fee2696fc2c</hash>
+        <hash alg="SHA3-256">92eff603ed0aab557e1a45e17a74e80d8ec656b5f137197b23c429c903fa448f</hash>
+        <hash alg="SHA3-512">b290f92958f8cd91705331d8411140c23957ab8b568fbe19a70f4f1dc97eddc13d3a200df28a02ab5911ce18f546c33f720878be0f727edac839a6e63ee66ece</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <name>Public Domain</name>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.tukaani/xz@1.9?type=jar</purl>
+      <externalReferences><reference type="vcs"><url>https://git.tukaani.org/?p=xz-java.git</url></reference></externalReferences>
+    </component>
+    <component type="library" bom-ref="pkg:maven/org.ow2.asm/asm@9.4?type=jar">
+      <publisher>OW2</publisher>
+      <group>org.ow2.asm</group>
+      <name>asm</name>
+      <version>9.4</version>
+      <description>ASM, a very small and fast Java bytecode manipulation framework</description>
+      <scope>required</scope>
+      <hashes>
+        <hash alg="MD5">ffa64f03a23a4823d98703e6ce6ff397</hash>
+        <hash alg="SHA-1">b4e0e2d2e023aa317b7cfcfc916377ea348e07d1</hash>
+        <hash alg="SHA-256">39d0e2b3dc45af65a09b097945750a94a126e052e124f93468443a1d0e15f381</hash>
+        <hash alg="SHA-512">41e6d8f67faa63e3993692d6606cbc68ec43d140e0232c5aee2ef7dbeea289ad5711ce04407c771e8baef844ead5f838d8b248e20a06e3fd5c41c52d3340a459</hash>
+        <hash alg="SHA-384">b4be5348020e602444066609b95162c1037e85bff5670db6a22330dbd556eecb9e9270a4ddcda17d352717c6803d7109</hash>
+        <hash alg="SHA3-384">bca491acf7ad4834c25ea75e3267d9a47de90897d99613f6c9ef91f715e63a660c7dd4f6f2c4aa0c8ee0d9f012968409</hash>
+        <hash alg="SHA3-256">5e7bdbd620fc5d3b5acc82867a38638d004c9476f25ba9de342778b098f57829</hash>
+        <hash alg="SHA3-512">55e16a86d5b9a7a7e145e8c327d6456a6d4a73be49e35f78e14691e11453da63d86c956ea3f55feeede39e62292af9eb2ff21ebce62293a99ee115a9d862f91a</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>BSD-3-Clause</id>
+          <url>https://opensource.org/licenses/BSD-3-Clause</url>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.ow2.asm/asm@9.4?type=jar</purl>
+      <externalReferences><reference type="website"><url>http://www.ow2.org/</url></reference><reference type="issue-tracker"><url>https://gitlab.ow2.org/asm/asm/issues</url></reference><reference type="mailing-list"><url>https://mail.ow2.org/wws/arc/asm/</url></reference><reference type="vcs"><url>https://gitlab.ow2.org/asm/asm/</url></reference></externalReferences>
+    </component>
+    <component type="library" bom-ref="pkg:maven/org.osgi/org.osgi.core@6.0.0?type=jar">
+      <publisher>OSGi Alliance</publisher>
+      <group>org.osgi</group>
+      <name>org.osgi.core</name>
+      <version>6.0.0</version>
+      <description>OSGi Core Release 6, Interfaces and Classes for use in compiling bundles.</description>
+      <scope>optional</scope>
+      <hashes>
+        <hash alg="MD5">cae291c61fe8b7a4476d713550c7ff49</hash>
+        <hash alg="SHA-1">0c49acdc9ac62cf69ee49cb6f1905b4fdb79ea5c</hash>
+        <hash alg="SHA-256">1c1bb435eb34cbf1f743653da38f604d45d53fbc95979053768cd3fc293cb931</hash>
+        <hash alg="SHA-512">a6d5388804982ab2cb0ba82b4291e73f006577c54e5dcb0675a2c4922594ddb0265810a4e7c748c88eba76ee350340376b7a9bd25d2de3afb954cf89117cd470</hash>
+        <hash alg="SHA-384">8daff91fc229b2874c1ff7a214fdee65b1824fbac76eb7feec609c5b70ab2fd24fc5cf017b339788a5c7aec041ec1a1c</hash>
+        <hash alg="SHA3-384">b921d8bea5dab6e7d827ce49a43e6edb4a15c1402e1d70498faf867bd7e9ea61f47b9cbdbf008ed517b71499c02b9e4c</hash>
+        <hash alg="SHA3-256">5836efac64dd3757498bc6648cf02e46f136c6b0b39d5f1641218459d6b68ca0</hash>
+        <hash alg="SHA3-512">9056edfc04943cdc81041db1851cade670415457221617babeb3d3c5136c3dcc303862e55b545f40584477e0654d11d84db6ede072015b08744241202d79ee63</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.osgi/org.osgi.core@6.0.0?type=jar</purl>
+      <externalReferences><reference type="website"><url>http://www.osgi.org</url></reference></externalReferences>
+    </component>
+    <component type="library" bom-ref="pkg:maven/org.pitest/pitest-junit5-plugin@1.1.2?type=jar">
+      <group>org.pitest</group>
+      <name>pitest-junit5-plugin</name>
+      <version>1.1.2</version>
+      <description>JUnit 5 plugin for pitest</description>
+      <scope>optional</scope>
+      <hashes>
+        <hash alg="MD5">770861248c52b70cabecc1f60f54c3b9</hash>
+        <hash alg="SHA-1">d9e9db8766ed43ebe2209b35f95a9c091d4f5885</hash>
+        <hash alg="SHA-256">702e9c1f9688d46cf1c527f3afc92da10a746ceabe1c555325238dbf6ff431ac</hash>
+        <hash alg="SHA-512">ee1f318ac42773e3a4471cf921f0a44d2d55c29b5d016e3363789ed5f6c32964668f04ecad6bfb1ad50b537d438998a444db9298520d61bbb49a81d88b8f42b9</hash>
+        <hash alg="SHA-384">4329b7479b8669525b3a8663dbce126f49541e775ca4952bf59ed0030b1232fddbbf2f194695d5f67489b8558a371fb1</hash>
+        <hash alg="SHA3-384">3e1538acc4ee44eb0290429682ad11ea6e1a8955ea6c9e94e73f153a90ebe7060083c2bc6773772758dae02e7cfbb772</hash>
+        <hash alg="SHA3-256">1e0b72ae6394b4cbbf74b9a4a27c3d7bf71555aca4782148518256e467f21a3e</hash>
+        <hash alg="SHA3-512">407b137d5074613f35b9f116013ec0fcc8fff0bc1cccb53527e20fba1be77d4f6fe9b23a07f976838860e52167cb779a2ece5fd47e29c76fa837786ce23e895b</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.pitest/pitest-junit5-plugin@1.1.2?type=jar</purl>
+      <externalReferences><reference type="distribution"><url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url></reference><reference type="issue-tracker"><url>https://github.com/hcoles/pitest/issues</url></reference><reference type="vcs"><url>https://github.com/pitest/pitest-junit5-plugin</url></reference></externalReferences>
+    </component>
+    <component type="library" bom-ref="pkg:maven/org.openjdk.jmh/jmh-core@1.35?type=jar">
+      <publisher>Oracle</publisher>
+      <group>org.openjdk.jmh</group>
+      <name>jmh-core</name>
+      <version>1.35</version>
+      <description>The jmh is a Java harness for building, running, and analysing
+        nano/micro/macro benchmarks written in Java and other languages
+        targeting the JVM.</description>
+      <scope>required</scope>
+      <hashes>
+        <hash alg="MD5">563c8f2fd0edab52cce4ef68ad50c8aa</hash>
+        <hash alg="SHA-1">c14d712be8e423969fcd344bc801cf5d3ea3b62a</hash>
+        <hash alg="SHA-256">d4177ad2d5265ef86f134beea4a89484bcd92e6792339693bafcd64841e73111</hash>
+        <hash alg="SHA-512">8a615a56e34cda5d566c160de3572b64f0aeebdf56f6ec885766c6f4bb2dd927af2d16fc2dcd69b74e89679da6cdc5fc314761e3331ea38cbcc6ef4f32816097</hash>
+        <hash alg="SHA-384">4bec62702513e9a75f586d36633583567fdd9a3842d74395d6afbac874165388d73ffd235f2a48ec806cf779a4e847c3</hash>
+        <hash alg="SHA3-384">7adffa9c7a2d8e8e5353364eed1168a7b59a0e55877b830f53590048405ac21696a5245cd438dd52179668b27ce03b82</hash>
+        <hash alg="SHA3-256">67e6ed0a315e19ccf7ead8f6019fb6354abfb6628aa592610977246cf679a315</hash>
+        <hash alg="SHA3-512">f43b20642055c528c34f61803831b04583ebad6b1b7dcd43ccb168ea17ac3a458af547afc1be3db213ff5b96f4a4137148087aee1566bb124750eec5b4ba4f41</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <name>GNU General Public License (GPL), version 2, with the Classpath exception</name>
+          <url>http://openjdk.java.net/legal/gplv2+ce.html</url>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.openjdk.jmh/jmh-core@1.35?type=jar</purl>
+      <externalReferences><reference type="website"><url>http://openjdk.java.net/</url></reference><reference type="vcs"><url>http://hg.openjdk.java.net/code-tools/jmh/</url></reference></externalReferences>
+    </component>
+    <component type="library" bom-ref="pkg:maven/net.sf.jopt-simple/jopt-simple@5.0.4?type=jar">
+      <group>net.sf.jopt-simple</group>
+      <name>jopt-simple</name>
+      <version>5.0.4</version>
+      <description>A Java library for parsing command line options</description>
+      <hashes>
+        <hash alg="MD5">eb0d9dffe9b0eddead68fe678be76c49</hash>
+        <hash alg="SHA-1">4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c</hash>
+        <hash alg="SHA-256">df26cc58f235f477db07f753ba5a3ab243ebe5789d9f89ecf68dd62ea9a66c28</hash>
+        <hash alg="SHA-512">cbc27e0b6da6ae4b6245353d6626d2e3c171c3026a555fa21e8ef61b30714e286db85086d1a57c167016e8a7f07be2a243e34b3ab504b1877806f3bcec5df986</hash>
+        <hash alg="SHA-384">5911a03e11958951abf8450de13598f617471e53554ba79e203d6e7af1241022592cc97ad656650415d78c66d6882cfa</hash>
+        <hash alg="SHA3-384">a9233bbb74d1dcf613f5c55a3239a9c465bca6422c44d25eb77e08d12cdcbb60d98af78f28071b04f6a3963dcdc67bb3</hash>
+        <hash alg="SHA3-256">9fa8e57de87f425cab9e7e6dbf68c70268c9c3de29fa54b9f2be9e1b164ab368</hash>
+        <hash alg="SHA3-512">ea3d9c8469b3e3cbfd70616bde82c62685fd54b1970f324e44d58e48d8d60344abd59c06b1f43e8df1e8fc5bce6ff837eb034e2ba3dce499ffadf42ac4b406cc</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+      </licenses>
+      <purl>pkg:maven/net.sf.jopt-simple/jopt-simple@5.0.4?type=jar</purl>
+      <externalReferences><reference type="issue-tracker"><url>https://github.com/jopt-simple/jopt-simple/issues</url></reference><reference type="vcs"><url>https://github.com/jopt-simple/jopt-simple</url></reference><reference type="distribution"><url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url></reference></externalReferences>
+    </component>
+    <component type="library" bom-ref="pkg:maven/org.apache.commons/commons-math3@3.2?type=jar">
+      <group>org.apache.commons</group>
+      <name>commons-math3</name>
+      <version>3.2</version>
+      <description>The Math project is a library of lightweight, self-contained mathematics and statistics components addressing the most common practical problems not immediately available in the Java programming language or commons-lang.</description>
+      <hashes>
+        <hash alg="MD5">aaa32530c0f744813570ff73db018698</hash>
+        <hash alg="SHA-1">ec2544ab27e110d2d431bdad7d538ed509b21e62</hash>
+        <hash alg="SHA-256">6268a9a0ea3e769fc493a21446664c0ef668e48c93d126791f6f3f757978fee2</hash>
+        <hash alg="SHA-512">80fb66a51688c4247b957f9787921e5acb9144d71a4ab0b03b2c30f46427e50c53e6e31ca5ddb04dab2cf5e7c0eedae168103c719f8074be464918ab2e4d6e6d</hash>
+        <hash alg="SHA-384">3aea6a3c2bb79e64b96086bc6b7679780594ea1731f24ae7541e294595275150a12bd63bd4dfb3ddff29e1b672f68664</hash>
+        <hash alg="SHA3-384">6b7fa9eecd9f78db9222438eda47c2f94c7e507c7334b6501ecc7c041e27b084e790956901b3a5a4253510abb9081b28</hash>
+        <hash alg="SHA3-256">4e5c701b4c417493bdb70d4c3f3bfb6019a6eec3c5f17dcce028158de624318c</hash>
+        <hash alg="SHA3-512">3a19552d33cbe62a0d174efa39054fbe5e23f7cb466c46616c27480381f232daa2c64c868b354ed965c5d84fbfece08e30e59bc672e3891baf2bb8141b5db8c6</hash>
+      </hashes>
+      <licenses/>
+      <purl>pkg:maven/org.apache.commons/commons-math3@3.2?type=jar</purl>
+      <externalReferences><reference type="issue-tracker"><url>http://issues.apache.org/jira/browse/MATH</url></reference><reference type="vcs"><url>http://svn.apache.org/viewvc/commons/proper/math/trunk</url></reference></externalReferences>
+    </component>
+    <component type="library" bom-ref="pkg:maven/org.openjdk.jmh/jmh-generator-annprocess@1.35?type=jar">
+      <group>org.openjdk.jmh</group>
+      <name>jmh-generator-annprocess</name>
+      <version>1.35</version>
+      <description>JMH benchmark generator, based on annotation processors.</description>
+      <scope>optional</scope>
+      <hashes>
+        <hash alg="MD5">d723ea60522cb720f7a5f8356aff705e</hash>
+        <hash alg="SHA-1">50fba446d32d22f95f51a391f3450e03af006754</hash>
+        <hash alg="SHA-256">dae09db1ff8cd7e31155350be07647353dcbebbb25c9e2f1c523dadc91b1fb28</hash>
+        <hash alg="SHA-512">8757d43b2976e2bcbe60de7f1417074520b278474a0d94216f96c16dd3893943626d7d34b163a8ade513785d567f39df5a578622db87c55548e9c989b14d4a89</hash>
+        <hash alg="SHA-384">4233eec6105b3899d659a8685a0833f6a91b78c0eadb7d28bf5cc4a9674ef567fdb2cac59f5e5e97ab065d6cdc84182a</hash>
+        <hash alg="SHA3-384">80e9c2e41bca20f507f2d7893dda2ef3444a62efc373a79304ce26f4941a3949518ee549dd4223bd96ed76a37bb28e5c</hash>
+        <hash alg="SHA3-256">ef86c97a64d1c203076364beafcff02af29136f769e1e3b9952e8b2843905c0e</hash>
+        <hash alg="SHA3-512">f0fa3b640814e2814848111650b059f8f65620ea13fa958af5ef9ac05c7317bea83758371ade112b43f6d8aae3ee3567fbe43fefd6550f4ee8163bb4b6ccfccf</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <name>GNU General Public License (GPL), version 2, with the Classpath exception</name>
+          <url>http://openjdk.java.net/legal/gplv2+ce.html</url>
+        </license>
+      </licenses>
+      <purl>pkg:maven/org.openjdk.jmh/jmh-generator-annprocess@1.35?type=jar</purl>
+      <externalReferences><reference type="vcs"><url>http://hg.openjdk.java.net/code-tools/jmh/</url></reference></externalReferences>
+    </component>
+  </components>
+  <dependencies>
+    <dependency ref="pkg:maven/org.apache.commons/commons-compress@1.23.1-SNAPSHOT?type=jar">
+      <dependency ref="pkg:maven/com.github.luben/zstd-jni@1.5.4-2?type=jar"/>
+      <dependency ref="pkg:maven/org.brotli/dec@0.1.2?type=jar"/>
+      <dependency ref="pkg:maven/org.tukaani/xz@1.9?type=jar"/>
+      <dependency ref="pkg:maven/org.ow2.asm/asm@9.4?type=jar"/>
+      <dependency ref="pkg:maven/org.osgi/org.osgi.core@6.0.0?type=jar"/>
+      <dependency ref="pkg:maven/org.pitest/pitest-junit5-plugin@1.1.2?type=jar"/>
+      <dependency ref="pkg:maven/org.openjdk.jmh/jmh-core@1.35?type=jar"/>
+      <dependency ref="pkg:maven/org.openjdk.jmh/jmh-generator-annprocess@1.35?type=jar"/>
+    </dependency>
+    <dependency ref="pkg:maven/com.github.luben/zstd-jni@1.5.4-2?type=jar"/>
+    <dependency ref="pkg:maven/org.brotli/dec@0.1.2?type=jar"/>
+    <dependency ref="pkg:maven/org.tukaani/xz@1.9?type=jar"/>
+    <dependency ref="pkg:maven/org.ow2.asm/asm@9.4?type=jar"/>
+    <dependency ref="pkg:maven/org.osgi/org.osgi.core@6.0.0?type=jar"/>
+    <dependency ref="pkg:maven/org.pitest/pitest-junit5-plugin@1.1.2?type=jar"/>
+    <dependency ref="pkg:maven/org.openjdk.jmh/jmh-core@1.35?type=jar">
+      <dependency ref="pkg:maven/net.sf.jopt-simple/jopt-simple@5.0.4?type=jar"/>
+      <dependency ref="pkg:maven/org.apache.commons/commons-math3@3.2?type=jar"/>
+    </dependency>
+    <dependency ref="pkg:maven/net.sf.jopt-simple/jopt-simple@5.0.4?type=jar"/>
+    <dependency ref="pkg:maven/org.apache.commons/commons-math3@3.2?type=jar"/>
+    <dependency ref="pkg:maven/org.openjdk.jmh/jmh-generator-annprocess@1.35?type=jar">
+      <dependency ref="pkg:maven/org.openjdk.jmh/jmh-core@1.35?type=jar"/>
+    </dependency>
+  </dependencies>
+</bom>

@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.ScatterZipOutputStream#zipEntryWriter()Lorg/apache/commons/compress/archivers/zip/ScatterZipOutputStream$ZipEntryWriter;
+org.apache.commons.compress.archivers.zip.ScatterZipOutputStream$ZipEntryWriter#<init>(Lorg/apache/commons/compress/archivers/zip/ScatterZipOutputStream;)V
+org.apache.commons.compress.archivers.zip.ScatterZipOutputStream$ZipEntryWriter#instance-init#

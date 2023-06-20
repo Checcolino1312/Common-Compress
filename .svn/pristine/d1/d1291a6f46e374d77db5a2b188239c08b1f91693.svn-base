@@ -1,0 +1,23 @@
+
+<org.apache.commons.compress.utils.BoundedInputStream#read()Ip
+fC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/utils/BoundedInputStream.java9 9("2"1*§
+2; ;(Œ
+‰
+< <(
+%0java.io.InputStream"__id*\
+
+__unknown_file (@*>6
+4org.apache.commons.compress.utils.BoundedInputStream"
+inus
+< <(	
+%1int"java.io.InputStream#read()I*7
+
+__unknown_file (
+
+%0java.io.InputStream2read()"
+< <(
+""*!
+1> >("
+> >(
+""B86
+4org.apache.commons.compress.utils.BoundedInputStreamHP

@@ -1,0 +1,21 @@
+
+borg.apache.commons.compress.compressors.deflate.DeflateCompressorInputStream#getCompressedCount()J•
+ŠC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/deflate/DeflateCompressorInputStream.javaq q(""1*Å
+1r r(Ó
+Ð
+r r(;
+%05org.apache.commons.compress.utils.CountingInputStream"__id*€
+
+__unknown_file (d*bN
+Lorg.apache.commons.compress.compressors.deflate.DeflateCompressorInputStream"
+countingStreamËÈ
+r r(,
+
+%1long"Eorg.apache.commons.compress.utils.CountingInputStream#getBytesRead()J*Y
+
+__unknown_file (=
+;
+%05org.apache.commons.compress.utils.CountingInputStream2getBytesRead()"
+r r(-
+""BPN
+Lorg.apache.commons.compress.compressors.deflate.DeflateCompressorInputStreamHP

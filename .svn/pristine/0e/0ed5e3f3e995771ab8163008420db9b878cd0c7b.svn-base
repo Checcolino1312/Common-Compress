@@ -1,0 +1,46 @@
+
+Àorg.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm#createStringRefForm(ILjava/lang/String;[IZ)Lorg/apache/commons/compress/harmony/unpack200/bytecode/forms/ByteCodeForm;”
+‡C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/forms/ByteCodeForm.java‡ ‡(2"1*¹
+1
+ˆ! ˆ('­ª
+
+ˆ ˆ( P
+%0Jorg.apache.commons.compress.harmony.unpack200.bytecode.forms.StringRefForm"Jorg.apache.commons.compress.harmony.unpack200.bytecode.forms.StringRefForm•
+’
+
+ˆ ˆ(@
+%1"jorg.apache.commons.compress.harmony.unpack200.bytecode.forms.StringRefForm#<init>(ILjava/lang/String;[IZ)V*n
+
+__unknown_file (R
+P
+%0Jorg.apache.commons.compress.harmony.unpack200.bytecode.forms.StringRefForm*"
+
+__unknown_file (
+""*6
+
+__unknown_file (
+
+namejava.lang.String*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""`
+
+ˆ ˆ(AR
+P
+%0Jorg.apache.commons.compress.harmony.unpack200.bytecode.forms.StringRefForm: 
+
+__unknown_file (
+"":&
+
+‡? ‡(K
+namejava.lang.String: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BM"K
+Iorg.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeFormH

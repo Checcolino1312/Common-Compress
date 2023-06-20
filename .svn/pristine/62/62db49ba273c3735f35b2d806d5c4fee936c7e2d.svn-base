@@ -1,0 +1,95 @@
+
+sorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorOutputStream$Parameters#toString()Ljava/lang/String;‰
+}C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/lz4/FramedLZ4CompressorOutputStream.java“ “("1*æ	
+1
+” ”(3ú
+÷
+
+”6 ”(?[
+%0Uorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorOutputStream$BlockSize"__id*…
+
+__unknown_file (i*gX
+Vorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorOutputStream$Parameters"
+	blockSizeÐ
+Í
+
+” ”(?
+%1java.lang.String"__concat*0
+
+” ”(3" 
+LZ4 Parameters with BlockSize *k
+
+”6 ”(?]
+[
+%0Uorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorOutputStream$BlockSizeƒ
+€
+
+” ”(Z
+%2java.lang.String"__concat*&
+
+” ”(?
+
+%1java.lang.String*(
+
+”B ”(Z
+, withContentChecksum n
+l
+
+” ”(p
+%3java.lang.String"__concat*&
+
+” ”(Z
+
+%2java.lang.String*
+
+”] ”(p
+""€
+~
+
+” •((
+%4java.lang.String"__concat*&
+
+” ”(p
+
+%3java.lang.String*&
+
+• •((
+, withBlockChecksum n
+l
+
+” •(<
+%5java.lang.String"__concat*&
+
+” •((
+
+%4java.lang.String*
+
+•+ •(<
+""ƒ
+€
+
+” •(W
+%6java.lang.String"__concat*&
+
+” •(<
+
+%5java.lang.String*(
+
+•? •(W
+, withBlockDependency n
+l
+
+” •(m
+%7java.lang.String"__concat*&
+
+” •(W
+
+%6java.lang.String*
+
+•Z •(m
+"""&
+
+” •(n
+
+%7java.lang.StringBZX
+Vorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorOutputStream$ParametersH

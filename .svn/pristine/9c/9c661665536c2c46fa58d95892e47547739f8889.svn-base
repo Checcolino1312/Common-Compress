@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.NioZipEncoding#encodeSurrogate(Ljava/nio/CharBuffer;C)Ljava/nio/CharBuffer;
+java.nio.CharBuffer#limit(I)Ljava/nio/CharBuffer;
+java.nio.CharBuffer#position(I)Ljava/nio/CharBuffer;
+java.nio.CharBuffer#flip()Ljava/nio/CharBuffer;

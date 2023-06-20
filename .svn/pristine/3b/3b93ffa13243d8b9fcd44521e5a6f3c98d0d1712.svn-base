@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.CompressorInputStream#count(I)V
+==
+count org.apache.commons.compress.compressors.CompressorInputStream#count(J)V

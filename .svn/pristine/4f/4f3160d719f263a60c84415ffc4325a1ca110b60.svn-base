@@ -1,0 +1,5 @@
+org.apache.commons.compress.utils.MultiReadOnlySeekableByteChannel#forSeekableByteChannels([Ljava/nio/channels/SeekableByteChannel;)Ljava/nio/channels/SeekableByteChannel;
+org.apache.commons.compress.utils.MultiReadOnlySeekableByteChannel#instance-init#
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
+java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;
+org.apache.commons.compress.utils.MultiReadOnlySeekableByteChannel#<init>(Ljava/util/List;)V

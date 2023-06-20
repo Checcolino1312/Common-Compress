@@ -1,0 +1,34 @@
+
+Torg.apache.commons.compress.archivers.zip.ZipArchiveEntry#requiresExtraTimeFields()Zƒ
+wC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java® ®(+"4*%
+2
+° °("
+
+° °(
+""*‹
+3
+¯+ ¯(:ñî
+
+¯+ ¯(<&
+%1 java.nio.file.attribute.FileTime"Jjava.util.zip.ZipEntry#getCreationTime()Ljava/nio/file/attribute/FileTime;*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getCreationTime()*
+2
+1*
+4
+¯ ¯(õò
+
+¯ ¯(&
+%0 java.nio.file.attribute.FileTime"Ljava.util.zip.ZipEntry#getLastAccessTime()Ljava/nio/file/attribute/FileTime;*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getLastAccessTime()*
+2
+3*%
+1
+² ²(""
+
+² ²(#
+""B=;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntryP

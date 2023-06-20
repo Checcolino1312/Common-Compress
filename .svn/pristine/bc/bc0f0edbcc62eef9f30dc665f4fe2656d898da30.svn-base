@@ -1,0 +1,7 @@
+org.apache.commons.compress.harmony.pack200.Segment#visitAttribute(Lorg/objectweb/asm/Attribute;)V
+java.lang.Error#<init>(Ljava/lang/String;)V
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.Error#instance-init#
+java.lang.IllegalArgumentException#instance-init#
+org.apache.commons.compress.harmony.pack200.Segment#passCurrentClass()V

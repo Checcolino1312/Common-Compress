@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.jar.JarArchiveInputStream#matches([BI)Z
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#matches([BI)Z

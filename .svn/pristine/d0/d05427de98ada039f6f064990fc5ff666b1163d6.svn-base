@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.pack200.CPSignature#<init>(Ljava/lang/String;Lorg/apache/commons/compress/harmony/pack200/CPUTF8;Ljava/util/List;)V
+java.lang.String#startsWith(Ljava/lang/String;)Z

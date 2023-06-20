@@ -1,0 +1,20 @@
+
+porg.apache.commons.compress.harmony.pack200.MetadataBandGroup#nextString(Ljava/util/Iterator;)Ljava/lang/String;{
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/MetadataBandGroup.javaÙ Ù("1*⁄
+1
+ı ı(&†ù
+
+ı ı(-
+%0java.lang.Object"+java.util.Iterator#next()Ljava/lang/Object;*B
+
+__unknown_file (&
+$
+valuesIteratorjava.util.Iterator2next()"&
+
+ı ı(.
+
+%0java.lang.Object:2
+
+Ù Ù(C$
+valuesIteratorjava.util.IteratorBA?
+=org.apache.commons.compress.harmony.pack200.MetadataBandGroup

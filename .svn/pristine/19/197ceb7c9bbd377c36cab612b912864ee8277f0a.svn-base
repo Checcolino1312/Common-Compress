@@ -1,0 +1,60 @@
+
+™org.apache.commons.compress.archivers.sevenz.LZMA2Decoder#getOptionsFromCoder(Lorg/apache/commons/compress/archivers/sevenz/Coder;Ljava/io/InputStream;)Ljava/lang/Object;Å
+wC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/sevenz/LZMA2Decoder.javaf f("startingBlock*∂
+startingBlockf f(GÆ
+´
+e e(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*Y
+
+__unknown_file (=
+;
+coder2org.apache.commons.compress.archivers.sevenz.Coder{
+y
+f+ f(0;
+coder2org.apache.commons.compress.archivers.sevenz.Coder"__annotation*"
+
+__unknown_file (
+
+%1å
+â
+e e(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*7
+
+__unknown_file (
+
+injava.io.InputStreamY
+W
+fD f(F
+injava.io.InputStream"__annotation*"
+
+__unknown_file (
+
+%2*
+1*¸
+1h h( ”
+–
+h h('	
+%0int"Çorg.apache.commons.compress.archivers.sevenz.LZMA2Decoder#getDictionarySize(Lorg/apache/commons/compress/archivers/sevenz/Coder;)I*Y
+
+__unknown_file (=;
+9org.apache.commons.compress.archivers.sevenz.LZMA2Decoder*Y
+
+__unknown_file (=
+;
+coder2org.apache.commons.compress.archivers.sevenz.Coder"
+h h((
+	
+%0int:G
+f f(1;
+coder2org.apache.commons.compress.archivers.sevenz.Coder:%
+f2 f(F
+injava.io.InputStreamB=;
+9org.apache.commons.compress.archivers.sevenz.LZMA2Decoder

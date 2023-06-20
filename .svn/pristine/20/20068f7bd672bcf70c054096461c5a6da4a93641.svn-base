@@ -1,0 +1,10 @@
+org.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader#parseFileFormat([BII)V
+java.util.zip.ZipException#instance-init#
+org.apache.commons.compress.archivers.zip.ZipShort#getValue([BI)I
+org.apache.commons.compress.archivers.zip.PKWareExtraHeader$HashAlgorithm#getAlgorithmByCode(I)Lorg/apache/commons/compress/archivers/zip/PKWareExtraHeader$HashAlgorithm;
+java.util.Arrays#copyOfRange([BII)[B
+org.apache.commons.compress.archivers.zip.ZipLong#getValue([BI)J
+org.apache.commons.compress.archivers.zip.X0017_StrongEncryptionHeader#assertDynamicLengthFits(Ljava/lang/String;III)V
+org.apache.commons.compress.archivers.zip.PKWareExtraHeader$EncryptionAlgorithm#getAlgorithmByCode(I)Lorg/apache/commons/compress/archivers/zip/PKWareExtraHeader$EncryptionAlgorithm;
+java.util.zip.ZipException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.zip.PKWareExtraHeader#assertMinimalLength(II)V

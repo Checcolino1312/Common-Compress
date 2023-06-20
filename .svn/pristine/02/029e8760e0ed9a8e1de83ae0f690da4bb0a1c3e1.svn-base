@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#getCompressedCount()J
+org.apache.commons.compress.archivers.zip.ZipMethod#getCode()I
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream$CurrentEntry#checkInputStream()Ljava/io/InputStream;
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#getBytesInflated()J

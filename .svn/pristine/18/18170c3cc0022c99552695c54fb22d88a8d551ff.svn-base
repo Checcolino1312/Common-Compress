@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.X000A_NTFS#parseFromCentralDirectoryData([BII)V
+org.apache.commons.compress.archivers.zip.X000A_NTFS#reset()V
+==
+parseFromLocalFileData org.apache.commons.compress.archivers.zip.X000A_NTFS#parseFromLocalFileData([BII)V

@@ -1,0 +1,3 @@
+org.apache.commons.compress.utils.ArchiveUtils#matchAsciiBuffer(Ljava/lang/String;[BII)Z
+java.lang.String#getBytes(Ljava/nio/charset/Charset;)[B
+org.apache.commons.compress.utils.ArchiveUtils#isEqual([BII[BIIZ)Z

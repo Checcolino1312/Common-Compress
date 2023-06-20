@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.Attribute#hashCode()I
+java.util.Objects#hash([Ljava/lang/Object;)I

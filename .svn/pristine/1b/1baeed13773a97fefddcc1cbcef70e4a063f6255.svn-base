@@ -1,0 +1,2 @@
+org.apache.commons.compress.utils.ArchiveUtils#isEqual([B[BZ)Z
+org.apache.commons.compress.utils.ArchiveUtils#isEqual([BII[BIIZ)Z

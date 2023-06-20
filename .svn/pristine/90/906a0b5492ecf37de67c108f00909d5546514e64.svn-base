@@ -1,0 +1,5 @@
+org.apache.commons.compress.harmony.pack200.MetadataBandGroup#instance-init#
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+org.apache.commons.compress.harmony.pack200.IntList#<init>()V
+org.apache.commons.compress.harmony.pack200.IntList#instance-init#

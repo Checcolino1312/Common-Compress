@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.BandSet#encodeFlags(Ljava/lang/String;[[JLorg/apache/commons/compress/harmony/pack200/BHSDCodec;Lorg/apache/commons/compress/harmony/pack200/BHSDCodec;Z)[B
+org.apache.commons.compress.harmony.pack200.BandSet#flatten([[J)[J
+==
+encodeFlags org.apache.commons.compress.harmony.pack200.BandSet#encodeFlags(Ljava/lang/String;[JLorg/apache/commons/compress/harmony/pack200/BHSDCodec;Lorg/apache/commons/compress/harmony/pack200/BHSDCodec;Z)[B

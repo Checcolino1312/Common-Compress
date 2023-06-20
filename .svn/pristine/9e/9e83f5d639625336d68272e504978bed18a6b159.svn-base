@@ -1,0 +1,84 @@
+
+Zorg.apache.commons.compress.utils.SeekableInMemoryByteChannel#read(Ljava/nio/ByteBuffer;)I{
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/utils/SeekableInMemoryByteChannel.javaÅ Å("startingBlock*ê
+startingBlock
+Å Å()è
+å
+
+Ä Ä(
+%4"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*8
+
+__unknown_file (
+
+bufjava.nio.ByteBuffer\
+Z
+
+Å% Å((
+bufjava.nio.ByteBuffer"__annotation*"
+
+__unknown_file (
+
+%4*
+5*%
+4
+Ü Ü("
+
+Ü Ü(
+""*·
+5
+Ç Ç(«
+ƒ
+
+Ç Ç(
+
+%0void"Korg.apache.commons.compress.utils.SeekableInMemoryByteChannel#ensureOpen()V*]
+
+__unknown_file (A?
+=org.apache.commons.compress.utils.SeekableInMemoryByteChannel~|
+
+É É($	
+%1int"java.nio.Buffer#remaining()I*8
+
+__unknown_file (
+
+bufjava.nio.ByteBuffer2remaining()*
+4
+1*Œ
+1
+ã ã(å
+â
+
+ã ã(
+%2byte[]"__id*g
+
+__unknown_file (K*I?
+=org.apache.commons.compress.utils.SeekableInMemoryByteChannel"
+dataóî
+
+ã ã('
+%3java.nio.ByteBuffer"2java.nio.ByteBuffer#put([BII)Ljava/nio/ByteBuffer;*8
+
+__unknown_file (
+
+bufjava.nio.ByteBuffer**
+
+__unknown_file (
+
+%2byte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2	put([BII)"
+
+ç ç(
+"":(
+
+Å Å((
+bufjava.nio.ByteBufferBA?
+=org.apache.commons.compress.utils.SeekableInMemoryByteChannelHP

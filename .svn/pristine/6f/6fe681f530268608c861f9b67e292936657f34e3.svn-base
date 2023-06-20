@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#hbMakeCodeLengths([B[ILorg/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream$Data;II)V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#heapifyDown([I[III)V
+java.lang.Math#max(II)I
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#processAlphaSize([I[BII[I)V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#heapifyUp([I[II)V

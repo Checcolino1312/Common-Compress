@@ -1,0 +1,12 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#readDirectoryEntry(Lorg/apache/commons/compress/archivers/dump/DumpArchiveEntry;)V
+org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#verifyPeekBytes([B)V
+org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#processDirent(ILorg/apache/commons/compress/archivers/dump/DumpArchiveEntry;BLjava/lang/String;)V
+org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#readBlockBuffer(I)V
+org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#processPendingEntries()V
+org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#getNextEntry([B)Lorg/apache/commons/compress/archivers/dump/DumpArchiveEntry;
+org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#shouldContinueReadingDirectoryEntry(Lorg/apache/commons/compress/archivers/dump/DumpArchiveEntry;Z)Z
+org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#readHeader(Z)V
+org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#processEntry(Lorg/apache/commons/compress/archivers/dump/DumpArchiveEntry;)V
+org.apache.commons.compress.archivers.dump.DumpArchiveUtil#convert32([BI)I
+org.apache.commons.compress.archivers.dump.DumpArchiveUtil#convert16([BI)I
+org.apache.commons.compress.archivers.dump.DumpArchiveUtil#decode(Lorg/apache/commons/compress/archivers/zip/ZipEncoding;[BII)Ljava/lang/String;

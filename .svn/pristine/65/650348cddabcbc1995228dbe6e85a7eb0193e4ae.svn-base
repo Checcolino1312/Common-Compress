@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.unpack200.IcTuple#equals(Ljava/lang/Object;)Z
+java.lang.Object#getClass()Ljava/lang/Class;
+==
+nullSafeEquals org.apache.commons.compress.harmony.unpack200.IcTuple#nullSafeEquals(Ljava/lang/String;Ljava/lang/String;)Z

@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#write([BII)V
+java.lang.IllegalStateException#instance-init#
+org.apache.commons.compress.archivers.zip.ZipUtil#checkRequestedFeatures(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)V
+java.lang.IllegalStateException#<init>(Ljava/lang/String;)V

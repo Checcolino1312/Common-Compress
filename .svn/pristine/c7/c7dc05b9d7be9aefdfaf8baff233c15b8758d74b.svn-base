@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream#readLiteral([BII)I
+org.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream#readFromBuffer([BII)I
+org.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream#tryToReadLiteral(I)V
+==
+available org.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream#available()I

@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.CPFloat#writeBody(Ljava/io/DataOutputStream;)V
+java.io.DataOutputStream#writeFloat(F)V

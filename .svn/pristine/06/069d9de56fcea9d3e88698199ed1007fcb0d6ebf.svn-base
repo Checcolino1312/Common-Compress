@@ -1,0 +1,75 @@
+
+Xorg.apache.commons.compress.compressors.pack200.Pack200CompressorInputStream#read([BII)Ió
+äC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/pack200/Pack200CompressorInputStream.javaç ç("startingBlock*
+startingBlock
+ç ç(C
+}
+
+å å(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*)
+
+__unknown_file (
+
+bbyte[]M
+K
+
+ç! ç("
+bbyte[]"__annotation*"
+
+__unknown_file (
+
+%3*
+1*
+1
+é é(Ÿ
+÷
+
+é é(B
+%0<org.apache.commons.compress.compressors.pack200.StreamBridge"__id*~
+
+__unknown_file (b*`N
+Lorg.apache.commons.compress.compressors.pack200.Pack200CompressorInputStream"
+streamBridgeˆÛ
+
+é é(&
+%1java.io.InputStream"\org.apache.commons.compress.compressors.pack200.StreamBridge#getInput()Ljava/io/InputStream;*`
+
+__unknown_file (D
+B
+%0<org.apache.commons.compress.compressors.pack200.StreamBridge2
+getInput()Û
+
+é é(:	
+%2int"java.io.InputStream#read([BII)I*7
+
+__unknown_file (
+
+%1java.io.InputStream*)
+
+__unknown_file (
+
+bbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2
+read([BII)"
+
+é é(;
+"":
+
+ç ç(#
+bbyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BPN
+Lorg.apache.commons.compress.compressors.pack200.Pack200CompressorInputStreamHP

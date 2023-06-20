@@ -1,0 +1,48 @@
+
+]org.apache.commons.compress.compressors.deflate64.Deflate64CompressorInputStream#available()I™
+ŽC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/deflate64/Deflate64CompressorInputStream.java6 6("4*Z
+277 7(8F
+D
+77 7(8	
+%1int"__id*'
+
+__unknown_file (
+	
+%3int*
+1*”
+37! 7((Ú
+×
+7! 7((F
+%4@org.apache.commons.compress.compressors.deflate64.HuffmanDecoder"__id*}
+
+__unknown_file (a*_R
+Porg.apache.commons.compress.compressors.deflate64.Deflate64CompressorInputStream"	
+decoderÚ×
+7! 7(4	
+%2int"Morg.apache.commons.compress.compressors.deflate64.HuffmanDecoder#available()I*d
+
+__unknown_file (H
+F
+%4@org.apache.commons.compress.compressors.deflate64.HuffmanDecoder2available()F
+D
+7! 7(4	
+%1int"__id*'
+
+__unknown_file (
+	
+%2int*
+1*ò
+47 7(Ú
+×
+7 7(F
+%0@org.apache.commons.compress.compressors.deflate64.HuffmanDecoder"__id*}
+
+__unknown_file (a*_R
+Porg.apache.commons.compress.compressors.deflate64.Deflate64CompressorInputStream"	
+decoder*
+2
+3*!
+17 7(9"
+7 7(9
+""BTR
+Porg.apache.commons.compress.compressors.deflate64.Deflate64CompressorInputStreamHP

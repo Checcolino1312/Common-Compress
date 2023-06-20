@@ -1,0 +1,43 @@
+
+Worg.apache.commons.compress.harmony.pack200.NewAttribute#readClass(I)Ljava/lang/String;v
+jC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/NewAttribute.javaÀ À("1*õ
+1
+Á Á(¥
+¢
+
+Á Á(#
+%0org.objectweb.asm.ClassReader"__id*i
+
+__unknown_file (M*K:
+8org.apache.commons.compress.harmony.pack200.NewAttribute"
+classReader†
+ƒ
+
+Á, Á(/
+%1char[]"__id*a
+
+__unknown_file (E*C:
+8org.apache.commons.compress.harmony.pack200.NewAttribute"
+bufŠ‡
+
+Á Á(0
+%2java.lang.String">org.objectweb.asm.ClassReader#readClass(I[C)Ljava/lang/String;*A
+
+__unknown_file (%
+#
+%0org.objectweb.asm.ClassReader*"
+
+__unknown_file (
+""**
+
+__unknown_file (
+
+%1char[]2readClass(I[C)"&
+
+Á Á(1
+
+%2java.lang.String: 
+
+__unknown_file (
+""B<:
+8org.apache.commons.compress.harmony.pack200.NewAttributeH

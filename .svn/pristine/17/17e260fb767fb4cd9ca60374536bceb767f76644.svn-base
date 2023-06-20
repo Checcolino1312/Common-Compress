@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93aa7688-6400-4167-89c5-11121b0bd075" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/archivers/dump/DumpArchiveInputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/archivers/jar/JarArchiveEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/archivers/jar/JarArchiveEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/archivers/zip/DefaultBackingStoreSupplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/archivers/zip/DefaultBackingStoreSupplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/archivers/zip/ParallelScatterZipCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/archivers/zip/ParallelScatterZipCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/changes/ChangeSetPerformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/changes/ChangeSetPerformer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/compressors/CompressorStreamFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/compressors/CompressorStreamFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/compressors/gzip/GzipCompressorInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/compressors/gzip/GzipCompressorInputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/compressors/pack200/Pack200Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/compressors/pack200/Pack200Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/compressors/pack200/TempFileCachingStreamBridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/compressors/pack200/TempFileCachingStreamBridge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/compressors/snappy/PureJavaCrc32C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/compressors/snappy/PureJavaCrc32C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/archive/internal/nls/Messages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/archive/internal/nls/Messages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/BHSDCodec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/BHSDCodec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/BandSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/BandSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/BcBands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/BcBands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/ClassBands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/ClassBands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/CodecEncoding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/CodecEncoding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/CpBands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/CpBands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/IcBands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/IcBands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/MetadataBandGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/MetadataBandGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/NewAttributeBands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/NewAttributeBands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/PackingUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/PackingUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/PopulationCodec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/PopulationCodec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/Segment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/pack200/Segment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/AttributeLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/AttributeLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/BandSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/BandSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/BcBands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/BcBands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/ClassBands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/ClassBands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/NewAttributeBands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/NewAttributeBands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/Segment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/Segment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/SegmentConstantPoolArrayCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/SegmentConstantPoolArrayCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/AnnotationDefaultAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/AnnotationDefaultAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPInterfaceMethodRef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPInterfaceMethodRef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPMethodRef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPMethodRef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPRef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPRef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CodeAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CodeAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/ConstantValueAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/ConstantValueAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/DeprecatedAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/DeprecatedAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/EnclosingMethodAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/EnclosingMethodAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/ExceptionsAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/ExceptionsAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/InnerClassesAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/InnerClassesAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/LineNumberTableAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/LineNumberTableAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/LocalVariableTableAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/LocalVariableTableAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/LocalVariableTypeTableAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/LocalVariableTypeTableAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/NewAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/NewAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/SignatureAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/SignatureAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/SourceFileAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/SourceFileAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/utils/OsgiUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/utils/OsgiUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/utils/TimeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/apache/commons/compress/utils/TimeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/ArTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/ArTestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/CpioTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/CpioTestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/DumpTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/DumpTestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/JarTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/JarTestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/TarTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/TarTestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/ZipTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/ZipTestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/jar/ExpandApkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/jar/ExpandApkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/sevenz/SevenZFileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/sevenz/SevenZFileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/tar/TarArchiveInputStreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/tar/TarFileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/tar/TarFileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/zip/Maven221MultiVolumeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/zip/Maven221MultiVolumeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/zip/ParallelScatterZipCreatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/zip/ParallelScatterZipCreatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/zip/ZipFileIgnoringLocalFileHeaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/archivers/zip/ZipFileIgnoringLocalFileHeaderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/changes/ChangeSetTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/changes/ChangeSetTestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/BZip2TestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/BZip2TestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/DeflateTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/DeflateTestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/GZipTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/GZipTestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/LZMATestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/LZMATestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/Pack200TestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/Pack200TestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/XZTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/XZTestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/brotli/BrotliCompressorInputStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/brotli/BrotliCompressorInputStreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/deflate64/Deflate64BugsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/deflate64/Deflate64BugsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/lz4/FramedLZ4CompressorInputStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/lz4/FramedLZ4CompressorInputStreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/pack200/Pack200UtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/pack200/Pack200UtilsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/snappy/FramedSnappyCompressorInputStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/snappy/FramedSnappyCompressorInputStreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/zstandard/ZstdCompressorInputStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/compressors/zstandard/ZstdCompressorInputStreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/harmony/pack200/tests/ArchiveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/harmony/pack200/tests/ArchiveTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/harmony/pack200/tests/Compress626Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/harmony/pack200/tests/Compress626Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/harmony/pack200/tests/PackingOptionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/harmony/pack200/tests/PackingOptionsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/harmony/pack200/tests/RunCodecTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/harmony/pack200/tests/RunCodecTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/harmony/unpack200/tests/ArchiveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/harmony/unpack200/tests/ArchiveTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/harmony/unpack200/tests/BandSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/harmony/unpack200/tests/BandSetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/harmony/unpack200/tests/BcBandsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/harmony/unpack200/tests/BcBandsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/harmony/unpack200/tests/Codec_decodeInts_OutOfMemoryErrorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/harmony/unpack200/tests/Codec_decodeInts_OutOfMemoryErrorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/harmony/unpack200/tests/SegmentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/harmony/unpack200/tests/SegmentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/utils/CharsetsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/utils/CharsetsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/utils/FixedLengthBlockOutputStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/utils/FixedLengthBlockOutputStreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/utils/SeekableInMemoryByteChannelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/apache/commons/compress/utils/SeekableInMemoryByteChannelTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../Program Files/Java/jdk-19/lib/src.zip!/java.base/java/util/zip/ZipEntry.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2PeHw7SB1w3ZnNX3RdP8m990lU2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/KR_Ma/Desktop/Modelli prog/common&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.reader.mode&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93aa7688-6400-4167-89c5-11121b0bd075" name="Changes" comment="" />
+      <created>1683810864551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683810864551</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

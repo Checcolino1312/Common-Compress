@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.bzip2.BlockSort#blockSort(Lorg/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream$Data;I)V
+org.apache.commons.compress.compressors.bzip2.BlockSort#fallbackSort(Lorg/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream$Data;I)V
+org.apache.commons.compress.compressors.bzip2.BlockSort#mainSort(Lorg/apache/commons/compress/compressors/bzip2/BZip2CompressorOutputStream$Data;I)V

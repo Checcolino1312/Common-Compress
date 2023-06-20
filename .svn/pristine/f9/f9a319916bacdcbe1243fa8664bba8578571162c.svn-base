@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.unpack200.CpBands#cpIntegerValue(I)Lorg/apache/commons/compress/harmony/unpack200/bytecode/CPInteger;
+org.apache.commons.compress.harmony.unpack200.bytecode.CPInteger#instance-init#
+java.lang.Integer#valueOf(I)Ljava/lang/Integer;
+org.apache.commons.compress.harmony.unpack200.bytecode.CPInteger#<init>(Ljava/lang/Integer;I)V

@@ -1,0 +1,21 @@
+
+aorg.apache.commons.compress.compressors.zstandard.ZstdCompressorInputStream#getCompressedCount()J”
+‰C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/zstandard/ZstdCompressorInputStream.javaN N(""1*Ã
+1O O(Ñ
+Î
+O O(;
+%05org.apache.commons.compress.utils.CountingInputStream"__id*
+
+__unknown_file (c*aM
+Korg.apache.commons.compress.compressors.zstandard.ZstdCompressorInputStream"
+countingStreamËÈ
+O O(,
+
+%1long"Eorg.apache.commons.compress.utils.CountingInputStream#getBytesRead()J*Y
+
+__unknown_file (=
+;
+%05org.apache.commons.compress.utils.CountingInputStream2getBytesRead()"
+O O(-
+""BOM
+Korg.apache.commons.compress.compressors.zstandard.ZstdCompressorInputStreamHP

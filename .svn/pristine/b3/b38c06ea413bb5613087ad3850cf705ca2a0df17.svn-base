@@ -1,0 +1,94 @@
+
+‡org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#canReadEntryData(Lorg/apache/commons/compress/archivers/ArchiveEntry;)Z}
+qC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.javaÿ ÿ(#"startingBlock*%
+2
+‚ „(1"
+
+‚ „(1
+""*
+3
+„ „(,ø
+õ
+
+„ „(0
+%2boolean"—org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#supportsCompressedSizeFor(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.zip.ZipArchiveInputStream*]
+
+__unknown_file (A
+?
+ze9org.apache.commons.compress.archivers.zip.ZipArchiveEntry*
+2*Ï
+startingBlock
+ÿ# ÿ(:­
+ª
+
+ş ş(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*V
+
+__unknown_file (:
+8
+ae2org.apache.commons.compress.archivers.ArchiveEntryz
+x
+
+ÿ7 ÿ(98
+ae2org.apache.commons.compress.archivers.ArchiveEntry"__annotation*"
+
+__unknown_file (
+
+%3*
+6
+1*’
+5
+ƒ ƒ(,ø
+õ
+
+ƒ ƒ(0
+%1boolean"—org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#supportsDataDescriptorFor(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z*_
+
+__unknown_file (CA
+?org.apache.commons.compress.archivers.zip.ZipArchiveInputStream*]
+
+__unknown_file (A
+?
+ze9org.apache.commons.compress.archivers.zip.ZipArchiveEntry*
+2
+3*£
+6
+9 (;®
+«
+
+ (<?
+ze9org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*V
+
+__unknown_file (:
+8
+ae2org.apache.commons.compress.archivers.ArchiveEntryÕ
+Ò
+
+‚ ‚(1
+%0boolean"‚org.apache.commons.compress.archivers.zip.ZipUtil#canHandleEntryData(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z*Q
+
+__unknown_file (5"3
+1org.apache.commons.compress.archivers.zip.ZipUtil*]
+
+__unknown_file (A
+?
+ze9org.apache.commons.compress.archivers.zip.ZipArchiveEntry*	
+2
+3
+5*%
+1
+† †("
+
+† †(
+"":F
+
+ÿ$ ÿ(98
+ae2org.apache.commons.compress.archivers.ArchiveEntryBCA
+?org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamHP

@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.cpio.CpioArchiveEntry#getHeaderPadCount(Ljava/nio/charset/Charset;)I
+java.lang.String#length()I
+java.lang.String#getBytes(Ljava/nio/charset/Charset;)[B
+==
+getHeaderPadCount org.apache.commons.compress.archivers.cpio.CpioArchiveEntry#getHeaderPadCount(J)I

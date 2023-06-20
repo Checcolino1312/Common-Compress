@@ -1,0 +1,66 @@
+
+óorg.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#getGeneralPurposeBits(ZZ)Lorg/apache/commons/compress/archivers/zip/GeneralPurposeBit;~
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream.java„ „(3"5*ù
+2
+Á Á(ÜÉ
+
+Á Á(%
+
+%3void"Qorg.apache.commons.compress.archivers.zip.GeneralPurposeBit#useDataDescriptor(Z)V*^
+
+__unknown_file (B
+@
+b;org.apache.commons.compress.archivers.zip.GeneralPurposeBit* 
+
+__unknown_file (22useDataDescriptor(Z)*
+1*û
+3
+Â Â(5ÑÅ
+
+Â Â(5
+
+%2void"Oorg.apache.commons.compress.archivers.zip.GeneralPurposeBit#useUTF8ForNames(Z)V*^
+
+__unknown_file (B
+@
+b;org.apache.commons.compress.archivers.zip.GeneralPurposeBit*"
+
+__unknown_file (
+""2useUTF8ForNames(Z)*
+2
+1*°
+5
+‰$ ‰(;èå
+
+‰( ‰(9A
+%0;org.apache.commons.compress.archivers.zip.GeneralPurposeBit";org.apache.commons.compress.archivers.zip.GeneralPurposeBitΩ
+∫
+
+‰$ ‰(;
+%1"Eorg.apache.commons.compress.archivers.zip.GeneralPurposeBit#<init>()V*_
+
+__unknown_file (C
+A
+%0;org.apache.commons.compress.archivers.zip.GeneralPurposeBit∏
+µ
+
+‰ ‰(<@
+b;org.apache.commons.compress.archivers.zip.GeneralPurposeBit"__id*_
+
+__unknown_file (C
+A
+%0;org.apache.commons.compress.archivers.zip.GeneralPurposeBit*
+3*a
+1
+È È("P
+
+È È(B
+@
+b;org.apache.commons.compress.archivers.zip.GeneralPurposeBit: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BDB
+@org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream

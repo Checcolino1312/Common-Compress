@@ -1,0 +1,10 @@
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder#buildTree([I)Lorg/apache/commons/compress/compressors/deflate64/HuffmanDecoder$BinaryTreeNode;
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder#getCodes([I)[I
+java.lang.IllegalStateException#instance-init#
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder$BinaryTreeNode#<init>(I)V
+java.lang.IllegalStateException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder$BinaryTreeNode#instance-init#
+==
+left org.apache.commons.compress.compressors.deflate64.HuffmanDecoder$BinaryTreeNode#left()Lorg/apache/commons/compress/compressors/deflate64/HuffmanDecoder$BinaryTreeNode;
+leaf org.apache.commons.compress.compressors.deflate64.HuffmanDecoder$BinaryTreeNode#leaf(I)V
+right org.apache.commons.compress.compressors.deflate64.HuffmanDecoder$BinaryTreeNode#right()Lorg/apache/commons/compress/compressors/deflate64/HuffmanDecoder$BinaryTreeNode;

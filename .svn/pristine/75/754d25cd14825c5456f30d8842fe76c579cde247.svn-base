@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#getNextDumpEntry()Lorg/apache/commons/compress/archivers/dump/DumpArchiveEntry;
+==
+getNextEntry org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#getNextEntry()Lorg/apache/commons/compress/archivers/dump/DumpArchiveEntry;

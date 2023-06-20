@@ -1,0 +1,7 @@
+org.apache.commons.compress.harmony.pack200.MetadataBandGroup#pack(Ljava/io/OutputStream;)V
+org.apache.commons.compress.harmony.pack200.MetadataBandGroup#tagListToArray(Ljava/util/List;)[I
+org.apache.commons.compress.harmony.pack200.PackingUtils#log(Ljava/lang/String;)V
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.lang.String#indexOf(I)I
+==
+hasContent org.apache.commons.compress.harmony.pack200.MetadataBandGroup#hasContent()Z

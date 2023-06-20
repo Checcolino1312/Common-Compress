@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.pack200.BcBands#finaliseBands()V
+org.apache.commons.compress.harmony.pack200.BcBands#getIndexInClass(Ljava/util/List;)Ljava/util/List;
+org.apache.commons.compress.harmony.pack200.BcBands#getIndexInClassForConstructor(Ljava/util/List;)Ljava/util/List;

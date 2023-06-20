@@ -1,0 +1,1 @@
+org.apache.commons.compress.archivers.sevenz.Coders#findByMethod(Lorg/apache/commons/compress/archivers/sevenz/SevenZMethod;)Lorg/apache/commons/compress/archivers/sevenz/AbstractCoder;

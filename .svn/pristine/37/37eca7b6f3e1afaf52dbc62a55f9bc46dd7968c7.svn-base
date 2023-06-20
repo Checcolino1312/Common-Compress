@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.commons.compress.archivers.ZipTestCase
+-------------------------------------------------------------------------------
+Tests run: 25, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.616 s - in org.apache.commons.compress.archivers.ZipTestCase

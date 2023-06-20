@@ -1,0 +1,32 @@
+
+\org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#readSize()I
+‚C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/snappy/FramedSnappyCompressorInputStream.javaÈ È("1*ä
+1
+É É(Õ
+Ò
+
+É0 É(8>
+%08org.apache.commons.compress.utils.ByteUtils$ByteSupplier"__id*~
+
+__unknown_file (b*`R
+Porg.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream"
+
+supplierä
+á
+
+É É(<
+
+%1long"zorg.apache.commons.compress.utils.ByteUtils#fromLittleEndian(Lorg/apache/commons/compress/utils/ByteUtils$ByteSupplier;I)J*K
+
+__unknown_file (/"-
++org.apache.commons.compress.utils.ByteUtils*\
+
+__unknown_file (@
+>
+%08org.apache.commons.compress.utils.ByteUtils$ByteSupplier* 
+
+__unknown_file (2"
+
+É É(=
+""BTR
+Porg.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStreamP

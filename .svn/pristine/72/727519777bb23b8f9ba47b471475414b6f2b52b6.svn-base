@@ -1,0 +1,45 @@
+
+Oorg.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#matches([BI)Z}
+sC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveInputStream.javaV V(!"24"2"14"4"16"6"18"8"21"10"12"1*!
+2| |("
+| |(
+""*"
+24X X("
+X X(
+""*"
+14i i("
+i i(
+""*!
+4y y("
+y y(
+""*"
+16f f("
+f f(
+""*!
+6v v("
+v v(
+""*"
+18` `("
+` `(
+""*!
+8r r("
+r r(
+""*"
+21] ]("
+] ](
+""*"
+10o o("
+o o(
+""*"
+12l l("
+l l(
+""*!
+1 ("
+ (
+"":
+V" V(9
+	signaturebyte[]: 
+
+__unknown_file (
+""BE"C
+Aorg.apache.commons.compress.archivers.cpio.CpioArchiveInputStreamHP

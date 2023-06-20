@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStream#instance-init#
+java.util.LinkedList#<init>()V
+java.util.LinkedList#instance-init#

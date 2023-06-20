@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.pack200.SegmentHeader#writeClassCounts(Ljava/io/OutputStream;)V
+==
+getMostCommon org.apache.commons.compress.harmony.pack200.SegmentHeader$Counter#getMostCommon()I

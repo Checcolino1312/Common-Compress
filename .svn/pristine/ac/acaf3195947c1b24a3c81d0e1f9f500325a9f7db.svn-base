@@ -1,0 +1,4 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#moveToFrontCodeAndSend()V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#generateMTFValues()V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#sendMTFValues()V
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#bsW(II)V

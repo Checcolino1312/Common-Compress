@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.pack200.IntList#add(I)Z
+org.apache.commons.compress.harmony.pack200.IntList#growAtEnd(I)V

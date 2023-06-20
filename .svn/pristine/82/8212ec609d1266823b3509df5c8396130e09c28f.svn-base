@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.tar.TarFile#<init>(Ljava/nio/file/Path;Ljava/lang/String;)V
+java.nio.file.Files#newByteChannel(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/nio/channels/SeekableByteChannel;
+==
+TarFile org.apache.commons.compress.archivers.tar.TarFile#<init>(Ljava/nio/channels/SeekableByteChannel;IILjava/lang/String;Z)V

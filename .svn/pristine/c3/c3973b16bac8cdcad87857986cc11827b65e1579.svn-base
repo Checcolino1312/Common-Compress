@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.unpack200.SegmentUtils#countMatches([[JLorg/apache/commons/compress/harmony/unpack200/IMatcher;)I
+org.apache.commons.compress.harmony.unpack200.SegmentUtils#countMatches([JLorg/apache/commons/compress/harmony/unpack200/IMatcher;)I

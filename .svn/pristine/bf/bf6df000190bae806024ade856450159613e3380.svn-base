@@ -1,0 +1,26 @@
+
+torg.apache.commons.compress.compressors.bzip2.BZip2Utils#getCompressedFilename(Ljava/lang/String;)Ljava/lang/String;t
+jC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2Utils.java: :(."1*‚
+1; ;(r
+p
+; ;(:
+%04org.apache.commons.compress.compressors.FileNameUtil"__id*"
+
+__unknown_file (
+""ØÕ
+; ;(;
+%1java.lang.String"porg.apache.commons.compress.compressors.FileNameUtil#getCompressedFilename(Ljava/lang/String;)Ljava/lang/String;*X
+
+__unknown_file (<
+:
+%04org.apache.commons.compress.compressors.FileNameUtil*:
+
+__unknown_file (
+
+fileNamejava.lang.String2)getCompressedFilename(Ljava/lang/String;)"$
+; ;(<
+
+%1java.lang.String:(
+:/ :(D
+fileNamejava.lang.StringB<":
+8org.apache.commons.compress.compressors.bzip2.BZip2UtilsH

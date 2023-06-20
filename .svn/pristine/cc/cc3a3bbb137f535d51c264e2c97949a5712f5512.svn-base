@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.pack200.CpBands#writeCpDouble(Ljava/io/OutputStream;)V
+org.apache.commons.compress.harmony.pack200.PackingUtils#log(Ljava/lang/String;)V
+java.lang.Double#doubleToLongBits(D)J

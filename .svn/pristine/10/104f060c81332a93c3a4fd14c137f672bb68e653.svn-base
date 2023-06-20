@@ -1,0 +1,27 @@
+
+^__sonar_lambda_30$org.apache.commons.compress.harmony.unpack200.bytecode.forms.TableSwitchForm•
+ŠC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/forms/TableSwitchForm.java/ /(>"startingBlock* 
+startingBlock/ /(>ÿ
+ü
+
+__unknown_file (W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager"__id*€
+
+__unknown_file (d*bN
+Lorg.apache.commons.compress.harmony.unpack200.bytecode.forms.TableSwitchForm"
+operandManager*
+1*™
+1/$ /(2ðí
+/$ /(>	
+%4int"Rorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager#nextLabel()I*u
+
+__unknown_file (Y
+W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager2nextLabel()"
+/$ /(>
+	
+%4int: 
+
+__unknown_file (
+""B'%
+#java.util.function.IntUnaryOperator

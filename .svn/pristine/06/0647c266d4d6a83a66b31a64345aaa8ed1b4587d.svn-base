@@ -1,0 +1,42 @@
+
+lorg.apache.commons.compress.compressors.lz77support.LZ77Compressor$LiteralBlock#toString()Ljava/lang/String;ç
+ÄC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/lz77support/LZ77Compressor.javaŒ Œ("1*ó
+1
+œ œ(.s
+q
+
+œ œ(7
+%0java.lang.String"__concat*+
+
+œ œ(.
+LiteralBlock starting at *
+
+œ1 œ(7
+""y
+w
+
+œ œ(I
+%1java.lang.String"__concat*&
+
+œ œ(7
+
+%0java.lang.String*
+
+œ: œ(I
+ with length n
+l
+
+œ œ(R
+%2java.lang.String"__concat*&
+
+œ œ(I
+
+%1java.lang.String*
+
+œL œ(R
+"""&
+
+œ œ(S
+
+%2java.lang.StringBSQ
+Oorg.apache.commons.compress.compressors.lz77support.LZ77Compressor$LiteralBlockH

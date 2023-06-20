@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.StreamCompressor#create(Ljava/io/DataOutput;Ljava/util/zip/Deflater;)Lorg/apache/commons/compress/archivers/zip/StreamCompressor;
+org.apache.commons.compress.archivers.zip.StreamCompressor$DataOutputCompressor#instance-init#
+org.apache.commons.compress.archivers.zip.StreamCompressor$DataOutputCompressor#<init>(Ljava/util/zip/Deflater;Ljava/io/DataOutput;)V

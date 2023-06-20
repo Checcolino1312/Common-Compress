@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.sevenz.LZMADecoder#encode(Ljava/io/OutputStream;Ljava/lang/Object;)Ljava/io/OutputStream;
+org.tukaani.xz.LZMAOutputStream#<init>(Ljava/io/OutputStream;Lorg/tukaani/xz/LZMA2Options;Z)V
+org.apache.commons.compress.utils.FlushShieldFilterOutputStream#<init>(Ljava/io/OutputStream;)V
+org.apache.commons.compress.utils.FlushShieldFilterOutputStream#instance-init#
+org.apache.commons.compress.archivers.sevenz.LZMADecoder#getOptions(Ljava/lang/Object;)Lorg/tukaani/xz/LZMA2Options;
+org.tukaani.xz.LZMAOutputStream#instance-init#

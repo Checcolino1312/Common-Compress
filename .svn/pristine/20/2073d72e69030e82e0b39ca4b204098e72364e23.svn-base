@@ -1,0 +1,70 @@
+
+org.apache.commons.compress.harmony.unpack200.NewAttributeBands#readUpToMatchingBracket(Ljava/io/StringReader;)Ljava/lang/String;}
+qC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/NewAttributeBands.java« «(*"11*ğ
+2
+» »(ÖÓ
+
+» »(
+%3java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*;
+
+__unknown_file (
+
+sbjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(C)*
+9
+1*™
+9
+¯ ¯(#}{
+
+¯ ¯(*	
+%2int"java.io.StringReader#read()I*<
+
+__unknown_file ( 
+
+streamjava.io.StringReader2read()*	
+2
+9
+1*È
+11
+¬! ¬(4FD
+
+¬% ¬(2
+%0java.lang.StringBuilder"java.lang.StringBuildert
+r
+
+¬! ¬(4
+%1"!java.lang.StringBuilder#<init>()V*;
+
+__unknown_file (
+
+%0java.lang.StringBuilderp
+n
+
+¬ ¬(5
+sbjava.lang.StringBuilder"__id*;
+
+__unknown_file (
+
+%0java.lang.StringBuilder*
+9
+1*à
+1
+¾ ¾(¦£
+
+¾ ¾(
+%4java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*;
+
+__unknown_file (
+
+sbjava.lang.StringBuilder2
+toString()"&
+
+¾ ¾(
+
+%4java.lang.String:,
+
+«+ «(D
+streamjava.io.StringReaderBCA
+?org.apache.commons.compress.harmony.unpack200.NewAttributeBands

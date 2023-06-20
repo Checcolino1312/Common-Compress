@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.brotli.BrotliUtils#setCacheBrotliAvailablity(Z)V
+org.apache.commons.compress.compressors.brotli.BrotliUtils#internalIsBrotliCompressionAvailable()Z

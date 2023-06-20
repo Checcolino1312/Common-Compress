@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.ClassBands#addAnnotation(ILjava/lang/String;ZLjava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;)V
+org.apache.commons.compress.harmony.pack200.ClassBands#handleMethodAnnotation(ZLjava/lang/String;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;)V
+org.apache.commons.compress.harmony.pack200.ClassBands#handleFieldAnnotation(ZLjava/lang/String;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;)V
+org.apache.commons.compress.harmony.pack200.ClassBands#handleClassAnnotation(ZLjava/lang/String;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;)V

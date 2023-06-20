@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.ar.ArArchiveInputStream#asInt([BIIIZ)I
+org.apache.commons.compress.utils.ArchiveUtils#toAsciiString([BII)Ljava/lang/String;
+java.lang.String#isEmpty()Z
+java.lang.String#trim()Ljava/lang/String;
+java.lang.Integer#parseInt(Ljava/lang/String;I)I

@@ -1,0 +1,91 @@
+
+¸org.apache.commons.compress.harmony.pack200.BandSet#checkDistinctValuesAndEncodeWithPopulationCodec(Ljava/lang/String;[ILorg/apache/commons/compress/harmony/pack200/BHSDCodec;Lorg/apache/commons/compress/harmony/pack200/BandSet$BandData;Lorg/apache/commons/compress/harmony/pack200/BandSet$BandAnalysisResults;)Z}
+qC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/pack200/BandSet.javaó ó(C"8*Í	
+2
+ú ú(%°
+­
+
+ú ú(R
+
+%2void"¢org.apache.commons.compress.harmony.pack200.BandSet#encodeWithPopulationCodec(Ljava/lang/String;[ILorg/apache/commons/compress/harmony/pack200/BHSDCodec;Lorg/apache/commons/compress/harmony/pack200/BandSet$BandData;Lorg/apache/commons/compress/harmony/pack200/BandSet$BandAnalysisResults;)V*S
+
+__unknown_file (75
+3org.apache.commons.compress.harmony.pack200.BandSet*6
+
+__unknown_file (
+
+namejava.lang.String*"
+
+__unknown_file (
+""*c
+
+__unknown_file (G
+E
+defaultCodec5org.apache.commons.compress.harmony.pack200.BHSDCodec*f
+
+__unknown_file (J
+H
+bandData<org.apache.commons.compress.harmony.pack200.BandSet$BandData*p
+
+__unknown_file (T
+R
+resultsGorg.apache.commons.compress.harmony.pack200.BandSet$BandAnalysisResultsò
+ï
+
+û û(&
+%3boolean"Šorg.apache.commons.compress.harmony.pack200.BandSet#timeToStop(Lorg/apache/commons/compress/harmony/pack200/BandSet$BandAnalysisResults;)Z*S
+
+__unknown_file (75
+3org.apache.commons.compress.harmony.pack200.BandSet*p
+
+__unknown_file (T
+R
+resultsGorg.apache.commons.compress.harmony.pack200.BandSet$BandAnalysisResults"
+
+û û('
+""*æ
+7
+÷ ÷(ÌÉ
+
+÷ ÷(4
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*6
+
+__unknown_file (
+
+namejava.lang.String**
+
+__unknown_file (
+
+POPULATION2equals(Ljava/lang/Object;)*
+2
+1*„
+8
+ô  ô((êç
+
+ô  ô(<	
+%0int"Qorg.apache.commons.compress.harmony.pack200.BandSet$BandData#numDistinctValues()I*f
+
+__unknown_file (J
+H
+bandData<org.apache.commons.compress.harmony.pack200.BandSet$BandData2numDistinctValues()*
+7
+1*%
+1
+þ þ("
+
+þ þ(
+"":&
+
+óD ó(P
+namejava.lang.String: 
+
+__unknown_file (
+"":S
+
+ó] ó(tE
+defaultCodec5org.apache.commons.compress.harmony.pack200.BHSDCodec:W
+óu ó(‡H
+bandData<org.apache.commons.compress.harmony.pack200.BandSet$BandData:b
+óˆ ó(£R
+resultsGorg.apache.commons.compress.harmony.pack200.BandSet$BandAnalysisResultsB75
+3org.apache.commons.compress.harmony.pack200.BandSetP

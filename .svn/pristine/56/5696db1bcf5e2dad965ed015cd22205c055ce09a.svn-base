@@ -1,0 +1,6 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#handleZip64Extra(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;JZ)V
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#instance-init#
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#<init>(J)V
+org.apache.commons.compress.archivers.zip.ZipLong#instance-init#
+org.apache.commons.compress.archivers.zip.ZipLong#<init>(J)V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#getZip64Extra(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Lorg/apache/commons/compress/archivers/zip/Zip64ExtendedInformationExtraField;

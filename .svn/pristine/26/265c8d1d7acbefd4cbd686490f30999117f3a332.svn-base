@@ -1,0 +1,62 @@
+
+©org.apache.commons.compress.archivers.Lister#createArchiveInputStream([Ljava/lang/String;Ljava/io/InputStream;)Lorg/apache/commons/compress/archivers/ArchiveInputStream;t
+jC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/Lister.java,& ,(>"2"1*
+2/ /(x
+v
+/ /(@
+%0:org.apache.commons.compress.archivers.ArchiveStreamFactory"__id*"
+
+__unknown_file (
+""
+Š
+/4 /(;
+%1java.lang.String"
+__arrayGet*8
+
+__unknown_file (
+
+argsjava.lang.String[]* 
+
+__unknown_file (2™–
+/ /(A>
+%28org.apache.commons.compress.archivers.ArchiveInputStream"¶org.apache.commons.compress.archivers.ArchiveStreamFactory#createArchiveInputStream(Ljava/lang/String;Ljava/io/InputStream;)Lorg/apache/commons/compress/archivers/ArchiveInputStream;*^
+
+__unknown_file (B
+@
+%0:org.apache.commons.compress.archivers.ArchiveStreamFactory*4
+
+__unknown_file (
+
+%1java.lang.String*8
+
+__unknown_file (
+
+fisjava.io.InputStream2AcreateArchiveInputStream(Ljava/lang/String;Ljava/io/InputStream;)"L
+/ /(B@
+>
+%28org.apache.commons.compress.archivers.ArchiveInputStream*—
+11 1(x
+v
+1 1(@
+%3:org.apache.commons.compress.archivers.ArchiveStreamFactory"__id*"
+
+__unknown_file (
+""¿¼
+1 1(4>
+%48org.apache.commons.compress.archivers.ArchiveInputStream"¤org.apache.commons.compress.archivers.ArchiveStreamFactory#createArchiveInputStream(Ljava/io/InputStream;)Lorg/apache/commons/compress/archivers/ArchiveInputStream;*^
+
+__unknown_file (B
+@
+%3:org.apache.commons.compress.archivers.ArchiveStreamFactory*8
+
+__unknown_file (
+
+fisjava.io.InputStream2/createArchiveInputStream(Ljava/io/InputStream;)"L
+1 1(5@
+>
+%48org.apache.commons.compress.archivers.ArchiveInputStream:&
+,? ,(S
+argsjava.lang.String[]:&
+,T ,(i
+fisjava.io.InputStreamB0".
+,org.apache.commons.compress.archivers.Lister

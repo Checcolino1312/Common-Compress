@@ -1,0 +1,51 @@
+
+Torg.apache.commons.compress.compressors.deflate.DeflateCompressorInputStream#read()I•
+ŠC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/deflate/DeflateCompressorInputStream.javaw w("4*Z
+2y y(F
+D
+y y(	
+%2int"__id*'
+
+__unknown_file (
+	
+%4int*
+1*Z
+3y y(F
+D
+y y(	
+%2int"__id*'
+
+__unknown_file (
+	
+%3int*
+1*³
+4x x(¤
+¡
+x x(
+%0java.io.InputStream"__id*t
+
+__unknown_file (X*VN
+Lorg.apache.commons.compress.compressors.deflate.DeflateCompressorInputStream"
+inus
+x x(!	
+%1int"java.io.InputStream#read()I*7
+
+__unknown_file (
+
+%0java.io.InputStream2read()*
+2
+3*§
+1y y( ƒ€
+y y( 
+
+%5void"Gorg.apache.commons.compress.compressors.CompressorInputStream#count(I)V*l
+
+__unknown_file (PN
+Lorg.apache.commons.compress.compressors.deflate.DeflateCompressorInputStream*'
+
+__unknown_file (
+	
+%2int2count(I)"
+z z(
+""BPN
+Lorg.apache.commons.compress.compressors.deflate.DeflateCompressorInputStreamHP

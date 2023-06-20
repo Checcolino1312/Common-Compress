@@ -1,0 +1,56 @@
+
+Oorg.apache.commons.compress.archivers.cpio.CpioArchiveEntry#getNumberOfLinks()Jy
+mC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/cpio/CpioArchiveEntry.java‰ ‰( "2"5*`
+2
+Š4 Š(9J
+H
+
+Š4 Š(9
+
+%0long"__id*(
+
+__unknown_file (
+
+
+%2long*
+1*_
+3
+Š0 Š(1I
+G
+
+Š0 Š(1
+
+%0long"__id*'
+
+__unknown_file (
+	
+%5int*
+1*_
+4
+Š, Š(-I
+G
+
+Š, Š(-
+
+%0long"__id*'
+
+__unknown_file (
+	
+%4int*
+1*ð
+5
+Š Š('ÖÓ
+
+Š Š()
+%3boolean"Jorg.apache.commons.compress.archivers.cpio.CpioArchiveEntry#isDirectory()Z*[
+
+__unknown_file (?=
+;org.apache.commons.compress.archivers.cpio.CpioArchiveEntry2isDirectory()*
+3
+4*%
+1
+Š Š(:"
+
+Š Š(:
+""B?=
+;org.apache.commons.compress.archivers.cpio.CpioArchiveEntryHP

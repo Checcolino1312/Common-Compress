@@ -1,0 +1,1 @@
+org.apache.commons.compress.archivers.ArchiveInputStream#canReadEntryData(Lorg/apache/commons/compress/archivers/ArchiveEntry;)Z

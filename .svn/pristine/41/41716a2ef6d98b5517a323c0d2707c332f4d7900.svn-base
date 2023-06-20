@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.sevenz.LZMADecoder#getOptions(Ljava/lang/Object;)Lorg/tukaani/xz/LZMA2Options;
+org.tukaani.xz.LZMA2Options#<init>()V
+org.apache.commons.compress.archivers.sevenz.LZMADecoder#numberOptionOrDefault(Ljava/lang/Object;)I
+org.tukaani.xz.LZMA2Options#instance-init#

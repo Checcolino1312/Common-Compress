@@ -1,0 +1,7 @@
+org.apache.commons.compress.harmony.pack200.NewAttributeBands#parseLayout()V
+java.util.ArrayList#<init>()V
+java.io.StringReader#instance-init#
+org.apache.commons.compress.harmony.pack200.NewAttributeBands#readNextAttributeElement(Ljava/io/StringReader;)Lorg/apache/commons/compress/harmony/pack200/NewAttributeBands$AttributeLayoutElement;
+java.util.ArrayList#instance-init#
+java.io.StringReader#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.harmony.pack200.NewAttributeBands#resolveCalls()V

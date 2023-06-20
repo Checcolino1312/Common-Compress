@@ -1,0 +1,419 @@
+
+þorg.apache.commons.compress.changes.ChangeSetPerformer#perform(Lorg/apache/commons/compress/changes/ChangeSetPerformer$ArchiveEntryIterator;Lorg/apache/commons/compress/archivers/ArchiveOutputStream;)Lorg/apache/commons/compress/changes/ChangeSetResults;t
+hC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/changes/ChangeSetPerformer.java± ±($"17*¦
+13
+½& ½((¯¬
+
+½& ½(/1
+%10*org.apache.commons.compress.changes.Change"+java.util.Iterator#next()Ljava/lang/Object;*6
+
+__unknown_file (
+
+itjava.util.Iterator2next()œ
+™
+
+½ ½(04
+change*org.apache.commons.compress.changes.Change"__id*O
+
+__unknown_file (3
+1
+%10*org.apache.commons.compress.changes.Change«¨
+
+¾! ¾(.
+
+%11int"2org.apache.commons.compress.changes.Change#type()I*R
+
+__unknown_file (6
+4
+change*org.apache.commons.compress.changes.Change2type()ÞÛ
+
+¿$ ¿(3
+%12java.lang.String"Norg.apache.commons.compress.archivers.ArchiveEntry#getName()Ljava/lang/String;*Y
+
+__unknown_file (=
+;
+entry2org.apache.commons.compress.archivers.ArchiveEntry2	getName()e
+c
+
+¿ ¿(4
+namejava.lang.String"__id*5
+
+__unknown_file (
+
+%12java.lang.StringD
+B
+
+Á Á(.
+
+%13int"__id*"
+
+__unknown_file (
+""*
+9
+11*ž
+14
+¼D ¼(F}
+
+¼D ¼(P
+%9boolean"java.util.Iterator#hasNext()Z*6
+
+__unknown_file (
+
+itjava.util.Iterator2	hasNext()*
+13
+4
+16*¥
+15
+¹' ¹(4ÖÓ
+
+¹' ¹(;8
+%72org.apache.commons.compress.archivers.ArchiveEntry"†org.apache.commons.compress.changes.ChangeSetPerformer$ArchiveEntryIterator#next()Lorg/apache/commons/compress/archivers/ArchiveEntry;*z
+
+__unknown_file (^
+\
+entryIteratorKorg.apache.commons.compress.changes.ChangeSetPerformer$ArchiveEntryIterator2next()ª
+§
+
+¹ ¹(<;
+entry2org.apache.commons.compress.archivers.ArchiveEntry"__id*V
+
+__unknown_file (:
+8
+%72org.apache.commons.compress.archivers.ArchiveEntryž›
+
+¼- ¼(B
+%8java.util.Iterator",java.util.Set#iterator()Ljava/util/Iterator;*9
+
+__unknown_file (
+
+
+workingSetjava.util.Set2
+iterator()f
+d
+
+¼ ¼(B
+itjava.util.Iterator"__id*6
+
+__unknown_file (
+
+%8java.util.Iterator*
+14*™
+16
+¸ ¸(ýú
+
+¸ ¸(&
+%6boolean"Vorg.apache.commons.compress.changes.ChangeSetPerformer$ArchiveEntryIterator#hasNext()Z*z
+
+__unknown_file (^
+\
+entryIteratorKorg.apache.commons.compress.changes.ChangeSetPerformer$ArchiveEntryIterator2	hasNext()*
+15
+1*Å
+17
+²) ²(?€~
+
+²- ²(=:
+%04org.apache.commons.compress.changes.ChangeSetResults"4org.apache.commons.compress.changes.ChangeSetResults¯
+¬
+
+²) ²(?
+%1">org.apache.commons.compress.changes.ChangeSetResults#<init>()V*X
+
+__unknown_file (<
+:
+%04org.apache.commons.compress.changes.ChangeSetResults°
+­
+
+² ²(@?
+results4org.apache.commons.compress.changes.ChangeSetResults"__id*X
+
+__unknown_file (<
+:
+%04org.apache.commons.compress.changes.ChangeSetResults
+Œ
+
+´; ´(B
+%2java.util.Set"__id*c
+
+__unknown_file (G*E8
+6org.apache.commons.compress.changes.ChangeSetPerformer"	
+changesFD
+
+´+ ´(:
+%3java.util.LinkedHashSet"java.util.LinkedHashSet¾
+»
+
+´' ´(C
+%4"7java.util.LinkedHashSet#<init>(Ljava/util/Collection;)V*;
+
+__unknown_file (
+
+%3java.util.LinkedHashSet*1
+
+__unknown_file (
+
+%2java.util.Setn
+l
+
+´ ´(D
+
+workingSetjava.util.Set"__id*;
+
+__unknown_file (
+
+%3java.util.LinkedHashSet¹
+¶
+
+¶ ¶(1
+
+%5void"Éorg.apache.commons.compress.changes.ChangeSetPerformer#doNothingMethod(Lorg/apache/commons/compress/changes/ChangeSetResults;Ljava/util/Set;Lorg/apache/commons/compress/archivers/ArchiveOutputStream;)V*V
+
+__unknown_file (:8
+6org.apache.commons.compress.changes.ChangeSetPerformer*]
+
+__unknown_file (A
+?
+results4org.apache.commons.compress.changes.ChangeSetResults*9
+
+__unknown_file (
+
+
+workingSetjava.util.Set*^
+
+__unknown_file (B
+@
+out9org.apache.commons.compress.archivers.ArchiveOutputStream*
+16*í
+1
+Ó Ó(¼
+¹
+
+Ó Ó(3
+%30void"Ëorg.apache.commons.compress.changes.ChangeSetPerformer#addRemainingFiles(Ljava/util/Set;Lorg/apache/commons/compress/archivers/ArchiveOutputStream;Lorg/apache/commons/compress/changes/ChangeSetResults;)V*V
+
+__unknown_file (:8
+6org.apache.commons.compress.changes.ChangeSetPerformer*9
+
+__unknown_file (
+
+
+workingSetjava.util.Set*^
+
+__unknown_file (B
+@
+out9org.apache.commons.compress.archivers.ArchiveOutputStream*]
+
+__unknown_file (A
+?
+results4org.apache.commons.compress.changes.ChangeSetResultsËÈ
+
+Õ Õ(
+%31void"Corg.apache.commons.compress.archivers.ArchiveOutputStream#finish()V*^
+
+__unknown_file (B
+@
+out9org.apache.commons.compress.archivers.ArchiveOutputStream2finish()"O
+
+Ö Ö(A
+?
+results4org.apache.commons.compress.changes.ChangeSetResults*‘
+2
+Î Î(¬©
+
+Î Î(9
+%26java.io.InputStream"qorg.apache.commons.compress.changes.ChangeSetPerformer$ArchiveEntryIterator#getInputStream()Ljava/io/InputStream;*z
+
+__unknown_file (^
+\
+entryIteratorKorg.apache.commons.compress.changes.ChangeSetPerformer$ArchiveEntryIterator2getInputStream()´
+±
+
+Î Î(F
+%27void"Èorg.apache.commons.compress.changes.ChangeSetPerformer#copyStream(Ljava/io/InputStream;Lorg/apache/commons/compress/archivers/ArchiveOutputStream;Lorg/apache/commons/compress/archivers/ArchiveEntry;)V*V
+
+__unknown_file (:8
+6org.apache.commons.compress.changes.ChangeSetPerformer*8
+
+__unknown_file (
+
+%26java.io.InputStream*^
+
+__unknown_file (B
+@
+out9org.apache.commons.compress.archivers.ArchiveOutputStream*Y
+
+__unknown_file (=
+;
+entry2org.apache.commons.compress.archivers.ArchiveEntryÞÛ
+
+Ï( Ï(7
+%28java.lang.String"Norg.apache.commons.compress.archivers.ArchiveEntry#getName()Ljava/lang/String;*Y
+
+__unknown_file (=
+;
+entry2org.apache.commons.compress.archivers.ArchiveEntry2	getName()²¯
+
+Ï Ï(8
+%29void"Yorg.apache.commons.compress.changes.ChangeSetResults#addedFromStream(Ljava/lang/String;)V*]
+
+__unknown_file (A
+?
+results4org.apache.commons.compress.changes.ChangeSetResults*5
+
+__unknown_file (
+
+%28java.lang.String2#addedFromStream(Ljava/lang/String;)*
+16*«
+3
+Í? Í(FÞÛ
+
+ÍT Í(c
+%24java.lang.String"Norg.apache.commons.compress.archivers.ArchiveEntry#getName()Ljava/lang/String;*Y
+
+__unknown_file (=
+;
+entry2org.apache.commons.compress.archivers.ArchiveEntry2	getName()¯¬
+
+Í? Í(d
+%25boolean"Vorg.apache.commons.compress.changes.ChangeSetResults#hasBeenAdded(Ljava/lang/String;)Z*]
+
+__unknown_file (A
+?
+results4org.apache.commons.compress.changes.ChangeSetResults*5
+
+__unknown_file (
+
+%24java.lang.String2 hasBeenAdded(Ljava/lang/String;)*
+2
+16*¶
+4
+Í Í('›
+˜
+
+Í Í(:
+%23boolean"‹org.apache.commons.compress.changes.ChangeSetPerformer#isDeletedLater(Ljava/util/Set;Lorg/apache/commons/compress/archivers/ArchiveEntry;)Z*V
+
+__unknown_file (:8
+6org.apache.commons.compress.changes.ChangeSetPerformer*9
+
+__unknown_file (
+
+
+workingSetjava.util.Set*Y
+
+__unknown_file (=
+;
+entry2org.apache.commons.compress.archivers.ArchiveEntry*
+3
+16*¾
+6
+Ç Ç( £ 
+
+È È()
+%22void"Qorg.apache.commons.compress.changes.ChangeSetResults#deleted(Ljava/lang/String;)V*]
+
+__unknown_file (A
+?
+results4org.apache.commons.compress.changes.ChangeSetResults*6
+
+__unknown_file (
+
+namejava.lang.String2deleted(Ljava/lang/String;)*
+4
+16*Ä
+7
+ÆM Æ(QÕÒ
+
+Æ] Æ(p
+%19java.lang.String"Iorg.apache.commons.compress.changes.Change#targetFile()Ljava/lang/String;*R
+
+__unknown_file (6
+4
+change*org.apache.commons.compress.changes.Change2targetFile()o
+m
+
+Æ] Æ(v
+%20java.lang.String"__concat*'
+
+Æ] Æ(p
+
+%19java.lang.String*
+
+Æs Æ(v
+/àÝ
+
+ÆM Æ(w
+%21boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*6
+
+__unknown_file (
+
+namejava.lang.String*5
+
+__unknown_file (
+
+%20java.lang.String2startsWith(Ljava/lang/String;)*
+14
+6*^
+9
+Æ Æ(D
+B
+
+Æ# Æ(9
+
+%18int"__id*"
+
+__unknown_file (
+""*
+14
+7*¼
+10
+Â Â( {y
+
+Ã Ã(
+%16void"java.util.Iterator#remove()V*6
+
+__unknown_file (
+
+itjava.util.Iterator2remove()£ 
+
+Ä Ä()
+%17void"Qorg.apache.commons.compress.changes.ChangeSetResults#deleted(Ljava/lang/String;)V*]
+
+__unknown_file (A
+?
+results4org.apache.commons.compress.changes.ChangeSetResults*6
+
+__unknown_file (
+
+namejava.lang.String2deleted(Ljava/lang/String;)*
+4
+16*Ì
+11
+ÁB Á(FÕÒ
+
+ÁN Á(a
+%14java.lang.String"Iorg.apache.commons.compress.changes.Change#targetFile()Ljava/lang/String;*R
+
+__unknown_file (6
+4
+change*org.apache.commons.compress.changes.Change2targetFile()ØÕ
+
+ÁB Á(b
+%15boolean",java.lang.String#equals(Ljava/lang/Object;)Z*6
+
+__unknown_file (
+
+namejava.lang.String*5
+
+__unknown_file (
+
+%14java.lang.String2equals(Ljava/lang/Object;)*
+9
+10:j
+
+±% ±(N\
+entryIteratorKorg.apache.commons.compress.changes.ChangeSetPerformer$ArchiveEntryIterator:N
+
+±O ±(l@
+out9org.apache.commons.compress.archivers.ArchiveOutputStreamB:8
+6org.apache.commons.compress.changes.ChangeSetPerformer

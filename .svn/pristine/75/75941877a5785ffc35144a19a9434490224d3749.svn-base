@@ -1,0 +1,34 @@
+
+J
+java:S37407"/Provide the parametrized type for this generic.(ÿú ´ûÿÿÿÿ
+J
+java:S37407"/Provide the parametrized type for this generic.(ÿú ´ûÿÿÿÿ
+E
+java:S3740D"/Provide the parametrized type for this generic.(Ó‚¯°
+E
+java:S3740F"/Provide the parametrized type for this generic.(ƒµÉ¬
+E
+java:S3740G"/Provide the parametrized type for this generic.(Êµ½Æ
+E
+java:S3740H"/Provide the parametrized type for this generic.(¡â©¼
+J
+java:S3740I"/Provide the parametrized type for this generic.(Ç¡Êÿÿÿÿÿ
+l	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Øª²ûÿÿÿÿ
+s	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Øª²ûÿÿÿÿ8Ò·òİˆ1
+s	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âı‡¨şÿÿÿÿ8Ò·òİˆ1
+t	java:S115+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™¦‚ïıÿÿÿÿ
+R	java:S125Ä"<This block of commented-out lines of code should be removed.(Á’íß
+R
+java:S1854˜";Remove this useless assignment to local variable "aload_0".(ÙÆÓÓ
+W	java:S125Œ"<This block of commented-out lines of code should be removed.(«ŒÛÅüÿÿÿÿ
+V
+java:S6213œ":Rename this variable to not match a restricted identifier.(û‘Ù‘ùÿÿÿÿ
+=	java:S131¶""Add a default case to this switch.(ìıÇÓÿÿÿÿÿ
+n
+java:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(³Ê—«ıÿÿÿÿ
+D	java:S131‘""Add a default case to this switch.(ìıÇÓÿÿÿÿÿ8¥çİˆ1
+M
+java:S1172ë"*Remove this unused method parameter "max".(–Š·³úÿÿÿÿ8²üéÜˆ1
+Q
+java:S6213†":Rename this variable to not match a restricted identifier.(ÈÛ³§
+D	java:S131“""Add a default case to this switch.(ìıÇÓÿÿÿÿÿ8µ¸òİˆ1

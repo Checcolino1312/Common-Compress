@@ -1,0 +1,90 @@
+
+¶org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getExtraField(Lorg/apache/commons/compress/archivers/zip/ZipShort;)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;ƒ
+wC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.javaê ê(&"6*€
+2
+ì ì(/
+}
+
+ì ì(/E
+
+extraField7org.apache.commons.compress.archivers.zip.ZipExtraField"__id*"
+
+__unknown_file (
+""å
+â
+
+ì ì(/E
+
+extraField7org.apache.commons.compress.archivers.zip.ZipExtraField"
+__arrayGet*]
+
+__unknown_file (A
+?
+%19org.apache.commons.compress.archivers.zip.ZipExtraField[]*"
+
+__unknown_file (
+""*
+4
+1*f
+3
+î î(%"U
+
+î î(&G
+E
+
+extraField7org.apache.commons.compress.archivers.zip.ZipExtraField*‘
+4
+í í(¸µ
+
+í  í(88
+%22org.apache.commons.compress.archivers.zip.ZipShort"yorg.apache.commons.compress.archivers.zip.ZipExtraField#getHeaderId()Lorg/apache/commons/compress/archivers/zip/ZipShort;*c
+
+__unknown_file (G
+E
+
+extraField7org.apache.commons.compress.archivers.zip.ZipExtraField2getHeaderId()¼¹
+
+í í(9
+%3boolean"Norg.apache.commons.compress.archivers.zip.ZipShort#equals(Ljava/lang/Object;)Z*X
+
+__unknown_file (<
+:
+type2org.apache.commons.compress.archivers.zip.ZipShort*V
+
+__unknown_file (:
+8
+%22org.apache.commons.compress.archivers.zip.ZipShort2equals(Ljava/lang/Object;)*
+2
+3*Ù
+5
+ì2 ì(=Â
+¿
+
+ì2 ì(=?
+%19org.apache.commons.compress.archivers.zip.ZipExtraField[]"__id*j
+
+__unknown_file (N*L;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry"
+extraFields*
+2*Ü
+6
+ë ë(Â
+¿
+
+ë ë(?
+%09org.apache.commons.compress.archivers.zip.ZipExtraField[]"__id*j
+
+__unknown_file (N*L;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry"
+extraFields*
+5
+1*%
+1
+ò ò("
+
+ò ò(
+"":H
+
+ê' ê(::
+type2org.apache.commons.compress.archivers.zip.ZipShortB=;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntryH

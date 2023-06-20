@@ -1,0 +1,8 @@
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream#getRecord()[B
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream#tryToConsumeSecondEOFRecord()V
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream#setAtEOF(Z)V
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream#consumeRemainderOfLastBlock()V
+org.apache.commons.compress.archivers.tar.TarArchiveInputStream#isAtEOF()Z
+==
+readRecord org.apache.commons.compress.archivers.tar.TarArchiveInputStream#readRecord()[B
+isEOFRecord org.apache.commons.compress.archivers.tar.TarArchiveInputStream#isEOFRecord([B)Z

@@ -1,0 +1,12 @@
+org.apache.commons.compress.harmony.pack200.CpBands#pack(Ljava/io/OutputStream;)V
+org.apache.commons.compress.harmony.pack200.CpBands#writeCpDouble(Ljava/io/OutputStream;)V
+org.apache.commons.compress.harmony.pack200.CpBands#writeCpMethodOrField(Ljava/util/Set;Ljava/io/OutputStream;Ljava/lang/String;)V
+org.apache.commons.compress.harmony.pack200.CpBands#writeCpUtf8(Ljava/io/OutputStream;)V
+org.apache.commons.compress.harmony.pack200.CpBands#writeCpInt(Ljava/io/OutputStream;)V
+org.apache.commons.compress.harmony.pack200.CpBands#writeCpSignature(Ljava/io/OutputStream;)V
+org.apache.commons.compress.harmony.pack200.CpBands#writeCpFloat(Ljava/io/OutputStream;)V
+org.apache.commons.compress.harmony.pack200.PackingUtils#log(Ljava/lang/String;)V
+org.apache.commons.compress.harmony.pack200.CpBands#writeCpLong(Ljava/io/OutputStream;)V
+org.apache.commons.compress.harmony.pack200.CpBands#writeCpDescr(Ljava/io/OutputStream;)V
+org.apache.commons.compress.harmony.pack200.CpBands#writeCpString(Ljava/io/OutputStream;)V
+org.apache.commons.compress.harmony.pack200.CpBands#writeCpClass(Ljava/io/OutputStream;)V

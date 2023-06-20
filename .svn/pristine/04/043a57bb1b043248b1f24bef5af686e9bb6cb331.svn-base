@@ -1,0 +1,9 @@
+
+‚org.apache.commons.compress.archivers.ArchiveOutputStream#canWriteEntryData(Lorg/apache/commons/compress/archivers/ArchiveEntry;)Zu
+kC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/ArchiveOutputStream.javaF F($"1*!
+1G G("
+G G(
+"":N
+F% F(DB
+archiveEntry2org.apache.commons.compress.archivers.ArchiveEntryB=;
+9org.apache.commons.compress.archivers.ArchiveOutputStreamHP

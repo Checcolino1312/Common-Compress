@@ -1,0 +1,64 @@
+
+Yorg.apache.commons.compress.compressors.deflate64.HuffmanDecoder$HuffmanCodes#read([BII)I~
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/deflate64/HuffmanDecoder.javaÍ Í("startingBlock*%
+2
+Ï Ï("
+
+Ï Ï(
+""*ó
+startingBlock
+Í Í(>
+}
+
+Ì Ì(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*)
+
+__unknown_file (
+
+bbyte[]M
+K
+
+Í Í(
+bbyte[]"__annotation*"
+
+__unknown_file (
+
+%1*
+2
+1*…
+1
+Ñ Ñ(Ý
+Ú
+
+Ñ Ñ(*	
+%0int"_org.apache.commons.compress.compressors.deflate64.HuffmanDecoder$HuffmanCodes#decodeNext([BII)I*m
+
+__unknown_file (QO
+Morg.apache.commons.compress.compressors.deflate64.HuffmanDecoder$HuffmanCodes*)
+
+__unknown_file (
+
+bbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""
+
+Ñ Ñ(+
+"":
+
+Í Í( 
+bbyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BQO
+Morg.apache.commons.compress.compressors.deflate64.HuffmanDecoder$HuffmanCodesP

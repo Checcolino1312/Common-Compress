@@ -1,0 +1,67 @@
+
+^org.apache.commons.compress.harmony.pack200.Pack200ClassReader#readUTF8(I[C)Ljava/lang/String;z
+pC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/Pack200ClassReader.javaF F("startingBlock*Þ
+3H' H(2ÉÆ
+H' H(?
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*)
+
+__unknown_file (
+	Synthetic*6
+
+__unknown_file (
+
+utf8java.lang.String2equals(Ljava/lang/Object;)*
+1*ñ
+startingBlockF F(=€
+~
+E E(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*,
+
+__unknown_file (
+
+arg1char[]N
+L
+F8 F(<
+arg1char[]"__annotation*"
+
+__unknown_file (
+
+%2*
+4*Ö
+4G G(!Ú
+×
+G G(6
+%0java.lang.String"=org.objectweb.asm.ClassReader#readUTF8(I[C)Ljava/lang/String;*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*,
+
+__unknown_file (
+
+arg1char[]b
+`
+G G(7
+utf8java.lang.String"__id*4
+
+__unknown_file (
+
+%0java.lang.String*
+3
+1*5
+1K K("&
+K K(
+
+utf8java.lang.String: 
+
+__unknown_file (
+"":
+F+ F(<
+arg1char[]BB@
+>org.apache.commons.compress.harmony.pack200.Pack200ClassReaderH

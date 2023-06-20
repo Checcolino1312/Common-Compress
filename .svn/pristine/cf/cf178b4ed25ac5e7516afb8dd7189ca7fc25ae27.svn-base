@@ -1,0 +1,26 @@
+
+žorg.apache.commons.compress.archivers.zip.ZipSplitReadOnlySeekableByteChannel#buildFromLastSplitSegment(Ljava/io/File;)Ljava/nio/channels/SeekableByteChannel;–
+‹C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipSplitReadOnlySeekableByteChannel.javaU& U(?"1*ñ
+1V V((›˜
+V) V(A
+%0java.nio.file.Path")java.io.File#toPath()Ljava/nio/file/Path;*=
+
+__unknown_file (!
+
+lastSegmentFilejava.io.File2toPath()ˆ
+…
+V V(B+
+%1%java.nio.channels.SeekableByteChannel"¤org.apache.commons.compress.archivers.zip.ZipSplitReadOnlySeekableByteChannel#buildFromLastSplitSegment(Ljava/nio/file/Path;)Ljava/nio/channels/SeekableByteChannel;*m
+
+__unknown_file (Q"O
+Morg.apache.commons.compress.archivers.zip.ZipSplitReadOnlySeekableByteChannel*6
+
+__unknown_file (
+
+%0java.nio.file.Path"9
+V V(C-
++
+%1%java.nio.channels.SeekableByteChannel:+
+U@ U(Z
+lastSegmentFilejava.io.FileBQ"O
+Morg.apache.commons.compress.archivers.zip.ZipSplitReadOnlySeekableByteChannelH

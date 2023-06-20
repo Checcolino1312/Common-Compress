@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.X000A_NTFS#zipToDate(Lorg/apache/commons/compress/archivers/zip/ZipEightByteInteger;)Ljava/util/Date;
+org.apache.commons.compress.utils.TimeUtils#ntfsTimeToDate(J)Ljava/util/Date;
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#equals(Ljava/lang/Object;)Z
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#getLongValue()J

@@ -1,0 +1,51 @@
+
+Rorg.apache.commons.compress.compressors.brotli.BrotliCompressorInputStream#read()IÜ
+|C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/brotli/BrotliCompressorInputStream.javaJ J("4*Z
+2L L(F
+D
+L L(	
+%2int"__id*'
+
+__unknown_file (
+	
+%4int*
+1*Z
+3L L(F
+D
+L L(	
+%2int"__id*'
+
+__unknown_file (
+	
+%3int*
+1*›
+4K K(≤
+Ø
+K K(&
+%0 org.brotli.dec.BrotliInputStream"__id*u
+
+__unknown_file (Y*WL
+Jorg.apache.commons.compress.compressors.brotli.BrotliCompressorInputStream"
+decISêç
+K K($	
+%1int"(org.brotli.dec.BrotliInputStream#read()I*D
+
+__unknown_file ((
+&
+%0 org.brotli.dec.BrotliInputStream2read()*
+2
+3*•
+1L L( Å˛
+L L( 
+
+%5void"Gorg.apache.commons.compress.compressors.CompressorInputStream#count(I)V*j
+
+__unknown_file (NL
+Jorg.apache.commons.compress.compressors.brotli.BrotliCompressorInputStream*'
+
+__unknown_file (
+	
+%2int2count(I)"
+M M(
+""BNL
+Jorg.apache.commons.compress.compressors.brotli.BrotliCompressorInputStreamHP

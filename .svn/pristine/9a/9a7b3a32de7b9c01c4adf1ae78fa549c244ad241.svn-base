@@ -1,0 +1,8 @@
+org.apache.commons.compress.harmony.pack200.Archive#<init>(Ljava/util/jar/JarInputStream;Ljava/io/OutputStream;Lorg/apache/commons/compress/harmony/pack200/PackingOptions;)V
+org.apache.commons.compress.harmony.pack200.PackingOptions#instance-init#
+java.util.zip.GZIPOutputStream#instance-init#
+org.apache.commons.compress.harmony.pack200.PackingOptions#<init>()V
+java.io.BufferedOutputStream#instance-init#
+org.apache.commons.compress.harmony.pack200.PackingUtils#config(Lorg/apache/commons/compress/harmony/pack200/PackingOptions;)V
+java.io.BufferedOutputStream#<init>(Ljava/io/OutputStream;)V
+java.util.zip.GZIPOutputStream#<init>(Ljava/io/OutputStream;)V

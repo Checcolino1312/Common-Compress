@@ -1,0 +1,25 @@
+
+^org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#getCompressedCount()J†
+zC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream.java   (""1*®
+1
+¡ ¡(À
+½
+
+¡ ¡(6
+%00org.apache.commons.compress.utils.BitInputStream"__id*q
+
+__unknown_file (U*SJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream"
+binÃÀ
+
+¡ ¡(!
+
+%1long"@org.apache.commons.compress.utils.BitInputStream#getBytesRead()J*T
+
+__unknown_file (8
+6
+%00org.apache.commons.compress.utils.BitInputStream2getBytesRead()"
+
+¡ ¡("
+""BLJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStreamHP

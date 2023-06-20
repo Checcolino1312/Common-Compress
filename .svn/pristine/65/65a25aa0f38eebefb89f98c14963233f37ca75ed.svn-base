@@ -1,0 +1,7 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#skipRemainderOfArchive()V
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#realSkip(J)V
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#readFully([B)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#findEocdRecord()Z
+org.apache.commons.compress.archivers.zip.ZipShort#getValue([B)I

@@ -1,0 +1,4 @@
+org.apache.commons.compress.utils.ServiceLoaderIterator#<init>(Ljava/lang/Class;)V
+java.lang.ClassLoader#getSystemClassLoader()Ljava/lang/ClassLoader;
+==
+ServiceLoaderIterator org.apache.commons.compress.utils.ServiceLoaderIterator#<init>(Ljava/lang/Class;Ljava/lang/ClassLoader;)V

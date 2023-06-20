@@ -1,0 +1,36 @@
+
+Zorg.apache.commons.compress.harmony.pack200.BandSet#integerListToArray(Ljava/util/List;)[I}
+qC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/pack200/BandSet.javaÛ Û(&"1*Œ
+1
+Ü Ü(­ª
+
+Ü Ü(#
+%0java.util.stream.Stream"6java.util.Collection#stream()Ljava/util/stream/Stream;*;
+
+__unknown_file (
+
+integerListjava.util.List2stream()¢Ÿ
+
+Ü Ü(? 
+%1java.util.stream.IntStream"`java.util.stream.Stream#mapToInt(Ljava/util/function/ToIntFunction;)Ljava/util/stream/IntStream;*;
+
+__unknown_file (
+
+%0java.util.stream.Stream*"
+
+__unknown_file (
+""2,mapToInt(Ljava/util/function/ToIntFunction;)Œ
+
+Ü Ü(I
+%2int[]"&java.util.stream.IntStream#toArray()[I*>
+
+__unknown_file ("
+ 
+%1java.util.stream.IntStream2	toArray()"
+
+Ü Ü(J
+"":+
+
+Û' Û(F
+integerListjava.util.ListB75
+3org.apache.commons.compress.harmony.pack200.BandSet

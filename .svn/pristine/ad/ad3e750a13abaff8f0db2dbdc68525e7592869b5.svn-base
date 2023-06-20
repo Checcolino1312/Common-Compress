@@ -1,0 +1,38 @@
+
+ƒorg.apache.commons.compress.compressors.CompressorStreamFactory#findAvailableCompressorOutputStreamProviders()Ljava/util/SortedMap;}
+qC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/CompressorStreamFactory.javaá> á(j"1*š
+1
+â â({
+y
+
+âm ç(	$
+%0java.security.PrivilegedAction"__declareFunction*2
+
+__unknown_file (
+__sonar_lambda_82$Ì
+É
+
+__unknown_file (F
+$
+%0java.security.PrivilegedAction"
+CompressorStreamFactory.this"__id*_
+
+__unknown_file (C"A
+?org.apache.commons.compress.compressors.CompressorStreamFactory
+
+
+â ç(
+
+%12java.util.SortedMap"_java.security.AccessController#doPrivileged(Ljava/security/PrivilegedAction;)Ljava/lang/Object;*>
+
+__unknown_file ("" 
+java.security.AccessController*B
+
+__unknown_file (&
+$
+%0java.security.PrivilegedAction"*
+
+â ç(
+
+%12java.util.SortedMapBC"A
+?org.apache.commons.compress.compressors.CompressorStreamFactoryH

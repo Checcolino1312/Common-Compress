@@ -1,0 +1,8 @@
+org.apache.commons.compress.archivers.ar.ArArchiveInputStream#getBSDLongName(Ljava/lang/String;)Ljava/lang/String;
+java.io.EOFException#instance-init#
+org.apache.commons.compress.utils.IOUtils#readRange(Ljava/io/InputStream;I)[B
+java.lang.String#substring(I)Ljava/lang/String;
+java.lang.Integer#parseInt(Ljava/lang/String;)I
+org.apache.commons.compress.archivers.ar.ArArchiveInputStream#trackReadBytes(J)V
+java.io.EOFException#<init>()V
+org.apache.commons.compress.utils.ArchiveUtils#toAsciiString([B)Ljava/lang/String;

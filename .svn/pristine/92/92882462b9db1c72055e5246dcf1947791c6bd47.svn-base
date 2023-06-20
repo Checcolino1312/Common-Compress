@@ -1,0 +1,4 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#init(Z)Z
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#readNextByte(Lorg/apache/commons/compress/utils/BitInputStream;)I
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V

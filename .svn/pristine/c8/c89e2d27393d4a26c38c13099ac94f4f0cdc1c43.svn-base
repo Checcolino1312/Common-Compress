@@ -1,0 +1,4 @@
+org.apache.commons.compress.changes.ChangeSetPerformer#perform(Lorg/apache/commons/compress/archivers/ArchiveInputStream;Lorg/apache/commons/compress/archivers/ArchiveOutputStream;)Lorg/apache/commons/compress/changes/ChangeSetResults;
+org.apache.commons.compress.changes.ChangeSetPerformer#perform(Lorg/apache/commons/compress/changes/ChangeSetPerformer$ArchiveEntryIterator;Lorg/apache/commons/compress/archivers/ArchiveOutputStream;)Lorg/apache/commons/compress/changes/ChangeSetResults;
+org.apache.commons.compress.changes.ChangeSetPerformer$ArchiveInputStreamIterator#<init>(Lorg/apache/commons/compress/archivers/ArchiveInputStream;)V
+org.apache.commons.compress.changes.ChangeSetPerformer$ArchiveInputStreamIterator#instance-init#

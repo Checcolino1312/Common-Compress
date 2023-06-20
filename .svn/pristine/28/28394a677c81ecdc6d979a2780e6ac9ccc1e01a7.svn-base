@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.PackingOptions#getUnknownAttributePrototypes()[Lorg/objectweb/asm/Attribute;
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+org.apache.commons.compress.harmony.pack200.PackingOptions#addOrUpdateAttributeActions(Ljava/util/List;Ljava/util/Map;I)V

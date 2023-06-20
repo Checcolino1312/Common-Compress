@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#canWriteEntryData(Lorg/apache/commons/compress/archivers/ArchiveEntry;)Z
+org.apache.commons.compress.archivers.zip.ZipUtil#canHandleEntryData(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z
+org.apache.commons.compress.archivers.zip.ZipMethod#getCode()I

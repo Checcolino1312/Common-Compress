@@ -1,0 +1,114 @@
+
+©org.apache.commons.compress.archivers.sevenz.SevenZFile#calculateNumDigests(Lorg/apache/commons/compress/archivers/sevenz/SevenZFile$ArchiveStatistics;Ljava/util/List;)I
+uC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZFile.java× ×(#"13*±
+13
+Ø Ø(’
+
+Ù Ù(2
+%0boolean"java.util.List#isEmpty()Z*L
+
+__unknown_file (0
+.
+numUnpackSubStreamsPerFolderjava.util.List2	isEmpty()*
+
+5
+12
+1*é
+4
+ŞO Ş(T²
+¯
+
+ŞO Ş(a
+%8java.util.BitSet"__id*‚
+
+__unknown_file (f*d
+R
+statsIorg.apache.commons.compress.archivers.sevenz.SevenZFile$ArchiveStatistics"
+folderHasCrcš—
+
+ŞO Ş(r
+%9boolean"java.util.BitSet#get(I)Z*4
+
+__unknown_file (
+
+%8java.util.BitSet*"
+
+__unknown_file (
+""2get(I)*
+5
+1*Ï
+5
+Ş0 Ş(5²
+¯
+
+Ş0 Ş(B
+%7java.util.BitSet"__id*‚
+
+__unknown_file (f*d
+R
+statsIorg.apache.commons.compress.archivers.sevenz.SevenZFile$ArchiveStatistics"
+folderHasCrc*	
+4
+5
+1*˜
+10
+ÚN Ú(S²
+¯
+
+Úf Ú(x
+%5java.util.BitSet"__id*‚
+
+__unknown_file (f*d
+R
+statsIorg.apache.commons.compress.archivers.sevenz.SevenZFile$ArchiveStatistics"
+folderHasCrc€~
+Úf Ú(†	
+%6int"java.util.BitSet#cardinality()I*4
+
+__unknown_file (
+
+%5java.util.BitSet2cardinality()I
+G
+ÚN Ú(†	
+%2int"__id*'
+
+__unknown_file (
+	
+%4int*
+1*_
+11
+Ú6 Ú(;H
+F
+
+Ú6 Ú(K	
+%2int"__id*'
+
+__unknown_file (
+	
+%3int*
+1*Ï
+12
+Ú Ú(²
+¯
+
+Ú Ú(+
+%1java.util.BitSet"__id*‚
+
+__unknown_file (f*d
+R
+statsIorg.apache.commons.compress.archivers.sevenz.SevenZFile$ArchiveStatistics"
+folderHasCrc*
+10
+11*%
+1
+ã ã("
+
+ã ã(
+"":`
+
+×$ ×(BR
+statsIorg.apache.commons.compress.archivers.sevenz.SevenZFile$ArchiveStatistics:<
+
+×C ×(s.
+numUnpackSubStreamsPerFolderjava.util.ListB;9
+7org.apache.commons.compress.archivers.sevenz.SevenZFileP

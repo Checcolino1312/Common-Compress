@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.lzma.LZMACompressorOutputStream#<init>(Ljava/io/OutputStream;)V
+org.tukaani.xz.LZMAOutputStream#<init>(Ljava/io/OutputStream;Lorg/tukaani/xz/LZMA2Options;J)V
+org.tukaani.xz.LZMA2Options#<init>()V
+org.tukaani.xz.LZMAOutputStream#instance-init#
+org.tukaani.xz.LZMA2Options#instance-init#

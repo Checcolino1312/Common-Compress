@@ -1,0 +1,25 @@
+
+morg.apache.commons.compress.parallel.FileBasedScatterGatherBackingStore#getInputStream()Ljava/io/InputStream;ê
+ÖC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/parallel/FileBasedScatterGatherBackingStore.javaO O(%"1*›
+1P P(¢
+ü
+P$ P(*
+%0java.nio.file.Path"__id*s
+
+__unknown_file (W*UI
+Gorg.apache.commons.compress.parallel.FileBasedScatterGatherBackingStore"
+targetˇ
+¸
+P P(+
+%1java.io.InputStream"hjava.nio.file.Files#newInputStream(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/io/InputStream;*3
+
+__unknown_file ("
+java.nio.file.Files*6
+
+__unknown_file (
+
+%0java.nio.file.Path"'
+P P(,
+
+%1java.io.InputStreamBKI
+Gorg.apache.commons.compress.parallel.FileBasedScatterGatherBackingStoreH

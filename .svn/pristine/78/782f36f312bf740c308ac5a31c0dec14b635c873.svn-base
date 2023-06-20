@@ -1,0 +1,7 @@
+organization=2022-mmqs-team-r
+projectKey=org.apache.commons:commons-compress
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.42104
+dashboardUrl=https://sonarcloud.io/dashboard?id=org.apache.commons%3Acommons-compress
+ceTaskId=AYiQMmzui1grS_HsTRqV
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYiQMmzui1grS_HsTRqV

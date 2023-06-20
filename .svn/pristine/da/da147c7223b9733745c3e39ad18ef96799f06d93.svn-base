@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.sevenz.LZMADecoder#numberOptionOrDefault(Ljava/lang/Object;)I
+org.apache.commons.compress.archivers.sevenz.AbstractCoder#toInt(Ljava/lang/Object;I)I

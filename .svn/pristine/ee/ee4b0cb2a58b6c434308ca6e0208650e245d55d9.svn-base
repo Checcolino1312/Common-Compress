@@ -1,0 +1,78 @@
+
+©org.apache.commons.compress.harmony.pack200.NewAttribute$StripAttribute#read(Lorg/objectweb/asm/ClassReader;II[CI[Lorg/objectweb/asm/Label;)Lorg/objectweb/asm/Attribute;€
+vC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/pack200/NewAttribute.javaM M( "startingBlock*ê
+startingBlockM  N(4–
+“
+L L(
+%0"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*A
+
+__unknown_file (%
+#
+crorg.objectweb.asm.ClassReaderc
+a
+M3 M(5#
+crorg.objectweb.asm.ClassReader"__annotation*"
+
+__unknown_file (
+
+%0
+}
+L L(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*+
+
+__unknown_file (
+
+bufchar[]M
+K
+Mb M(e
+bufchar[]"__annotation*"
+
+__unknown_file (
+
+%1–
+“
+L L(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*A
+
+__unknown_file (%
+#
+labelsorg.objectweb.asm.Label[]c
+a
+N- N(3#
+labelsorg.objectweb.asm.Label[]"__annotation*"
+
+__unknown_file (
+
+%2*
+1*!
+1P P("
+P P(
+"":/
+M! M(6#
+crorg.objectweb.asm.ClassReader: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"":
+MU M(f
+bufchar[]: 
+
+__unknown_file (
+"":/
+N N(3#
+labelsorg.objectweb.asm.Label[]BKI
+Gorg.apache.commons.compress.harmony.pack200.NewAttribute$StripAttribute

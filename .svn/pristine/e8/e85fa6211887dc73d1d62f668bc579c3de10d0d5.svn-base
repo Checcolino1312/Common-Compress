@@ -1,0 +1,25 @@
+
+Porg.apache.commons.compress.compressors.deflate64.HuffmanDecoder#getBytesRead()J~
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/deflate64/HuffmanDecoder.javaž	 ž("1*©
+1
+Ÿ Ÿ(»
+¸
+
+Ÿ Ÿ(6
+%00org.apache.commons.compress.utils.BitInputStream"__id*l
+
+__unknown_file (P*NB
+@org.apache.commons.compress.compressors.deflate64.HuffmanDecoder"
+readerÃÀ
+
+Ÿ Ÿ($
+
+%1long"@org.apache.commons.compress.utils.BitInputStream#getBytesRead()J*T
+
+__unknown_file (8
+6
+%00org.apache.commons.compress.utils.BitInputStream2getBytesRead()"
+
+Ÿ Ÿ(%
+""BDB
+@org.apache.commons.compress.compressors.deflate64.HuffmanDecoderP

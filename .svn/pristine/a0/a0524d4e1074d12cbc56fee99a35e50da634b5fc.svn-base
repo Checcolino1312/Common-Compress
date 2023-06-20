@@ -1,0 +1,88 @@
+
+^org.apache.commons.compress.compressors.FileNameUtil#isCompressedFilename(Ljava/lang/String;)Zr
+fC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/FileNameUtil.java¶ ¶('"7*%
+3
+¼ ¼("
+
+¼ ¼(
+""*Ô
+4
+» »( –
+“
+
+» »( 
+%3java.util.Map"__id*j
+
+__unknown_file (N*L6
+4org.apache.commons.compress.compressors.FileNameUtil"
+uncompressSuffixÃÀ
+
+»- »(C
+%4java.lang.String"/java.lang.String#substring(I)Ljava/lang/String;*7
+
+__unknown_file (
+
+lowerjava.lang.String*"
+
+__unknown_file (
+""2substring(I)ØÕ
+
+» »(D
+%5boolean".java.util.Map#containsKey(Ljava/lang/Object;)Z*1
+
+__unknown_file (
+
+%3java.util.Map*4
+
+__unknown_file (
+
+%4java.lang.String2containsKey(Ljava/lang/Object;)*	
+3
+4
+1*Ë
+7
+· ·(%P
+N
+
+·2 ·(@
+%0java.util.Locale"__id*"
+
+__unknown_file (
+""þû
+
+· ·(A
+%1java.lang.String"Bjava.lang.String#toLowerCase(Ljava/util/Locale;)Ljava/lang/String;*:
+
+__unknown_file (
+
+fileNamejava.lang.String*4
+
+__unknown_file (
+
+%0java.util.Locale2toLowerCase(Ljava/util/Locale;)e
+c
+
+· ·(B
+lowerjava.lang.String"__id*4
+
+__unknown_file (
+
+%1java.lang.Stringxv
+
+¸ ¸($	
+%2int"java.lang.String#length()I*7
+
+__unknown_file (
+
+lowerjava.lang.String2length()*
+4
+1*%
+1
+¿ ¿("
+
+¿ ¿(
+"":*
+
+¶( ¶(=
+fileNamejava.lang.StringB86
+4org.apache.commons.compress.compressors.FileNameUtilHP

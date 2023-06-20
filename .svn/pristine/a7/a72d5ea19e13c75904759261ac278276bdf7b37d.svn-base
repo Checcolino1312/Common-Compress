@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.ArchiveInputStream#count(I)V
+==
+count org.apache.commons.compress.archivers.ArchiveInputStream#count(J)V

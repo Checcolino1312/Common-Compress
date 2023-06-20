@@ -1,0 +1,18 @@
+org.apache.commons.compress.harmony.pack200.BandSet#analyseBand(Ljava/lang/String;[ILorg/apache/commons/compress/harmony/pack200/BHSDCodec;)Lorg/apache/commons/compress/harmony/pack200/BandSet$BandAnalysisResults;
+org.apache.commons.compress.harmony.pack200.BHSDCodec#largest()J
+java.util.ArrayList#<init>()V
+org.apache.commons.compress.harmony.pack200.BandSet$BandData#<init>(Lorg/apache/commons/compress/harmony/pack200/BandSet;[I)V
+org.apache.commons.compress.harmony.pack200.BandSet#tryCodecs(Ljava/lang/String;[ILorg/apache/commons/compress/harmony/pack200/BHSDCodec;Lorg/apache/commons/compress/harmony/pack200/BandSet$BandData;Lorg/apache/commons/compress/harmony/pack200/BandSet$BandAnalysisResults;[B[Lorg/apache/commons/compress/harmony/pack200/BHSDCodec;)V
+org.apache.commons.compress.harmony.pack200.BandSet$BandAnalysisResults#instance-init#
+org.apache.commons.compress.harmony.pack200.BandSet#checkDistinctValuesAndEncodeWithPopulationCodec(Ljava/lang/String;[ILorg/apache/commons/compress/harmony/pack200/BHSDCodec;Lorg/apache/commons/compress/harmony/pack200/BandSet$BandData;Lorg/apache/commons/compress/harmony/pack200/BandSet$BandAnalysisResults;)Z
+java.util.ArrayList#instance-init#
+org.apache.commons.compress.harmony.pack200.BandSet$BandData#instance-init#
+org.apache.commons.compress.harmony.pack200.BandSet$BandAnalysisResults#<init>(Lorg/apache/commons/compress/harmony/pack200/BandSet;)V
+org.apache.commons.compress.harmony.pack200.BandSet#initializeCanonicalArrays()V
+java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z
+org.apache.commons.compress.harmony.pack200.BandSet#timeToStop(Lorg/apache/commons/compress/harmony/pack200/BandSet$BandAnalysisResults;)Z
+==
+mainlyPositiveDeltas org.apache.commons.compress.harmony.pack200.BandSet$BandData#mainlyPositiveDeltas()Z
+anyNegatives org.apache.commons.compress.harmony.pack200.BandSet$BandData#anyNegatives()Z
+wellCorrelated org.apache.commons.compress.harmony.pack200.BandSet$BandData#wellCorrelated()Z
+mainlySmallDeltas org.apache.commons.compress.harmony.pack200.BandSet$BandData#mainlySmallDeltas()Z

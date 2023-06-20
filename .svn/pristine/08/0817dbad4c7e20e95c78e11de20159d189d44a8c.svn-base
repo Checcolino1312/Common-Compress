@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#isSparse()Z
+==
+isGNUSparse org.apache.commons.compress.archivers.tar.TarArchiveEntry#isGNUSparse()Z
+isStarSparse org.apache.commons.compress.archivers.tar.TarArchiveEntry#isStarSparse()Z

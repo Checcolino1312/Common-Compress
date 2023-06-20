@@ -1,0 +1,127 @@
+
+Zorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#readOnce([BII)Iˆ
+|C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/lz4/FramedLZ4CompressorInputStream.java· ·("2"1*Í
+2
+¹ ¹((®
+«
+
+¹ ¹((
+%0java.io.InputStream"__id*|
+
+__unknown_file (`*^L
+Jorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream"
+currentBlockóð
+
+¹ ¹(:	
+%1int"java.io.InputStream#read([BII)I*7
+
+__unknown_file (
+
+%0java.io.InputStream*)
+
+__unknown_file (
+
+bbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2
+read([BII)þû
+
+º º(
+
+%2void"Gorg.apache.commons.compress.compressors.CompressorInputStream#count(I)V*j
+
+__unknown_file (NL
+Jorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream*"
+
+__unknown_file (
+""2count(I)"
+
+» »(
+""*õ
+1
+½P ½(\®
+«
+
+½P ½(\
+%3java.io.InputStream"__id*|
+
+__unknown_file (`*^L
+Jorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream"
+currentBlockž
+›
+
+½ ½(]N
+lIorg.apache.commons.compress.compressors.lz4.BlockLZ4CompressorInputStream"__id*7
+
+__unknown_file (
+
+%3java.io.InputStreamèå
+
+¾ ¾(,
+
+%4long"Morg.apache.commons.compress.compressors.CompressorInputStream#getBytesRead()J*l
+
+__unknown_file (P
+N
+lIorg.apache.commons.compress.compressors.lz4.BlockLZ4CompressorInputStream2getBytesRead()®
+«
+
+¿ ¿($
+%5java.io.InputStream"__id*|
+
+__unknown_file (`*^L
+Jorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream"
+currentBlockóð
+
+¿ ¿(6	
+%6int"java.io.InputStream#read([BII)I*7
+
+__unknown_file (
+
+%5java.io.InputStream*)
+
+__unknown_file (
+
+bbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2
+read([BII)èå
+
+À À(
+
+%7long"Morg.apache.commons.compress.compressors.CompressorInputStream#getBytesRead()J*l
+
+__unknown_file (P
+N
+lIorg.apache.commons.compress.compressors.lz4.BlockLZ4CompressorInputStream2getBytesRead()þû
+
+À À((
+
+%8void"Gorg.apache.commons.compress.compressors.CompressorInputStream#count(J)V*j
+
+__unknown_file (NL
+Jorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream*"
+
+__unknown_file (
+""2count(J)"
+
+Á Á(
+"":
+
+· ·((
+bbyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BNL
+Jorg.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamP

@@ -1,0 +1,23 @@
+
+€org.apache.commons.compress.archivers.zip.ZipFile#canReadEntryData(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Zo
+cC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.javaå å(#"1*ý
+1
+æ æ(Õ
+Ò
+
+æ æ(-
+%0boolean"‚org.apache.commons.compress.archivers.zip.ZipUtil#canHandleEntryData(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z*Q
+
+__unknown_file (5"3
+1org.apache.commons.compress.archivers.zip.ZipUtil*]
+
+__unknown_file (A
+?
+ze9org.apache.commons.compress.archivers.zip.ZipArchiveEntry"
+
+æ æ(.
+"":M
+
+å$ å(<?
+ze9org.apache.commons.compress.archivers.zip.ZipArchiveEntryB53
+1org.apache.commons.compress.archivers.zip.ZipFileHP

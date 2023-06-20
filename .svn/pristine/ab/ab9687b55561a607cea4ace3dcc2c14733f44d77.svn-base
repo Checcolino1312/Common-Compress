@@ -1,0 +1,46 @@
+
+aorg.apache.commons.compress.harmony.unpack200.BcBands#getIndexForCodeAttribute(Ljava/util/List;)I
+sC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/BcBands.javaž ž(("2*ù
+2
+   ( ˆ
+…
+
+   ( M
+	attribute@org.apache.commons.compress.harmony.unpack200.bytecode.Attribute"__id*"
+
+__unknown_file (
+""Ô
+Ñ
+
+   ( M
+	attribute@org.apache.commons.compress.harmony.unpack200.bytecode.Attribute"
+__arrayGet*D
+
+__unknown_file ((
+&
+methodAttributesListjava.util.List*"
+
+__unknown_file (
+""*
+5
+1*Š
+5
+¡H ¡(Qðí
+
+¡8 ¡(c	
+%0int"Uorg.apache.commons.compress.harmony.unpack200.bytecode.NewAttribute#getLayoutIndex()I*k
+
+__unknown_file (O
+M
+	attribute@org.apache.commons.compress.harmony.unpack200.bytecode.Attribute2getLayoutIndex()*
+2
+1*%
+1
+¦ ¦("
+
+¦ ¦( 
+"":4
+
+ž) ž(M&
+methodAttributesListjava.util.ListB97
+5org.apache.commons.compress.harmony.unpack200.BcBandsP

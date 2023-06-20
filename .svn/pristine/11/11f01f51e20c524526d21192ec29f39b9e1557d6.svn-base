@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.AsiExtraField#isLink()Z
+java.lang.String#isEmpty()Z
+==
+getLinkedFile org.apache.commons.compress.archivers.zip.AsiExtraField#getLinkedFile()Ljava/lang/String;

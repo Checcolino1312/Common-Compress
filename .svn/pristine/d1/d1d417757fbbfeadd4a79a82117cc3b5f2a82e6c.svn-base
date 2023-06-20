@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.CPClass#toString()Ljava/lang/String;
+==
+getName org.apache.commons.compress.harmony.unpack200.bytecode.CPClass#getName()Ljava/lang/String;

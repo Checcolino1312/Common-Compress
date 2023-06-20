@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#matches([BI)Z
+org.apache.commons.compress.archivers.dump.DumpArchiveUtil#verify([B)Z
+org.apache.commons.compress.archivers.dump.DumpArchiveUtil#convert32([BI)I

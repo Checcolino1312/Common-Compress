@@ -1,0 +1,69 @@
+
+uorg.apache.commons.compress.archivers.zip.ZipEncodingHelper#growBufferBy(Ljava/nio/ByteBuffer;I)Ljava/nio/ByteBuffer;ƒ
+yC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipEncodingHelper.javaB B(""1*Ë	
+1C C(}{
+C C(&	
+%0int"java.nio.Buffer#position()I*;
+
+__unknown_file (
+
+bufferjava.nio.ByteBuffer2
+position()ËÈ
+C C('
+%1java.nio.ByteBuffer"1java.nio.ByteBuffer#limit(I)Ljava/nio/ByteBuffer;*;
+
+__unknown_file (
+
+bufferjava.nio.ByteBuffer*'
+
+__unknown_file (
+	
+%0int2limit(I)¢Ÿ
+D D(
+%2java.nio.ByteBuffer"1java.nio.ByteBuffer#rewind()Ljava/nio/ByteBuffer;*;
+
+__unknown_file (
+
+bufferjava.nio.ByteBuffer2rewind()}{
+F2 F(C	
+%3int"java.nio.Buffer#capacity()I*;
+
+__unknown_file (
+
+bufferjava.nio.ByteBuffer2
+capacity()·
+´
+F F(P
+%4java.nio.ByteBuffer"4java.nio.ByteBuffer#allocate(I)Ljava/nio/ByteBuffer;*3
+
+__unknown_file ("
+java.nio.ByteBuffer*"
+
+__unknown_file (
+""f
+d
+F F(Q
+onjava.nio.ByteBuffer"__id*7
+
+__unknown_file (
+
+%4java.nio.ByteBufferÿü
+H H(
+%5java.nio.ByteBuffer"Cjava.nio.ByteBuffer#put(Ljava/nio/ByteBuffer;)Ljava/nio/ByteBuffer;*7
+
+__unknown_file (
+
+onjava.nio.ByteBuffer*;
+
+__unknown_file (
+
+bufferjava.nio.ByteBuffer2put(Ljava/nio/ByteBuffer;)"'
+I I(
+
+onjava.nio.ByteBuffer:)
+B# B(;
+bufferjava.nio.ByteBuffer: 
+
+__unknown_file (
+""B?"=
+;org.apache.commons.compress.archivers.zip.ZipEncodingHelper

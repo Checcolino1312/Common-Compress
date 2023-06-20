@@ -1,0 +1,7 @@
+org.apache.commons.compress.harmony.pack200.ClassBands#addParameterAnnotation(ILjava/lang/String;ZLjava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;)V
+java.lang.Long#longValue()J
+org.apache.commons.compress.harmony.pack200.ClassBands$TempParamAnnotation#<init>(I)V
+java.lang.Long#valueOf(J)Ljava/lang/Long;
+org.apache.commons.compress.harmony.pack200.ClassBands$TempParamAnnotation#instance-init#
+==
+addParameterAnnotation org.apache.commons.compress.harmony.pack200.ClassBands$TempParamAnnotation#addParameterAnnotation(ILjava/lang/String;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;)V

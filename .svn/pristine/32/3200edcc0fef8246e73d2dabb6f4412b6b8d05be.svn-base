@@ -1,0 +1,44 @@
+
+Borg.apache.commons.compress.compressors.lzw.LZWInputStream#read()I„
+xC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/lzw/LZWInputStream.javaÙ Ù("3*%
+2
+Ü Ü("
+
+Ü Ü(
+""*ô
+3
+Ú Ú(Œ
+‰
+
+Ú Ú($
+%0byte[]"__id*g
+
+__unknown_file (K*I<
+:org.apache.commons.compress.compressors.lzw.LZWInputStream"	
+oneByteËÈ
+
+Ú Ú(%	
+%1int"java.io.InputStream#read([B)I*Z
+
+__unknown_file (><
+:org.apache.commons.compress.compressors.lzw.LZWInputStream**
+
+__unknown_file (
+
+%0byte[]2read([B)*
+2
+1*´
+1
+Þ Þ(Œ
+‰
+
+Þ Þ(
+%2byte[]"__id*g
+
+__unknown_file (K*I<
+:org.apache.commons.compress.compressors.lzw.LZWInputStream"	
+oneByte"
+
+Þ Þ(!
+""B><
+:org.apache.commons.compress.compressors.lzw.LZWInputStreamHP

@@ -1,0 +1,15 @@
+
+Žorg.apache.commons.compress.archivers.zip.UnsupportedZipFeatureException#getEntry()Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;„
+zC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/UnsupportedZipFeatureException.java{ {(#"1*¨
+1| |(É
+Æ
+| |(?
+%09org.apache.commons.compress.archivers.zip.ZipArchiveEntry"__id*s
+
+__unknown_file (W*UJ
+Horg.apache.commons.compress.archivers.zip.UnsupportedZipFeatureException"
+entry"M
+| |(A
+?
+%09org.apache.commons.compress.archivers.zip.ZipArchiveEntryBLJ
+Horg.apache.commons.compress.archivers.zip.UnsupportedZipFeatureExceptionH

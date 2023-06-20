@@ -1,0 +1,64 @@
+
+E__sonar_lambda_91$org.apache.commons.compress.harmony.pack200.BandSet}
+qC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/pack200/BandSet.javaµ µ(e"startingBlock*Ð
+startingBlock
+µ µ(e­
+ª
+
+__unknown_file (
+distinctValuesjava.util.Map"__id*g
+
+__unknown_file (K*I5
+3org.apache.commons.compress.harmony.pack200.BandSet"
+distinctValues*
+1*è
+1
+µ) µ(7«
+¨
+
+µ) µ(A
+%10java.lang.Integer"__mapGet*=
+
+__unknown_file (!
+
+distinctValuesjava.util.Map*7
+
+__unknown_file (
+
+arg1java.lang.Integer«
+¨
+
+µL µ(d
+%11java.lang.Integer"__mapGet*=
+
+__unknown_file (!
+
+distinctValuesjava.util.Map*7
+
+__unknown_file (
+
+arg0java.lang.IntegerÞÛ
+
+µ) µ(e
+
+%12int"1java.lang.Integer#compareTo(Ljava/lang/Integer;)I*6
+
+__unknown_file (
+
+%10java.lang.Integer*6
+
+__unknown_file (
+
+%11java.lang.Integer2compareTo(Ljava/lang/Integer;)"
+
+µ) µ(e
+
+
+%12int:'
+
+µ µ(
+arg0java.lang.Integer:'
+
+µ  µ($
+arg1java.lang.IntegerB
+java.util.Comparator

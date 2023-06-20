@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.lz77support.Parameters#builder(I)Lorg/apache/commons/compress/compressors/lz77support/Parameters$Builder;
+org.apache.commons.compress.compressors.lz77support.Parameters$Builder#<init>(I)V
+org.apache.commons.compress.compressors.lz77support.Parameters$Builder#instance-init#

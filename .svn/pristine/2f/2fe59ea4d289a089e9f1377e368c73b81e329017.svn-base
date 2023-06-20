@@ -1,0 +1,17 @@
+org.apache.commons.compress.archivers.arj.ArjArchiveInputStream#readMainHeader()Lorg/apache/commons/compress/archivers/arj/MainHeader;
+java.io.ByteArrayInputStream#instance-init#
+org.apache.commons.compress.archivers.arj.ArjArchiveInputStream#read16(Ljava/io/DataInputStream;)I
+org.apache.commons.compress.archivers.arj.ArjArchiveInputStream#readHeader()[B
+org.apache.commons.compress.archivers.arj.ArjArchiveInputStream#readString(Ljava/io/DataInputStream;)Ljava/lang/String;
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.arj.ArjArchiveInputStream#read32(Ljava/io/DataInputStream;)I
+java.util.zip.CRC32#instance-init#
+java.io.DataInputStream#readUnsignedByte()I
+org.apache.commons.compress.archivers.arj.MainHeader#instance-init#
+java.io.DataInputStream#<init>(Ljava/io/InputStream;)V
+java.io.DataInputStream#instance-init#
+java.io.ByteArrayInputStream#<init>([B)V
+org.apache.commons.compress.archivers.arj.ArjArchiveInputStream#readRange(Ljava/io/InputStream;I)[B
+java.util.zip.CRC32#<init>()V
+org.apache.commons.compress.archivers.arj.MainHeader#<init>()V

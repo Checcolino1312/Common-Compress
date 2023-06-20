@@ -1,0 +1,25 @@
+
+borg.apache.commons.compress.compressors.bzip2.BZip2Utils#isCompressedFilename(Ljava/lang/String;)Z€
+vC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2Utils.javaV V(."1*Ô
+1W W(r
+p
+W W(:
+%04org.apache.commons.compress.compressors.FileNameUtil"__id*"
+
+__unknown_file (
+""¼¹
+W W(:
+%1boolean"^org.apache.commons.compress.compressors.FileNameUtil#isCompressedFilename(Ljava/lang/String;)Z*X
+
+__unknown_file (<
+:
+%04org.apache.commons.compress.compressors.FileNameUtil*:
+
+__unknown_file (
+
+fileNamejava.lang.String2(isCompressedFilename(Ljava/lang/String;)"
+W W(;
+"":(
+V/ V(D
+fileNamejava.lang.StringB<":
+8org.apache.commons.compress.compressors.bzip2.BZip2UtilsHP

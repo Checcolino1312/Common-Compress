@@ -1,0 +1,2 @@
+org.apache.commons.compress.harmony.pack200.ClassBands#removeFieldFlags()V
+java.lang.Long#longValue()J

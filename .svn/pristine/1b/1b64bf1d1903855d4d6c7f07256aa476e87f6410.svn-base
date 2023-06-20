@@ -1,0 +1,17 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#createLocalFileHeader(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;Ljava/nio/ByteBuffer;ZZJ)[B
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#hasZip64Extra(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#usesDataDescriptor(IZ)Z
+java.nio.Buffer#position()I
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#getGeneralPurposeBits(ZZ)Lorg/apache/commons/compress/archivers/zip/GeneralPurposeBit;
+org.apache.commons.compress.archivers.zip.ResourceAlignmentExtraField#<init>(IZI)V
+java.nio.Buffer#limit()I
+java.nio.ByteBuffer#arrayOffset()I
+org.apache.commons.compress.archivers.zip.ZipLong#putLong(J[BI)V
+org.apache.commons.compress.archivers.zip.ZipShort#putShort(I[BI)V
+org.apache.commons.compress.archivers.zip.ZipLong#putLong([BI)V
+org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream#versionNeededToExtract(IZZ)I
+org.apache.commons.compress.archivers.zip.GeneralPurposeBit#encode([BI)V
+org.apache.commons.compress.archivers.zip.ZipUtil#toDosTime(J[BI)V
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+java.nio.ByteBuffer#array()[B
+org.apache.commons.compress.archivers.zip.ResourceAlignmentExtraField#instance-init#

@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.NioZipEncoding#decode([B)Ljava/lang/String;
+java.nio.charset.CharsetDecoder#decode(Ljava/nio/ByteBuffer;)Ljava/nio/CharBuffer;
+java.nio.ByteBuffer#wrap([B)Ljava/nio/ByteBuffer;
+org.apache.commons.compress.archivers.zip.NioZipEncoding#newDecoder()Ljava/nio/charset/CharsetDecoder;

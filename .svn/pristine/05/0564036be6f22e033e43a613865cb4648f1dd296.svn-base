@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.tar.TarFile#<init>([BLjava/lang/String;)V
+org.apache.commons.compress.utils.SeekableInMemoryByteChannel#instance-init#
+org.apache.commons.compress.utils.SeekableInMemoryByteChannel#<init>([B)V
+==
+TarFile org.apache.commons.compress.archivers.tar.TarFile#<init>(Ljava/nio/channels/SeekableByteChannel;IILjava/lang/String;Z)V

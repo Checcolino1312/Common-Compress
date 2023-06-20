@@ -1,0 +1,10 @@
+org.apache.commons.compress.harmony.pack200.Archive#doNormalPack()V
+org.apache.commons.compress.harmony.pack200.Archive#splitIntoSegments(Ljava/util/List;)Ljava/util/List;
+org.apache.commons.compress.harmony.pack200.PackingUtils#getPackingFileListFromJar(Ljava/util/jar/JarInputStream;Z)Ljava/util/List;
+org.apache.commons.compress.harmony.pack200.PackingUtils#getPackingFileListFromJar(Ljava/util/jar/JarFile;Z)Ljava/util/List;
+org.apache.commons.compress.harmony.pack200.PackingUtils#log(Ljava/lang/String;)V
+org.apache.commons.compress.harmony.pack200.Segment#instance-init#
+org.apache.commons.compress.harmony.pack200.Segment#<init>()V
+==
+getPackedByteAmount org.apache.commons.compress.harmony.pack200.Archive$SegmentUnit#getPackedByteAmount()I
+getByteAmount org.apache.commons.compress.harmony.pack200.Archive$SegmentUnit#getByteAmount()I

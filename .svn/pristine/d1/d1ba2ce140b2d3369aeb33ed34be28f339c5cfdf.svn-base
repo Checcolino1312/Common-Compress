@@ -1,0 +1,4 @@
+org.apache.commons.compress.utils.IOUtils#toByteArray(Ljava/io/InputStream;)[B
+org.apache.commons.compress.utils.IOUtils#copy(Ljava/io/InputStream;Ljava/io/OutputStream;)J
+java.io.ByteArrayOutputStream#<init>()V
+java.io.ByteArrayOutputStream#instance-init#

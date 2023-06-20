@@ -1,0 +1,23 @@
+
+\org.apache.commons.compress.harmony.unpack200.bytecode.CPDouble#toString()Ljava/lang/String;{
+qC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPDouble.java   ("1*˜
+1! !(òï
+! !(&
+%0java.lang.Object"^org.apache.commons.compress.harmony.unpack200.bytecode.CPConstant#getValue()Ljava/lang/Object;*_
+
+__unknown_file (CA
+?org.apache.commons.compress.harmony.unpack200.bytecode.CPDouble2
+getValue()n
+l
+! !(&
+%1java.lang.String"__concat*
+! !(
+
+Double: *$
+! !(&
+
+%0java.lang.Object"$
+! !('
+
+%1java.lang.StringBCA
+?org.apache.commons.compress.harmony.unpack200.bytecode.CPDoubleH

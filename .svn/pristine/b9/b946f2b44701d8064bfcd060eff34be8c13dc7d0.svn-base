@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.X000A_NTFS#fileTimeToZip(Ljava/nio/file/attribute/FileTime;)Lorg/apache/commons/compress/archivers/zip/ZipEightByteInteger;
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#instance-init#
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#<init>(J)V
+org.apache.commons.compress.utils.TimeUtils#toNtfsTime(Ljava/nio/file/attribute/FileTime;)J

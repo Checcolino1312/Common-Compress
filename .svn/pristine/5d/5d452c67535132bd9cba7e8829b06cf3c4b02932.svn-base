@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.StreamCompressor#create(Ljava/nio/channels/SeekableByteChannel;Ljava/util/zip/Deflater;)Lorg/apache/commons/compress/archivers/zip/StreamCompressor;
+org.apache.commons.compress.archivers.zip.StreamCompressor$SeekableByteChannelCompressor#<init>(Ljava/util/zip/Deflater;Ljava/nio/channels/SeekableByteChannel;)V
+org.apache.commons.compress.archivers.zip.StreamCompressor$SeekableByteChannelCompressor#instance-init#

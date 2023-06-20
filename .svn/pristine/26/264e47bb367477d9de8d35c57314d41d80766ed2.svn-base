@@ -1,0 +1,6 @@
+org.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCache#indexesForArrayKey([Ljava/lang/String;Ljava/lang/String;)Ljava/util/List;
+java.lang.String#equals(Ljava/lang/Object;)Z
+==
+indexesForKey org.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCache$CachedArray#indexesForKey(Ljava/lang/String;)Ljava/util/List;
+arrayIsCached org.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCache#arrayIsCached([Ljava/lang/String;)Z
+cacheArray org.apache.commons.compress.harmony.unpack200.SegmentConstantPoolArrayCache#cacheArray([Ljava/lang/String;)V

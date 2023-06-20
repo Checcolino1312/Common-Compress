@@ -1,0 +1,35 @@
+
+Morg.apache.commons.compress.compressors.deflate64.HuffmanDecoder#readBits(I)JŠ
+~C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/deflate64/HuffmanDecoder.java¢ ¢("1*Þ
+1
+£ £(»
+¸
+
+£ £(6
+%00org.apache.commons.compress.utils.BitInputStream"__id*l
+
+__unknown_file (P*NB
+@org.apache.commons.compress.compressors.deflate64.HuffmanDecoder"
+readerø
+õ
+
+£ £((
+
+%1long"org.apache.commons.compress.compressors.deflate64.HuffmanDecoder#readBits(Lorg/apache/commons/compress/utils/BitInputStream;I)J*`
+
+__unknown_file (D"B
+@org.apache.commons.compress.compressors.deflate64.HuffmanDecoder*T
+
+__unknown_file (8
+6
+%00org.apache.commons.compress.utils.BitInputStream*"
+
+__unknown_file (
+"""
+
+£ £()
+"": 
+
+__unknown_file (
+""BDB
+@org.apache.commons.compress.compressors.deflate64.HuffmanDecoderP

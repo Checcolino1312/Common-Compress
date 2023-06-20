@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream#readBackReference([BII)I
+org.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream#tryToCopy(I)V
+org.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream#readFromBuffer([BII)I
+==
+available org.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream#available()I

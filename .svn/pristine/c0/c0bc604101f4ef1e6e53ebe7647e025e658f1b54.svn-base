@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readFully([BII)I
+java.io.EOFException#instance-init#
+org.apache.commons.compress.utils.IOUtils#readFully(Ljava/io/InputStream;[BII)I
+java.io.EOFException#<init>()V

@@ -1,0 +1,22 @@
+
+]org.apache.commons.compress.harmony.unpack200.bytecode.CPInteger#toString()Ljava/lang/String;ˆ
+~C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPInteger.java   ("1*š
+1! !(óð
+! !('
+%0java.lang.Object"^org.apache.commons.compress.harmony.unpack200.bytecode.CPConstant#getValue()Ljava/lang/Object;*`
+
+__unknown_file (DB
+@org.apache.commons.compress.harmony.unpack200.bytecode.CPInteger2
+getValue()o
+m
+! !('
+%1java.lang.String"__concat*
+! !(
+	Integer: *$
+! !('
+
+%0java.lang.Object"$
+! !((
+
+%1java.lang.StringBDB
+@org.apache.commons.compress.harmony.unpack200.bytecode.CPIntegerH

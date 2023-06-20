@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.zstandard.ZstdCompressorOutputStream#<init>(Ljava/io/OutputStream;I)V
+com.github.luben.zstd.ZstdOutputStream#instance-init#
+com.github.luben.zstd.ZstdOutputStream#<init>(Ljava/io/OutputStream;I)V

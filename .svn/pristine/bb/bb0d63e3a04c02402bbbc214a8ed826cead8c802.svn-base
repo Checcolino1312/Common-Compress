@@ -1,0 +1,33 @@
+
+qorg.apache.commons.compress.archivers.tar.TarArchiveEntry#getExtraPaxHeader(Ljava/lang/String;)Ljava/lang/String;ƒ
+wC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveEntry.javaè è(#"1*ó
+1
+é é(š
+—
+
+é é(
+%0java.util.Map"__id*n
+
+__unknown_file (R*P;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntry"
+extraPaxHeadersœ
+™
+
+é é((
+%1java.lang.String"__mapGet*1
+
+__unknown_file (
+
+%0java.util.Map*6
+
+__unknown_file (
+
+namejava.lang.String"&
+
+é é()
+
+%1java.lang.String:&
+
+è$ è(5
+namejava.lang.StringB=;
+9org.apache.commons.compress.archivers.tar.TarArchiveEntryH

@@ -1,0 +1,435 @@
+
+Qorg.apache.commons.compress.archivers.arj.MainHeader#toString()Ljava/lang/String;p
+fC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/arj/MainHeader.javaF F("1*øX
+1G& G(9DB
+G* G(7
+%0java.lang.StringBuilder"java.lang.StringBuilderr
+p
+G& G(9
+%1"!java.lang.StringBuilder#<init>()V*;
+
+__unknown_file (
+
+%0java.lang.StringBuilders
+q
+G G(:"
+builderjava.lang.StringBuilder"__id*;
+
+__unknown_file (
+
+%0java.lang.StringBuilder›˜
+H H(<
+%2java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*B
+
+__unknown_file (&$
+"MainHeader [archiverVersionNumber=2append(Ljava/lang/String;)ÙÖ
+I I(-
+%3java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(I)Œ
+J J(0
+%4java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*6
+
+__unknown_file (
+, minVersionToExtract=2append(Ljava/lang/String;)ÙÖ
+K K(+
+%5java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(I)‚ÿ
+L L(#
+%6java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*)
+
+__unknown_file (
+	, hostOS=2append(Ljava/lang/String;)ÙÖ
+M M(
+%7java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(I)„
+N N(%
+%8java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*+
+
+__unknown_file (
+, arjFlags=2append(Ljava/lang/String;)ÙÖ
+O O( 
+%9java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(I)Œ‰
+P P(,
+%10java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*2
+
+__unknown_file (
+, securityVersion=2append(Ljava/lang/String;)Ú×
+Q Q('
+%11java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(I)…‚
+R R(%
+%12java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*+
+
+__unknown_file (
+, fileType=2append(Ljava/lang/String;)Ú×
+S S( 
+%13java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(I)…‚
+T T(%
+%14java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*+
+
+__unknown_file (
+, reserved=2append(Ljava/lang/String;)Ú×
+U U( 
+%15java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(I)Œ‰
+V V(,
+%16java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*2
+
+__unknown_file (
+, dateTimeCreated=2append(Ljava/lang/String;)Ú×
+W W('
+%17java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(I)Š
+X X(-
+%18java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*3
+
+__unknown_file (
+, dateTimeModified=2append(Ljava/lang/String;)Ú×
+Y Y((
+%19java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(I)ˆ…
+Z Z((
+%20java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*.
+
+__unknown_file (
+, archiveSize=2append(Ljava/lang/String;)Ú×
+[ [(#
+%21java.lang.StringBuilder":java.lang.StringBuilder#append(J)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(J)™–
+\ \(9
+%22java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*?
+
+__unknown_file (#!
+, securityEnvelopeFilePosition=2append(Ljava/lang/String;)Ú×
+] ](4
+%23java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(I)Š
+^ ^(-
+%24java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*3
+
+__unknown_file (
+, fileSpecPosition=2append(Ljava/lang/String;)Ú×
+_ _((
+%25java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(I)“
+` `(3
+%26java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*9
+
+__unknown_file (
+, securityEnvelopeLength=2append(Ljava/lang/String;)Ú×
+a a(.
+%27java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(I)Ž‹
+b b(.
+%28java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*4
+
+__unknown_file (
+, encryptionVersion=2append(Ljava/lang/String;)Ú×
+c c()
+%29java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(I)ˆ…
+d d((
+%30java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*.
+
+__unknown_file (
+, lastChapter=2append(Ljava/lang/String;)Ú×
+e e(#
+%31java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(I)
+f f(0
+%32java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*6
+
+__unknown_file (
+, arjProtectionFactor=2append(Ljava/lang/String;)Ú×
+g g(+
+%33java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(I)†ƒ
+h h(&
+%34java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*,
+
+__unknown_file (
+, arjFlags2=2append(Ljava/lang/String;)Ú×
+i i(!
+%35java.lang.StringBuilder":java.lang.StringBuilder#append(I)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(I)þ
+j j(!
+%36java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*'
+
+__unknown_file (	
+, name=2append(Ljava/lang/String;)Œ
+‰
+k k(
+%37java.lang.String"__id*^
+
+__unknown_file (B*@6
+4org.apache.commons.compress.archivers.arj.MainHeader"
+nameŒ
+k k(
+%38java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*5
+
+__unknown_file (
+
+%37java.lang.String2append(Ljava/lang/String;)„
+l l($
+%39java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder**
+
+__unknown_file (
+
+, comment=2append(Ljava/lang/String;)
+Œ
+m m(
+%40java.lang.String"__id*a
+
+__unknown_file (E*C6
+4org.apache.commons.compress.archivers.arj.MainHeader"	
+commentŒ
+m m(
+%41java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*5
+
+__unknown_file (
+
+%40java.lang.String2append(Ljava/lang/String;)
+n n(0
+%42java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*6
+
+__unknown_file (
+, extendedHeaderBytes=2append(Ljava/lang/String;)‘
+Ž
+o' o(:
+%43byte[]"__id*m
+
+__unknown_file (Q*O6
+4org.apache.commons.compress.archivers.arj.MainHeader"
+extendedHeaderBytes¶
+³
+o o(;
+%44java.lang.String"/java.util.Arrays#toString([B)Ljava/lang/String;*0
+
+__unknown_file ("
+java.util.Arrays*+
+
+__unknown_file (
+
+%43byte[]Œ
+o o(<
+%45java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*5
+
+__unknown_file (
+
+%44java.lang.String2append(Ljava/lang/String;)ûø
+p p(
+%46java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder*!
+
+__unknown_file (
+]2append(Ljava/lang/String;)ª§
+q q(!
+%47java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*@
+
+__unknown_file ($
+"
+builderjava.lang.StringBuilder2
+toString()"%
+q q("
+
+%47java.lang.StringB86
+4org.apache.commons.compress.archivers.arj.MainHeaderH

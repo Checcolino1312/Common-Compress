@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.cpio.CpioArchiveEntry#isSymbolicLink()Z
+org.apache.commons.compress.archivers.cpio.CpioUtil#fileType(J)J

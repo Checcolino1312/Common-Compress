@@ -1,0 +1,47 @@
+
+]org.apache.commons.compress.archivers.tar.TarArchiveStructSparse#toString()Ljava/lang/String;ˆ
+~C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveStructSparse.javaM M("1*Õ
+1N N((p
+n
+N O(
+%0java.lang.String"__concat*'
+N N((
+TarArchiveStructSparse{*
+O O(	
+offset=h
+f
+N O("
+%1java.lang.String"__concat*$
+N O(
+
+%0java.lang.String*
+O O("
+""q
+o
+N P(
+%2java.lang.String"__concat*$
+N O("
+
+%1java.lang.String*
+P P(
+, numbytes=h
+f
+N P((
+%3java.lang.String"__concat*$
+N P(
+
+%2java.lang.String*
+P  P((
+""g
+e
+N Q(
+%4java.lang.String"__concat*$
+N P((
+
+%3java.lang.String*
+Q Q(
+}"$
+N Q(
+
+%4java.lang.StringBDB
+@org.apache.commons.compress.archivers.tar.TarArchiveStructSparseH

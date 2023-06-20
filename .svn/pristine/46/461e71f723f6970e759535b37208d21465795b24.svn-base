@@ -1,0 +1,8 @@
+org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField#parseFromCentralDirectoryData([BII)V
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#instance-init#
+org.apache.commons.compress.archivers.zip.ZipEightByteInteger#<init>([BI)V
+org.apache.commons.compress.archivers.zip.ZipLong#<init>([BI)V
+org.apache.commons.compress.archivers.zip.ZipLong#instance-init#
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+==
+parseFromLocalFileData org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraField#parseFromLocalFileData([BII)V

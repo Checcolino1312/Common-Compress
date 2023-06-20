@@ -1,0 +1,12 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readFolder(Ljava/nio/ByteBuffer;)Lorg/apache/commons/compress/archivers/sevenz/Folder;
+org.apache.commons.compress.archivers.sevenz.Coder#instance-init#
+org.apache.commons.compress.archivers.sevenz.Folder#instance-init#
+org.apache.commons.compress.archivers.sevenz.Coder#<init>()V
+org.apache.commons.compress.archivers.sevenz.BindPair#<init>()V
+org.apache.commons.compress.archivers.sevenz.BindPair#instance-init#
+org.apache.commons.compress.archivers.sevenz.Folder#<init>()V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#get(Ljava/nio/ByteBuffer;[B)V
+org.apache.commons.compress.archivers.sevenz.SevenZFile#readUint64(Ljava/nio/ByteBuffer;)J
+org.apache.commons.compress.archivers.sevenz.SevenZFile#getUnsignedByte(Ljava/nio/ByteBuffer;)I

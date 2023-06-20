@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.dump.DumpArchiveInputStream#processDirent(ILorg/apache/commons/compress/archivers/dump/DumpArchiveEntry;BLjava/lang/String;)V
+java.lang.String#equals(Ljava/lang/Object;)Z
+org.apache.commons.compress.archivers.dump.Dirent#<init>(IIILjava/lang/String;)V
+org.apache.commons.compress.archivers.dump.Dirent#instance-init#

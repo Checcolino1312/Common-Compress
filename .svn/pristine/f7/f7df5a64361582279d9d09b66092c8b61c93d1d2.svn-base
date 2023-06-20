@@ -1,0 +1,93 @@
+
+Lorg.apache.commons.compress.utils.ChecksumCalculatingInputStream#read([BII)I|
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/utils/ChecksumCalculatingInputStream.javaS S("startingBlock*µ
+2Y Y(¡
+ž
+Y Y(
+%2java.util.zip.Checksum"__id*n
+
+__unknown_file (R*PB
+@org.apache.commons.compress.utils.ChecksumCalculatingInputStream"
+
+checksumüù
+Y Y((
+
+%3void"$java.util.zip.Checksum#update([BII)V*:
+
+__unknown_file (
+
+%2java.util.zip.Checksum*)
+
+__unknown_file (
+
+bbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2update([BII)*
+1*¤
+3W W(˜
+•
+W W(
+%0java.io.InputStream"__id*h
+
+__unknown_file (L*JB
+@org.apache.commons.compress.utils.ChecksumCalculatingInputStream"
+inñî
+W W(,	
+%1int"java.io.InputStream#read([BII)I*7
+
+__unknown_file (
+
+%0java.io.InputStream*)
+
+__unknown_file (
+
+bbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2
+read([BII)*
+2
+1*í
+startingBlockS S(A}
+{
+R R(
+%4"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*)
+
+__unknown_file (
+
+bbyte[]K
+I
+S! S("
+bbyte[]"__annotation*"
+
+__unknown_file (
+
+%4*
+3
+4*!
+4U U("
+U U(
+""*!
+1[ [("
+[ [(
+"":
+S S(#
+bbyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BDB
+@org.apache.commons.compress.utils.ChecksumCalculatingInputStreamHP

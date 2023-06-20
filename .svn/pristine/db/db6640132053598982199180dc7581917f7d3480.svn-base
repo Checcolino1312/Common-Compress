@@ -1,0 +1,7 @@
+org.apache.commons.compress.archivers.tar.TarFile#getRecord()Ljava/nio/ByteBuffer;
+org.apache.commons.compress.archivers.tar.TarFile#tryToConsumeSecondEOFRecord()V
+org.apache.commons.compress.archivers.tar.TarFile#isAtEOF()Z
+org.apache.commons.compress.archivers.tar.TarFile#isEOFRecord(Ljava/nio/ByteBuffer;)Z
+org.apache.commons.compress.archivers.tar.TarFile#consumeRemainderOfLastBlock()V
+org.apache.commons.compress.archivers.tar.TarFile#readRecord()Ljava/nio/ByteBuffer;
+org.apache.commons.compress.archivers.tar.TarFile#setAtEOF(Z)V

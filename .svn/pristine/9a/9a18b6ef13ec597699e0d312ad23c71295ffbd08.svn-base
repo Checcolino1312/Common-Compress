@@ -1,0 +1,5 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.ClassFileEntry#write(Ljava/io/DataOutputStream;)V
+java.lang.IllegalStateException#instance-init#
+java.lang.IllegalStateException#<init>(Ljava/lang/String;)V
+==
+doWrite org.apache.commons.compress.harmony.unpack200.bytecode.ClassFileEntry#doWrite(Ljava/io/DataOutputStream;)V

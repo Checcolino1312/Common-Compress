@@ -1,0 +1,30 @@
+
+worg.apache.commons.compress.java.util.jar.Pack200#newPacker()Lorg/apache/commons/compress/java/util/jar/Pack200$Packer;o
+cC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/java/util/jar/Pack200.java©! ©(*"1*°
+1
+ª ª(#j
+h
+
+ª$ ª(:
+%0java.lang.String"__id*<
+
+__unknown_file ( 
+java.util.jar.Pack200.Packer‰
+†
+
+ª ª(
+%1java.lang.Object"uorg.apache.commons.compress.java.util.jar.Pack200#newInstance(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/Object;*Q
+
+__unknown_file (5"3
+1org.apache.commons.compress.java.util.jar.Pack200*4
+
+__unknown_file (
+
+%0java.lang.String*`
+
+__unknown_file (DB
+@org.apache.commons.compress.harmony.pack200.Pack200PackerAdapter"'
+ª ª(€
+
+%1java.lang.ObjectB5"3
+1org.apache.commons.compress.java.util.jar.Pack200H

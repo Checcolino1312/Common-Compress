@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream#instance-init#
+org.apache.commons.compress.compressors.snappy.PureJavaCrc32C#<init>()V
+org.apache.commons.compress.compressors.snappy.PureJavaCrc32C#instance-init#

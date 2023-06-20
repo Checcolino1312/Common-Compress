@@ -1,0 +1,7 @@
+org.apache.commons.compress.archivers.zip.ZipFile#createBoundedInputStream(JJ)Lorg/apache/commons/compress/utils/BoundedArchiveInputStream;
+org.apache.commons.compress.utils.BoundedSeekableByteChannelInputStream#instance-init#
+org.apache.commons.compress.archivers.zip.ZipFile$BoundedFileChannelInputStream#instance-init#
+org.apache.commons.compress.utils.BoundedSeekableByteChannelInputStream#<init>(JJLjava/nio/channels/SeekableByteChannel;)V
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.zip.ZipFile$BoundedFileChannelInputStream#<init>(Lorg/apache/commons/compress/archivers/zip/ZipFile;JJ)V
+java.lang.IllegalArgumentException#instance-init#

@@ -1,0 +1,27 @@
+
+óorg.apache.commons.compress.archivers.zip.ParallelScatterZipCreator#getStatisticsMessage()Lorg/apache/commons/compress/archivers/zip/ScatterStatistics;é
+ÅC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ParallelScatterZipCreator.javaÌ Ì(1"1*˛
+1
+Ó% Ó(6èå
+
+Ó Ó($A
+%0;org.apache.commons.compress.archivers.zip.ScatterStatistics";org.apache.commons.compress.archivers.zip.ScatterStatisticsá
+Ñ
+
+Ó Ó(f
+%1"Gorg.apache.commons.compress.archivers.zip.ScatterStatistics#<init>(JJ)V*_
+
+__unknown_file (C
+A
+%0;org.apache.commons.compress.archivers.zip.ScatterStatistics*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""Q
+
+Ó Ó(gC
+A
+%0;org.apache.commons.compress.archivers.zip.ScatterStatisticsBGE
+Corg.apache.commons.compress.archivers.zip.ParallelScatterZipCreatorH

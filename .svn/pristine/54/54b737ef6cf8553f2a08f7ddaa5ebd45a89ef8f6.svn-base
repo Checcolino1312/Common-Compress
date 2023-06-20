@@ -1,0 +1,6 @@
+org.apache.commons.compress.harmony.unpack200.IcTuple#initializeClassStrings()V
+org.apache.commons.compress.harmony.unpack200.IcTuple#isAllDigits(Ljava/lang/String;)Z
+org.apache.commons.compress.harmony.unpack200.IcTuple#computeOuterIsAnonymous()Z
+==
+innerBreakAtDollar org.apache.commons.compress.harmony.unpack200.IcTuple#innerBreakAtDollar(Ljava/lang/String;)[Ljava/lang/String;
+nestedExplicitFlagSet org.apache.commons.compress.harmony.unpack200.IcTuple#nestedExplicitFlagSet()Z

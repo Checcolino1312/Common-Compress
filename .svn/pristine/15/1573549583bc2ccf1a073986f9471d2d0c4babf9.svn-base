@@ -1,0 +1,64 @@
+
+Borg.apache.commons.compress.utils.ArchiveUtils#isEqual([BII[BIIZ)Zj
+`C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/utils/ArchiveUtils.javag g(!"21*%
+2
+‚ ‚("
+
+‚ ‚(
+""*"
+15r r("
+r r(
+""*!
+4~ ~($"
+~ ~(%
+""*"
+18n n("
+n n(
+""*!
+9x x($"
+x x(%
+""*Ð
+21k k(©
+¦
+k k(4	
+%0int"java.lang.Math#min(II)I*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+15
+4
+18
+9
+1*%
+1
+„ „("
+
+„ „(
+"":
+h h(!
+buffer1byte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"":
+i i(!
+buffer2byte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B2"0
+.org.apache.commons.compress.utils.ArchiveUtilsHP

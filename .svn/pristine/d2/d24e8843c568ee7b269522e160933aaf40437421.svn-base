@@ -1,0 +1,57 @@
+
+Zorg.apache.commons.compress.compressors.brotli.BrotliUtils#isBrotliCompressionAvailable()Z‚
+xC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/brotli/BrotliUtils.java< <(6"3*¿
+2? ?(Œ
+‰
+?# ?(5S
+%3Morg.apache.commons.compress.compressors.brotli.BrotliUtils$CachedAvailability"__id*"
+
+__unknown_file (
+""Œ
+‰
+?# ?(FS
+%4Morg.apache.commons.compress.compressors.brotli.BrotliUtils$CachedAvailability"__id*"
+
+__unknown_file (
+"""
+? ?(G
+""*€
+3=0 =(Hâ
+ß
+=0 =(HS
+%0Morg.apache.commons.compress.compressors.brotli.BrotliUtils$CachedAvailability"__id*x
+
+__unknown_file (\*Z<
+:org.apache.commons.compress.compressors.brotli.BrotliUtils"
+cachedBrotliAvailabilityå
+â
+= =(I]
+cachedResultMorg.apache.commons.compress.compressors.brotli.BrotliUtils$CachedAvailability"__id*q
+
+__unknown_file (U
+S
+%0Morg.apache.commons.compress.compressors.brotli.BrotliUtils$CachedAvailabilityŒ
+‰
+> >(.S
+%1Morg.apache.commons.compress.compressors.brotli.BrotliUtils$CachedAvailability"__id*"
+
+__unknown_file (
+""Œ
+‰
+> >(9S
+%2Morg.apache.commons.compress.compressors.brotli.BrotliUtils$CachedAvailability"__id*"
+
+__unknown_file (
+""*
+2
+1*€
+1A A(3Ü
+Ù
+A A(5
+%5boolean"borg.apache.commons.compress.compressors.brotli.BrotliUtils#internalIsBrotliCompressionAvailable()Z*Z
+
+__unknown_file (>"<
+:org.apache.commons.compress.compressors.brotli.BrotliUtils"
+A A(6
+""B>"<
+:org.apache.commons.compress.compressors.brotli.BrotliUtilsHP

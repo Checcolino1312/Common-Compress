@@ -1,0 +1,5 @@
+org.apache.commons.compress.harmony.pack200.BcBands#handleMethodInvocation(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+org.apache.commons.compress.harmony.pack200.BcBands#handleOtherClassMethodInvocation(ZILjava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+java.lang.String#equals(Ljava/lang/Object;)Z
+org.apache.commons.compress.harmony.pack200.BcBands#handleSuperClassMethodInvocation(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+org.apache.commons.compress.harmony.pack200.BcBands#handleCurrentClassMethodInvocation(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;)V

@@ -1,0 +1,238 @@
+
+Ûorg.apache.commons.compress.harmony.unpack200.NewAttributeBands#resolveCallsForElement(ILorg/apache/commons/compress/harmony/unpack200/NewAttributeBands$Callable;Lorg/apache/commons/compress/harmony/unpack200/NewAttributeBands$LayoutElement;)I}
+qC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/NewAttributeBands.java◊ ◊(&"13"5"1*Å
+13
+€% €(2·
+ﬁ
+
+€ €(3L
+callDorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$Call"__id*|
+
+__unknown_file (`
+^
+layoutElementMorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$LayoutElement*
+8
+10
+12*ˇ
+2
+Ó Ó(*ë
+é
+
+Ó Ó(*V
+childMorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$LayoutElement"__id*"
+
+__unknown_file (
+""—
+Œ
+
+Ó Ó(*V
+childMorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$LayoutElement"
+__arrayGet*8
+
+__unknown_file (
+
+childrenjava.util.List*"
+
+__unknown_file (
+""*
+3
+1*û
+3
+Ô Ô(á
+Ñ
+
+Ô" Ô(S
+
+%12int"Ûorg.apache.commons.compress.harmony.unpack200.NewAttributeBands#resolveCallsForElement(ILorg/apache/commons/compress/harmony/unpack200/NewAttributeBands$Callable;Lorg/apache/commons/compress/harmony/unpack200/NewAttributeBands$LayoutElement;)I*_
+
+__unknown_file (CA
+?org.apache.commons.compress.harmony.unpack200.NewAttributeBands*"
+
+__unknown_file (
+""*y
+
+__unknown_file (]
+[
+currentCallableHorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$Callable*t
+
+__unknown_file (X
+V
+childMorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$LayoutElement*
+2*Ω
+5
+Ì@ Ì(Mø
+º
+
+Ì1 Ì(]
+%11java.util.List"__id*ê
+
+__unknown_file (t*r
+^
+layoutElementMorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$LayoutElement"
+layoutElementse
+c
+
+Ì Ì(^
+childrenjava.util.List"__id*3
+
+__unknown_file (
+
+%11java.util.List*
+2*î
+7
+È È(©
+¶
+
+È0 È(G
+%8java.util.List"__id*|
+
+__unknown_file (`*^A
+?org.apache.commons.compress.harmony.unpack200.NewAttributeBands"
+attributeLayoutElements—
+Œ
+
+È0 È(W\
+%9Vorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$AttributeLayoutElement"
+__arrayGet*2
+
+__unknown_file (
+
+%8java.util.List*"
+
+__unknown_file (
+""˝˙
+
+È È(X
+%10void"ùorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$Call#setCallable(Lorg/apache/commons/compress/harmony/unpack200/NewAttributeBands$Callable;)V*j
+
+__unknown_file (N
+L
+callDorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$Call*z
+
+__unknown_file (^
+\
+%9Vorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$AttributeLayoutElement2WsetCallable(Lorg/apache/commons/compress/harmony/unpack200/NewAttributeBands$Callable;)*
+1*¨
+8
+Á! Á(9©
+¶
+
+ÁA Á(X
+%6java.util.List"__id*|
+
+__unknown_file (`*^A
+?org.apache.commons.compress.harmony.unpack200.NewAttributeBands"
+attributeLayoutElementsÊ
+„
+
+Á! Á(`	
+%7int"morg.apache.commons.compress.harmony.unpack200.NewAttributeBands#findCallableIndexReverse(ILjava/util/List;I)I*_
+
+__unknown_file (CA
+?org.apache.commons.compress.harmony.unpack200.NewAttributeBands*"
+
+__unknown_file (
+""*2
+
+__unknown_file (
+
+%6java.util.List*"
+
+__unknown_file (
+""*
+7
+1*ì
+9
+‰ ‰(©
+¶
+
+‰0 ‰(G
+%3java.util.List"__id*|
+
+__unknown_file (`*^A
+?org.apache.commons.compress.harmony.unpack200.NewAttributeBands"
+attributeLayoutElements—
+Œ
+
+‰0 ‰(W\
+%4Vorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$AttributeLayoutElement"
+__arrayGet*2
+
+__unknown_file (
+
+%3java.util.List*"
+
+__unknown_file (
+""¸˘
+
+‰ ‰(X
+
+%5void"ùorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$Call#setCallable(Lorg/apache/commons/compress/harmony/unpack200/NewAttributeBands$Callable;)V*j
+
+__unknown_file (N
+L
+callDorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$Call*z
+
+__unknown_file (^
+\
+%4Vorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$AttributeLayoutElement2WsetCallable(Lorg/apache/commons/compress/harmony/unpack200/NewAttributeBands$Callable;)*
+1*¶
+10
+‚! ‚(2©
+¶
+
+‚: ‚(Q
+%1java.util.List"__id*|
+
+__unknown_file (`*^A
+?org.apache.commons.compress.harmony.unpack200.NewAttributeBands"
+attributeLayoutElementsﬂ
+‹
+
+‚! ‚(Y	
+%2int"forg.apache.commons.compress.harmony.unpack200.NewAttributeBands#findCallableIndex(ILjava/util/List;I)I*_
+
+__unknown_file (CA
+?org.apache.commons.compress.harmony.unpack200.NewAttributeBands*"
+
+__unknown_file (
+""*2
+
+__unknown_file (
+
+%1java.util.List*"
+
+__unknown_file (
+""*
+9
+1*ì
+12
+ﬂ ﬂ(˚¯
+
+‡ ‡(1
+
+%0void"ùorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$Call#setCallable(Lorg/apache/commons/compress/harmony/unpack200/NewAttributeBands$Callable;)V*j
+
+__unknown_file (N
+L
+callDorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$Call*y
+
+__unknown_file (]
+[
+currentCallableHorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$Callable2WsetCallable(Lorg/apache/commons/compress/harmony/unpack200/NewAttributeBands$Callable;)*
+1*%
+1
+Û Û("
+
+Û Û(
+"": 
+
+__unknown_file (
+"":i
+
+◊4 ◊(S[
+currentCallableHorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$Callable:l
+
+◊T ◊(u^
+layoutElementMorg.apache.commons.compress.harmony.unpack200.NewAttributeBands$LayoutElementBCA
+?org.apache.commons.compress.harmony.unpack200.NewAttributeBandsP

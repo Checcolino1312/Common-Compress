@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.StreamCompressor#write([BIII)J
+org.apache.commons.compress.archivers.zip.StreamCompressor#writeDeflated([BII)V
+==
+writeCounted org.apache.commons.compress.archivers.zip.StreamCompressor#writeCounted([BII)V

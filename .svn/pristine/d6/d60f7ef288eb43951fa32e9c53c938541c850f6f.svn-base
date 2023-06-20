@@ -1,0 +1,36 @@
+
+\org.apache.commons.compress.utils.IOUtils#copy(Ljava/io/InputStream;Ljava/io/OutputStream;)Je
+[C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/utils/IOUtils.javaZ Z("1*Í
+1[ [(A
+?
+[# [(0	
+%0int"__id*"
+
+__unknown_file (
+""æ
+ã
+[ [(1
+
+%1long"]org.apache.commons.compress.utils.IOUtils#copy(Ljava/io/InputStream;Ljava/io/OutputStream;I)J*I
+
+__unknown_file (-"+
+)org.apache.commons.compress.utils.IOUtils*:
+
+__unknown_file (
+
+inputjava.io.InputStream*<
+
+__unknown_file ( 
+
+outputjava.io.OutputStream*'
+
+__unknown_file (
+	
+%0int"
+[ [(2
+"":(
+Z Z(4
+inputjava.io.InputStream:*
+Z5 Z(N
+outputjava.io.OutputStreamB-"+
+)org.apache.commons.compress.utils.IOUtilsHP

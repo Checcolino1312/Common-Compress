@@ -1,0 +1,35 @@
+
+Uorg.apache.commons.compress.compressors.deflate.DeflateCompressorInputStream#skip(J)JŠ
+~C:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/compressors/deflate/DeflateCompressorInputStream.javaŠ Š("1*Ý
+1
+‹ ‹(¦
+£
+
+‹ ‹(
+%0java.io.InputStream"__id*t
+
+__unknown_file (X*VN
+Lorg.apache.commons.compress.compressors.deflate.DeflateCompressorInputStream"
+inŒ
+‰
+
+‹ ‹("
+
+%1long"Gorg.apache.commons.compress.utils.IOUtils#skip(Ljava/io/InputStream;J)J*I
+
+__unknown_file (-"+
+)org.apache.commons.compress.utils.IOUtils*7
+
+__unknown_file (
+
+%0java.io.InputStream*"
+
+__unknown_file (
+"""
+
+‹ ‹(#
+"": 
+
+__unknown_file (
+""BPN
+Lorg.apache.commons.compress.compressors.deflate.DeflateCompressorInputStreamHP

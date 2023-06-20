@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.unpack200.bytecode.ByteCode#getNestedPosition(I)[I
+==
+getNestedPositions org.apache.commons.compress.harmony.unpack200.bytecode.ByteCode#getNestedPositions()[[I

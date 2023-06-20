@@ -1,0 +1,29 @@
+
+korg.apache.commons.compress.harmony.unpack200.bytecode.LineNumberTableAttribute#equals(Ljava/lang/Object;)Zå
+ÅC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/LineNumberTableAttribute.java/ /("startingBlock*Ñ
+startingBlock/ /(+ä
+á
+. .(
+%0"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectW
+U
+/' /(*
+objjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%0*
+1*!
+10 0("
+0 0(
+"":#
+/ /(*
+objjava.lang.ObjectBSQ
+Oorg.apache.commons.compress.harmony.unpack200.bytecode.LineNumberTableAttributeHP

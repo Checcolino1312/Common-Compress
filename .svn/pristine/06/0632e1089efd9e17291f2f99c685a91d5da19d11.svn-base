@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.lzw.LZWInputStream#resetCodeSize()V
+==
+setCodeSize org.apache.commons.compress.compressors.lzw.LZWInputStream#setCodeSize(I)V

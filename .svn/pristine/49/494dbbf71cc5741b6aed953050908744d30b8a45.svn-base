@@ -1,0 +1,7 @@
+org.apache.commons.compress.harmony.pack200.BHSDCodec#<init>(IIII)V
+org.apache.commons.compress.harmony.pack200.BHSDCodec#calculateSmallest()J
+java.util.Arrays#setAll([JLjava/util/function/IntToLongFunction;)V
+org.apache.commons.compress.harmony.pack200.BHSDCodec#calculateLargest()J
+java.lang.Math#pow(DD)D
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#

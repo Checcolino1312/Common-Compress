@@ -1,0 +1,7 @@
+org.apache.commons.compress.archivers.tar.TarUtils#parseBinaryBigInteger([BIIZ)J
+java.math.BigInteger#instance-init#
+java.math.BigInteger#<init>([B)V
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+java.math.BigInteger#valueOf(J)Ljava/math/BigInteger;
+java.lang.IllegalArgumentException#instance-init#

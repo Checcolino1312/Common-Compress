@@ -1,0 +1,7 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#mergeExtraFields([Lorg/apache/commons/compress/archivers/zip/ZipExtraField;Z)V
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#internalAddExtraField(Lorg/apache/commons/compress/archivers/zip/ZipExtraField;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#handleExistingExtraField(Lorg/apache/commons/compress/archivers/zip/ZipExtraField;[BZ)V
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getExistingExtraField(Lorg/apache/commons/compress/archivers/zip/ZipExtraField;)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;
+==
+setExtraFields org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setExtraFields([Lorg/apache/commons/compress/archivers/zip/ZipExtraField;)V
+setExtra org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setExtra()V

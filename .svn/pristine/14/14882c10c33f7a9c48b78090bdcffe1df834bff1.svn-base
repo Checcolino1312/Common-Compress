@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.bzip2.BlockSort#fallbackSort([I[BI)V
+org.apache.commons.compress.compressors.bzip2.BlockSort#fallbackQSort3([I[III)V
+java.util.BitSet#instance-init#
+org.apache.commons.compress.compressors.bzip2.BlockSort#getEclass()[I
+java.util.BitSet#<init>(I)V

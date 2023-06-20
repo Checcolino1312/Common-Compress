@@ -1,0 +1,169 @@
+
+Éorg.apache.commons.compress.archivers.zip.GeneralPurposeBit#parse([BI)Lorg/apache/commons/compress/archivers/zip/GeneralPurposeBit;w
+mC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/GeneralPurposeBit.javaN$ N()"7*\
+2Vi V(jH
+F
+Vi V(j
+
+%16int"__id*(
+
+__unknown_file (
+
+
+%18int*
+1*\
+3Ve V(fH
+F
+Ve V(f
+
+%16int"__id*(
+
+__unknown_file (
+
+
+%17int*
+1*Y
+4U U(hB
+@
+V; V(\
+
+%15int"__id*"
+
+__unknown_file (
+""*
+2
+3*\
+5Ud U(hH
+F
+Ud U(h
+
+%12int"__id*(
+
+__unknown_file (
+
+
+%14int*
+4*\
+6U] U(aH
+F
+U] U(a
+
+%12int"__id*(
+
+__unknown_file (
+
+
+%13int*
+4*ç
+7O' O(/Å
+˛
+O' O(F	
+%0int"Aorg.apache.commons.compress.archivers.zip.ZipShort#getValue([BI)I*R
+
+__unknown_file (6"4
+2org.apache.commons.compress.archivers.zip.ZipShort*,
+
+__unknown_file (
+
+databyte[]*"
+
+__unknown_file (
+""çä
+P( P(9A
+%1;org.apache.commons.compress.archivers.zip.GeneralPurposeBit";org.apache.commons.compress.archivers.zip.GeneralPurposeBitª
+∏
+P$ P(;
+%2"Eorg.apache.commons.compress.archivers.zip.GeneralPurposeBit#<init>()V*_
+
+__unknown_file (C
+A
+%1;org.apache.commons.compress.archivers.zip.GeneralPurposeBit∂
+≥
+P P(<@
+b;org.apache.commons.compress.archivers.zip.GeneralPurposeBit"__id*_
+
+__unknown_file (C
+A
+%1;org.apache.commons.compress.archivers.zip.GeneralPurposeBitA
+?
+Q2 Q(F	
+%3int"__id*"
+
+__unknown_file (
+""ÜÉ
+Q Q(M
+
+%4void"Qorg.apache.commons.compress.archivers.zip.GeneralPurposeBit#useDataDescriptor(Z)V*^
+
+__unknown_file (B
+@
+b;org.apache.commons.compress.archivers.zip.GeneralPurposeBit*"
+
+__unknown_file (
+""2useDataDescriptor(Z)A
+?
+R0 R(?	
+%5int"__id*"
+
+__unknown_file (
+""Çˇ
+R R(F
+
+%6void"Oorg.apache.commons.compress.archivers.zip.GeneralPurposeBit#useUTF8ForNames(Z)V*^
+
+__unknown_file (B
+@
+b;org.apache.commons.compress.archivers.zip.GeneralPurposeBit*"
+
+__unknown_file (
+""2useUTF8ForNames(Z)A
+?
+S4 S(J	
+%7int"__id*"
+
+__unknown_file (
+""äá
+S S(Q
+
+%8void"Sorg.apache.commons.compress.archivers.zip.GeneralPurposeBit#useStrongEncryption(Z)V*^
+
+__unknown_file (B
+@
+b;org.apache.commons.compress.archivers.zip.GeneralPurposeBit*"
+
+__unknown_file (
+""2useStrongEncryption(Z)A
+?
+T. T(=	
+%9int"__id*"
+
+__unknown_file (
+""ˇ¸
+T T(D
+%10void"Morg.apache.commons.compress.archivers.zip.GeneralPurposeBit#useEncryption(Z)V*^
+
+__unknown_file (B
+@
+b;org.apache.commons.compress.archivers.zip.GeneralPurposeBit*"
+
+__unknown_file (
+""2useEncryption(Z)B
+@
+U8 U(T
+
+%11int"__id*"
+
+__unknown_file (
+""*
+5
+6*]
+1V V(j"N
+W W(B
+@
+b;org.apache.commons.compress.archivers.zip.GeneralPurposeBit:
+N* N(<
+databyte[]: 
+
+__unknown_file (
+""B?"=
+;org.apache.commons.compress.archivers.zip.GeneralPurposeBitH

@@ -1,0 +1,59 @@
+
+norg.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream#readBackReference([BII)I 
+“C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/lz77support/AbstractLZ77CompressorInputStream.javaÚ Ú()"3*²
+2
+Ý Ý(›
+˜
+
+Ý Ý("
+
+%1void"corg.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream#tryToCopy(I)V*u
+
+__unknown_file (YW
+Uorg.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream*"
+
+__unknown_file (
+""*
+1*œ
+3
+Û Û(#‚ÿ
+
+Û Û(%	
+%0int"borg.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream#available()I*u
+
+__unknown_file (YW
+Uorg.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream2available()*
+2
+1*™
+1
+ß ß(ñ
+î
+
+ß ß(*	
+%2int"korg.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream#readFromBuffer([BII)I*u
+
+__unknown_file (YW
+Uorg.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStream*)
+
+__unknown_file (
+
+bbyte[]*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""
+
+ß ß(+
+"":
+
+Ú* Ú(9
+bbyte[]: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BYW
+Uorg.apache.commons.compress.compressors.lz77support.AbstractLZ77CompressorInputStreamP

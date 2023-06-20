@@ -1,0 +1,83 @@
+
+«org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStream#createParameterBuilder()Lorg/apache/commons/compress/compressors/lz77support/Parameters$Builder;•
+ˆC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/lz4/BlockLZ4CompressorOutputStream.java³% ³(;"1*
+1
+´ ´(8C
+A
+
+´ ´(D	
+%0int"__id*"
+
+__unknown_file (
+""C
+A
+
+µ" µ(K	
+%1int"__id*"
+
+__unknown_file (
+""ú
+÷
+
+µ µ(LL
+%2Forg.apache.commons.compress.compressors.lz77support.Parameters$Builder"‘org.apache.commons.compress.compressors.lz77support.Parameters#builder(I)Lorg/apache/commons/compress/compressors/lz77support/Parameters$Builder;*^
+
+__unknown_file (B"@
+>org.apache.commons.compress.compressors.lz77support.Parameters*'
+
+__unknown_file (
+	
+%1intC
+A
+
+¶( ¶(A	
+%3int"__id*"
+
+__unknown_file (
+""À½
+
+µ ¶(BL
+%4Forg.apache.commons.compress.compressors.lz77support.Parameters$Builder"¬org.apache.commons.compress.compressors.lz77support.Parameters$Builder#withMinBackReferenceLength(I)Lorg/apache/commons/compress/compressors/lz77support/Parameters$Builder;*j
+
+__unknown_file (N
+L
+%2Forg.apache.commons.compress.compressors.lz77support.Parameters$Builder*'
+
+__unknown_file (
+	
+%3int2withMinBackReferenceLength(I)»¸
+
+µ ·(/L
+%5Forg.apache.commons.compress.compressors.lz77support.Parameters$Builder"¬org.apache.commons.compress.compressors.lz77support.Parameters$Builder#withMaxBackReferenceLength(I)Lorg/apache/commons/compress/compressors/lz77support/Parameters$Builder;*j
+
+__unknown_file (N
+L
+%4Forg.apache.commons.compress.compressors.lz77support.Parameters$Builder*"
+
+__unknown_file (
+""2withMaxBackReferenceLength(I)¡ž
+
+µ ¸("L
+%6Forg.apache.commons.compress.compressors.lz77support.Parameters$Builder"Ÿorg.apache.commons.compress.compressors.lz77support.Parameters$Builder#withMaxOffset(I)Lorg/apache/commons/compress/compressors/lz77support/Parameters$Builder;*j
+
+__unknown_file (N
+L
+%5Forg.apache.commons.compress.compressors.lz77support.Parameters$Builder*"
+
+__unknown_file (
+""2withMaxOffset(I)¯¬
+
+µ ¹()L
+%7Forg.apache.commons.compress.compressors.lz77support.Parameters$Builder"¦org.apache.commons.compress.compressors.lz77support.Parameters$Builder#withMaxLiteralLength(I)Lorg/apache/commons/compress/compressors/lz77support/Parameters$Builder;*j
+
+__unknown_file (N
+L
+%6Forg.apache.commons.compress.compressors.lz77support.Parameters$Builder*"
+
+__unknown_file (
+""2withMaxLiteralLength(I)"\
+
+µ ¹(*N
+L
+%7Forg.apache.commons.compress.compressors.lz77support.Parameters$BuilderBN"L
+Jorg.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStreamH

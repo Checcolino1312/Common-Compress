@@ -1,0 +1,30 @@
+
+jorg.apache.commons.compress.archivers.zip.X000A_NTFS#getModifyFileTime()Ljava/nio/file/attribute/FileTime;r
+fC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/X000A_NTFS.javaˆ ˆ(%"1*¥
+1
+‰ ‰(À
+½
+
+‰ ‰('C
+%0=org.apache.commons.compress.archivers.zip.ZipEightByteInteger"__id*d
+
+__unknown_file (H*F6
+4org.apache.commons.compress.archivers.zip.X000A_NTFS"
+
+modifyTime˜
+•
+
+‰ ‰((&
+%1 java.nio.file.attribute.FileTime"¥org.apache.commons.compress.archivers.zip.X000A_NTFS#zipToFileTime(Lorg/apache/commons/compress/archivers/zip/ZipEightByteInteger;)Ljava/nio/file/attribute/FileTime;*T
+
+__unknown_file (8"6
+4org.apache.commons.compress.archivers.zip.X000A_NTFS*a
+
+__unknown_file (E
+C
+%0=org.apache.commons.compress.archivers.zip.ZipEightByteInteger"6
+
+‰ ‰()(
+&
+%1 java.nio.file.attribute.FileTimeB86
+4org.apache.commons.compress.archivers.zip.X000A_NTFSH

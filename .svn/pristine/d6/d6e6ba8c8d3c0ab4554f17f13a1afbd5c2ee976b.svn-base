@@ -1,0 +1,3 @@
+org.apache.commons.compress.harmony.pack200.MetadataBandGroup#addAnnotation(Ljava/lang/String;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;)V
+org.apache.commons.compress.harmony.pack200.MetadataBandGroup#nextString(Ljava/util/Iterator;)Ljava/lang/String;
+java.lang.Integer#intValue()I

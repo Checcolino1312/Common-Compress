@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#matches([BI)Z
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#checksig([B[B)Z
+org.apache.commons.compress.archivers.zip.ZipLong#getBytes()[B

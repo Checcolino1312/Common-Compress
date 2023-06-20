@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.gzip.GzipCompressorOutputStream#finish()V
+org.apache.commons.compress.compressors.gzip.GzipCompressorOutputStream#deflate()V
+org.apache.commons.compress.compressors.gzip.GzipCompressorOutputStream#writeTrailer()V

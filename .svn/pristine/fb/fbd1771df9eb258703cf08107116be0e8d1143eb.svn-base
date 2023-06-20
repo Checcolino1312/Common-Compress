@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ZipShort#equals(Ljava/lang/Object;)Z
+org.apache.commons.compress.archivers.zip.ZipShort#getValue()I

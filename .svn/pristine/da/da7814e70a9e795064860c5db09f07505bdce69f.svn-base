@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry#setContentMethods([Lorg/apache/commons/compress/archivers/sevenz/SevenZMethodConfiguration;)V
+java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;
+==
+setContentMethods org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry#setContentMethods(Ljava/lang/Iterable;)V

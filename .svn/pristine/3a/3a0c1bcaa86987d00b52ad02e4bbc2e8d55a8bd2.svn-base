@@ -1,0 +1,6 @@
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder#switchToUncompressedState()V
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder$UncompressedState#<init>(Lorg/apache/commons/compress/compressors/deflate64/HuffmanDecoder;J)V
+java.lang.IllegalStateException#instance-init#
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder#readBits(I)J
+java.lang.IllegalStateException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.compressors.deflate64.HuffmanDecoder$UncompressedState#instance-init#

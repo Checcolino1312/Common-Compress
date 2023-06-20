@@ -1,0 +1,22 @@
+
+Šorg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#readNextByte(Lorg/apache/commons/compress/utils/BitInputStream;)I“
+†C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/bzip2/BZip2CompressorInputStream.javaÞ Þ("1*‡
+1
+ß ß(ßÜ
+
+ß ß(%
+
+%0long"=org.apache.commons.compress.utils.BitInputStream#readBits(I)J*T
+
+__unknown_file (8
+6
+in0org.apache.commons.compress.utils.BitInputStream* 
+
+__unknown_file (22readBits(I)"
+
+à à(
+"":D
+
+Þ Þ(46
+in0org.apache.commons.compress.utils.BitInputStreamBLJ
+Horg.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStreamP

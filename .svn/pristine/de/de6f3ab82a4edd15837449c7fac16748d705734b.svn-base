@@ -1,0 +1,57 @@
+
+Forg.apache.commons.compress.archivers.zip.ExplodingInputStream#read()I|
+pC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ExplodingInputStream.javaÃ Ã("8*›
+3
+Ì Ì(Á
+¾
+
+Ì Ì(>
+%58org.apache.commons.compress.archivers.zip.CircularBuffer"__id*j
+
+__unknown_file (N*L@
+>org.apache.commons.compress.archivers.zip.ExplodingInputStream"
+bufferÀ½
+
+Ì Ì($	
+%6int"?org.apache.commons.compress.archivers.zip.CircularBuffer#get()I*\
+
+__unknown_file (@
+>
+%58org.apache.commons.compress.archivers.zip.CircularBuffer2get()*
+1*à
+6
+Æ Æ(É
+Æ
+
+Æ Æ(
+
+%2void"Lorg.apache.commons.compress.archivers.zip.ExplodingInputStream#fillBuffer()V*^
+
+__unknown_file (B@
+>org.apache.commons.compress.archivers.zip.ExplodingInputStream*
+3*®
+8
+Ä Ä(Á
+¾
+
+Ä Ä(>
+%08org.apache.commons.compress.archivers.zip.CircularBuffer"__id*j
+
+__unknown_file (N*L@
+>org.apache.commons.compress.archivers.zip.ExplodingInputStream"
+bufferÐÍ
+
+Ä Ä(
+%1boolean"Eorg.apache.commons.compress.archivers.zip.CircularBuffer#available()Z*\
+
+__unknown_file (@
+>
+%08org.apache.commons.compress.archivers.zip.CircularBuffer2available()*
+3
+6*%
+1
+Ð Ð("
+
+Ð Ð(
+""BB@
+>org.apache.commons.compress.archivers.zip.ExplodingInputStreamHP

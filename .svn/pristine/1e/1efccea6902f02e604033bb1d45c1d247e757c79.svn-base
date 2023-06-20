@@ -1,0 +1,9 @@
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#read([BII)I
+java.lang.IndexOutOfBoundsException#<init>()V
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readFully([BII)I
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#skip(I)V
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#ensureOpen()V
+java.lang.IndexOutOfBoundsException#instance-init#
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+java.lang.Math#min(JJ)J

@@ -1,0 +1,88 @@
+
+Zorg.apache.commons.compress.harmony.unpack200.bytecode.CPClass#equals(Ljava/lang/Object;)Zz
+pC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPClass.java4 4("startingBlock*!
+2< <("
+< <(
+""*î
+3; ;(¾»
+; ;(
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*^
+
+__unknown_file (B@
+>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass2
+getClass()•’
+; ;(-
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*5
+
+__unknown_file (
+
+objjava.lang.Object2
+getClass()*
+2
+1*Š
+startingBlock4 4(+Š
+‡
+3 3(
+%5"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*5
+
+__unknown_file (
+
+objjava.lang.ObjectW
+U
+4' 4(*
+objjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%5*	
+3
+4
+6*!
+49 9("
+9 9(
+""*!
+66 6("
+6 6(
+""*¤
+1>( >(+“
+
+> >(,G
+other>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass"__id*5
+
+__unknown_file (
+
+objjava.lang.ObjectÂ
+¿
+? ?(C
+%2=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8"__id*h
+
+__unknown_file (L*J@
+>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass"
+utf8É
+Æ
+? ?(%C
+%3=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8"__id*o
+
+__unknown_file (S*Q
+G
+other>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass"
+utf8ÙÖ
+? ?(&
+%4boolean"Yorg.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8#equals(Ljava/lang/Object;)Z*a
+
+__unknown_file (E
+C
+%2=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8*a
+
+__unknown_file (E
+C
+%3=org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF82equals(Ljava/lang/Object;)"
+? ?('
+"":#
+4 4(*
+objjava.lang.ObjectBB@
+>org.apache.commons.compress.harmony.unpack200.bytecode.CPClassHP

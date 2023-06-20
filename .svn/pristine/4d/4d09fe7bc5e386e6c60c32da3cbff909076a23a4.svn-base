@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ZipFile#getEntries(Ljava/lang/String;)Ljava/lang/Iterable;
+java.util.Collections#emptyList()Ljava/util/List;

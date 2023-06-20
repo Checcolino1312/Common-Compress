@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#writeHeader(Ljava/io/DataOutput;)V
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#writeStreamsInfo(Ljava/io/DataOutput;)V
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#writeFilesInfo(Ljava/io/DataOutput;)V

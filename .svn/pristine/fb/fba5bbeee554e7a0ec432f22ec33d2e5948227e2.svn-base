@@ -1,0 +1,22 @@
+
+q
+java:S1192Ô"SDefine a constant instead of duplicating this literal "Truncated ZIP file" 4 times.(Ã½ªß8¨Å–å‡1
+s
+java:S1192©"UDefine a constant instead of duplicating this literal "The stream is closed" 3 times.(°ú©‰8¨Å–å‡1
+—
+java:S1192É"tDefine a constant instead of duplicating this literal "broken archive, entry with negative compressed size" 4 times.(®ë±ÿÿÿÿÿ8¨Å–å‡1
+‡
+java:S1192Î"iDefine a constant instead of duplicating this literal "broken archive, entry with negative size" 4 times.(øÅÂ™8¨Å–å‡1
+{	java:S135„"YReduce the total number of break and continue statements in this loop to use at most one.(õ¢íÒıÿÿÿÿ8¨Å–å‡1
+…
+java:S1450Ã"bRemove the "hitCentralDirectory" field and declare it as a local variable in the relevant methods.(ûÏùÿÿÿÿ8Ç–å‡1
+p
+java:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ëçÜ®8˜Ç–å‡1
+p
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(´¢ìÎ8Ç–å‡1
+A
+java:S1659"#Declare "cSize" on a separate line.(¬õ”8ŸÇ–å‡1
+u
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(–£øóøÿÿÿÿ8¨Ç–å‡1
+Z
+java:S1068Ã"7Remove this unused "hitCentralDirectory" private field.(ûÏùÿÿÿÿ8µÇ–å‡1

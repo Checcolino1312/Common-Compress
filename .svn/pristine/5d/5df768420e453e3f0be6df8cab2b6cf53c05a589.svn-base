@@ -1,0 +1,7 @@
+org.apache.commons.compress.compressors.xz.XZCompressorInputStream#<init>(Ljava/io/InputStream;ZI)V
+org.apache.commons.compress.utils.CountingInputStream#<init>(Ljava/io/InputStream;)V
+org.tukaani.xz.SingleXZInputStream#instance-init#
+org.tukaani.xz.SingleXZInputStream#<init>(Ljava/io/InputStream;I)V
+org.tukaani.xz.XZInputStream#<init>(Ljava/io/InputStream;I)V
+org.apache.commons.compress.utils.CountingInputStream#instance-init#
+org.tukaani.xz.XZInputStream#instance-init#

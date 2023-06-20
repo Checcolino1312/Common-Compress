@@ -1,0 +1,5 @@
+org.apache.commons.compress.utils.MultiReadOnlySeekableByteChannel#<init>(Ljava/util/List;)V
+java.util.ArrayList#instance-init#
+java.util.ArrayList#<init>(Ljava/util/Collection;)V
+java.util.Objects#requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
+java.util.Collections#unmodifiableList(Ljava/util/List;)Ljava/util/List;

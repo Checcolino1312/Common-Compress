@@ -1,0 +1,42 @@
+
+`org.apache.commons.compress.archivers.sevenz.SevenZFile#readEmptyStream(Ljava/nio/ByteBuffer;I)IÅ
+uC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/sevenz/SevenZFile.javaì ì("5*%
+3
+ï ï(C"
+
+ï ï(C
+""*ï
+4
+ï ï(B}
+
+ï ï(B	
+%1int"java.util.BitSet#cardinality()I*4
+
+__unknown_file (
+
+%0java.util.BitSet2cardinality()*
+3*‰
+5
+ï ï(Õ
+ 
+
+ï ï(4
+%0java.util.BitSet"jorg.apache.commons.compress.archivers.sevenz.SevenZFile#readBits(Ljava/nio/ByteBuffer;I)Ljava/util/BitSet;*W
+
+__unknown_file (;9
+7org.apache.commons.compress.archivers.sevenz.SevenZFile*;
+
+__unknown_file (
+
+headerjava.nio.ByteBuffer*"
+
+__unknown_file (
+""*
+4:+
+
+ì  ì(8
+headerjava.nio.ByteBuffer: 
+
+__unknown_file (
+""B;9
+7org.apache.commons.compress.archivers.sevenz.SevenZFileP

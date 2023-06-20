@@ -1,0 +1,155 @@
+Comparing source compatibility of commons-compress-1.23.1-SNAPSHOT.jar against commons-compress-1.22.jar
+***  MODIFIED CLASS: PUBLIC org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry  (not serializable)
+	===  CLASS FILE FORMAT VERSION: 52.0 <- 52.0
+	+++  NEW METHOD: PUBLIC(+) java.nio.file.attribute.FileTime getAccessTime()
+	+++  NEW METHOD: PUBLIC(+) java.nio.file.attribute.FileTime getCreationTime()
+	+++  NEW METHOD: PUBLIC(+) java.nio.file.attribute.FileTime getLastModifiedTime()
+	===  UNCHANGED METHOD: PUBLIC STATIC long javaTimeToNtfsTime(java.util.Date)
+		+++  NEW ANNOTATION: java.lang.Deprecated
+	===  UNCHANGED METHOD: PUBLIC STATIC java.util.Date ntfsTimeToJavaTime(long)
+		+++  NEW ANNOTATION: java.lang.Deprecated
+	+++  NEW METHOD: PUBLIC(+) void setAccessTime(java.nio.file.attribute.FileTime)
+	+++  NEW METHOD: PUBLIC(+) void setCreationTime(java.nio.file.attribute.FileTime)
+	+++  NEW METHOD: PUBLIC(+) void setLastModifiedTime(java.nio.file.attribute.FileTime)
+***  MODIFIED CLASS: PUBLIC org.apache.commons.compress.archivers.sevenz.SevenZOutputFile  (not serializable)
+	===  CLASS FILE FORMAT VERSION: 52.0 <- 52.0
+	+++  NEW CONSTRUCTOR: PUBLIC(+) SevenZOutputFile(java.nio.channels.SeekableByteChannel, char[])
+		+++  NEW EXCEPTION: java.io.IOException
+	+++  NEW CONSTRUCTOR: PUBLIC(+) SevenZOutputFile(java.io.File, char[])
+		+++  NEW EXCEPTION: java.io.IOException
+***  MODIFIED CLASS: PUBLIC org.apache.commons.compress.archivers.tar.TarArchiveEntry  (not serializable)
+	===  CLASS FILE FORMAT VERSION: 52.0 <- 52.0
+	===  UNCHANGED FIELD: PUBLIC STATIC FINAL int MILLIS_PER_SECOND
+		+++  NEW ANNOTATION: java.lang.Deprecated
+	+++  NEW METHOD: PUBLIC(+) byte getLinkFlag()
++++  NEW CLASS: PUBLIC(+) org.apache.commons.compress.archivers.zip.DefaultBackingStoreSupplier  (not serializable)
+	+++  CLASS FILE FORMAT VERSION: 52.0 <- n.a.
+	+++  NEW INTERFACE: org.apache.commons.compress.parallel.ScatterGatherBackingStoreSupplier
+	+++  NEW SUPERCLASS: java.lang.Object
+	+++  NEW CONSTRUCTOR: PUBLIC(+) DefaultBackingStoreSupplier(java.nio.file.Path)
+	+++  NEW METHOD: PUBLIC(+) org.apache.commons.compress.parallel.ScatterGatherBackingStore get()
+		+++  NEW EXCEPTION: java.io.IOException
+***  MODIFIED CLASS: PUBLIC org.apache.commons.compress.archivers.zip.X000A_NTFS  (not serializable)
+	===  CLASS FILE FORMAT VERSION: 52.0 <- 52.0
+	***  MODIFIED FIELD: PUBLIC (<- PRIVATE) STATIC FINAL org.apache.commons.compress.archivers.zip.ZipShort HEADER_ID
+	+++  NEW METHOD: PUBLIC(+) java.nio.file.attribute.FileTime getAccessFileTime()
+	+++  NEW METHOD: PUBLIC(+) java.nio.file.attribute.FileTime getCreateFileTime()
+	+++  NEW METHOD: PUBLIC(+) java.nio.file.attribute.FileTime getModifyFileTime()
+	+++  NEW METHOD: PUBLIC(+) void setAccessFileTime(java.nio.file.attribute.FileTime)
+	+++  NEW METHOD: PUBLIC(+) void setCreateFileTime(java.nio.file.attribute.FileTime)
+	+++  NEW METHOD: PUBLIC(+) void setModifyFileTime(java.nio.file.attribute.FileTime)
+***  MODIFIED CLASS: PUBLIC org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestamp  (compatible)
+	===  CLASS FILE FORMAT VERSION: 52.0 <- 52.0
+	***  MODIFIED FIELD: PUBLIC (<- PRIVATE) STATIC FINAL org.apache.commons.compress.archivers.zip.ZipShort HEADER_ID
+	+++  NEW METHOD: PUBLIC(+) java.nio.file.attribute.FileTime getAccessFileTime()
+	+++  NEW METHOD: PUBLIC(+) java.nio.file.attribute.FileTime getCreateFileTime()
+	+++  NEW METHOD: PUBLIC(+) java.nio.file.attribute.FileTime getModifyFileTime()
+	+++  NEW METHOD: PUBLIC(+) void setAccessFileTime(java.nio.file.attribute.FileTime)
+	+++  NEW METHOD: PUBLIC(+) void setCreateFileTime(java.nio.file.attribute.FileTime)
+	+++  NEW METHOD: PUBLIC(+) void setModifyFileTime(java.nio.file.attribute.FileTime)
+***  MODIFIED CLASS: PUBLIC org.apache.commons.compress.archivers.zip.ZipArchiveEntry  (not serializable)
+	===  CLASS FILE FORMAT VERSION: 52.0 <- 52.0
+	+++  NEW METHOD: PUBLIC(+) long getSpazio()
+	+++  NEW METHOD: PUBLIC(+) long getTime()
+	+++  NEW METHOD: PUBLIC(+) java.util.zip.ZipEntry setCreationTime(java.nio.file.attribute.FileTime)
+	+++  NEW METHOD: PUBLIC(+) java.util.zip.ZipEntry setLastAccessTime(java.nio.file.attribute.FileTime)
+	+++  NEW METHOD: PUBLIC(+) java.util.zip.ZipEntry setLastModifiedTime(java.nio.file.attribute.FileTime)
+	+++  NEW METHOD: PUBLIC(+) void setTime(long)
+**** MODIFIED CLASS: PUBLIC org.apache.commons.compress.archivers.zip.ZipFile  (not serializable)
+	===  CLASS FILE FORMAT VERSION: 52.0 <- 52.0
+	---  REMOVED METHOD: PROTECTED(-) void finalize()
+		---  REMOVED EXCEPTION: java.lang.Throwable
+	+++  NEW METHOD: PUBLIC(+) java.io.InputStream getContentBeforeFirstLocalFileHeader()
+	+++  NEW METHOD: PUBLIC(+) long getFirstLocalFileHeaderOffset()
+	**** MODIFIED METHOD: PUBLIC java.io.InputStream getRawInputStream(org.apache.commons.compress.archivers.zip.ZipArchiveEntry)
+		+++  NEW EXCEPTION: java.io.IOException
+***  MODIFIED CLASS: PUBLIC ABSTRACT org.apache.commons.compress.archivers.zip.ZipUtil  (not serializable)
+	===  CLASS FILE FORMAT VERSION: 52.0 <- 52.0
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) boolean isDosTime(long)
+***  MODIFIED CLASS: PUBLIC org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream  (not serializable)
+	===  CLASS FILE FORMAT VERSION: 52.0 <- 52.0
+	---  REMOVED METHOD: PROTECTED(-) void finalize()
+		---  REMOVED EXCEPTION: java.lang.Throwable
+***  MODIFIED CLASS: PUBLIC org.apache.commons.compress.compressors.gzip.GzipParameters  (not serializable)
+	===  CLASS FILE FORMAT VERSION: 52.0 <- 52.0
+	+++  NEW METHOD: PUBLIC(+) int getDeflateStrategy()
+	+++  NEW METHOD: PUBLIC(+) void setDeflateStrategy(int)
+===* UNCHANGED CLASS: PUBLIC org.apache.commons.compress.harmony.pack200.CpBands  (not serializable)
+	===  CLASS FILE FORMAT VERSION: 52.0 <- 52.0
+	===* UNCHANGED METHOD: PUBLIC org.apache.commons.compress.harmony.pack200.CPConstant(<- <?>) getConstant(java.lang.Object)
+		GENERIC TEMPLATES: +++ T:org.apache.commons.compress.harmony.pack200.CPConstant<T>
+***  MODIFIED CLASS: PUBLIC org.apache.commons.compress.harmony.unpack200.AttributeLayout  (not serializable)
+	===  CLASS FILE FORMAT VERSION: 52.0 <- 52.0
+	+++  NEW METHOD: PUBLIC(+) boolean equals(java.lang.Object)
+***  MODIFIED CLASS: PUBLIC org.apache.commons.compress.harmony.unpack200.bytecode.AnnotationDefaultAttribute  (not serializable)
+	===  CLASS FILE FORMAT VERSION: 52.0 <- 52.0
+	+++  NEW METHOD: PUBLIC(+) int hashCode()
+***  MODIFIED CLASS: PUBLIC org.apache.commons.compress.harmony.unpack200.bytecode.CPInterfaceMethodRef  (not serializable)
+	===  CLASS FILE FORMAT VERSION: 52.0 <- 52.0
+	+++  NEW METHOD: PUBLIC(+) boolean equals(java.lang.Object)
+***  MODIFIED CLASS: PUBLIC org.apache.commons.compress.harmony.unpack200.bytecode.CPMethod  (not serializable)
+	===  CLASS FILE FORMAT VERSION: 52.0 <- 52.0
+	+++  NEW METHOD: PUBLIC(+) boolean equals(java.lang.Object)
+***  MODIFIED CLASS: PUBLIC org.apache.commons.compress.harmony.unpack200.bytecode.CPMethodRef  (not serializable)
+	===  CLASS FILE FORMAT VERSION: 52.0 <- 52.0
+	+++  NEW METHOD: PUBLIC(+) boolean equals(java.lang.Object)
+***  MODIFIED CLASS: PUBLIC ABSTRACT org.apache.commons.compress.harmony.unpack200.bytecode.CPRef  (not serializable)
+	===  CLASS FILE FORMAT VERSION: 52.0 <- 52.0
+	+++  NEW METHOD: PUBLIC(+) int hashCode()
+***  MODIFIED CLASS: PUBLIC org.apache.commons.compress.harmony.unpack200.bytecode.CPString  (not serializable)
+	===  CLASS FILE FORMAT VERSION: 52.0 <- 52.0
+	+++  NEW METHOD: PUBLIC(+) boolean equals(java.lang.Object)
+***  MODIFIED CLASS: PUBLIC ABSTRACT org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm  (not serializable)
+	===  CLASS FILE FORMAT VERSION: 52.0 <- 52.0
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createByteForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createCheckCastForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createClassRefForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createDoubleForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createFieldRefForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createFloatRefForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createFloatRefForm(int, java.lang.String, int[], boolean)
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createIincForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createIMethodRefForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createInstanceOfForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createIntRefForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createIntRefForm(int, java.lang.String, int[], boolean)
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createLabelForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createLocalForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createLongForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createLookupSwitchForm(int, java.lang.String)
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createMethodRefForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createMultiANewArrayForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createNarrowClassRefForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createNarrowClassRefForm(int, java.lang.String, int[], boolean)
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createNewClassRefForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createNewInitMethodRefForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createNoArgumentForm(int, java.lang.String)
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createShortForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createStringRefForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createStringRefForm(int, java.lang.String, int[], boolean)
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createSuperFieldRefForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createSuperInitMethodRefForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createSuperMethodRefForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createTableSwitchForm(int, java.lang.String)
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createThisFieldRefForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createThisInitMethodRefForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createThisMethodRefForm(int, java.lang.String, int[])
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) org.apache.commons.compress.harmony.unpack200.bytecode.forms.ByteCodeForm createWideForm(int, java.lang.String)
+***  MODIFIED CLASS: PUBLIC org.apache.commons.compress.harmony.unpack200.bytecode.LineNumberTableAttribute  (not serializable)
+	===  CLASS FILE FORMAT VERSION: 52.0 <- 52.0
+	+++  NEW METHOD: PUBLIC(+) int hashCode()
++++  NEW CLASS: PUBLIC(+) FINAL(+) org.apache.commons.compress.utils.TimeUtils  (not serializable)
+	+++  CLASS FILE FORMAT VERSION: 52.0 <- n.a.
+	+++  NEW SUPERCLASS: java.lang.Object
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) boolean isUnixTime(java.nio.file.attribute.FileTime)
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) boolean isUnixTime(long)
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) java.util.Date ntfsTimeToDate(long)
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) java.nio.file.attribute.FileTime ntfsTimeToFileTime(long)
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) java.util.Date toDate(java.nio.file.attribute.FileTime)
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) java.nio.file.attribute.FileTime toFileTime(java.util.Date)
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) long toNtfsTime(java.util.Date)
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) long toNtfsTime(java.nio.file.attribute.FileTime)
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) long toNtfsTime(long)
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) long toUnixTime(java.nio.file.attribute.FileTime)
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) java.nio.file.attribute.FileTime truncateToHundredNanos(java.nio.file.attribute.FileTime)
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) java.nio.file.attribute.FileTime unixTimeToFileTime(long)

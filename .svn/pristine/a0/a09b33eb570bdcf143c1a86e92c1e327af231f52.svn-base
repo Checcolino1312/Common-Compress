@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorOutputStream#<init>(Ljava/io/OutputStream;Lorg/apache/commons/compress/compressors/lz4/FramedLZ4CompressorOutputStream$Parameters;)V
+org.apache.commons.compress.compressors.lz4.XXHash32#instance-init#
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorOutputStream$BlockSize#getSize()I
+org.apache.commons.compress.compressors.lz4.XXHash32#<init>()V
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorOutputStream#writeFrameDescriptor()V

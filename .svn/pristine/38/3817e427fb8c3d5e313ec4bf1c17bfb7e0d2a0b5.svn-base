@@ -1,0 +1,9 @@
+org.apache.commons.compress.archivers.tar.TarUtils#parsePAX1XSparseHeaders(Ljava/io/InputStream;I)Ljava/util/List;
+java.util.ArrayList#<init>()V
+org.apache.commons.compress.archivers.tar.TarArchiveStructSparse#instance-init#
+java.util.ArrayList#instance-init#
+org.apache.commons.compress.archivers.tar.TarArchiveStructSparse#<init>(JJ)V
+org.apache.commons.compress.archivers.tar.TarUtils#readLineOfNumberForPax1X(Ljava/io/InputStream;)[J
+org.apache.commons.compress.utils.IOUtils#skip(Ljava/io/InputStream;J)J
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V

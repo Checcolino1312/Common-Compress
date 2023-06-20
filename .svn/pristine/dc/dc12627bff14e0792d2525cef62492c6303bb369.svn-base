@@ -1,0 +1,85 @@
+
+ˆorg.apache.commons.compress.harmony.pack200.NewAttributeBands#getStreamUpToMatchingBracket(Ljava/io/StringReader;)Ljava/io/StringReader;{
+oC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/pack200/NewAttributeBands.javaÄ Ä(5"11*ð
+2
+Ô Ô(ÖÓ
+
+Ô Ô(
+%3java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*;
+
+__unknown_file (
+
+sbjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(C)*
+9
+1*™
+9
+È È(#}{
+
+È È(*	
+%2int"java.io.StringReader#read()I*<
+
+__unknown_file ( 
+
+readerjava.io.StringReader2read()*	
+2
+9
+1*È
+11
+Å! Å(4FD
+
+Å% Å(2
+%0java.lang.StringBuilder"java.lang.StringBuildert
+r
+
+Å! Å(4
+%1"!java.lang.StringBuilder#<init>()V*;
+
+__unknown_file (
+
+%0java.lang.StringBuilderp
+n
+
+Å Å(5
+sbjava.lang.StringBuilder"__id*;
+
+__unknown_file (
+
+%0java.lang.StringBuilder*
+9
+1*à
+1
+×  ×("¦£
+
+×  ×(-
+%4java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*;
+
+__unknown_file (
+
+sbjava.lang.StringBuilder2
+toString()@>
+
+× ×(
+%5java.io.StringReader"java.io.StringReader·
+´
+
+× ×(.
+%6"0java.io.StringReader#<init>(Ljava/lang/String;)V*8
+
+__unknown_file (
+
+%5java.io.StringReader*4
+
+__unknown_file (
+
+%4java.lang.String"*
+
+× ×(/
+
+%5java.io.StringReader:,
+
+Ä6 Ä(O
+readerjava.io.StringReaderBA?
+=org.apache.commons.compress.harmony.pack200.NewAttributeBands

@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.UnsupportedZipFeatureException#<init>(Lorg/apache/commons/compress/archivers/zip/ZipMethod;Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)V
+java.lang.Enum#name()Ljava/lang/String;

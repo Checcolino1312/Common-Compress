@@ -1,0 +1,27 @@
+
+•org.apache.commons.compress.archivers.zip.ResourceAlignmentExtraField#getCentralDirectoryLength()Lorg/apache/commons/compress/archivers/zip/ZipShort;Ž
+ƒC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ResourceAlignmentExtraField.javah h(-"1*ê
+1i i(%A
+?
+i i(%	
+%0int"__id*"
+
+__unknown_file (
+""zx
+i i(8
+%12org.apache.commons.compress.archivers.zip.ZipShort"2org.apache.commons.compress.archivers.zip.ZipShortÓ
+Ð
+i i(&
+%2"=org.apache.commons.compress.archivers.zip.ZipShort#<init>(I)V*V
+
+__unknown_file (:
+8
+%12org.apache.commons.compress.archivers.zip.ZipShort*'
+
+__unknown_file (
+	
+%0int"F
+i i(':
+8
+%12org.apache.commons.compress.archivers.zip.ZipShortBIG
+Eorg.apache.commons.compress.archivers.zip.ResourceAlignmentExtraFieldH

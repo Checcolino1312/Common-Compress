@@ -1,0 +1,3 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#checkForAlternativeMethods(Z)V
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V

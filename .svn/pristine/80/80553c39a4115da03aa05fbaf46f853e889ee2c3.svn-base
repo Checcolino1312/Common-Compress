@@ -1,0 +1,108 @@
+
+´org.apache.commons.compress.harmony.unpack200.SegmentHeader#decodeScalar(Ljava/lang/String;Ljava/io/InputStream;Lorg/apache/commons/compress/harmony/pack200/BHSDCodec;I)[Iw
+mC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/harmony/unpack200/SegmentHeader.java~ ~("1*ç
+1
+Ä Ä(º
+π
+
+Ä Ä(;
+%05org.apache.commons.compress.harmony.unpack200.Segment"__id*h
+
+__unknown_file (L*J=
+;org.apache.commons.compress.harmony.unpack200.SegmentHeader"	
+segmentC
+A
+
+Ä Ä(-	
+%1int"__id*"
+
+__unknown_file (
+""v
+t
+
+Ä/ Ä(@
+%2java.lang.String"__concat*
+
+Ä/ Ä(9
+
+Parsed #*(
+
+Ä< Ä(@
+
+namejava.lang.Stringn
+l
+
+Ä/ Ä(G
+%3java.lang.String"__concat*&
+
+Ä/ Ä(@
+
+%2java.lang.String*
+
+ÄC Ä(G
+ (n
+l
+
+Ä/ Ä(K
+%4java.lang.String"__concat*&
+
+Ä/ Ä(G
+
+%3java.lang.String*
+
+ÄJ Ä(K
+""m
+k
+
+Ä/ Ä(Q
+%5java.lang.String"__concat*&
+
+Ä/ Ä(K
+
+%4java.lang.String*
+
+ÄN Ä(Q
+)¿Ω
+
+Ä Ä(R
+
+%6void"Oorg.apache.commons.compress.harmony.unpack200.Segment#log(ILjava/lang/String;)V*Y
+
+__unknown_file (=
+;
+%05org.apache.commons.compress.harmony.unpack200.Segment*'
+
+__unknown_file (
+	
+%1int*4
+
+__unknown_file (
+
+%5java.lang.String2log(ILjava/lang/String;)◊‘
+
+Å Å(&
+%7int[]"Zorg.apache.commons.compress.harmony.pack200.BHSDCodec#decodeInts(ILjava/io/InputStream;)[I*\
+
+__unknown_file (@
+>
+codec5org.apache.commons.compress.harmony.pack200.BHSDCodec*"
+
+__unknown_file (
+""*7
+
+__unknown_file (
+
+injava.io.InputStream2"decodeInts(ILjava/io/InputStream;)"
+
+Å Å('
+"":$
+~ ~(1
+namejava.lang.String:%
+~2 ~(G
+injava.io.InputStream:J
+~H ~(^>
+codec5org.apache.commons.compress.harmony.pack200.BHSDCodec: 
+
+__unknown_file (
+""B?=
+;org.apache.commons.compress.harmony.unpack200.SegmentHeader

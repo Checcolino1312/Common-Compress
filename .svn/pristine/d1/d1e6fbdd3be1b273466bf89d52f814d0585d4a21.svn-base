@@ -1,0 +1,14 @@
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#getNextCPIOEntry()Lorg/apache/commons/compress/archivers/cpio/CpioArchiveEntry;
+org.apache.commons.compress.archivers.cpio.CpioUtil#byteArray2long([BZ)J
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#closeEntry()V
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readNewEntry(Z)Lorg/apache/commons/compress/archivers/cpio/CpioArchiveEntry;
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#skipRemainderOfLastBlock()V
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readOldBinaryEntry(Z)Lorg/apache/commons/compress/archivers/cpio/CpioArchiveEntry;
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readFully([BII)I
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#ensureOpen()V
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#readOldAsciiEntry()Lorg/apache/commons/compress/archivers/cpio/CpioArchiveEntry;
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.lang.System#arraycopy(Ljava/lang/Object;ILjava/lang/Object;II)V
+org.apache.commons.compress.utils.ArchiveUtils#toAsciiString([B)Ljava/lang/String;

@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.snappy.SnappyCompressorInputStream#<init>(Ljava/io/InputStream;I)V
+org.apache.commons.compress.compressors.snappy.SnappyCompressorInputStream#readSize()J

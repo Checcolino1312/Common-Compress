@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#addExtraField(Lorg/apache/commons/compress/archivers/zip/ZipExtraField;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#internalAddExtraField(Lorg/apache/commons/compress/archivers/zip/ZipExtraField;)V
+==
+setExtra org.apache.commons.compress.archivers.zip.ZipArchiveEntry#setExtra()V

@@ -1,0 +1,35 @@
+
+£org.apache.commons.compress.harmony.unpack200.bytecode.forms.SuperMethodRefForm#getOffset(Lorg/apache/commons/compress/harmony/unpack200/bytecode/OperandManager;)Iò
+çC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/forms/SuperMethodRefForm.java' '("startingBlock*Ü
+startingBlock' '(@ 
+«
+& &(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*u
+
+__unknown_file (Y
+W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManagerò
+ï
+'1 '(?W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager"__annotation*"
+
+__unknown_file (
+
+%1*
+1*¶
+1( ((Çˇ
+( ((2	
+%0int"[org.apache.commons.compress.harmony.unpack200.bytecode.OperandManager#nextSuperMethodRef()I*u
+
+__unknown_file (Y
+W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager2nextSuperMethodRef()"
+( ((3
+"":c
+' '(?W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManagerBSQ
+Oorg.apache.commons.compress.harmony.unpack200.bytecode.forms.SuperMethodRefFormP

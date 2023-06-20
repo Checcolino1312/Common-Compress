@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.ar.ArArchiveInputStream#isBSDLongName(Ljava/lang/String;)Z
+java.lang.String#matches(Ljava/lang/String;)Z

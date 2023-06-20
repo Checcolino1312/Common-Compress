@@ -1,0 +1,29 @@
+
+Uorg.apache.commons.compress.archivers.zip.ZipFile#getEntries()Ljava/util/Enumeration;o
+cC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipFile.javaÙ( Ù(2"1*¶
+1
+Ú Ú(‹
+ˆ
+
+Ú' Ú(.
+%0java.util.List"__id*^
+
+__unknown_file (B*@3
+1org.apache.commons.compress.archivers.zip.ZipFile"	
+entriesé
+æ
+
+Ú Ú(/
+%1java.util.Enumeration"Pjava.util.Collections#enumeration(Ljava/util/Collection;)Ljava/util/Enumeration;*5
+
+__unknown_file ("
+java.util.Collections*2
+
+__unknown_file (
+
+%0java.util.List"+
+
+Ú Ú(0
+
+%1java.util.EnumerationB53
+1org.apache.commons.compress.archivers.zip.ZipFileH

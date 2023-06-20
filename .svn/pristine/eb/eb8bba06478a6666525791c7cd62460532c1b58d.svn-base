@@ -1,0 +1,10 @@
+org.apache.commons.compress.harmony.unpack200.BandSet#decodeBandInt(Ljava/lang/String;Ljava/io/InputStream;Lorg/apache/commons/compress/harmony/pack200/BHSDCodec;I)[I
+org.apache.commons.compress.harmony.pack200.BHSDCodec#decodeInts(ILjava/io/InputStream;I)[I
+org.apache.commons.compress.harmony.pack200.BHSDCodec#isSigned()Z
+org.apache.commons.compress.harmony.unpack200.BandSet#performCountingLogic([ILorg/apache/commons/compress/harmony/pack200/Codec;)V
+org.apache.commons.compress.harmony.pack200.BHSDCodec#getB()I
+org.apache.commons.compress.harmony.pack200.BHSDCodec#getL()I
+org.apache.commons.compress.harmony.pack200.BHSDCodec#decodeInts(ILjava/io/InputStream;)[I
+org.apache.commons.compress.harmony.pack200.CodecEncoding#getCodec(ILjava/io/InputStream;Lorg/apache/commons/compress/harmony/pack200/Codec;)Lorg/apache/commons/compress/harmony/pack200/Codec;
+java.util.Arrays#sort([I)V
+java.util.Arrays#binarySearch([II)I

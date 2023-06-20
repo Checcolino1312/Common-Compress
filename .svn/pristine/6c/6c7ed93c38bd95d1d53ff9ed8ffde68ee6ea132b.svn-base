@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#maybeFinishCurrentBlock()V
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#verifyChecksum(Lorg/apache/commons/compress/compressors/lz4/XXHash32;Ljava/lang/String;)V

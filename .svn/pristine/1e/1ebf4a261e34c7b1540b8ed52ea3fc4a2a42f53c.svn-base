@@ -1,0 +1,93 @@
+
+—org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#supportsDataDescriptorFor(Lorg/apache/commons/compress/archivers/zip/ZipArchiveEntry;)Z‰
+}C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.javaƒ ƒ(-"8*ž
+2
+‡ ‡(ÑÎ
+
+‡ ‡($	
+%6int"Forg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getMethod()I*`
+
+__unknown_file (D
+B
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getMethod()s
+q
+
+‡( ‡(C9
+%73org.apache.commons.compress.archivers.zip.ZipMethod"__id*"
+
+__unknown_file (
+""¾»
+
+‡( ‡(M	
+%8int">org.apache.commons.compress.archivers.zip.ZipMethod#getCode()I*W
+
+__unknown_file (;
+9
+%73org.apache.commons.compress.archivers.zip.ZipMethod2	getCode()*
+1*°
+4
+† †(ÑÎ
+
+† †($	
+%4int"Forg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getMethod()I*`
+
+__unknown_file (D
+B
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getMethod()C
+A
+
+†( †(9	
+%5int"__id*"
+
+__unknown_file (
+""*
+2
+1*³
+6
+…< …(AÑÎ
+
+…< …(M	
+%2int"Forg.apache.commons.compress.archivers.zip.ZipArchiveEntry#getMethod()I*`
+
+__unknown_file (D
+B
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getMethod()C
+A
+
+…Q …(`	
+%3int"__id*"
+
+__unknown_file (
+""*	
+2
+4
+1*ç
+8
+„ „(ÜÙ
+
+„ „(,A
+%0;org.apache.commons.compress.archivers.zip.GeneralPurposeBit"org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getGeneralPurposeBit()Lorg/apache/commons/compress/archivers/zip/GeneralPurposeBit;*`
+
+__unknown_file (D
+B
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntry2getGeneralPurposeBit()èå
+
+„ „(A
+%1boolean"Qorg.apache.commons.compress.archivers.zip.GeneralPurposeBit#usesDataDescriptor()Z*_
+
+__unknown_file (C
+A
+%0;org.apache.commons.compress.archivers.zip.GeneralPurposeBit2usesDataDescriptor()*
+2
+4
+6
+1*%
+1
+„ ‡(N"
+
+„ ‡(N
+"":P
+
+ƒ. ƒ(IB
+entry9org.apache.commons.compress.archivers.zip.ZipArchiveEntryBCA
+?org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamP

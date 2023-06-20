@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.ArchiveStreamFactory#getOutputStreamArchiveNames()Ljava/util/Set;
+org.apache.commons.compress.utils.Sets#newHashSet([Ljava/lang/Object;)Ljava/util/HashSet;

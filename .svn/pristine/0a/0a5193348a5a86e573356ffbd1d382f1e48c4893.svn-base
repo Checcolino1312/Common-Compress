@@ -1,0 +1,35 @@
+
+žorg.apache.commons.compress.harmony.unpack200.bytecode.forms.StringRefForm#getOffset(Lorg/apache/commons/compress/harmony/unpack200/bytecode/OperandManager;)I“
+ˆC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/forms/StringRefForm.java* *("startingBlock*†
+startingBlock* *(@Ê
+Ç
+) )(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*u
+
+__unknown_file (Y
+W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager˜
+•
+*1 *(?W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager"__annotation*"
+
+__unknown_file (
+
+%1*
+1*œ
+1+ +(øõ
++ +(-	
+%0int"Vorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager#nextStringRef()I*u
+
+__unknown_file (Y
+W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManager2nextStringRef()"
++ +(.
+"":c
+* *(?W
+operandManagerEorg.apache.commons.compress.harmony.unpack200.bytecode.OperandManagerBNL
+Jorg.apache.commons.compress.harmony.unpack200.bytecode.forms.StringRefFormP

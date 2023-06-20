@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.zip.ZipSplitReadOnlySeekableByteChannel#buildFromLastSplitSegment(Ljava/io/File;)Ljava/nio/channels/SeekableByteChannel;
+org.apache.commons.compress.archivers.zip.ZipSplitReadOnlySeekableByteChannel#buildFromLastSplitSegment(Ljava/nio/file/Path;)Ljava/nio/channels/SeekableByteChannel;

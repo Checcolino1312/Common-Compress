@@ -1,0 +1,20 @@
+
+Yorg.apache.commons.compress.compressors.deflate.DeflateCompressorInputStream#available()I•
+ŠC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/deflate/DeflateCompressorInputStream.java_ _("1*É
+1` `(¤
+¡
+` `(
+%0java.io.InputStream"__id*t
+
+__unknown_file (X*VN
+Lorg.apache.commons.compress.compressors.deflate.DeflateCompressorInputStream"
+in}
+` `(	
+%1int" java.io.InputStream#available()I*7
+
+__unknown_file (
+
+%0java.io.InputStream2available()"
+` `(
+""BPN
+Lorg.apache.commons.compress.compressors.deflate.DeflateCompressorInputStreamHP

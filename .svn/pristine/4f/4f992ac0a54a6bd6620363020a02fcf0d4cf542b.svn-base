@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStream#verifyChecksum(Lorg/apache/commons/compress/compressors/lz4/XXHash32;Ljava/lang/String;)V
+org.apache.commons.compress.utils.ByteUtils#fromLittleEndian([B)J
+org.apache.commons.compress.utils.IOUtils#readFully(Ljava/io/InputStream;[B)I
+java.io.IOException#instance-init#
+java.io.IOException#<init>(Ljava/lang/String;)V

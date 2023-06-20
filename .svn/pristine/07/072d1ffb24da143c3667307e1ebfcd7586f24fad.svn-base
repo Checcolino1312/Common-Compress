@@ -1,0 +1,60 @@
+
+ìorg.apache.commons.compress.archivers.zip.UnparseableExtraFieldData#getCentralDirectoryLength()Lorg/apache/commons/compress/archivers/zip/ZipShort;
+uC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/UnparseableExtraFieldData.java8 8(-"4*™
+2; ;(/†
+ù
+; ;(/
+%4byte[]"__id*}
+
+__unknown_file (a*_E
+Corg.apache.commons.compress.archivers.zip.UnparseableExtraFieldData"
+centralDirectoryDatazx
+; ;(8
+%32org.apache.commons.compress.archivers.zip.ZipShort"2org.apache.commons.compress.archivers.zip.ZipShortŒ
+À
+; ;(7
+%5"=org.apache.commons.compress.archivers.zip.ZipShort#<init>(I)V*V
+
+__unknown_file (:
+8
+%32org.apache.commons.compress.archivers.zip.ZipShort*"
+
+__unknown_file (
+""•
+¢
+; ;(78
+%12org.apache.commons.compress.archivers.zip.ZipShort"__id*V
+
+__unknown_file (:
+8
+%32org.apache.commons.compress.archivers.zip.ZipShort*
+1*ñ
+3: :($Ÿ÷
+: :(&8
+%22org.apache.commons.compress.archivers.zip.ZipShort"êorg.apache.commons.compress.archivers.zip.UnparseableExtraFieldData#getLocalFileDataLength()Lorg/apache/commons/compress/archivers/zip/ZipShort;*c
+
+__unknown_file (GE
+Corg.apache.commons.compress.archivers.zip.UnparseableExtraFieldData2getLocalFileDataLength()•
+¢
+: :(&8
+%12org.apache.commons.compress.archivers.zip.ZipShort"__id*V
+
+__unknown_file (:
+8
+%22org.apache.commons.compress.archivers.zip.ZipShort*
+1*∏
+49 9(#†
+ù
+9 9(#
+%0byte[]"__id*}
+
+__unknown_file (a*_E
+Corg.apache.commons.compress.archivers.zip.UnparseableExtraFieldData"
+centralDirectoryData*
+2
+3*U
+19 ;(8"F
+9 ;(8:
+8
+%12org.apache.commons.compress.archivers.zip.ZipShortBGE
+Corg.apache.commons.compress.archivers.zip.UnparseableExtraFieldDataH

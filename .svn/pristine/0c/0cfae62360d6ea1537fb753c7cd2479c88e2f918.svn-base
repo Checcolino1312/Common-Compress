@@ -1,0 +1,45 @@
+
+Zorg.apache.commons.compress.compressors.pack200.Pack200CompressorInputStream#matches([BI)Z•
+ŠC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/compressors/pack200/Pack200CompressorInputStream.java> >(!"8*!
+3E E("
+E E(
+""*[
+4D D(D
+B
+D  D()
+%2byte[]"__id*"
+
+__unknown_file (
+""*
+3
+5*X
+5C C(A
+?
+C C(&	
+%1int"__id*"
+
+__unknown_file (
+""*
+4
+1*!
+7@ @("
+@ @(
+""*X
+8? ?(A
+?
+? ?(	
+%0int"__id*"
+
+__unknown_file (
+""*
+5
+7*!
+1I I("
+I I(
+"":
+>" >(9
+	signaturebyte[]: 
+
+__unknown_file (
+""BP"N
+Lorg.apache.commons.compress.compressors.pack200.Pack200CompressorInputStreamHP

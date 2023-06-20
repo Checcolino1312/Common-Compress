@@ -1,0 +1,3 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#<init>(Ljava/io/OutputStream;)V
+==
+BZip2CompressorOutputStream org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#<init>(Ljava/io/OutputStream;I)V

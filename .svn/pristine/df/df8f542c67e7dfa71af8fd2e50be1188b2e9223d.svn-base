@@ -1,0 +1,2 @@
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#initialize()V
+org.apache.commons.compress.compressors.lz77support.LZ77Compressor#nextHash(IB)I

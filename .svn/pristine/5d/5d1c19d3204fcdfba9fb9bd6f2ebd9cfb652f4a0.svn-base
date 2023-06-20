@@ -1,0 +1,2 @@
+org.apache.commons.compress.changes.ChangeSetPerformer#<init>(Lorg/apache/commons/compress/changes/ChangeSet;)V
+org.apache.commons.compress.changes.ChangeSet#getChanges()Ljava/util/Set;

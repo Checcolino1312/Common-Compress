@@ -1,0 +1,6 @@
+org.apache.commons.compress.harmony.unpack200.SegmentConstantPool#regexMatches(Ljava/lang/String;Ljava/lang/String;)Z
+java.lang.String#length()I
+java.lang.Error#<init>(Ljava/lang/String;)V
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.lang.String#substring(II)Ljava/lang/String;
+java.lang.Error#instance-init#

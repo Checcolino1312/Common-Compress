@@ -1,0 +1,16 @@
+
+‚org.apache.commons.compress.archivers.zip.UnrecognizedExtraField#getHeaderId()Lorg/apache/commons/compress/archivers/zip/ZipShort;|
+rC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/UnrecognizedExtraField.javaP P("1*•
+1Q Q(½
+º
+Q Q(8
+%02org.apache.commons.compress.archivers.zip.ZipShort"__id*n
+
+__unknown_file (R*PB
+@org.apache.commons.compress.archivers.zip.UnrecognizedExtraField"
+
+headerId"F
+Q Q(:
+8
+%02org.apache.commons.compress.archivers.zip.ZipShortBDB
+@org.apache.commons.compress.archivers.zip.UnrecognizedExtraFieldH

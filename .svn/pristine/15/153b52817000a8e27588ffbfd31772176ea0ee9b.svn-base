@@ -1,0 +1,145 @@
+
+Morg.apache.commons.compress.archivers.zip.ZipArchiveInputStream#matches([BI)Z}
+qC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java£ £(!"9*ü
+2
+« «(q
+o
+
+«# «(F7
+%71org.apache.commons.compress.archivers.zip.ZipLong"__id*"
+
+__unknown_file (
+""À½
+
+«# «(Q
+%8byte[]">org.apache.commons.compress.archivers.zip.ZipLong#getBytes()[B*U
+
+__unknown_file (9
+7
+%71org.apache.commons.compress.archivers.zip.ZipLong2
+getBytes()¯
+¬
+
+« «(R
+%9boolean"Oorg.apache.commons.compress.archivers.zip.ZipArchiveInputStream#checksig([B[B)Z*_
+
+__unknown_file (C"A
+?org.apache.commons.compress.archivers.zip.ZipArchiveInputStream*1
+
+__unknown_file (
+
+	signaturebyte[]**
+
+__unknown_file (
+
+%8byte[]*
+1*‘
+4
+ª ª(F
+D
+
+ª# ª(@
+%5byte[]"__id*"
+
+__unknown_file (
+""¯
+¬
+
+ª ª(A
+%6boolean"Oorg.apache.commons.compress.archivers.zip.ZipArchiveInputStream#checksig([B[B)Z*_
+
+__unknown_file (C"A
+?org.apache.commons.compress.archivers.zip.ZipArchiveInputStream*1
+
+__unknown_file (
+
+	signaturebyte[]**
+
+__unknown_file (
+
+%5byte[]*
+2
+1*”
+6
+© ©(F
+D
+
+©# ©(B
+%3byte[]"__id*"
+
+__unknown_file (
+""¯
+¬
+
+© ©(C
+%4boolean"Oorg.apache.commons.compress.archivers.zip.ZipArchiveInputStream#checksig([B[B)Z*_
+
+__unknown_file (C"A
+?org.apache.commons.compress.archivers.zip.ZipArchiveInputStream*1
+
+__unknown_file (
+
+	signaturebyte[]**
+
+__unknown_file (
+
+%3byte[]*	
+2
+4
+1*—
+7
+¨ ¨(F
+D
+
+¨# ¨(A
+%1byte[]"__id*"
+
+__unknown_file (
+""¯
+¬
+
+¨ ¨(B
+%2boolean"Oorg.apache.commons.compress.archivers.zip.ZipArchiveInputStream#checksig([B[B)Z*_
+
+__unknown_file (C"A
+?org.apache.commons.compress.archivers.zip.ZipArchiveInputStream*1
+
+__unknown_file (
+
+	signaturebyte[]**
+
+__unknown_file (
+
+%1byte[]*
+2
+4
+6
+1*%
+8
+¥ ¥("
+
+¥ ¥(
+""*_
+9
+¤ ¤(F
+D
+
+¤ ¤(3
+%0byte[]"__id*"
+
+__unknown_file (
+""*
+7
+8*%
+1
+¨ «(S"
+
+¨ «(S
+"":!
+
+£" £(9
+	signaturebyte[]: 
+
+__unknown_file (
+""BC"A
+?org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamHP

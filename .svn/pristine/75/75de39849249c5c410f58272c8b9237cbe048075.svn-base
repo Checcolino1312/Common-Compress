@@ -1,0 +1,48 @@
+
+^org.apache.commons.compress.harmony.unpack200.bytecode.CPFieldRef#toString()Ljava/lang/String;‰
+C:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/unpack200/bytecode/CPFieldRef.java] ]("1*”
+1^ ^(Ë
+È
+^ ^('D
+%0>org.apache.commons.compress.harmony.unpack200.bytecode.CPClass"__id*p
+
+__unknown_file (T*RC
+Aorg.apache.commons.compress.harmony.unpack200.bytecode.CPFieldRef"
+	classNameŸ
+œ
+^ ^('
+%1java.lang.String"__concat*
+^ ^(
+
+FieldRef: *R
+^ ^('F
+D
+%0>org.apache.commons.compress.harmony.unpack200.bytecode.CPClassg
+e
+^ ^(-
+%2java.lang.String"__concat*$
+^ ^('
+
+%1java.lang.String*
+^* ^(-
+#Ó
+Ð
+^0 ^(;J
+%3Dorg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType"__id*r
+
+__unknown_file (V*TC
+Aorg.apache.commons.compress.harmony.unpack200.bytecode.CPFieldRef"
+nameAndType¯
+¬
+^ ^(;
+%4java.lang.String"__concat*$
+^ ^(-
+
+%2java.lang.String*X
+^0 ^(;L
+J
+%3Dorg.apache.commons.compress.harmony.unpack200.bytecode.CPNameAndType"$
+^ ^(<
+
+%4java.lang.StringBEC
+Aorg.apache.commons.compress.harmony.unpack200.bytecode.CPFieldRefH

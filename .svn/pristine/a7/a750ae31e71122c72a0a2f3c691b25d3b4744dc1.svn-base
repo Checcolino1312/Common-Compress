@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.ZipSplitOutputStream#openNewSplitSegment()V
+java.nio.file.Files#newOutputStream(Ljava/nio/file/Path;[Ljava/nio/file/OpenOption;)Ljava/io/OutputStream;
+org.apache.commons.compress.archivers.zip.ZipSplitOutputStream#createNewSplitSegmentFile(Ljava/lang/Integer;)Ljava/nio/file/Path;
+java.nio.file.Files#move(Ljava/nio/file/Path;Ljava/nio/file/Path;[Ljava/nio/file/CopyOption;)Ljava/nio/file/Path;

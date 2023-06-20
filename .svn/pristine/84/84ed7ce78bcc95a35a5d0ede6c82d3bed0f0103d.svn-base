@@ -1,0 +1,70 @@
+
+Åorg.apache.commons.compress.archivers.zip.ZipArchiveEntry#findMatching(Lorg/apache/commons/compress/archivers/zip/ZipShort;Ljava/util/List;)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;ƒ
+wC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveEntry.java“ “(&"1*Û
+
+1
+” ”(¤¡
+
+” ”(
+%0java.util.stream.Stream"6java.util.Collection#stream()Ljava/util/stream/Stream;*2
+
+__unknown_file (
+
+fsjava.util.List2stream()³
+°
+
+”" ”(G"
+%1java.util.function.Predicate"__declareFunction*k
+
+__unknown_file (OM
+K__sonar_lambda_65$org.apache.commons.compress.archivers.zip.ZipArchiveEntry³
+°
+
+__unknown_file (0
+"
+%1java.util.function.Predicate"
+
+headerId"__id*\
+
+__unknown_file (@
+>
+headerId2org.apache.commons.compress.archivers.zip.ZipShort®«
+
+” ”(H
+%4java.util.stream.Stream"Wjava.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;*;
+
+__unknown_file (
+
+%0java.util.stream.Stream*@
+
+__unknown_file ($
+"
+%1java.util.function.Predicate2&filter(Ljava/util/function/Predicate;)¬©
+
+” ”(T
+%5java.util.Optional"7java.util.stream.Stream#findFirst()Ljava/util/Optional;*;
+
+__unknown_file (
+
+%4java.util.stream.Stream2findFirst()‡„
+
+” ”(a=
+%67org.apache.commons.compress.archivers.zip.ZipExtraField"?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*6
+
+__unknown_file (
+
+%5java.util.Optional*"
+
+__unknown_file (
+""2orElse(Ljava/lang/Object;)"M
+
+” ”(b?
+=
+%67org.apache.commons.compress.archivers.zip.ZipExtraField:L
+
+“' “(?>
+headerId2org.apache.commons.compress.archivers.zip.ZipShort:"
+
+“@ “(\
+fsjava.util.ListB=;
+9org.apache.commons.compress.archivers.zip.ZipArchiveEntry

@@ -1,0 +1,4 @@
+org.apache.commons.compress.archivers.zip.ExtraFieldUtils#createExtraField(Lorg/apache/commons/compress/archivers/zip/ZipShort;)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;
+org.apache.commons.compress.archivers.zip.UnrecognizedExtraField#<init>()V
+org.apache.commons.compress.archivers.zip.ExtraFieldUtils#createExtraFieldNoDefault(Lorg/apache/commons/compress/archivers/zip/ZipShort;)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;
+org.apache.commons.compress.archivers.zip.UnrecognizedExtraField#instance-init#

@@ -1,0 +1,11 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getExtraFields(Lorg/apache/commons/compress/archivers/zip/ExtraFieldParsingBehavior;)[Lorg/apache/commons/compress/archivers/zip/ZipExtraField;
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+java.util.ArrayList#<init>(Ljava/util/Collection;)V
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#findUnparseable(Ljava/util/List;)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;
+org.apache.commons.compress.archivers.zip.ExtraFieldUtils#parse([BZLorg/apache/commons/compress/archivers/zip/ExtraFieldParsingBehavior;)[Lorg/apache/commons/compress/archivers/zip/ZipExtraField;
+java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#findMatching(Lorg/apache/commons/compress/archivers/zip/ZipShort;Ljava/util/List;)Lorg/apache/commons/compress/archivers/zip/ZipExtraField;
+==
+getCentralDirectoryExtra org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getCentralDirectoryExtra()[B
+getExtraFields org.apache.commons.compress.archivers.zip.ZipArchiveEntry#getExtraFields(Z)[Lorg/apache/commons/compress/archivers/zip/ZipExtraField;

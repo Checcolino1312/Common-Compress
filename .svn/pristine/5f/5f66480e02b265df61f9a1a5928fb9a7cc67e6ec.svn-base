@@ -1,0 +1,38 @@
+
+I__sonar_lambda_69$org.apache.commons.compress.archivers.examples.Expanders
+iC:/Workfolder/commons-compress/src/main/java/org/apache/commons/compress/archivers/examples/Expander.java| |(5"startingBlock*ï
+startingBlock| |(5Î
+Ë
+
+__unknown_file (C
+archive8org.apache.commons.compress.archivers.ArchiveInputStream"__id*d
+
+__unknown_file (H*F9
+7org.apache.commons.compress.archivers.examples.Expander"	
+archive*
+1*Š
+1| |("à
+Ý
+| |(5
+
+%5long"\org.apache.commons.compress.utils.IOUtils#copy(Ljava/io/InputStream;Ljava/io/OutputStream;)J*I
+
+__unknown_file (-"+
+)org.apache.commons.compress.utils.IOUtils*a
+
+__unknown_file (E
+C
+archive8org.apache.commons.compress.archivers.ArchiveInputStream*9
+
+__unknown_file (
+
+outjava.io.OutputStream"
+| |(5
+
+
+%5long:G
+| |(;
+entry2org.apache.commons.compress.archivers.ArchiveEntry:'
+| |(
+outjava.io.OutputStreamBRP
+Norg.apache.commons.compress.archivers.examples.Expander$ArchiveEntryBiConsumer

@@ -1,0 +1,61 @@
+
+Morg.apache.commons.compress.utils.IOUtils#readRange(Ljava/io/InputStream;I)[Bs
+gC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/utils/IOUtils.java¥ ¥(""1* 
+1
+¦- ¦(HRP
+
+¦1 ¦(F#
+%0java.io.ByteArrayOutputStream"java.io.ByteArrayOutputStream€
+~
+
+¦- ¦(H
+%1"'java.io.ByteArrayOutputStream#<init>()V*A
+
+__unknown_file (%
+#
+%0java.io.ByteArrayOutputStream€
+~
+
+¦ ¦(I'
+outputjava.io.ByteArrayOutputStream"__id*A
+
+__unknown_file (%
+#
+%0java.io.ByteArrayOutputStreamñ
+î
+
+§ §(%
+
+%2long"borg.apache.commons.compress.utils.IOUtils#copyRange(Ljava/io/InputStream;JLjava/io/OutputStream;)J*I
+
+__unknown_file (-"+
+)org.apache.commons.compress.utils.IOUtils*:
+
+__unknown_file (
+
+inputjava.io.InputStream*"
+
+__unknown_file (
+""*E
+
+__unknown_file ()
+'
+outputjava.io.ByteArrayOutputStream¢Ÿ
+
+¨ ¨(#
+%3byte[]"-java.io.ByteArrayOutputStream#toByteArray()[B*E
+
+__unknown_file ()
+'
+outputjava.io.ByteArrayOutputStream2toByteArray()"
+
+¨ ¨($
+
+%3byte[]:*
+
+¥# ¥(;
+inputjava.io.InputStream: 
+
+__unknown_file (
+""B-"+
+)org.apache.commons.compress.utils.IOUtilsH

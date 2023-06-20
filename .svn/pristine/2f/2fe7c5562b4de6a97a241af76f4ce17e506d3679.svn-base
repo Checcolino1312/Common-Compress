@@ -1,0 +1,4 @@
+org.apache.commons.compress.harmony.pack200.ClassBands#removeMethodFlags()V
+java.lang.Long#longValue()J
+java.util.HashMap#<init>()V
+java.util.HashMap#instance-init#

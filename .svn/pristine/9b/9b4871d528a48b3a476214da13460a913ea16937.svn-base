@@ -1,0 +1,2 @@
+org.apache.commons.compress.archivers.cpio.CpioArchiveEntry#getHeaderPadCount(J)I
+org.apache.commons.compress.utils.ExactMath#add(IJ)I

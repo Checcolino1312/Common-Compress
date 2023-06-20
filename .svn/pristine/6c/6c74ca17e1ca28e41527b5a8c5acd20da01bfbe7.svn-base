@@ -1,0 +1,66 @@
+
+…org.apache.commons.compress.harmony.pack200.CodecEncoding#getBHSDSpecifier(Lorg/apache/commons/compress/harmony/pack200/BHSDCodec;)[Iƒ
+wC:/Users/KR_Ma/Desktop/Modelli prog/common/src/main/java/org/apache/commons/compress/harmony/pack200/CodecEncoding.javaå å()"4*^
+2
+è3 è(4H
+F
+
+è3 è(4	
+%1int"__id*'
+
+__unknown_file (
+	
+%3int*
+1*^
+3
+è/ è(0H
+F
+
+è/ è(0	
+%1int"__id*'
+
+__unknown_file (
+	
+%2int*
+1*ç
+4
+æ) æ(*ÍÊ
+
+è è(,
+%0boolean"@org.apache.commons.compress.harmony.pack200.BHSDCodec#isDelta()Z*`
+
+__unknown_file (D
+B
+	bhsdCodec5org.apache.commons.compress.harmony.pack200.BHSDCodec2	isDelta()*
+2
+3*÷
+1
+è8 è(9ÃÀ
+
+è< è(L	
+%4int"=org.apache.commons.compress.harmony.pack200.BHSDCodec#getS()I*`
+
+__unknown_file (D
+B
+	bhsdCodec5org.apache.commons.compress.harmony.pack200.BHSDCodec2getS()ÃÀ
+
+èT è(d	
+%5int"=org.apache.commons.compress.harmony.pack200.BHSDCodec#getB()I*`
+
+__unknown_file (D
+B
+	bhsdCodec5org.apache.commons.compress.harmony.pack200.BHSDCodec2getB()ÃÀ
+
+é é((	
+%6int"=org.apache.commons.compress.harmony.pack200.BHSDCodec#getH()I*`
+
+__unknown_file (D
+B
+	bhsdCodec5org.apache.commons.compress.harmony.pack200.BHSDCodec2getH()"
+
+ê ê(
+"":P
+
+å* å(CB
+	bhsdCodec5org.apache.commons.compress.harmony.pack200.BHSDCodecB=";
+9org.apache.commons.compress.harmony.pack200.CodecEncoding
