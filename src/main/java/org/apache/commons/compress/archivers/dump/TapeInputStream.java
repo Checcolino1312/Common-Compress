@@ -92,24 +92,25 @@ class TapeInputStream extends FilterInputStream {
      * @throws IOException on error
      */
     public byte[] peek() throws IOException {
-        // we need to read from the underlying stream. This
-        // isn't a problem since it would be the first step in
-        // any subsequent read() anyway.
+        // Check if the current readOffset is equal to the blockSize
         if (readOffset == blockSize) {
             try {
                 readBlock(true);
             } catch (final ShortFileException sfe) { // NOSONAR
-                return null;
+                return new byte[0];
             }
         }
 
-        // copy data, increment counters.
+        // Create a new byte array with length RECORD_SIZE
         final byte[] b = new byte[RECORD_SIZE];
+
+        // Copy data from blockBuffer to the byte array 'b'
+        // starting from the readOffset position
         System.arraycopy(blockBuffer, readOffset, b, 0, b.length);
 
+        // Return the byte array 'b'
         return b;
     }
-
     /**
      * @see java.io.InputStream#read()
      */
