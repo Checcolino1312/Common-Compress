@@ -835,7 +835,7 @@ public class ZipArchiveEntry extends java.util.zip.ZipEntry implements ArchiveEn
         if (rawName != null) {
             return Arrays.copyOf(rawName, rawName.length);
         }
-        return null;
+        return new byte[0];
     }
 
     /**
