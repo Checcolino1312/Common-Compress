@@ -206,11 +206,11 @@ public class ArjArchiveInputStream extends ArchiveInputStream {
             do {
                 first = second;
                 second = read8(in);
-            } while (first != ARJ_MAGIC_1 && second != ARJ_MAGIC_2);
+            } while (first != ARJ_MAGIC_1 || second != ARJ_MAGIC_2); // Change the condition from && to ||
             final int basicHeaderSize = read16(in);
             if (basicHeaderSize == 0) {
                 // end of archive
-                return null;
+                return new byte[0];
             }
             if (basicHeaderSize <= 2600) {
                 basicHeaderBytes = readRange(in, basicHeaderSize);
@@ -227,16 +227,14 @@ public class ArjArchiveInputStream extends ArchiveInputStream {
 
     private LocalFileHeader readLocalFileHeader() throws IOException {
         final byte[] basicHeaderBytes = readHeader();
-        if (basicHeaderBytes == null) {
+        if ( basicHeaderBytes.length == 0) {
             return null;
         }
         try (final DataInputStream basicHeader = new DataInputStream(new ByteArrayInputStream(basicHeaderBytes))) {
-
             final int firstHeaderSize = basicHeader.readUnsignedByte();
             final byte[] firstHeaderBytes = readRange(basicHeader, firstHeaderSize - 1);
             pushedBackBytes(firstHeaderBytes.length);
             try (final DataInputStream firstHeader = new DataInputStream(new ByteArrayInputStream(firstHeaderBytes))) {
-
                 final LocalFileHeader localFileHeader = new LocalFileHeader();
                 localFileHeader.archiverVersionNumber = firstHeader.readUnsignedByte();
                 localFileHeader.minVersionToExtract = firstHeader.readUnsignedByte();
@@ -281,19 +279,14 @@ public class ArjArchiveInputStream extends ArchiveInputStream {
 
     private MainHeader readMainHeader() throws IOException {
         final byte[] basicHeaderBytes = readHeader();
-        if (basicHeaderBytes == null) {
+        if (basicHeaderBytes.length == 0) {
             throw new IOException("Archive ends without any headers");
         }
-        final DataInputStream basicHeader = new DataInputStream(
-                new ByteArrayInputStream(basicHeaderBytes));
-
+        final DataInputStream basicHeader = new DataInputStream(new ByteArrayInputStream(basicHeaderBytes));
         final int firstHeaderSize = basicHeader.readUnsignedByte();
         final byte[] firstHeaderBytes = readRange(basicHeader, firstHeaderSize - 1);
         pushedBackBytes(firstHeaderBytes.length);
-
-        final DataInputStream firstHeader = new DataInputStream(
-                new ByteArrayInputStream(firstHeaderBytes));
-
+        final DataInputStream firstHeader = new DataInputStream(new ByteArrayInputStream(firstHeaderBytes));
         final MainHeader hdr = new MainHeader();
         hdr.archiverVersionNumber = firstHeader.readUnsignedByte();
         hdr.minVersionToExtract = firstHeader.readUnsignedByte();
@@ -322,7 +315,7 @@ public class ArjArchiveInputStream extends ArchiveInputStream {
         hdr.name = readString(basicHeader);
         hdr.comment = readString(basicHeader);
 
-        final  int extendedHeaderSize = read16(in);
+        final int extendedHeaderSize = read16(in);
         if (extendedHeaderSize > 0) {
             hdr.extendedHeaderBytes = readRange(in, extendedHeaderSize);
             final long extendedHeaderCrc32 = 0xffffFFFFL & read32(in);
