@@ -128,7 +128,7 @@ public class CodeAttribute extends BCIRenumberedAttribute {
     @Override
     protected int[] getStartPCs() {
         // Do nothing here as we've overriden renumber
-        return null;
+        return new int[0];
     }
 
     @Override
