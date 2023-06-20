@@ -749,7 +749,9 @@ class BlockSort {
         // Following block contains unrolled code which could be shortened by
         // coding it in additional loops.
 
-        HP: while (--hp >= 0) {
+        boolean shouldBreak = false; // Flag to break the loop
+
+        while (--hp >= 0 && !shouldBreak) {
             final int h = INCS[hp];
             final int mj = lo + h - 1;
 
@@ -895,8 +897,9 @@ class BlockSort {
                 }
 
                 if (firstAttemptShadow && (i <= hi)
-                    && (workDoneShadow > workLimitShadow)) {
-                    break HP;
+                        && (workDoneShadow > workLimitShadow)) {
+                    shouldBreak = true; // Set the flag to break the loop
+                    break;
                 }
             }
         }
@@ -904,6 +907,7 @@ class BlockSort {
         this.workDone = workDoneShadow;
         return firstAttemptShadow && (workDoneShadow > workLimitShadow);
     }
+
 
     final void mainSort(final BZip2CompressorOutputStream.Data dataShadow,
                         final int lastShadow) {
