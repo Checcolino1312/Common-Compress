@@ -136,6 +136,7 @@ public class CodeAttribute extends BCIRenumberedAttribute {
         exceptionTable.forEach(entry -> entry.renumber(byteCodeOffsets));
     }
 
+
     @Override
     protected void resolve(final ClassConstantPool pool) {
         super.resolve(pool);
