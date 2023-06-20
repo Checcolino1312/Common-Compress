@@ -308,8 +308,6 @@ public class BZip2CompressorOutputStream extends CompressorOutputStream
             if (yy > nHeap) {
                 break;
             }
-
-
             if ((yy < nHeap) && (weight[heap[yy + 1]] < weight[heap[yy]])) {
                 yy++;
             }
