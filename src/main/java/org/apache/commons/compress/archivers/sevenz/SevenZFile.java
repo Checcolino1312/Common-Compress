@@ -1526,7 +1526,7 @@ public class SevenZFile implements Closeable {
                 }
             }
 
-            nid = getUnsignedByte(header);
+
         }
 
         archive.subStreamsInfo = subStreamsInfo;
