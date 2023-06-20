@@ -88,7 +88,7 @@ public class WideForm extends VariableInstructionForm {
 
         // Index bytes
         setRewrite2Bytes(local, rewriteIndex, newRewrite);
-        rewriteIndex += 2;
+
 
         byteCode.setRewrite(newRewrite);
     }
