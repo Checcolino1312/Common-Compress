@@ -130,7 +130,7 @@ public class WideForm extends VariableInstructionForm {
 
         // constant bytes
         setRewrite2Bytes(constWord, rewriteIndex, newRewrite);
-        rewriteIndex += 2; // not strictly necessary, but just in case
+
         // something comes along later
 
         byteCode.setRewrite(newRewrite);
