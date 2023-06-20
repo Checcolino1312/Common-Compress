@@ -347,13 +347,12 @@ public class ArchiveStreamFactory implements ArchiveStreamProvider {
      * @since 1.13
      */
     public static SortedMap<String, ArchiveStreamProvider> findAvailableArchiveOutputStreamProviders() {
-        return AccessController.doPrivileged((PrivilegedAction<SortedMap<String, ArchiveStreamProvider>>) () -> {
-            final TreeMap<String, ArchiveStreamProvider> map = new TreeMap<>();
-            putAll(DEFAULT.getOutputStreamArchiveNames(), DEFAULT, map);
-            archiveStreamProviderIterable().forEach(provider -> putAll(provider.getOutputStreamArchiveNames(), provider, map));
-            return map;
-        });
+        final TreeMap<String, ArchiveStreamProvider> map = new TreeMap<>();
+        putAll(DEFAULT.getOutputStreamArchiveNames(), DEFAULT, map);
+        archiveStreamProviderIterable().forEach(provider -> putAll(provider.getOutputStreamArchiveNames(), provider, map));
+        return map;
     }
+
 
     static void putAll(final Set<String> names, final ArchiveStreamProvider provider, final TreeMap<String, ArchiveStreamProvider> map) {
         names.forEach(name -> map.put(toKey(name), provider));
