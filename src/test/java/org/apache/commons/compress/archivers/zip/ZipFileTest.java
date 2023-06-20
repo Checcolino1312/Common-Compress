@@ -18,16 +18,7 @@
 package org.apache.commons.compress.archivers.zip;
 
 import static java.nio.charset.StandardCharsets.UTF_8;
-import static org.junit.jupiter.api.Assertions.assertArrayEquals;
-import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertFalse;
-import static org.junit.jupiter.api.Assertions.assertNotEquals;
-import static org.junit.jupiter.api.Assertions.assertNotNull;
-import static org.junit.jupiter.api.Assertions.assertNull;
-import static org.junit.jupiter.api.Assertions.assertThrows;
-import static org.junit.jupiter.api.Assertions.assertTrue;
-import static org.junit.jupiter.api.Assertions.fail;
+import static org.junit.jupiter.api.Assertions.*;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
@@ -58,6 +49,7 @@ import org.apache.commons.compress.utils.SeekableInMemoryByteChannel;
 import org.apache.commons.lang3.SystemUtils;
 import org.junit.Assume;
 import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Assumptions;
 import org.junit.jupiter.api.Test;
 
@@ -568,7 +560,7 @@ public class ZipFileTest extends AbstractTestCase {
      * Test entries alignment.
      */
     @Test
-    public void testEntryAlignment() throws Exception {
+     void testEntryAlignment() throws Exception {
         try (SeekableInMemoryByteChannel zipContent = new SeekableInMemoryByteChannel()) {
             try (ZipArchiveOutputStream zipOutput = new ZipArchiveOutputStream(zipContent)) {
                 final ZipArchiveEntry inflatedEntry = new ZipArchiveEntry("inflated.txt");
@@ -599,59 +591,35 @@ public class ZipFileTest extends AbstractTestCase {
                 zipOutput.putArchiveEntry(storedEntry3);
                 zipOutput.write("Hello copy-alignment Stored\n".getBytes(UTF_8));
                 zipOutput.closeArchiveEntry();
-
             }
 
             try (ZipFile zf = new ZipFile(new SeekableInMemoryByteChannel(Arrays.copyOfRange(zipContent.array(), 0, (int) zipContent.size())))) {
-                final ZipArchiveEntry inflatedEntry = zf.getEntry("inflated.txt");
-                final ResourceAlignmentExtraField inflatedAlignmentEx = (ResourceAlignmentExtraField) inflatedEntry
-                        .getExtraField(ResourceAlignmentExtraField.ID);
-                assertNotEquals(-1L, inflatedEntry.getCompressedSize());
-                assertNotEquals(-1L, inflatedEntry.getSize());
-                assertEquals(0L, inflatedEntry.getDataOffset() % 1024);
-                assertNotNull(inflatedAlignmentEx);
-                assertEquals(1024, inflatedAlignmentEx.getAlignment());
-                assertFalse(inflatedAlignmentEx.allowMethodChange());
-                try (InputStream stream = zf.getInputStream(inflatedEntry)) {
-                    assertEquals("Hello Deflated\n", new String(IOUtils.toByteArray(stream), UTF_8));
-                }
-                final ZipArchiveEntry storedEntry = zf.getEntry("stored.txt");
-                final ResourceAlignmentExtraField storedAlignmentEx = (ResourceAlignmentExtraField) storedEntry.getExtraField(ResourceAlignmentExtraField.ID);
-                assertNotEquals(-1L, storedEntry.getCompressedSize());
-                assertNotEquals(-1L, storedEntry.getSize());
-                assertEquals(0L, storedEntry.getDataOffset() % 1024);
-                assertNotNull(storedAlignmentEx);
-                assertEquals(1024, storedAlignmentEx.getAlignment());
-                assertFalse(storedAlignmentEx.allowMethodChange());
-                try (InputStream stream = zf.getInputStream(storedEntry)) {
-                    assertEquals("Hello Stored\n", new String(IOUtils.toByteArray(stream), UTF_8));
-                }
-
-                final ZipArchiveEntry storedEntry2 = zf.getEntry("stored2.txt");
-                final ResourceAlignmentExtraField stored2AlignmentEx = (ResourceAlignmentExtraField) storedEntry2.getExtraField(ResourceAlignmentExtraField.ID);
-                assertNotEquals(-1L, storedEntry2.getCompressedSize());
-                assertNotEquals(-1L, storedEntry2.getSize());
-                assertEquals(0L, storedEntry2.getDataOffset() % 1024);
-                assertNotNull(stored2AlignmentEx);
-                assertEquals(1024, stored2AlignmentEx.getAlignment());
-                assertFalse(stored2AlignmentEx.allowMethodChange());
-                try (InputStream stream = zf.getInputStream(storedEntry2)) {
-                    assertEquals("Hello overload-alignment Stored\n", new String(IOUtils.toByteArray(stream), UTF_8));
-                }
-
-                final ZipArchiveEntry storedEntry3 = zf.getEntry("stored3.txt");
-                final ResourceAlignmentExtraField stored3AlignmentEx = (ResourceAlignmentExtraField) storedEntry3.getExtraField(ResourceAlignmentExtraField.ID);
-                assertNotEquals(-1L, storedEntry3.getCompressedSize());
-                assertNotEquals(-1L, storedEntry3.getSize());
-                assertEquals(0L, storedEntry3.getDataOffset() % 1024);
-                assertNotNull(stored3AlignmentEx);
-                assertEquals(1024, stored3AlignmentEx.getAlignment());
-                assertFalse(stored3AlignmentEx.allowMethodChange());
-                try (InputStream stream = zf.getInputStream(storedEntry3)) {
-                    assertEquals("Hello copy-alignment Stored\n", new String(IOUtils.toByteArray(stream), UTF_8));
-                }
+                assertAll("Entry Assertions",
+                        () -> assertEntryAlignment(zf, "inflated.txt", ZipEntry.DEFLATED, 1024, "Hello Deflated\n"),
+                        () -> assertEntryAlignment(zf, "stored.txt", ZipEntry.STORED, 1024, "Hello Stored\n"),
+                        () -> assertEntryAlignment(zf, "stored2.txt", ZipEntry.STORED, 1024, "Hello overload-alignment Stored\n"),
+                        () -> assertEntryAlignment(zf, "stored3.txt", ZipEntry.STORED, 1024, "Hello copy-alignment Stored\n")
+                );
             }
         }
+    }
+
+    private void assertEntryAlignment(ZipFile zf, String entryName, int expectedMethod, int expectedAlignment, String expectedContent) throws IOException {
+        final ZipArchiveEntry entry = zf.getEntry(entryName);
+        final ResourceAlignmentExtraField alignmentEx = (ResourceAlignmentExtraField) entry.getExtraField(ResourceAlignmentExtraField.ID);
+        assertAll(
+                () -> assertNotEquals(-1L, entry.getCompressedSize()),
+                () -> assertNotEquals(-1L, entry.getSize()),
+                () -> assertEquals(0L, entry.getDataOffset() % 1024),
+                () -> assertNotNull(alignmentEx),
+                () -> assertEquals(expectedAlignment, alignmentEx.getAlignment()),
+                () -> assertFalse(alignmentEx.allowMethodChange()),
+                () -> {
+                    try (InputStream stream = zf.getInputStream(entry)) {
+                        assertEquals(expectedContent, new String(IOUtils.toByteArray(stream), UTF_8));
+                    }
+                }
+        );
     }
 
     /**
