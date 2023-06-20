@@ -434,7 +434,7 @@ public class TarFile implements Closeable {
         if (currEntry == null) {
             // Bugzilla: 40334
             // Malformed tar file - long entry name not followed by entry
-            return null;
+            return new byte[0];
         }
         byte[] longNameData = longName.toByteArray();
         // remove trailing null terminator(s)
