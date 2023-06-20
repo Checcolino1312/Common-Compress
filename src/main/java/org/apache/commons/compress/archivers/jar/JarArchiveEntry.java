@@ -76,7 +76,7 @@ public class JarArchiveEntry extends ZipArchiveEntry {
             return cachedCertificates;
         }
 
-        return null;
+        return new Certificate[0];
     }
 
 
