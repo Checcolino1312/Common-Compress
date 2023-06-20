@@ -166,7 +166,7 @@ public abstract class ZipUtil {
         if (from != null) {
             return Arrays.copyOf(from, from.length);
         }
-        return null;
+        return new byte[0];
     }
 
 
