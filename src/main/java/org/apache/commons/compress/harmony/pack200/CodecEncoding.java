@@ -215,7 +215,7 @@ public class CodecEncoding {
             return getPopulationCodecSpecifier((PopulationCodec) codec, defaultForBand);
         }
 
-        return null;
+        return new int[0];
     }
 
     private static void initializeCanonicalCodecsToSpecifiersMap() {
@@ -314,11 +314,12 @@ public class CodecEncoding {
 
     public static int getSpecifierForDefaultCodec(final BHSDCodec defaultCodec) {
         int[] specifier = getSpecifier(defaultCodec, null);
-        if (specifier != null) {
+        if (specifier.length > 0) {
             return specifier[0];
         }
-        // Handle the case when specifier is null
+        // Handle the case when specifier is empty
         // Maybe throw an exception or return a default value
         return -1; // or any other appropriate default value
     }
+
 }
