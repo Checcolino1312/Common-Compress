@@ -304,6 +304,7 @@ public class BZip2CompressorOutputStream extends CompressorOutputStream
         int tmpWeight = weight[tmp];
         while (true) {
             int yy = i << 1;
+
             if (yy > nHeap) {
                 break;
             }
