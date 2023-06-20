@@ -315,13 +315,12 @@ public class CompressorStreamFactory implements CompressorStreamProvider {
      * @since 1.13
      */
     public static SortedMap<String, CompressorStreamProvider> findAvailableCompressorInputStreamProviders() {
-        return AccessController.doPrivileged((PrivilegedAction<SortedMap<String, CompressorStreamProvider>>) () -> {
-            final TreeMap<String, CompressorStreamProvider> map = new TreeMap<>();
-            putAll(SINGLETON.getInputStreamCompressorNames(), SINGLETON, map);
-            archiveStreamProviderIterable().forEach(provider -> putAll(provider.getInputStreamCompressorNames(), provider, map));
-            return map;
-        });
+        final TreeMap<String, CompressorStreamProvider> map = new TreeMap<>();
+        putAll(SINGLETON.getInputStreamCompressorNames(), SINGLETON, map);
+        archiveStreamProviderIterable().forEach(provider -> putAll(provider.getInputStreamCompressorNames(), provider, map));
+        return map;
     }
+
 
     /**
      * Constructs a new sorted map from output stream provider names to provider
