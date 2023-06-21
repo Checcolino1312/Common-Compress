@@ -107,7 +107,7 @@ public class OperandManager {
 
     public String getCurrentClass() {
         if (null == currentClass) {
-            throw new Error("Current class not set yet");
+            throw new AssertionError("Current class not set yet");
         }
         return currentClass;
     }
