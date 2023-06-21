@@ -152,19 +152,20 @@ public class BZip2CompressorInputStream extends CompressorInputStream
     /**
      * Called by createHuffmanDecodingTables() exclusively.
      */
-    private static void hbCreateDecodeTables(final int[] limit,
-                                             final int[] base, final int[] perm, final char[] length,
+    private static void hbCreateDecodeTables(final int[] limit, final int[] base, final int[] perm, final char[] length,
                                              final int minLen, final int maxLen, final int alphaSize)
-        throws IOException {
-        for (int i = minLen, pp = 0; i <= maxLen; i++) {
+            throws IOException {
+        int counter = 0;
+        for (int i = minLen; i <= maxLen; i++) {
             for (int j = 0; j < alphaSize; j++) {
                 if (length[j] == i) {
-                    perm[pp++] = j;
+                    perm[counter] = j;
+                    counter++;
                 }
             }
         }
 
-        for (int i = MAX_CODE_LEN; --i > 0;) {
+        for (int i = MAX_CODE_LEN - 1; i > 0; i--) {
             base[i] = 0;
             limit[i] = 0;
         }
@@ -175,12 +176,15 @@ public class BZip2CompressorInputStream extends CompressorInputStream
             base[l + 1]++;
         }
 
-        for (int i = 1, b = base[0]; i < MAX_CODE_LEN; i++) {
+        int b = base[0];
+        for (int i = 1; i < MAX_CODE_LEN; i++) {
             b += base[i];
             base[i] = b;
         }
 
-        for (int i = minLen, vec = 0, b = base[i]; i <= maxLen; i++) {
+        int vec = 0;
+        b = base[minLen];
+        for (int i = minLen; i <= maxLen; i++) {
             final int nb = base[i + 1];
             vec += nb - b;
             b = nb;
@@ -192,6 +196,8 @@ public class BZip2CompressorInputStream extends CompressorInputStream
             base[i] = ((limit[i - 1] + 1) << 1) - base[i];
         }
     }
+
+
     /**
      * Checks if the signature matches what is expected for a bzip2 file.
      *
