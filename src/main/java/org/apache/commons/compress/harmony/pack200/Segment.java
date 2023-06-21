@@ -708,6 +708,7 @@ public class Segment extends ClassVisitor {
     }
 
 
+
     @Override
     public void visitEnd() {
         classBands.endOfClass();
