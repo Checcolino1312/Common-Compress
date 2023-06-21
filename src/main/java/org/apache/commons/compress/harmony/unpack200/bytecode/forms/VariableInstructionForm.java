@@ -66,7 +66,7 @@ public abstract class VariableInstructionForm extends ByteCodeForm {
         final int byteCodeRewriteLength = rewrite.length;
 
         if (absPosition + 3 > byteCodeRewriteLength) {
-            throw new Error("Trying to rewrite " + this + " with an int at position " + absPosition
+            throw new AssertionError("Trying to rewrite " + this + " with an int at position " + absPosition
                 + " but this won't fit in the rewrite array");
         }
 
