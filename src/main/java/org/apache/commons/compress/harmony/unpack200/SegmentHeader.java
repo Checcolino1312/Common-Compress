@@ -284,7 +284,7 @@ public class SegmentHeader {
         cpIMethodCount = decodeScalar("cp_Imethod_count", in, Codec.UNSIGNED5);
     }
 
-    public void read(final InputStream in) throws IOException, Error, Pack200Exception {
+    public void read(final InputStream in) throws IOException, AssertionError, Pack200Exception {
 
         final int[] word = decodeScalar("archive_magic_word", in, Codec.BYTE1, magic.length);
         for (int m = 0; m < magic.length; m++) {
