@@ -308,6 +308,7 @@ public class ByteCode extends ClassFileEntry {
         }
     }
 
+
     /**
      * This is just like setOperandInt, but takes special care when the operand is less than 0 to make sure it's written
      * correctly.
