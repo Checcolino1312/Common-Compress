@@ -114,7 +114,7 @@ public class OperandManager {
 
     public String getNewClass() {
         if (null == newClass) {
-            throw new Error("New class not set yet");
+            throw new AssertionError("New class not set yet");
         }
         return newClass;
     }
