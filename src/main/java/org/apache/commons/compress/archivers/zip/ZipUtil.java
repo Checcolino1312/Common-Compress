@@ -285,13 +285,14 @@ public abstract class ZipUtil {
         if (l < Integer.MIN_VALUE) {
             throw new IllegalArgumentException("Negative longs < -2^31 not permitted: [" + l + "]");
         }
-        if (l < 0 && l >= Integer.MIN_VALUE) {
-            // If someone passes in a -2, they probably mean 4294967294
-            // (For example, Unix UID/GID's are 32 bit unsigned.)
+        if (l < 0) {
+            // If someone passes in a negative value, adjust it to a positive value
+            // (For example, Unix UID/GID's are 32-bit unsigned integers.)
             l = ZipUtil.adjustToLong((int) l);
         }
         return BigInteger.valueOf(l);
     }
+
 
     /**
      * Reverses a byte[] array.  Reverses in-place (thus provided array is
