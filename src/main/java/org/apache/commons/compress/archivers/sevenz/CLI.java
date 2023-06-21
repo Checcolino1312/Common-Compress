@@ -37,6 +37,7 @@ public class CLI {
                     if (!first) {
                         sb.append(", ");
                     }
+
                     first = false;
                     sb.append(m.getMethod());
                     if (m.getOptions() != null) {
