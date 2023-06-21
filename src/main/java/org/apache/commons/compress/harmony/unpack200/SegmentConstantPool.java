@@ -228,7 +228,6 @@ public class SegmentConstantPool {
         throw new AssertionError("Tried to get a value I don't know about: " + cp);
     }
 
-
     /**
      * A number of things make use of subsets of structures. In one particular example, _super bytecodes will use a
      * subset of method or field classes which have just those methods / fields defined in the superclass. Similarly,
