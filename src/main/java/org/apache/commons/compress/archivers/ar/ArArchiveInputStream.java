@@ -229,16 +229,25 @@ public class ArArchiveInputStream extends ArchiveInputStream {
         if (namebuffer == null) {
             throw new IOException("Cannot process GNU long filename as no // record was found");
         }
-        for (int i = offset; i < namebuffer.length; i++) {
+        int endIndex = -1; // Variable to store the desired value of i
+        int i = offset; // Initialize the loop counter outside the loop
+        while (i < namebuffer.length) {
             if (namebuffer[i] == '\012' || namebuffer[i] == 0) {
                 if (namebuffer[i - 1] == '/') {
                     i--; // drop trailing /
                 }
-                return ArchiveUtils.toAsciiString(namebuffer, offset, i - offset);
+                endIndex = i; // Assign the value to the separate variable
+                break; // Exit the loop after finding the desired value
             }
+            i++; // Increment the loop counter here
         }
-        throw new IOException("Failed to read entry: " + offset);
+        if (endIndex != -1) {
+            return ArchiveUtils.toAsciiString(namebuffer, offset, endIndex - offset);
+        } else {
+            throw new IOException("Failed to read entry: " + offset);
+        }
     }
+
 
     /**
      * Returns the next AR entry in this stream.
