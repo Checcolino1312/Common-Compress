@@ -295,11 +295,11 @@ public class ByteCode extends ClassFileEntry {
         final int byteCodeFormLength = getByteCodeForm().operandLength();
         if (firstOperandIndex < 1) {
             // No operand rewriting permitted for this bytecode
-            throw new Error("Trying to rewrite " + this + " that has no rewrite");
+            throw new AssertionError("Trying to rewrite " + this + " that has no rewrite");
         }
 
         if (byteCodeFormLength != operands.length) {
-            throw new Error("Trying to rewrite " + this + " with " + operands.length + " but bytecode has length "
+            throw new AssertionError("Trying to rewrite " + this + " with " + operands.length + " but bytecode has length "
                 + byteCodeForm.operandLength());
         }
 
