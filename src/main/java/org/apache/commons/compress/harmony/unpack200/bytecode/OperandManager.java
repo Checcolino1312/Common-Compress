@@ -121,7 +121,7 @@ public class OperandManager {
 
     public String getSuperClass() {
         if (null == superClass) {
-            throw new Error("SuperClass not set yet");
+            throw new AssertionError("SuperClass not set yet");
         }
         return superClass;
     }
