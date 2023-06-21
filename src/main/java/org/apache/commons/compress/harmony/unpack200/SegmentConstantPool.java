@@ -125,7 +125,7 @@ public class SegmentConstantPool {
             array = bands.getCpIMethodClass();
             break;
         default:
-            throw new Error("Don't know how to handle " + cp);
+            throw new AssertionError("Don't know how to handle " + cp);
         }
         realIndex = matchSpecificPoolEntryIndex(array, desiredClassName, index);
         return getConstantPoolEntry(cp, realIndex);
