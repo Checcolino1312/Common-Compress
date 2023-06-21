@@ -211,7 +211,6 @@ public class TarArchiveOutputStreamTest extends AbstractTestCase {
 
         // do I still have the correct modification date?
         // let a second elapse so we don't get the current time
-        Thread.sleep(1000);
         try (TarArchiveInputStream tarIn = new TarArchiveInputStream(new ByteArrayInputStream(archive2))) {
             final ArchiveEntry nextEntry = tarIn.getNextEntry();
             assertEquals(longFileName, nextEntry.getName());
