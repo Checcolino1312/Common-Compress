@@ -727,10 +727,9 @@ public class SevenZFile implements Closeable {
     }
 
     private void checkEntryIsInitialized(final Map<Integer, SevenZArchiveEntry> archiveEntries, final int index) {
-        if (archiveEntries.get(index) == null) {
-            archiveEntries.put(index, new SevenZArchiveEntry());
-        }
+        archiveEntries.computeIfAbsent(index, i -> new SevenZArchiveEntry());
     }
+
 
     /**
      * Closes the archive.
