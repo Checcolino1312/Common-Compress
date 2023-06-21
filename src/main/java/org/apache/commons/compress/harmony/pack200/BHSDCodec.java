@@ -170,6 +170,12 @@ public final class BHSDCodec extends Codec {
         Arrays.setAll(powers, c -> (long) Math.pow(h, c));
     }
 
+    public class UnknownSValueException extends RuntimeException {
+        public UnknownSValueException(String message) {
+            super(message);
+        }
+    }
+
     private long calculateLargest() {
         long result;
         // TODO This can probably be optimized into a better mathematical
@@ -189,7 +195,7 @@ public final class BHSDCodec extends Codec {
             result = (3L * cardinality()) / 4 - 1;
             break;
         default:
-            throw new Error("Unknown s value");
+            throw new UnknownSValueException("Unknown s value: " + s);
         }
         return Math.min((s == 0 ? ((long) Integer.MAX_VALUE) << 1 : Integer.MAX_VALUE) - 1, result);
     }
