@@ -91,7 +91,7 @@ public class IcTuple {
     private boolean computeOuterIsAnonymous() {
         final String[] result = innerBreakAtDollar(cachedOuterClassString);
         if (result.length == 0) {
-            throw new Error("Should have an outer before checking if it's anonymous");
+            throw new AssertionError("Should have an outer before checking if it's anonymous");
         }
 
         for (final String element : result) {
