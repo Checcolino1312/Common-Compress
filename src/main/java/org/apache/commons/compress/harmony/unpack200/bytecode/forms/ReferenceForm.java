@@ -53,7 +53,7 @@ public abstract class ReferenceForm extends ByteCodeForm {
         try {
             setNestedEntries(byteCode, operandManager, offset);
         } catch (final Pack200Exception ex) {
-            throw new Error("Got a pack200 exception. What to do?");
+            throw new AssertionError("Got a pack200 exception. What to do?");
         }
     }
 
