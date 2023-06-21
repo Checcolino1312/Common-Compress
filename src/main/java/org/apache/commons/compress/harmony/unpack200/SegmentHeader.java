@@ -289,7 +289,7 @@ public class SegmentHeader {
         final int[] word = decodeScalar("archive_magic_word", in, Codec.BYTE1, magic.length);
         for (int m = 0; m < magic.length; m++) {
             if (word[m] != magic[m]) {
-                throw new Error("Bad header");
+                throw new AssertionError("Bad header");
             }
         }
         setArchiveMinorVersion(decodeScalar("archive_minver", in, Codec.UNSIGNED5));
