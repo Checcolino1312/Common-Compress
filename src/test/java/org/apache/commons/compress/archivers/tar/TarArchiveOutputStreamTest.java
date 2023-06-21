@@ -200,7 +200,7 @@ public class TarArchiveOutputStreamTest extends AbstractTestCase {
         final byte[] digest1 = MessageDigest.getInstance("MD5").digest(archive1);
 
         // let a second elapse otherwise the modification dates will be equal
-        Thread.sleep(1000L);
+
 
         // now recreate exactly the same tar file
         final byte[] archive2 = createTarArchiveContainingOneDirectory(longFileName, modificationDate);
