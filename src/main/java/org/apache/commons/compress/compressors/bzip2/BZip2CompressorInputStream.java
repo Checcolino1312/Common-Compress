@@ -165,6 +165,7 @@ public class BZip2CompressorInputStream extends CompressorInputStream
             }
         }
 
+
         for (int i = MAX_CODE_LEN - 1; i > 0; i--) {
             base[i] = 0;
             limit[i] = 0;
