@@ -68,7 +68,7 @@ public class SegmentConstantPool {
             }
             return (INITSTRING.equals(compareString.substring(0, INITSTRING.length())));
         }
-        throw new Error("regex trying to match a pattern I don't know: " + regexString);
+        throw new AssertionError("regex trying to match a pattern I don't know: " + regexString);
     }
     private final CpBands bands;
     private final SegmentConstantPoolArrayCache arrayCache = new SegmentConstantPoolArrayCache();
@@ -95,7 +95,7 @@ public class SegmentConstantPool {
         try {
             return getConstantPoolEntry(CP_CLASS, index);
         } catch (final Pack200Exception ex) {
-            throw new Error("Error getting class pool entry");
+            throw new AssertionError("Error getting class pool entry");
         }
     }
 
@@ -155,10 +155,10 @@ public class SegmentConstantPool {
         case CP_CLASS:
             return bands.cpClassValue(index);
         case SIGNATURE:
-            throw new Error("I don't know what to do with signatures yet");
+            throw new AssertionError("I don't know what to do with signatures yet");
             // return null /* new CPSignature(bands.getCpSignature()[index]) */;
         case CP_DESCR:
-            throw new Error("I don't know what to do with descriptors yet");
+            throw new AssertionError("I don't know what to do with descriptors yet");
             // return null /* new CPDescriptor(bands.getCpDescriptor()[index])
             // */;
         case CP_FIELD:
@@ -171,7 +171,7 @@ public class SegmentConstantPool {
             break;
         }
         // etc
-        throw new Error("Get value incomplete");
+        throw new AssertionError("Get value incomplete");
     }
 
     /**
@@ -225,7 +225,7 @@ public class SegmentConstantPool {
         default:
             break;
         }
-        throw new Error("Tried to get a value I don't know about: " + cp);
+        throw new AssertionError("Tried to get a value I don't know about: " + cp);
     }
 
     /**
