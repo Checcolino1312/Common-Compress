@@ -76,7 +76,7 @@ public class RuntimeVisibleorInvisibleAnnotationsAttribute extends AnnotationsAt
             annotations[i].writeBody(dos);
         }
         if (dos.size() - size != getLength()) {
-            throw new Error();
+            throw new AssertionError();
         }
     }
 }
