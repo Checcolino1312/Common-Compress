@@ -158,7 +158,7 @@ public class ClassConstantPool {
                 } else if (entry instanceof CPClass) {
                     cpClassesNotInCpAll.add(entry);
                 } else {
-                    throw new Error("error");
+                    throw new AssertionError("error");
                 }
             } else {
                 inCpAll.add(entry);
