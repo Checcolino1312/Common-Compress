@@ -625,6 +625,8 @@ class BlockSort {
         stack_hh[0] = hiSt;
         stack_dd[0] = dSt;
 
+
+
         int sp;
         for (sp = 1; sp >= 0; sp--) {
             final int lo = stack_ll[sp];
