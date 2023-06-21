@@ -277,7 +277,7 @@ public class ByteCode extends ClassFileEntry {
         }
 
         if (firstOperandIndex + position > byteCodeFormLength) {
-            throw new Error("Trying to rewrite " + this + " with an byte at position " + position
+            throw new AssertionError("Trying to rewrite " + this + " with an byte at position " + position
                 + " but this won't fit in the rewrite array");
         }
 
