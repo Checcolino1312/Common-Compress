@@ -186,7 +186,7 @@ public abstract class AnnotationsAttribute extends Attribute {
                     nestedValue.writeBody(dos);
                 }
             } else {
-                throw new Error("");
+                throw new AssertionError("");
             }
         }
     }
