@@ -52,9 +52,9 @@ public class Messages {
         // Attempt to load the messages.
         try {
             bundle = setLocale(Locale.getDefault(),
-                "org.apache.commons.compress.harmony.archive.internal.nls.messages"); //$NON-NLS-1$
-        } catch (final Throwable e) {
-
+                    "org.apache.commons.compress.harmony.archive.internal.nls.messages"); //$NON-NLS-1$
+        } catch (Exception e) {
+            // Handle the exception or take necessary actions
         }
     }
 
