@@ -172,10 +172,11 @@ public class SevenZFile implements Closeable {
 
     private static int assertFitsIntoNonNegativeInt(final String what, final long value) throws IOException {
         if (value > Integer.MAX_VALUE || value < 0) {
-            throw new IOException(String.format("Cannot handle % %,d", what, value));
+            throw new IOException(String.format("Cannot handle %s,d",what));
         }
         return (int) value;
     }
+
 
     private static ByteBuffer checkEndOfFile(final ByteBuffer buf, final int expectRemaining) throws EOFException {
         final int remaining = buf.remaining();
