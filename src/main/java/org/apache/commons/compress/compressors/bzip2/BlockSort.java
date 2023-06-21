@@ -617,9 +617,7 @@ class BlockSort {
     private void mainQSort3(final BZip2CompressorOutputStream.Data dataShadow,
                             final int loSt, final int hiSt, final int dSt,
                             final int last) {
-        final int[] stack_ll = this.stack_ll;
-        final int[] stack_hh = this.stack_hh;
-        final int[] stack_dd = this.stack_dd;
+
         final int[] fmap = dataShadow.fmap;
         final byte[] block = dataShadow.block;
 
@@ -627,7 +625,8 @@ class BlockSort {
         stack_hh[0] = hiSt;
         stack_dd[0] = dSt;
 
-        for (int sp = 1; --sp >= 0;) {
+        int sp;
+        for (sp = 1; sp >= 0; sp--) {
             final int lo = stack_ll[sp];
             final int hi = stack_hh[sp];
             final int d = stack_dd[sp];
@@ -639,8 +638,8 @@ class BlockSort {
             } else {
                 final int d1 = d + 1;
                 final int med = med3(block[fmap[lo] + d1] & 0xff,
-                                     block[fmap[hi] + d1] & 0xff,
-                                     block[fmap[(lo + hi) >>> 1] + d1] & 0xff);
+                        block[fmap[hi] + d1] & 0xff,
+                        block[fmap[(lo + hi) >>> 1] + d1] & 0xff);
 
                 int unLo = lo;
                 int unHi = hi;
@@ -650,7 +649,7 @@ class BlockSort {
                 while (true) {
                     while (unLo <= unHi) {
                         final int n = (block[fmap[unLo] + d1] & 0xff)
-                            - med;
+                                - med;
                         if (n == 0) {
                             final int temp = fmap[unLo];
                             fmap[unLo++] = fmap[ltLo];
@@ -664,7 +663,7 @@ class BlockSort {
 
                     while (unLo <= unHi) {
                         final int n = (block[fmap[unHi] + d1] & 0xff)
-                            - med;
+                                - med;
                         if (n == 0) {
                             final int temp = fmap[unHi];
                             fmap[unHi--] = fmap[gtHi];
@@ -715,6 +714,7 @@ class BlockSort {
             }
         }
     }
+
     /**
      * This is the most hammered method of this class.
      *
