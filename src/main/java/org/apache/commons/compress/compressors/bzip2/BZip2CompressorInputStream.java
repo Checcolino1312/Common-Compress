@@ -487,10 +487,11 @@ public class BZip2CompressorInputStream extends CompressorInputStream
                  * small ranges to copy.
                  */
                 if (nextSym <= 16) {
-                    for (int j = nextSym - 1; j > 0;) {
-                        yy[j] = yy[--j];
+                    for (int j = nextSym - 1; j > 0; j--) {
+                        yy[j] = yy[j - 1];
                     }
-                } else {
+                }
+                else {
                     System.arraycopy(yy, 0, yy, 1, nextSym - 1);
                 }
 
