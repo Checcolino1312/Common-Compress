@@ -279,7 +279,7 @@ public abstract class Pack200 {
                 // TODO Not sure if this will cause problems loading the class
                 return Pack200.class.getClassLoader().loadClass(className).newInstance();
             } catch (final Exception e) {
-                throw new Error(Messages.getString("archive.3E", className), e); //$NON-NLS-1$
+                throw new AssertionError(Messages.getString("archive.3E", className), e); //$NON-NLS-1$
             }
         });
     }
