@@ -186,7 +186,7 @@ public class ByteCode extends ClassFileEntry {
                     break;
 
                 default:
-                    throw new Error("Unhandled resolve " + this);
+                    throw new AssertionError("Unhandled resolve " + this);
                 }
             }
         }
