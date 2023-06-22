@@ -143,13 +143,12 @@ public class CpBands extends BandSet {
 
     public CPFloat cpFloatValue(final int index) {
         final Float f = Float.valueOf(cpFloat[index]);
-        CPFloat cpFloat = floatsToCPFloats.get(f);
-        if (cpFloat == null) {
-            cpFloat = new CPFloat(f, index + floatOffset);
-            floatsToCPFloats.put(f, cpFloat);
-        }
-        return cpFloat;
+        return floatsToCPFloats.computeIfAbsent(f, k -> {
+            CPFloat newCPFloat = new CPFloat(k, index + floatOffset);
+            return newCPFloat;
+        });
     }
+
 
     public CPInterfaceMethodRef cpIMethodValue(final int index) {
         return new CPInterfaceMethodRef(cpClassValue(cpIMethodClassInts[index]),
