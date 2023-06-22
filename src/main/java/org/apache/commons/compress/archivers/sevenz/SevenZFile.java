@@ -1396,8 +1396,6 @@ public class SevenZFile implements Closeable {
                     archive.packCrcs[i] = 0xffffFFFFL & getInt(header);
                 }
             }
-
-            nid = getUnsignedByte(header);
         }
     }
 
