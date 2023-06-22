@@ -70,6 +70,7 @@ public class Segment extends ClassVisitor {
             throw new UnsupportedOperationException("Not yet supported");
         }
 
+
         @Override
         public AnnotationVisitor visitArray(String name) {
             tags.add("[");
