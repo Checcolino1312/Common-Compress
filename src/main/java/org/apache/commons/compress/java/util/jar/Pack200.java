@@ -21,8 +21,6 @@ import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
-import java.security.AccessController;
-import java.security.PrivilegedAction;
 import java.util.SortedMap;
 import java.util.jar.JarFile;
 import java.util.jar.JarInputStream;
@@ -273,16 +271,14 @@ public abstract class Pack200 {
     private static final String SYSTEM_PROPERTY_UNPACKER = "java.util.jar.Pack200.Unpacker"; //$NON-NLS-1$
 
     static Object newInstance(final String systemProperty, final String defaultClassName) {
-        return AccessController.doPrivileged((PrivilegedAction<Object>) () -> {
-            final String className = System.getProperty(systemProperty, defaultClassName);
-            try {
-                // TODO Not sure if this will cause problems loading the class
-                return Pack200.class.getClassLoader().loadClass(className).newInstance();
-            } catch (final Exception e) {
-                throw new AssertionError(Messages.getString("archive.3E", className), e); //$NON-NLS-1$
-            }
-        });
+        final String className = System.getProperty(systemProperty, defaultClassName);
+        try {
+            return Class.forName(className).getDeclaredConstructor().newInstance();
+        } catch (final Exception e) {
+            throw new AssertionError(Messages.getString("archive.3E", className), e); //$NON-NLS-1$
+        }
     }
+
 
     /**
      * Returns a new instance of a packer engine.
