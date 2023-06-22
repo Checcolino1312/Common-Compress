@@ -1325,7 +1325,6 @@ public class SevenZFile implements Closeable {
 
         if (nid == NID.kFilesInfo) {
             readFilesInfo(header, archive);
-            nid = getUnsignedByte(header);
         }
     }
 
