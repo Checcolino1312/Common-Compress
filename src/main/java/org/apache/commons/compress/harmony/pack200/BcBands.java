@@ -277,7 +277,6 @@ public class BcBands extends BandSet {
             }
             bcFieldRef.add(cpField);
         }
-        aload_0 = false;
         bcCodes.add(opcode);
     }
 
