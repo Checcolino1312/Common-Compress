@@ -280,21 +280,13 @@ public class CpBands extends BandSet {
 
     public CPNameAndType getCPNameAndType(final String name, final String signature) {
         final String descr = name + ":" + signature;
-        CPNameAndType nameAndType = stringsToCpNameAndType.get(descr);
-        if (nameAndType == null) {
-            nameAndType = new CPNameAndType(getCPUtf8(name), getCPSignature(signature));
-            stringsToCpNameAndType.put(descr, nameAndType);
-            cp_Descr.add(nameAndType);
-
-            // Creare una copia per evitare ConcurrentModificationException
-            List<CPNameAndType> cpDescrCopy = new ArrayList<>(cp_Descr);
-
-            // Aggiornare la lista originale con la copia modificata
-            cp_Descr.clear();
-            cp_Descr.addAll(cpDescrCopy);
-        }
-        return nameAndType;
+        return stringsToCpNameAndType.computeIfAbsent(descr, k -> {
+            CPNameAndType newCpNameAndType = new CPNameAndType(getCPUtf8(name), getCPSignature(signature));
+            cp_Descr.add(newCpNameAndType);
+            return newCpNameAndType;
+        });
     }
+
 
 
     public CPSignature getCPSignature(final String signature) {
