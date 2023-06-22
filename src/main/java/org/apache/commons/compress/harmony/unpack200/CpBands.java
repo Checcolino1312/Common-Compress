@@ -180,18 +180,17 @@ public class CpBands extends BandSet {
 
     public CPNameAndType cpNameAndTypeValue(final int index) {
         final String descriptor = cpDescriptor[index];
-        CPNameAndType cpNameAndType = descriptorsToCPNameAndTypes.get(descriptor);
-        if (cpNameAndType == null) {
+        return descriptorsToCPNameAndTypes.computeIfAbsent(descriptor, k -> {
             final int nameIndex = cpDescriptorNameInts[index];
             final int descriptorIndex = cpDescriptorTypeInts[index];
 
             final CPUTF8 name = cpUTF8Value(nameIndex);
             final CPUTF8 descriptorU = cpSignatureValue(descriptorIndex);
-            cpNameAndType = new CPNameAndType(name, descriptorU, index + descrOffset);
-            descriptorsToCPNameAndTypes.put(descriptor, cpNameAndType);
-        }
-        return cpNameAndType;
+            CPNameAndType newCPNameAndType = new CPNameAndType(name, descriptorU, index + descrOffset);
+            return newCPNameAndType;
+        });
     }
+
 
     public CPNameAndType cpNameAndTypeValue(final String descriptor) {
         CPNameAndType cpNameAndType = descriptorsToCPNameAndTypes.get(descriptor);
