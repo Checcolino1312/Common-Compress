@@ -23,8 +23,6 @@
 
 package org.apache.commons.compress.harmony.archive.internal.nls;
 
-import java.security.AccessController;
-import java.security.PrivilegedAction;
 import java.util.Arrays;
 import java.util.Locale;
 import java.util.MissingResourceException;
@@ -204,10 +202,8 @@ public class Messages {
      */
     static public ResourceBundle setLocale(final Locale locale, final String resource) {
         try {
-            // VM.bootCallerClassLoader() returns null
-            final ClassLoader loader = null;// VM.bootCallerClassLoader();
-            return (ResourceBundle) AccessController.doPrivileged((PrivilegedAction<Object>) () -> ResourceBundle
-                .getBundle(resource, locale, loader != null ? loader : ClassLoader.getSystemClassLoader()));
+            final ClassLoader loader = ClassLoader.getSystemClassLoader();
+            return ResourceBundle.getBundle(resource, locale, loader);
         } catch (final MissingResourceException e) {
             // ignore
         }
