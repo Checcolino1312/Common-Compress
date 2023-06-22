@@ -226,13 +226,9 @@ public class CpBands extends BandSet {
         final String string = cpString[index];
         final int utf8Index = cpStringInts[index];
         final int globalIndex = stringOffset + index;
-        CPString cpString = stringsToCPStrings.get(string);
-        if (cpString == null) {
-            cpString = new CPString(cpUTF8Value(utf8Index), globalIndex);
-            stringsToCPStrings.put(string, cpString);
-        }
-        return cpString;
+        return stringsToCPStrings.computeIfAbsent(string, k -> new CPString(cpUTF8Value(utf8Index), globalIndex));
     }
+
 
     public CPUTF8 cpUTF8Value(final int index) {
         final String string = cpUTF8[index];
