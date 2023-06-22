@@ -268,6 +268,7 @@ public class CpBands extends BandSet {
         return cputf8;
     }
 
+
     public SegmentConstantPool getConstantPool() {
         return pool;
     }
