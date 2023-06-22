@@ -62,9 +62,6 @@ public class Segment extends ClassVisitor {
         public void visit(String name, final Object value) {
             final Integer numCases = caseArrayN.remove(indexInCaseArrayN);
             caseArrayN.add(indexInCaseArrayN, Integer.valueOf(numCases.intValue() + 1));
-            if (name == null) {
-                name = "";
-            }
             addValueAndTag(value, tags, values);
         }
 
