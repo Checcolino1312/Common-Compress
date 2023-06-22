@@ -166,13 +166,12 @@ public class CpBands extends BandSet {
 
     public CPLong cpLongValue(final int index) {
         final Long l = Long.valueOf(cpLong[index]);
-        CPLong cpLong = longsToCPLongs.get(l);
-        if (cpLong == null) {
-            cpLong = new CPLong(l, index + longOffset);
-            longsToCPLongs.put(l, cpLong);
-        }
-        return cpLong;
+        return longsToCPLongs.computeIfAbsent(l, k -> {
+            CPLong newCPLong = new CPLong(k, index + longOffset);
+            return newCPLong;
+        });
     }
+
 
     public CPMethodRef cpMethodValue(final int index) {
         return new CPMethodRef(cpClassValue(cpMethodClassInts[index]),
