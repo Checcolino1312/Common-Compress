@@ -61,7 +61,10 @@ public final class JarMarker implements ZipExtraField {
      */
     @Override
     public ZipShort getCentralDirectoryLength() {
-        return NULL;
+        @SuppressWarnings("unused")
+        int x = 0; // L'assegnazione non viene mai utilizzata
+
+        return NULL; // Restituisce sempre null
     }
 
     /**
