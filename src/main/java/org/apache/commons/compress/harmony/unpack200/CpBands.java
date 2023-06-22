@@ -107,13 +107,12 @@ public class CpBands extends BandSet {
         final String string = cpClass[index];
         final int utf8Index = cpClassInts[index];
         final int globalIndex = classOffset + index;
-        CPClass cpString = stringsToCPClass.get(string);
-        if (cpString == null) {
-            cpString = new CPClass(cpUTF8Value(utf8Index), globalIndex);
-            stringsToCPClass.put(string, cpString);
-        }
-        return cpString;
+        return stringsToCPClass.computeIfAbsent(string, k -> {
+            CPClass newCPClass = new CPClass(cpUTF8Value(utf8Index), globalIndex);
+            return newCPClass;
+        });
     }
+
 
     public CPClass cpClassValue(final String string) {
         CPClass cpString = stringsToCPClass.get(string);
@@ -140,7 +139,7 @@ public class CpBands extends BandSet {
 
     public CPFieldRef cpFieldValue(final int index) {
         return new CPFieldRef(cpClassValue(cpFieldClassInts[index]), cpNameAndTypeValue(cpFieldDescriptorInts[index]),
-            index + fieldOffset);
+                index + fieldOffset);
     }
 
     public CPFloat cpFloatValue(final int index) {
@@ -155,7 +154,7 @@ public class CpBands extends BandSet {
 
     public CPInterfaceMethodRef cpIMethodValue(final int index) {
         return new CPInterfaceMethodRef(cpClassValue(cpIMethodClassInts[index]),
-            cpNameAndTypeValue(cpIMethodDescriptorInts[index]), index + imethodOffset);
+                cpNameAndTypeValue(cpIMethodDescriptorInts[index]), index + imethodOffset);
     }
 
     public CPInteger cpIntegerValue(final int index) {
@@ -180,7 +179,7 @@ public class CpBands extends BandSet {
 
     public CPMethodRef cpMethodValue(final int index) {
         return new CPMethodRef(cpClassValue(cpMethodClassInts[index]),
-            cpNameAndTypeValue(cpMethodDescriptorInts[index]), index + methodOffset);
+                cpNameAndTypeValue(cpMethodDescriptorInts[index]), index + methodOffset);
     }
 
     public CPNameAndType cpNameAndTypeValue(final int index) {
