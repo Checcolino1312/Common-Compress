@@ -60,7 +60,7 @@ public class NewClassRefForm extends ClassRefForm {
                 // to adjust for 1-based global pool
                 setNestedEntries(byteCode, operandManager, offset);
             } catch (final Pack200Exception ex) {
-                throw new Error("Got a pack200 exception. What to do?");
+                throw new AssertionError("Got a pack200 exception. What to do?");
             }
         }
         operandManager.setNewClass(((CPClass) byteCode.getNestedClassFileEntries()[0]).getName());

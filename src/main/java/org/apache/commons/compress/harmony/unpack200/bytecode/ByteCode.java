@@ -186,7 +186,7 @@ public class ByteCode extends ClassFileEntry {
                     break;
 
                 default:
-                    throw new Error("Unhandled resolve " + this);
+                    throw new AssertionError("Unhandled resolve " + this);
                 }
             }
         }
@@ -248,11 +248,11 @@ public class ByteCode extends ClassFileEntry {
         final int byteCodeFormLength = getByteCodeForm().getRewrite().length;
         if (firstOperandIndex < 1) {
             // No operand rewriting permitted for this bytecode
-            throw new Error("Trying to rewrite " + this + " that has no rewrite");
+            throw new AssertionError("Trying to rewrite " + this + " that has no rewrite");
         }
 
         if (firstOperandIndex + position + 1 > byteCodeFormLength) {
-            throw new Error("Trying to rewrite " + this + " with an int at position " + position
+            throw new AssertionError("Trying to rewrite " + this + " with an int at position " + position
                 + " but this won't fit in the rewrite array");
         }
 
@@ -273,11 +273,11 @@ public class ByteCode extends ClassFileEntry {
         final int byteCodeFormLength = getByteCodeForm().operandLength();
         if (firstOperandIndex < 1) {
             // No operand rewriting permitted for this bytecode
-            throw new Error("Trying to rewrite " + this + " that has no rewrite");
+            throw new AssertionError("Trying to rewrite " + this + " that has no rewrite");
         }
 
         if (firstOperandIndex + position > byteCodeFormLength) {
-            throw new Error("Trying to rewrite " + this + " with an byte at position " + position
+            throw new AssertionError("Trying to rewrite " + this + " with an byte at position " + position
                 + " but this won't fit in the rewrite array");
         }
 

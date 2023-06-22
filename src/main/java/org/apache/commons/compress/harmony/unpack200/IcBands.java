@@ -205,7 +205,7 @@ public class IcBands extends BandSet {
             //
             final Object result = thisClassToTuple.put(tuple.thisClassString(), tuple);
             if (result != null) {
-                throw new Error("Collision detected in <thisClassString, IcTuple> mapping. "
+                throw new AssertionError("Collision detected in <thisClassString, IcTuple> mapping. "
                     + "There are at least two inner clases with the same name.");
             }
 

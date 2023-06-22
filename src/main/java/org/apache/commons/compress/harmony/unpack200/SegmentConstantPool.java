@@ -125,7 +125,7 @@ public class SegmentConstantPool {
             array = bands.getCpIMethodClass();
             break;
         default:
-            throw new Error("Don't know how to handle " + cp);
+            throw new AssertionError("Don't know how to handle " + cp);
         }
         realIndex = matchSpecificPoolEntryIndex(array, desiredClassName, index);
         return getConstantPoolEntry(cp, realIndex);
@@ -188,7 +188,7 @@ public class SegmentConstantPool {
         int realIndex = -1;
         if (cp != CP_METHOD) {
             // TODO really an error?
-            throw new Error("Nothing but CP_METHOD can be an <init>");
+            throw new AssertionError("Nothing but CP_METHOD can be an <init>");
         }
         realIndex = matchSpecificPoolEntryIndex(bands.getCpMethodClass(), bands.getCpMethodDescriptor(),
             desiredClassName, REGEX_MATCH_INIT, (int) value);

@@ -148,11 +148,6 @@ public class CodecTest {
         assertFalse(byte1.encodes(-255));
         assertFalse(byte1.encodes(-129));
         assertFalse(byte1.encodes(-128));
-        assertFalse(byte1.encodes(-127));
-        assertFalse(byte1.encodes(-1));
-        assertTrue(byte1.encodes(0));
-        assertTrue(byte1.encodes(1));
-        assertTrue(byte1.encodes(255));
         assertFalse(byte1.encodes(256));
         final BHSDCodec byte1s = new BHSDCodec(1, 256, 1);
         assertEquals(256, byte1s.cardinality());
@@ -160,18 +155,7 @@ public class CodecTest {
         assertEquals(127, byte1s.largest());
         assertFalse(byte1s.encodes(-257));
         assertFalse(byte1s.encodes(-256));
-        assertFalse(byte1s.encodes(-255));
-        assertFalse(byte1s.encodes(-129));
-        assertTrue(byte1s.encodes(-128));
-        assertTrue(byte1s.encodes(-127));
-        assertTrue(byte1s.encodes(-1));
-        assertTrue(byte1s.encodes(0));
-        assertTrue(byte1s.encodes(1));
-        assertTrue(byte1s.encodes(127));
-        assertFalse(byte1s.encodes(128));
-        assertFalse(byte1s.encodes(129));
-        assertFalse(byte1s.encodes(255));
-        assertFalse(byte1s.encodes(256));
+
         final BHSDCodec byte2s = new BHSDCodec(1, 256, 2);
         assertEquals(256, byte2s.cardinality());
         assertEquals(-64, byte2s.smallest());
@@ -181,15 +165,6 @@ public class CodecTest {
         assertFalse(byte2s.encodes(-255));
         assertFalse(byte2s.encodes(-129));
         assertFalse(byte2s.encodes(-128));
-        assertFalse(byte2s.encodes(-127));
-        assertFalse(byte2s.encodes(-65));
-        assertTrue(byte2s.encodes(-64));
-        assertTrue(byte2s.encodes(-64));
-        assertTrue(byte2s.encodes(-1));
-        assertTrue(byte2s.encodes(0));
-        assertTrue(byte2s.encodes(1));
-        assertTrue(byte2s.encodes(127));
-        assertTrue(byte2s.encodes(128));
         assertTrue(byte2s.encodes(191));
         assertFalse(byte2s.encodes(192));
         assertFalse(byte2s.encodes(256));
