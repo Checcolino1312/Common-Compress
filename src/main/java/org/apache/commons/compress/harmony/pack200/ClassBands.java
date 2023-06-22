@@ -603,7 +603,7 @@ public class ClassBands extends BandSet {
 	}
 
 	public void currentClassReferencesInnerClass(final CPClass inner) {
-		if (!(index >= class_this.length)) {
+		if (index < class_this.length) {
 			final CPClass currentClass = class_this[index];
 			if (currentClass != null && !currentClass.equals(inner)
 					&& !isInnerClassOf(currentClass.toString(), inner)) {
