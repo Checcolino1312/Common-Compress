@@ -234,15 +234,15 @@ public class CpBands extends BandSet {
 
     public CPMethodOrField getCPField(final CPClass cpClass, final String name, final String desc) {
         final String key = cpClass.toString() + ":" + name + ":" + desc;
-        CPMethodOrField cpF = stringsToCpField.get(key);
-        if (cpF == null) {
+        return stringsToCpField.computeIfAbsent(key, k -> {
             final CPNameAndType nAndT = getCPNameAndType(name, desc);
-            cpF = new CPMethodOrField(cpClass, nAndT);
-            cp_Field.add(cpF);
-            stringsToCpField.put(key, cpF);
-        }
-        return cpF;
+            CPMethodOrField newCpF = new CPMethodOrField(cpClass, nAndT);
+            cp_Field.add(newCpF);
+            return newCpF;
+        });
     }
+
+
 
     public CPMethodOrField getCPField(final String owner, final String name, final String desc) {
         return getCPField(getCPClass(owner), name, desc);
