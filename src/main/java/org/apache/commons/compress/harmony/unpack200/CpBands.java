@@ -157,13 +157,12 @@ public class CpBands extends BandSet {
 
     public CPInteger cpIntegerValue(final int index) {
         final Integer i = Integer.valueOf(cpInt[index]);
-        CPInteger cpInteger = integersToCPIntegers.get(i);
-        if (cpInteger == null) {
-            cpInteger = new CPInteger(i, index + intOffset);
-            integersToCPIntegers.put(i, cpInteger);
-        }
-        return cpInteger;
+        return integersToCPIntegers.computeIfAbsent(i, k -> {
+            CPInteger newCPInteger = new CPInteger(k, index + intOffset);
+            return newCPInteger;
+        });
     }
+
 
     public CPLong cpLongValue(final int index) {
         final Long l = Long.valueOf(cpLong[index]);
