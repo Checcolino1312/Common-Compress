@@ -113,11 +113,6 @@ public abstract class AbstractTestCase {
             if (ON_WINDOWS) {
                 System.gc();
             }
-            try {
-                Thread.sleep(10);
-            } catch (final InterruptedException ex) {
-                // Ignore Exception
-            }
             return f.delete();
         }
         return true;
