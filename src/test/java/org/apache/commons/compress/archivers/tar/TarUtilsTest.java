@@ -39,6 +39,8 @@ import org.apache.commons.compress.archivers.zip.ZipEncodingHelper;
 import org.apache.commons.compress.utils.ByteUtils;
 import org.apache.commons.compress.utils.CharsetNames;
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.params.ParameterizedTest;
+import org.junit.jupiter.params.provider.CsvSource;
 
 public class TarUtilsTest extends AbstractTestCase {
 
@@ -141,16 +143,18 @@ public class TarUtilsTest extends AbstractTestCase {
         }
     }
 
-    @Test
-    public void parsePAX1XSparseHeadersRejectsNegativeNumberOfEntries() throws Exception {
-        final byte[] header = ("111111111111111111111111111111111111111111111111111111111111111\n"
-                + "0\n"
-                + "20\n")
-            .getBytes();
+    @ParameterizedTest
+    @CsvSource({
+            "111111111111111111111111111111111111111111111111111111111111111, 0, 20",
+            // Aggiungi altri valori di input separati da virgola
+    })
+    public void parsePAX1XSparseHeadersRejectsNegativeNumberOfEntries(
+            String headerText, int startPosition, int expectedLength) throws Exception {
+        final byte[] header = headerText.getBytes();
         final byte[] block = new byte[512];
-        System.arraycopy(header, 0, block, 0, header.length);
+        System.arraycopy(header, 0, block, startPosition, header.length);
         try (ByteArrayInputStream in = new ByteArrayInputStream(block)) {
-            assertThrows(IOException.class, () -> TarUtils.parsePAX1XSparseHeaders(in, 512));
+            assertThrows(IOException.class, () -> TarUtils.parsePAX1XSparseHeaders(in, expectedLength));
         }
     }
 
