@@ -193,8 +193,7 @@ public class CpBands extends BandSet {
 
 
     public CPNameAndType cpNameAndTypeValue(final String descriptor) {
-        CPNameAndType cpNameAndType = descriptorsToCPNameAndTypes.get(descriptor);
-        if (cpNameAndType == null) {
+        return descriptorsToCPNameAndTypes.computeIfAbsent(descriptor, k -> {
             final Integer index = mapDescriptor.get(descriptor);
             if (index != null) {
                 return cpNameAndTypeValue(index.intValue());
@@ -205,11 +204,11 @@ public class CpBands extends BandSet {
 
             final CPUTF8 name = cpUTF8Value(nameString, true);
             final CPUTF8 descriptorU = cpUTF8Value(descriptorString, true);
-            cpNameAndType = new CPNameAndType(name, descriptorU, -1 + descrOffset);
-            descriptorsToCPNameAndTypes.put(descriptor, cpNameAndType);
-        }
-        return cpNameAndType;
+            CPNameAndType newCPNameAndType = new CPNameAndType(name, descriptorU, -1 + descrOffset);
+            return newCPNameAndType;
+        });
     }
+
 
     public CPUTF8 cpSignatureValue(final int index) {
         int globalIndex;
