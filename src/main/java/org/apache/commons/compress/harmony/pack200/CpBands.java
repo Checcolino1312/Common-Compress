@@ -348,14 +348,13 @@ public class CpBands extends BandSet {
         if (utf8 == null) {
             return null;
         }
-        CPUTF8 cpUtf8 = stringsToCpUtf8.get(utf8);
-        if (cpUtf8 == null) {
-            cpUtf8 = new CPUTF8(utf8);
-            cp_Utf8.add(cpUtf8);
-            stringsToCpUtf8.put(utf8, cpUtf8);
-        }
-        return cpUtf8;
+        return stringsToCpUtf8.computeIfAbsent(utf8, k -> {
+            CPUTF8 newCpUtf8 = new CPUTF8(k);
+            cp_Utf8.add(newCpUtf8);
+            return newCpUtf8;
+        });
     }
+
 
     @Override
     public void pack(final OutputStream out) throws IOException, Pack200Exception {
