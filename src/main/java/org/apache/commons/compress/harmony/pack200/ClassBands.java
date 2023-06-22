@@ -617,6 +617,7 @@ public class ClassBands extends BandSet {
 		}
 	}
 
+
 	public void doBciRenumbering(final IntList bciRenumbering, final Map<Label, Integer> labelsToOffsets) {
 		renumberBci(codeLineNumberTableBciP, bciRenumbering, labelsToOffsets);
 		renumberBci(codeLocalVariableTableBciP, bciRenumbering, labelsToOffsets);
