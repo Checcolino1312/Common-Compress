@@ -129,13 +129,12 @@ public class CpBands extends BandSet {
 
     public CPDouble cpDoubleValue(final int index) {
         final Double dbl = Double.valueOf(cpDouble[index]);
-        CPDouble cpDouble = doublesToCPDoubles.get(dbl);
-        if (cpDouble == null) {
-            cpDouble = new CPDouble(dbl, index + doubleOffset);
-            doublesToCPDoubles.put(dbl, cpDouble);
-        }
-        return cpDouble;
+        return doublesToCPDoubles.computeIfAbsent(dbl, k -> {
+            CPDouble newCPDouble = new CPDouble(k, index + doubleOffset);
+            return newCPDouble;
+        });
     }
+
 
     public CPFieldRef cpFieldValue(final int index) {
         return new CPFieldRef(cpClassValue(cpFieldClassInts[index]), cpNameAndTypeValue(cpFieldDescriptorInts[index]),
