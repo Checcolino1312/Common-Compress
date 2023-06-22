@@ -219,18 +219,18 @@ public class CpBands extends BandSet {
             return null;
         }
         className = className.replace('.', '/');
-        CPClass cpClass = stringsToCpClass.get(className);
-        if (cpClass == null) {
-            final CPUTF8 cpUtf8 = getCPUtf8(className);
-            cpClass = new CPClass(cpUtf8);
-            cp_Class.add(cpClass);
-            stringsToCpClass.put(className, cpClass);
-        }
+        CPClass cpClass = stringsToCpClass.computeIfAbsent(className, key -> {
+            final CPUTF8 cpUtf8 = getCPUtf8(key);
+            CPClass newCpClass = new CPClass(cpUtf8);
+            cp_Class.add(newCpClass);
+            return newCpClass;
+        });
         if (cpClass.isInnerClass()) {
             segment.getClassBands().currentClassReferencesInnerClass(cpClass);
         }
         return cpClass;
     }
+
 
     public CPMethodOrField getCPField(final CPClass cpClass, final String name, final String desc) {
         final String key = cpClass.toString() + ":" + name + ":" + desc;
