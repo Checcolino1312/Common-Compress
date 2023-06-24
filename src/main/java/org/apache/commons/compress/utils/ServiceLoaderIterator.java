@@ -38,7 +38,7 @@ public class ServiceLoaderIterator<E> implements Iterator<E> {
 
     private E nextServiceLoader;
     private final Class<E> service;
-    private final Iterator<E> serviceLoaderIterator;
+    private final Iterator<E> serviceLoaderIterator1;
 
     public ServiceLoaderIterator(final Class<E> service) {
         this(service, ClassLoader.getSystemClassLoader());
@@ -46,17 +46,17 @@ public class ServiceLoaderIterator<E> implements Iterator<E> {
 
     public ServiceLoaderIterator(final Class<E> service, final ClassLoader classLoader) {
         this.service = service;
-        this.serviceLoaderIterator = ServiceLoader.load(service, classLoader).iterator();
+        this.serviceLoaderIterator1 = ServiceLoader.load(service, classLoader).iterator();
     }
 
     @Override
     public boolean hasNext() {
         while (nextServiceLoader == null) {
             try {
-                if (!serviceLoaderIterator.hasNext()) {
+                if (!serviceLoaderIterator1.hasNext()) {
                     return false;
                 }
-                nextServiceLoader = serviceLoaderIterator.next();
+                nextServiceLoader = serviceLoaderIterator1.next();
             } catch (final ServiceConfigurationError e) {
                 if (e.getCause() instanceof SecurityException) {
                     // Ignore security exceptions
