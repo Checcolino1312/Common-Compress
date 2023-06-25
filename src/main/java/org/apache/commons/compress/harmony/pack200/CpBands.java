@@ -301,21 +301,25 @@ public class CpBands extends BandSet {
                 final List<String> classes = new ArrayList<>();
                 final char[] chars = signature.toCharArray();
                 final StringBuilder signatureString = new StringBuilder();
-                for (int i = 0; i < chars.length; i++) {
+                int i = 0; // Sposta la dichiarazione della variabile di controllo del ciclo qui
+                while (i < chars.length) { // Usa un ciclo while invece di un ciclo for
                     signatureString.append(chars[i]);
                     if (chars[i] == 'L') {
                         final StringBuilder className = new StringBuilder();
-                        for (int j = i + 1; j < chars.length; j++) {
+                        int j = i + 1; // Sposta la dichiarazione della variabile di controllo del ciclo qui
+                        while (j < chars.length) { // Usa un ciclo while invece di un ciclo for
                             final char c = chars[j];
                             if (!Character.isLetter(c) && !Character.isDigit(c) && (c != '/') && (c != '$')
-                                && (c != '_')) {
+                                    && (c != '_')) {
                                 classes.add(className.toString());
                                 i = j - 1;
                                 break;
                             }
                             className.append(c);
+                            j++; // Incrementa manualmente la variabile di controllo del ciclo
                         }
                     }
+                    i++; // Incrementa manualmente la variabile di controllo del ciclo
                 }
                 removeCpUtf8(signature);
                 for (String className : classes) {
@@ -343,6 +347,7 @@ public class CpBands extends BandSet {
         }
         return cpS;
     }
+
 
     public CPUTF8 getCPUtf8(final String utf8) {
         if (utf8 == null) {
