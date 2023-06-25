@@ -25,6 +25,9 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.jar.JarEntry;
 import java.util.jar.JarInputStream;
 import java.util.jar.JarOutputStream;
@@ -222,8 +225,13 @@ public class Archive {
         if (removePackFile) {
             boolean deleted = false;
             if (inputFileName != null) {
-                final File file = new File(inputFileName);
-                deleted = file.delete();
+                final Path filePath = Paths.get(inputFileName);
+                try {
+                    Files.delete(filePath);
+                    deleted = true;
+                } catch (IOException e) {
+                    // Gestisci l'eccezione o registra un messaggio di errore appropriato
+                }
             }
             if (!deleted) {
                 throw new Pack200Exception("Failed to delete the input file.");
