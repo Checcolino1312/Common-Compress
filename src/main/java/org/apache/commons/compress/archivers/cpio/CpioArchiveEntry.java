@@ -243,27 +243,25 @@ public class CpioArchiveEntry implements CpioConstants, ArchiveEntry {
      */
     public CpioArchiveEntry(final short format) {
         switch (format) {
-        case FORMAT_NEW:
-            this.headerSize = 110;
-            this.alignmentBoundary = 4;
-            break;
-        case FORMAT_NEW_CRC:
-            this.headerSize = 110;
-            this.alignmentBoundary = 4;
-            break;
-        case FORMAT_OLD_ASCII:
-            this.headerSize = 76;
-            this.alignmentBoundary = 0;
-            break;
-        case FORMAT_OLD_BINARY:
-            this.headerSize = 26;
-            this.alignmentBoundary = 2;
-            break;
-        default:
-            throw new IllegalArgumentException("Unknown header type " + format);
+            case FORMAT_NEW:
+            case FORMAT_NEW_CRC:
+                this.headerSize = 110;
+                this.alignmentBoundary = 4;
+                break;
+            case FORMAT_OLD_ASCII:
+                this.headerSize = 76;
+                this.alignmentBoundary = 0;
+                break;
+            case FORMAT_OLD_BINARY:
+                this.headerSize = 26;
+                this.alignmentBoundary = 2;
+                break;
+            default:
+                throw new IllegalArgumentException("Unknown header type " + format);
         }
         this.fileFormat = format;
     }
+
 
     /**
      * Creates a CpioArchiveEntry with a specified name for a
