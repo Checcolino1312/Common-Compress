@@ -457,7 +457,7 @@ public class Segment extends ClassVisitor {
 
     }
     /** See https://asm.ow2.io/javadoc/org/objectweb/asm/Opcodes.html#ASM4 */
-    public static int ASM_API = Opcodes.ASM4;
+    public static final int ASM_API = Opcodes.ASM4;
     private SegmentHeader segmentHeader;
     private CpBands cpBands;
     private AttributeDefinitionBands attributeDefinitionBands;
