@@ -16,6 +16,7 @@
  */
 package org.apache.commons.compress.archivers.zip;
 
+import java.lang.reflect.InvocationTargetException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
@@ -409,14 +410,13 @@ public class ExtraFieldUtils {
      */
     public static void register(final Class<?> c) {
         try {
-            final ZipExtraField ze = (ZipExtraField) c.newInstance();
+            final ZipExtraField ze = (ZipExtraField) c.getDeclaredConstructor().newInstance();
             IMPLEMENTATIONS.put(ze.getHeaderId(), c);
-        } catch (final ClassCastException cc) { // NOSONAR
-            throw new IllegalArgumentException(c + " doesn't implement ZipExtraField"); //NOSONAR
-        } catch (final InstantiationException ie) { // NOSONAR
-            throw new IllegalArgumentException(c + " is not a concrete class"); //NOSONAR
-        } catch (final IllegalAccessException ie) { // NOSONAR
-            throw new IllegalArgumentException(c + "'s no-arg constructor is not public"); //NOSONAR
+        } catch (final ClassCastException cc) {
+            throw new IllegalArgumentException(c + " doesn't implement ZipExtraField");
+        } catch (final NoSuchMethodException | InstantiationException | IllegalAccessException |
+                       InvocationTargetException e) {
+            throw new IllegalArgumentException("Failed to create an instance of " + c, e);
         }
     }
 }
