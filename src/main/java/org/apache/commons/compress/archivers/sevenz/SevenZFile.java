@@ -673,58 +673,91 @@ public class SevenZFile implements Closeable {
         deferredBlockStreams.add(fileStream);
     }
 
+    //Risolto anche un SonarLint: Refactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.
     private void calculateStreamMap(final Archive archive) throws IOException {
         final StreamMap streamMap = new StreamMap();
 
         int nextFolderPackStreamIndex = 0;
         final int numFolders = archive.folders != null ? archive.folders.length : 0;
         streamMap.folderFirstPackStreamIndex = new int[numFolders];
-        for (int i = 0; i < numFolders; i++) {
-            streamMap.folderFirstPackStreamIndex[i] = nextFolderPackStreamIndex;
-            nextFolderPackStreamIndex += archive.folders[i].packedStreams.length;
-        }
-
-        long nextPackStreamOffset = 0;
         final int numPackSizes = archive.packSizes.length;
         streamMap.packStreamOffsets = new long[numPackSizes];
-        for (int i = 0; i < numPackSizes; i++) {
-            streamMap.packStreamOffsets[i] = nextPackStreamOffset;
-            nextPackStreamOffset += archive.packSizes[i];
-        }
-
         streamMap.folderFirstFileIndex = new int[numFolders];
         streamMap.fileFolderIndex = new int[archive.files.length];
-        int nextFolderIndex = 0;
-        int nextFolderUnpackStreamIndex = 0;
-        for (int i = 0; i < archive.files.length; i++) {
-            if (!archive.files[i].hasStream() && nextFolderUnpackStreamIndex == 0) {
-                streamMap.fileFolderIndex[i] = -1;
-                continue;
-            }
-            if (nextFolderUnpackStreamIndex == 0) {
-                for (; nextFolderIndex < archive.folders.length; ++nextFolderIndex) {
-                    streamMap.folderFirstFileIndex[nextFolderIndex] = i;
-                    if (archive.folders[nextFolderIndex].numUnpackSubStreams > 0) {
-                        break;
-                    }
-                }
-                if (nextFolderIndex >= archive.folders.length) {
-                    throw new IOException("Too few folders in archive");
-                }
-            }
-            streamMap.fileFolderIndex[i] = nextFolderIndex;
-            if (!archive.files[i].hasStream()) {
-                continue;
-            }
-            ++nextFolderUnpackStreamIndex;
-            if (nextFolderUnpackStreamIndex >= archive.folders[nextFolderIndex].numUnpackSubStreams) {
-                ++nextFolderIndex;
-                nextFolderUnpackStreamIndex = 0;
-            }
-        }
+
+        calculateFolderFirstPackStreamIndex(archive, streamMap.folderFirstPackStreamIndex, nextFolderPackStreamIndex);
+        calculatePackStreamOffsets(archive, streamMap.packStreamOffsets);
+        calculateFolderFirstFileAndFileFolderIndex(archive, streamMap);
 
         archive.streamMap = streamMap;
     }
+
+    private void calculateFolderFirstPackStreamIndex(Archive archive, int[] folderFirstPackStreamIndex, int nextFolderPackStreamIndex) {
+        for (int i = 0; i < folderFirstPackStreamIndex.length; i++) {
+            folderFirstPackStreamIndex[i] = nextFolderPackStreamIndex;
+            nextFolderPackStreamIndex += archive.folders[i].packedStreams.length;
+        }
+    }
+
+    private void calculatePackStreamOffsets(Archive archive, long[] packStreamOffsets) {
+        long nextPackStreamOffset = 0;
+        for (int i = 0; i < packStreamOffsets.length; i++) {
+            packStreamOffsets[i] = nextPackStreamOffset;
+            nextPackStreamOffset += archive.packSizes[i];
+        }
+    }
+
+    private void calculateFolderFirstFileAndFileFolderIndex(Archive archive, StreamMap streamMap) throws IOException {
+        int nextFolderIndex = 0;
+        int nextFolderUnpackStreamIndex = 0;
+        int i = 0;
+
+        while (i < archive.files.length) {
+            if (archive.files[i].hasStream() || nextFolderUnpackStreamIndex > 0) {
+                if (nextFolderUnpackStreamIndex == 0) {
+                    nextFolderIndex = findNextNonEmptyFolderIndex(archive, nextFolderIndex);
+                    streamMap.folderFirstFileIndex[nextFolderIndex] = i;
+                }
+
+                streamMap.fileFolderIndex[i] = nextFolderIndex;
+
+                if (archive.files[i].hasStream()) {
+                    nextFolderUnpackStreamIndex = incrementNextFolderUnpackStreamIndex(archive, nextFolderIndex, nextFolderUnpackStreamIndex);
+
+                    if (nextFolderUnpackStreamIndex == 0) {
+                        nextFolderIndex++;
+                    }
+                }
+            } else {
+                streamMap.fileFolderIndex[i] = -1;
+            }
+
+            i++;
+        }
+    }
+
+    private int findNextNonEmptyFolderIndex(Archive archive, int currentFolderIndex) throws IOException {
+        while (currentFolderIndex < archive.folders.length && archive.folders[currentFolderIndex].numUnpackSubStreams == 0) {
+            currentFolderIndex++;
+        }
+
+        if (currentFolderIndex >= archive.folders.length) {
+            throw new IOException("Too few folders in archive");
+        }
+
+        return currentFolderIndex;
+    }
+
+    private int incrementNextFolderUnpackStreamIndex(Archive archive, int currentFolderIndex, int currentUnpackStreamIndex) {
+        currentUnpackStreamIndex++;
+
+        if (currentUnpackStreamIndex >= archive.folders[currentFolderIndex].numUnpackSubStreams) {
+            currentUnpackStreamIndex = 0;
+        }
+
+        return currentUnpackStreamIndex;
+    }
+
 
     private void checkEntryIsInitialized(final Map<Integer, SevenZArchiveEntry> archiveEntries, final int index) {
         archiveEntries.computeIfAbsent(index, i -> new SevenZArchiveEntry());
