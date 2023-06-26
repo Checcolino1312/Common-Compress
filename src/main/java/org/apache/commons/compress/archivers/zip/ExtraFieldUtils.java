@@ -170,13 +170,18 @@ public class ExtraFieldUtils {
      * @since 1.19
      */
     public static ZipExtraField createExtraFieldNoDefault(final ZipShort headerId)
-        throws InstantiationException, IllegalAccessException {
+            throws InstantiationException, IllegalAccessException {
         final Class<?> c = IMPLEMENTATIONS.get(headerId);
         if (c != null) {
-            return (ZipExtraField) c.newInstance();
+            try {
+                return (ZipExtraField) c.getDeclaredConstructor().newInstance();
+            } catch (NoSuchMethodException | InvocationTargetException e) {
+                // Handle any exceptions thrown by getDeclaredConstructor() or newInstance()
+            }
         }
         return null;
     }
+
 
     /**
      * Fills in the extra field data into the given instance.
