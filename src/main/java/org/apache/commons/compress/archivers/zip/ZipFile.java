@@ -1538,7 +1538,6 @@ public class ZipFile implements Closeable {
                     IOUtils.readFully(archive, wordBbuf);
                     wordBbuf.flip();
                 } catch (final EOFException ex) { // NOSONAR
-                    break;
                 }
                 int curr = wordBbuf.get();
                 if (curr == sig[POS_0]) {
