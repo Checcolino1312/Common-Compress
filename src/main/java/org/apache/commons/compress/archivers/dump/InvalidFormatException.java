@@ -25,16 +25,15 @@ package org.apache.commons.compress.archivers.dump;
  */
 public class InvalidFormatException extends DumpArchiveException {
     private static final long serialVersionUID = 1L;
-    protected final long offset;
+    protected long offset;
 
     public InvalidFormatException() {
         super("there was an error decoding a tape segment");
-        this.offset = 0; // Assign a default value to the final field
     }
 
     public InvalidFormatException(final long offset) {
         super("there was an error decoding a tape segment header at offset " +
-                offset + ".");
+            offset + ".");
         this.offset = offset;
     }
 
@@ -42,4 +41,3 @@ public class InvalidFormatException extends DumpArchiveException {
         return offset;
     }
 }
-

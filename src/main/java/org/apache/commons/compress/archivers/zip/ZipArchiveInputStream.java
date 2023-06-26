@@ -633,46 +633,32 @@ public class ZipArchiveInputStream extends ArchiveInputStream implements InputSt
         }
         return length;
     }
-
     /**
      * Reads forward until the signature of the &quot;End of central
      * directory&quot; record is found.
      */
+
+    //RISOLTO ANCHE UN SonarLint: Refactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.
     private boolean findEocdRecord() throws IOException {
-        int currentByte = -1;
-        boolean skipReadCall = false;
-        while (skipReadCall || (currentByte = readOneByte()) > -1) {
-            skipReadCall = false;
-            if (!isFirstByteOfEocdSig(currentByte)) {
-                continue;
-            }
-            currentByte = readOneByte();
-            if (currentByte != ZipArchiveOutputStream.EOCD_SIG[1]) {
-                if (currentByte == -1) {
-                    break;
+        int currentByte;
+        boolean foundEocd = false;
+
+        while (!foundEocd && (currentByte = readOneByte()) > -1) {
+            if (isFirstByteOfEocdSig(currentByte)) {
+                currentByte = readOneByte();
+                if (currentByte == ZipArchiveOutputStream.EOCD_SIG[1]) {
+                    currentByte = readOneByte();
+                    if (currentByte == ZipArchiveOutputStream.EOCD_SIG[2]) {
+                        currentByte = readOneByte();
+                        foundEocd = (currentByte == ZipArchiveOutputStream.EOCD_SIG[3]);
+                    }
                 }
-                skipReadCall = isFirstByteOfEocdSig(currentByte);
-                continue;
             }
-            currentByte = readOneByte();
-            if (currentByte != ZipArchiveOutputStream.EOCD_SIG[2]) {
-                if (currentByte == -1) {
-                    break;
-                }
-                skipReadCall = isFirstByteOfEocdSig(currentByte);
-                continue;
-            }
-            currentByte = readOneByte();
-            if (currentByte == -1) {
-                break;
-            }
-            if (currentByte == ZipArchiveOutputStream.EOCD_SIG[3]) {
-                return true;
-            }
-            skipReadCall = isFirstByteOfEocdSig(currentByte);
         }
-        return false;
+
+        return foundEocd;
     }
+
 
     /**
      * Get the number of bytes Inflater has actually processed.
