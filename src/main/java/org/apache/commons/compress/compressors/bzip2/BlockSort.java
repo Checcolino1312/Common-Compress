@@ -485,14 +485,14 @@ class BlockSort {
         for (i = 0; i < nblock; i++) {
             eclass[i] = 0;
         }
-        /*--
-          LBZ2: Initial 1-char radix sort to generate
-          initial fmap and initial BH bits.
-          --*/
+    /*--
+      LBZ2: Initial 1-char radix sort to generate
+      initial fmap and initial BH bits.
+      --*/
         for (i = 0; i < nblock; i++) {
             ftab[block[i] & 0xff]++;
         }
-        for (i = 1; i < 257;    i++) {
+        for (i = 1; i < 257; i++) {
             ftab[i] += ftab[i - 1];
         }
 
@@ -509,11 +509,11 @@ class BlockSort {
             bhtab.set(ftab[i]);
         }
 
-        /*--
-          LBZ2: Inductively refine the buckets.  Kind-of an
-          "exponential radix sort" (!), inspired by the
-          Manber-Myers suffix array construction algorithm.
-          --*/
+    /*--
+      LBZ2: Inductively refine the buckets.  Kind-of an
+      "exponential radix sort" (!), inspired by the
+      Manber-Myers suffix array construction algorithm.
+      --*/
 
         /*-- LBZ2: set sentinel bits for block-end detection --*/
         for (i = 0; i < 32; i++) {
@@ -523,8 +523,9 @@ class BlockSort {
 
         /*-- LBZ2: the log(N) loop --*/
         H = 1;
-        while (true) {
+        boolean exitOuterLoop = false;
 
+        while (!exitOuterLoop) {
             j = 0;
             for (i = 0; i < nblock; i++) {
                 if (bhtab.get(i)) {
@@ -539,14 +540,15 @@ class BlockSort {
 
             nNotDone = 0;
             r = -1;
-            while (true) {
+            boolean exitInnerLoop = false;
 
+            while (!exitInnerLoop) {
                 /*-- LBZ2: find the next non-singleton bucket --*/
                 k = r + 1;
                 k = bhtab.nextClearBit(k);
                 l = k - 1;
                 if (l >= nblock) {
-                    break;
+                    exitInnerLoop=true;
                 }
                 k = bhtab.nextSetBit(k + 1);
                 r = k - 1;
@@ -573,10 +575,11 @@ class BlockSort {
 
             H *= 2;
             if (H > nblock || nNotDone == 0) {
-                break;
+                exitOuterLoop = true;
             }
         }
     }
+
 
     private int[] fpop(final int sp) {
         return new int[] { stack_ll[sp], stack_hh[sp] };
