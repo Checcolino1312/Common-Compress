@@ -486,22 +486,27 @@ public class BlockLZ4CompressorOutputStream extends CompressorOutputStream {
 
     private void writeWritablePairs(final int lengthOfBlocksAfterLastPair) throws IOException {
         int unwrittenLength = lengthOfBlocksAfterLastPair;
-        for (final Iterator<Pair> it = pairs.descendingIterator(); it.hasNext(); ) {
+        boolean exitFirstLoop = false;
+        for (final Iterator<Pair> it = pairs.descendingIterator(); it.hasNext() && !exitFirstLoop; ) {
             final Pair p = it.next();
-            if (p.hasBeenWritten()) {
-                break;
+            if (!p.hasBeenWritten()) {
+                unwrittenLength += p.length();
+            } else {
+                exitFirstLoop = true;
             }
-            unwrittenLength += p.length();
         }
+
+        boolean exitSecondLoop = false;
         for (final Pair p : pairs) {
-            if (p.hasBeenWritten()) {
-                continue;
+            if (p.hasBeenWritten() && !exitSecondLoop) {
+                unwrittenLength -= p.length();
+                if (!p.canBeWritten(unwrittenLength)) {
+                    exitSecondLoop = true;
+                } else {
+                    p.writeTo(os);
+                }
             }
-            unwrittenLength -= p.length();
-            if (!p.canBeWritten(unwrittenLength)) {
-                break;
-            }
-            p.writeTo(os);
         }
     }
+
 }
