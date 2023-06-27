@@ -38,6 +38,7 @@ import org.apache.commons.compress.utils.InputStreamStatistics;
  *
  * @since 1.7
  */
+@SuppressWarnings("java:S4929")
 class ExplodingInputStream extends InputStream implements InputStreamStatistics {
 
     /** The underlying stream containing the compressed data */
