@@ -28,6 +28,7 @@ import java.io.InputStream;
  * @since 1.14
  */
 @SuppressWarnings("java:S4929")
+
 public class CloseShieldFilterInputStream extends FilterInputStream {
 
     public CloseShieldFilterInputStream(final InputStream in) {
