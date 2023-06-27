@@ -23,6 +23,8 @@ import java.io.InputStream;
  * This is an InputStream that always return 0,
  * this is used when reading the "holes" of a sparse file
  */
+
+@SuppressWarnings("java:S4929")
 class TarArchiveSparseZeroInputStream extends InputStream {
 
     /**
