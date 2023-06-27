@@ -195,6 +195,7 @@ public class ChangeSetPerformer {
                     it.remove();
                     results.deleted(name);
                     break;
+
                 } else if (type == Change.TYPE_DELETE_DIR && name != null && name.startsWith(change.targetFile() + "/")) {
                     copy = false;
                     results.deleted(name);
