@@ -391,17 +391,18 @@ public class BlockLZ4CompressorOutputStream extends CompressorOutputStream {
         final LinkedList<Pair> lastPairs = new LinkedList<>();
         final LinkedList<Integer> pairLength = new LinkedList<>();
         int offset = 0;
-        for (final Iterator<Pair> it = pairs.descendingIterator(); it.hasNext(); ) {
+        boolean shouldBreak = false; // Flag per indicare la condizione di uscita dal primo ciclo
+        for (final Iterator<Pair> it = pairs.descendingIterator(); it.hasNext() && !shouldBreak; ) {
             final Pair p = it.next();
             if (p.hasBeenWritten()) {
-                break;
+                shouldBreak = true; // Imposta il flag per uscire dal ciclo
             }
             final int len = p.length();
             pairLength.addFirst(len);
             lastPairs.addFirst(p);
             offset += len;
             if (offset >= MIN_OFFSET_OF_LAST_BACK_REFERENCE) {
-                break;
+                shouldBreak = true; // Imposta il flag per uscire dal ciclo
             }
         }
         lastPairs.forEach(pairs::remove);
