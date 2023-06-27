@@ -857,6 +857,7 @@ public class TarUtils {
                 break;
             }
         }
+
         if (offset != null) {
             // offset but no numBytes
             sparseHeaders.add(new TarArchiveStructSparse(offset, 0));
