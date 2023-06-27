@@ -35,6 +35,7 @@ import java.io.InputStream;
  *
  * @since 1.17
  */
+@SuppressWarnings("java:S4929")
 public class SkipShieldingInputStream extends FilterInputStream {
     private static final int SKIP_BUFFER_SIZE = 8192;
     // we can use a shared buffer as the content is discarded anyway
