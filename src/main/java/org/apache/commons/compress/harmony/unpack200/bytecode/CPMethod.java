@@ -24,6 +24,7 @@ import java.util.List;
 public class CPMethod extends CPMember {
 
 
+
     private boolean hashCodeComputed;
 
     private int cachedHashCode;
