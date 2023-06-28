@@ -42,6 +42,7 @@ public class CPInterfaceMethodRef extends CPRef {
         return cachedHashCode;
     }
 
+
     @Override
     public boolean equals(Object obj) {
         if (obj == this) {
