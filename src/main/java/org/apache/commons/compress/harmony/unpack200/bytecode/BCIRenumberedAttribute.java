@@ -20,6 +20,7 @@ import java.io.DataOutputStream;
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Objects;
 
 import org.apache.commons.compress.harmony.pack200.Pack200Exception;
 
@@ -72,4 +73,20 @@ public abstract class BCIRenumberedAttribute extends Attribute {
     @Override
     protected abstract void writeBody(DataOutputStream dos) throws IOException;
 
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (obj == null || getClass() != obj.getClass()) {
+            return false;
+        }
+        BCIRenumberedAttribute other = (BCIRenumberedAttribute) obj;
+        return renumbered == other.renumbered;
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(renumbered);
+    }
 }
