@@ -37,7 +37,6 @@ public class CodeAttribute extends BCIRenumberedAttribute {
     public List<ExceptionTableEntry> exceptionTable;
     public int maxLocals;
 
-
     public int maxStack;
 
     public CodeAttribute(final int maxStack, final int maxLocals, final byte[] codePacked, final Segment segment,
