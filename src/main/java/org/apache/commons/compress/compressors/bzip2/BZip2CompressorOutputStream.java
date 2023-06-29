@@ -1137,10 +1137,7 @@ public class BZip2CompressorOutputStream extends CompressorOutputStream
             while (gs <= ge) {
                 final int sfmap_i = sfmap[gs];
 
-                //
-                // inlined: bsW(len_selCtr[sfmap_i] & 0xff,
-                // code_selCtr[sfmap_i]);
-                //
+
                 while (bsLiveShadow >= 8) {
                     outShadow.write(bsBuffShadow >> 24);
                     bsBuffShadow <<= 8;
