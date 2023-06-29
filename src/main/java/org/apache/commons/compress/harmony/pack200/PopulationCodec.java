@@ -151,7 +151,7 @@ public class PopulationCodec extends Codec {
 
     public byte[] encode(final int[] favoured, final int[] tokens, final int[] unfavoured) throws Pack200Exception {
         final int[] favoured2 = Arrays.copyOf(favoured, favoured.length + 1);
-        favoured2[favoured2.length - 1] = favoured[favoured.length - 1]; // repeat last value;
+        favoured2[favoured2.length - 1] = favoured[favoured.length - 1];
         final byte[] favouredEncoded = favouredCodec.encode(favoured2);
         final byte[] tokensEncoded = tokenCodec.encode(tokens);
         final byte[] unfavouredEncoded = unfavouredCodec.encode(unfavoured);
