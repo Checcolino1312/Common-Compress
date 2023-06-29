@@ -393,10 +393,7 @@ public abstract class BandSet {
     public byte[] encodeBandInt(final String name, final int[] ints, final BHSDCodec defaultCodec)
         throws Pack200Exception {
         byte[] encodedBand = null;
-        // Useful for debugging
-//        if (ints.length > 0) {
-//            System.out.println("encoding " + name + " " + ints.length);
-//        }
+
         if (effort > 1 && (ints.length >= effortThresholds[effort])) {
             final BandAnalysisResults results = analyseBand(name, ints, defaultCodec);
             final Codec betterCodec = results.betterCodec;
