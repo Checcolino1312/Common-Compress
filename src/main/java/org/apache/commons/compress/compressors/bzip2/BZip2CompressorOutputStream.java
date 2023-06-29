@@ -762,6 +762,7 @@ public class BZip2CompressorOutputStream extends CompressorOutputStream
         sendMTFValues7();
     }
 
+
     private void sendMTFValues0(final int nGroups, final int alphaSize) {
         final byte[][] len = this.data.sendMTFValues_len;
         final int[] mtfFreq = this.data.mtfFreq;
