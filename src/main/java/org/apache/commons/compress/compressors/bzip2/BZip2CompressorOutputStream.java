@@ -1026,7 +1026,7 @@ public class BZip2CompressorOutputStream extends CompressorOutputStream
 
         for (int i = 0; i < nSelectors; i++) {
             for (int j = 0, hj = selectorMtf[i] & 0xff; j < hj; j++) {
-                // inlined: bsW(1, 1);
+
                 while (bsLiveShadow >= 8) {
                     outShadow.write(bsBuffShadow >> 24);
                     bsBuffShadow <<= 8;
