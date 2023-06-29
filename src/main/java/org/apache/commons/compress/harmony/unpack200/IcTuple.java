@@ -184,8 +184,7 @@ public class IcTuple {
 
         }
         if (nameComponents.length == 1) {
-            // Unable to predict simple class name
-            // throw new Error("Unable to predict inner class name: " + C);
+
         }
         if (nameComponents.length < 2) {
             // If we get here, we hope cachedSimpleClassName
