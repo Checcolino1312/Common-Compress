@@ -273,7 +273,7 @@ class BlockSort {
             }
         }
 
-        // assert (data.origPtr != -1) : data.origPtr;
+
     }
 
     /*
