@@ -265,7 +265,7 @@ public class BcBands extends BandSet {
             if (aload_0) {
                 opcode -= 7;
                 bcCodes.add(ALOAD_0); // add aload_0 back in because
-                // there's no special rewrite in
+
                 // this case.
             }
             bcFieldRef.add(cpField);
