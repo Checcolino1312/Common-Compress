@@ -298,15 +298,15 @@ public class DumpArchiveEntry implements ArchiveEntry {
         header.type = DumpArchiveConstants.SEGMENT_TYPE.find(DumpArchiveUtil.convert32(
                     buffer, 0));
 
-        //header.dumpDate = new Date(1000L * DumpArchiveUtil.convert32(buffer, 4));
+
         //header.previousDumpDate = new Date(1000L * DumpArchiveUtil.convert32(
-        //            buffer, 8));
+
         header.volume = DumpArchiveUtil.convert32(buffer, 12);
-        //header.tapea = DumpArchiveUtil.convert32(buffer, 16);
+
         entry.ino = header.ino = DumpArchiveUtil.convert32(buffer, 20);
 
-        //header.magic = DumpArchiveUtil.convert32(buffer, 24);
-        //header.checksum = DumpArchiveUtil.convert32(buffer, 28);
+
+
         final int m = DumpArchiveUtil.convert16(buffer, 32);
 
         // determine the type of the file.
@@ -329,10 +329,7 @@ public class DumpArchiveEntry implements ArchiveEntry {
             (DumpArchiveUtil.convert32(buffer, 68) / 1000);
         entry.ctime = t;
 
-        // db: 72-119 - direct blocks
-        // id: 120-131 - indirect blocks
-        //entry.flags = DumpArchiveUtil.convert32(buffer, 132);
-        //entry.blocks = DumpArchiveUtil.convert32(buffer, 136);
+
         entry.generation = DumpArchiveUtil.convert32(buffer, 140);
         entry.setUserId(DumpArchiveUtil.convert32(buffer, 144));
         entry.setGroupId(DumpArchiveUtil.convert32(buffer, 148));
@@ -351,7 +348,7 @@ public class DumpArchiveEntry implements ArchiveEntry {
 
         entry.volume = header.getVolume();
 
-        //entry.isSummaryOnly = false;
+
         return entry;
     }
     private String name;
