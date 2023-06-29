@@ -1740,7 +1740,7 @@ public class ZipArchiveOutputStream extends ArchiveOutputStream {
      */
     protected void writeCentralDirectoryEnd() throws IOException {
         if (!hasUsedZip64 && isSplitZip) {
-            ((ZipSplitOutputStream)this.outputStream).prepareToWriteUnsplittableContent(eocdLength);
+            ((ZipSplitOutputStream) this.outputStream).prepareToWriteUnsplittableContent(eocdLength);
         }
 
         validateIfZip64IsNeededInEOCD();
@@ -1750,22 +1750,24 @@ public class ZipArchiveOutputStream extends ArchiveOutputStream {
         // number of this disk
         int numberOfThisDisk = 0;
         if (isSplitZip) {
-            numberOfThisDisk = ((ZipSplitOutputStream)this.outputStream).getCurrentSplitSegmentIndex();
+            numberOfThisDisk = ((ZipSplitOutputStream) this.outputStream).getCurrentSplitSegmentIndex();
         }
         writeCounted(ZipShort.getBytes(numberOfThisDisk));
 
         // disk number of the start of central directory
-        writeCounted(ZipShort.getBytes((int)cdDiskNumberStart));
+        writeCounted(ZipShort.getBytes((int) cdDiskNumberStart));
 
         // number of entries
         final int numberOfEntries = entries.size();
 
         // total number of entries in the central directory on this disk
-        final int numOfEntriesOnThisDisk = isSplitZip
-            ? numberOfCDInDiskData.get(numberOfThisDisk) == null ? 0 : numberOfCDInDiskData.get(numberOfThisDisk)
-            : numberOfEntries;
-        final byte[] numOfEntriesOnThisDiskData = ZipShort
-                .getBytes(Math.min(numOfEntriesOnThisDisk, ZipConstants.ZIP64_MAGIC_SHORT));
+        int numOfEntriesOnThisDisk;
+        if (isSplitZip) {
+            numOfEntriesOnThisDisk = numberOfCDInDiskData.get(numberOfThisDisk) == null ? 0 : numberOfCDInDiskData.get(numberOfThisDisk);
+        } else {
+            numOfEntriesOnThisDisk = numberOfEntries;
+        }
+        final byte[] numOfEntriesOnThisDiskData = ZipShort.getBytes(Math.min(numOfEntriesOnThisDisk, ZipConstants.ZIP64_MAGIC_SHORT));
         writeCounted(numOfEntriesOnThisDiskData);
 
         // number of entries
@@ -1782,6 +1784,7 @@ public class ZipArchiveOutputStream extends ArchiveOutputStream {
         writeCounted(ZipShort.getBytes(dataLen));
         streamCompressor.writeCounted(data.array(), data.arrayOffset(), dataLen);
     }
+
 
     private void writeCentralDirectoryInChunks() throws IOException {
         final int NUM_PER_WRITE = 1000;
