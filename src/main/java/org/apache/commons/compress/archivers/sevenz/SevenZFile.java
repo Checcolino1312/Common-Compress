@@ -620,7 +620,8 @@ public class SevenZFile implements Closeable {
         if (folderIndex < 0) {
             deferredBlockStreams.clear();
             // TODO: previously it'd return an empty stream?
-            // new BoundedInputStream(new ByteArrayInputStream(ByteUtils.EMPTY_BYTE_ARRAY), 0);
+
+
             return;
         }
         final SevenZArchiveEntry file = archive.files[entryIndex];
