@@ -205,7 +205,7 @@ public class Messages {
             final ClassLoader loader = ClassLoader.getSystemClassLoader();
             return ResourceBundle.getBundle(resource, locale, loader);
         } catch (final MissingResourceException e) {
-            // ignore
+
         }
         return null;
     }
