@@ -159,8 +159,7 @@ public class SegmentConstantPool {
 
         case CP_DESCR:
             throw new AssertionError("I don't know what to do with descriptors yet");
-            // return null /* new CPDescriptor(bands.getCpDescriptor()[index])
-            // */;
+
         case CP_FIELD:
             return bands.cpFieldValue(index);
         case CP_METHOD:
