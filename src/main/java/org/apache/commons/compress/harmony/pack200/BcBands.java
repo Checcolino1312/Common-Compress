@@ -193,6 +193,7 @@ public class BcBands extends BandSet {
         PackingUtils.log(LOG_PREFIX + encodedBand.length + " bytes from bcInitRef[" + bcInitRef.size() + "]");
 
 
+    }
 
     public void setCurrentClass(final String name, final String superName) {
         currentClass = name;
@@ -258,15 +259,11 @@ public class BcBands extends BandSet {
         if (owner.equals(currentClass)) {
             opcode += 24; // change to getstatic_this, putstatic_this etc.
             bcThisField.add(cpField);
-//        } else if (owner.equals(superClass)) {
-//            opcode += 38; // change to getstatic_super etc.
-//            bcSuperField.add(cpField);
+
         } else {
             if (aload_0) {
                 opcode -= 7;
-                bcCodes.add(ALOAD_0); // add aload_0 back in because
-
-                // this case.
+                bcCodes.add(ALOAD_0);
             }
             bcFieldRef.add(cpField);
         }
