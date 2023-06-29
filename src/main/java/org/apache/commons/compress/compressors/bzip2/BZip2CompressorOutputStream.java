@@ -1087,7 +1087,7 @@ public class BZip2CompressorOutputStream extends CompressorOutputStream
                 }
 
                 while (curr > lti) {
-                    // inlined: bsW(2, 3);
+
                     while (bsLiveShadow >= 8) {
                         outShadow.write(bsBuffShadow >> 24); // write 8-bit
                         bsBuffShadow <<= 8;
