@@ -88,11 +88,7 @@ public abstract class BandSet {
             // First element should not be discarded
             band = codec.decodeInts(count - 1, in, first);
         }
-        // Useful for debugging -E options:
-        // if (!codecUsed.equals(codec)) {
-        // int bytes = codecUsed.lastBandLength;
-        // System.out.println(count + " " + name + " encoded with " + codecUsed + " " + bytes);
-        // }
+
         if (codecUsed instanceof PopulationCodec) {
             final PopulationCodec popCodec = (PopulationCodec) codecUsed;
             final int[] favoured = popCodec.getFavoured().clone();
