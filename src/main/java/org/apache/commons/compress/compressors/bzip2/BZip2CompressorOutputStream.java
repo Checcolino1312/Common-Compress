@@ -1172,6 +1172,7 @@ public class BZip2CompressorOutputStream extends CompressorOutputStream
                                                 + len + ") > buf.length("
                                                 + buf.length + ").");
         }
+
         if (closed) {
             throw new IOException("Stream closed");
         }
