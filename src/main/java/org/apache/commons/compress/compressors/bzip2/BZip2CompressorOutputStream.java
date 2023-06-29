@@ -704,7 +704,7 @@ public class BZip2CompressorOutputStream extends CompressorOutputStream
         // blockNo++;
         this.crc.initializeCRC();
         this.last = -1;
-        // ch = 0;
+
 
         final boolean[] inUse = this.data.inUse;
         for (int i = 256; --i >= 0;) {
