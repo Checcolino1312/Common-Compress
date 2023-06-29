@@ -175,13 +175,13 @@ public class Segment extends ClassVisitor {
                 @Override
                 public AnnotationVisitor visitAnnotation(final String arg0, final String arg1) {
                     throw new UnsupportedOperationException("Not yet supported");
-//                    return null;
+
                 }
 
                 @Override
                 public AnnotationVisitor visitArray(final String arg0) {
                     throw new UnsupportedOperationException("Not yet supported");
-//                    return null;
+
                 }
 
                 @Override
