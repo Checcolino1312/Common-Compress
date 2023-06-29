@@ -29,7 +29,7 @@ import java.util.MissingResourceException;
 import java.util.Objects;
 import java.util.ResourceBundle;
 
-//import org.apache.commons.compress.harmony.kernel.vm.VM;
+
 
 /**
  * This class retrieves strings from a resource bundle and returns them, formatting them with MessageFormat when
