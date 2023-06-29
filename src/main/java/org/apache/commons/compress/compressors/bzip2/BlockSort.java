@@ -769,16 +769,7 @@ class BlockSort {
                     final int vd = v + d;
                     int j = i;
 
-                    // for (int a;
-                    // (j > mj) && mainGtU((a = fmap[j - h]) + d, vd,
-                    // block, quadrant, lastShadow);
-                    // j -= h) {
-                    // fmap[j] = a;
-                    // }
-                    //
-                    // unrolled version:
 
-                    // start inline mainGTU
                     boolean onceRunned = false;
                     int a = 0;
 
