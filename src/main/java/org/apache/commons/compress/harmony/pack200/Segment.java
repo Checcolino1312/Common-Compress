@@ -182,6 +182,7 @@ public class Segment extends ClassVisitor {
                 public AnnotationVisitor visitArray(final String arg0) {
                     throw new UnsupportedOperationException("Not yet supported");
 
+
                 }
 
                 @Override
