@@ -42,6 +42,7 @@ import org.apache.commons.compress.utils.IOUtils;
  *
  * @NotThreadSafe
  */
+
 public class DumpArchiveInputStream extends ArchiveInputStream {
     /**
      * Look at the first few bytes of the file to decide if it's a dump
