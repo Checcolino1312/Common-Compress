@@ -263,11 +263,7 @@ public final class BHSDCodec extends Codec {
         return (int) z;
     }
 
-    // private long cast32(long u) {
-    // u = (long) ((long) ((u + Math.pow(2, 31)) % Math.pow(2, 32)) -
-    // Math.pow(2, 31));
-    // return u;
-    // }
+
 
     @Override
     public int[] decodeInts(final int n, final InputStream in) throws IOException, Pack200Exception {
