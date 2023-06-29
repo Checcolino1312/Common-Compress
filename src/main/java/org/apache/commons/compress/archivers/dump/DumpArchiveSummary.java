@@ -59,7 +59,7 @@ public class DumpArchiveSummary {
         firstrec = DumpArchiveUtil.convert32(buffer, 892);
         ntrec = DumpArchiveUtil.convert32(buffer, 896);
 
-        //extAttributes = DumpArchiveUtil.convert32(buffer, 900);
+
     }
 
     @Override
