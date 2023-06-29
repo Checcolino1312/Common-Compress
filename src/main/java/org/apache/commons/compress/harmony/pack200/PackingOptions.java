@@ -71,21 +71,22 @@ public class PackingOptions {
     }
 
     private void addOrUpdateAttributeActions(final List<Attribute> prototypes, final Map<String, String> attributeActions, final int tag) {
-        if (attributeActions != null && attributeActions.size() > 0) {
+        if (attributeActions != null && !attributeActions.isEmpty()) {
             NewAttribute newAttribute;
-            for (final String name : attributeActions.keySet()) {
-                final String action = attributeActions.get(name);
+            for (final Map.Entry<String, String> entry : attributeActions.entrySet()) {
+                final String name = entry.getKey();
+                final String action = entry.getValue();
                 boolean prototypeExists = false;
                 for (final Object prototype : prototypes) {
                     newAttribute = (NewAttribute) prototype;
                     if (newAttribute.type.equals(name)) {
-                        // if the attribute exists, update its context
+// if the attribute exists, update its context
                         newAttribute.addContext(tag);
                         prototypeExists = true;
                         break;
                     }
                 }
-                // if no attribute is found, add a new attribute
+// if no attribute is found, add a new attribute
                 if (!prototypeExists) {
                     if (ERROR.equals(action)) {
                         newAttribute = new NewAttribute.ErrorAttribute(name, tag);
@@ -101,7 +102,6 @@ public class PackingOptions {
             }
         }
     }
-
     /**
      * Tell the compressor to pass the file with the given name, or if the name is a directory name all files under that
      * directory will be passed.
