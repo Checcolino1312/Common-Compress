@@ -995,7 +995,7 @@ public class BZip2CompressorOutputStream extends CompressorOutputStream
             if (inUse16[i]) {
                 final int i16 = i * 16;
                 for (int j = 0; j < 16; j++) {
-                    // inlined: bsW(1, inUse[i16 + j] ? 1 : 0);
+
                     while (bsLiveShadow >= 8) {
                         outShadow.write(bsBuffShadow >> 24); // write 8-bit
                         bsBuffShadow <<= 8;
