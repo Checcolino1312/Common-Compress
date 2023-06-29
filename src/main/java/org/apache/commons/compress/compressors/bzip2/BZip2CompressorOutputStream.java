@@ -962,8 +962,7 @@ public class BZip2CompressorOutputStream extends CompressorOutputStream
                 }
             }
 
-            // assert (maxLen <= 20) : maxLen;
-            // assert (minLen >= 1) : minLen;
+
 
             hbAssignCodes(code[t], len[t], minLen, maxLen, alphaSize);
         }
