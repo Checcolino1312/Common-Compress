@@ -1176,7 +1176,7 @@ public class ZipArchiveOutputStream extends ArchiveOutputStream {
         if (entry.entry.getMethod() == DEFLATED) {
             /* It turns out def.getBytesRead() returns wrong values if
              * the size exceeds 4 GB on Java < Java7
-            entry.entry.setSize(def.getBytesRead());
+
             */
             entry.entry.setSize(entry.bytesRead);
             entry.entry.setCompressedSize(bytesWritten);
