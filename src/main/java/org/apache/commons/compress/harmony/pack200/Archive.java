@@ -305,8 +305,7 @@ public class Archive {
                 files = new ArrayList<>();
             }
         }
-        // Change for Apache Commons Compress based on Apache Harmony.
-        // if (classes.size() > 0 && files.size() > 0) {
+
         if (classes.size() > 0 || files.size() > 0) {
             segmentUnitList.add(new SegmentUnit(classes, files));
         }
