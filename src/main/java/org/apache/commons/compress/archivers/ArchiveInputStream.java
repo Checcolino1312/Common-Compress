@@ -69,7 +69,7 @@ public abstract class ArchiveInputStream extends InputStream {
      * @return
      * @throws IOException
      */
-    // public abstract XXXArchiveEntry getNextXXXEntry() throws IOException;
+
 
     /**
      * Increments the counter of already read bytes.
