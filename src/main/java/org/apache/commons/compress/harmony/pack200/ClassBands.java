@@ -228,7 +228,7 @@ public class ClassBands extends BandSet {
 			field_flags[i] = new long[0];
 			method_flags[i] = new long[0];
 		}
-		// minor_versions = new int[numClasses];
+
 		major_versions = new int[numClasses];
 		class_flags = new long[numClasses];
 
@@ -358,10 +358,7 @@ public class ClassBands extends BandSet {
 			cpBands.addCPUtf8("Synthetic");
 			anySyntheticClasses = true;
 		}
-//		if ((flags & Opcodes.ACC_DEPRECATED) != 0) { // ASM uses (1<<17) flag for deprecated
-//			flags = flags & ~Opcodes.ACC_DEPRECATED;
-//			flags = flags | (1 << 20);
-//		}
+
 		if (signature != null) {
 			class_flags[index] |= (1 << 19);
 			classSignature.add(cpBands.getCPSignature(signature));
