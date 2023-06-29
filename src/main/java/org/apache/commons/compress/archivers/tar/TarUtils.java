@@ -750,7 +750,7 @@ public class TarUtils {
             final long headerSize) throws IOException {
         final Map<String, String> headers = new HashMap<>(globalPaxHeaders);
         Long offset = null;
-        // Format is "length keyword=value\n";
+
         int totalRead = 0;
         while(true) { // get length
             int ch;
