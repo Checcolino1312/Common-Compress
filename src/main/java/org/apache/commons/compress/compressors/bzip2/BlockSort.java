@@ -202,7 +202,7 @@ class BlockSort {
      * "abraba" form three buckets for the chars "a", "b", and "r" in
      * the first step with
      *
-     * fmap = { 'a:' 5, 3, 0, 'b:' 4, 1, 'r', 2 }
+
      *
      * when looking at the bucket of "a"s the second characters are in
      * the buckets that start with fmap-index 0 (rolled over), 3 and 3
