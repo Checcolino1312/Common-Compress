@@ -1042,7 +1042,7 @@ public class BZip2CompressorOutputStream extends CompressorOutputStream
                 bsBuffShadow <<= 8;
                 bsLiveShadow -= 8;
             }
-            // bsBuffShadow |= 0 << (32 - bsLiveShadow - 1);
+
             bsLiveShadow++;
         }
 
