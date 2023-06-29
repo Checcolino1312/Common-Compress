@@ -1040,14 +1040,7 @@ class BlockSort {
                 ftab[(j << 8) + ss] |= SETMASK;
             }
 
-            // Step 3:
-            /*
-             * LBZ2: The ss big bucket is now done. Record this fact, and update the
-             * quadrant descriptors. Remember to update quadrants in the
-             * overshoot area too, if necessary. The "if (i < 255)" test merely
-             * skips this updating for the last bucket processed, since updating
-             * for the last bucket is pointless.
-             */
+
             bigDone[ss] = true;
 
             if (i < 255) {
