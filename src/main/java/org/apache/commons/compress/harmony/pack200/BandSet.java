@@ -490,31 +490,7 @@ public abstract class BandSet {
         return total;
     }
 
-// This could be useful if further enhancements are done but is not currently used
-//
-//    private void encodeWithRunCodec(String name, int[] band, int index,
-//            BHSDCodec defaultCodec, BandData bandData,
-//            BandAnalysisResults results) throws Pack200Exception {
-//        int[] firstBand = new int[index];
-//        int[] secondBand = new int[band.length - index];
-//        System.arraycopy(band, 0, firstBand, 0, index);
-//        System.arraycopy(band, index, secondBand, 0, secondBand.length);
-//        BandAnalysisResults firstResults = analyseBand(name + "A", firstBand, defaultCodec);
-//        BandAnalysisResults secondResults = analyseBand(name + "B", secondBand, defaultCodec);
-//        int specifier = 117;
-//        byte[] specifierEncoded = defaultCodec.encode(new int[] {specifier});
-//        int totalLength = firstResults.encodedBand.length + secondResults.encodedBand.length + specifierEncoded.length + 4; // TODO actual
-//        if (totalLength < results.encodedBand.length) {
-//            System.out.println("using run codec");
-//            results.saved += results.encodedBand.length - totalLength;
-//            byte[] encodedBand = new byte[specifierEncoded.length + firstResults.encodedBand.length + secondResults.encodedBand.length];
-//            System.arraycopy(specifierEncoded, 0, encodedBand, 0, specifierEncoded.length);
-//            System.arraycopy(firstResults.encodedBand, 0, encodedBand, specifierEncoded.length, firstResults.encodedBand.length);
-//            System.arraycopy(secondResults.encodedBand, 0, encodedBand, specifierEncoded.length + firstResults.encodedBand.length, secondResults.encodedBand.length);
-//            results.encodedBand = encodedBand;
-//            results.betterCodec = new RunCodec(index, firstResults.betterCodec, secondResults.betterCodec);
-//        }
-//    }
+
 
     protected byte[] encodeFlags(final String name, final long[][] flags, final BHSDCodec loCodec,
         final BHSDCodec hiCodec, final boolean haveHiFlags) throws Pack200Exception {
