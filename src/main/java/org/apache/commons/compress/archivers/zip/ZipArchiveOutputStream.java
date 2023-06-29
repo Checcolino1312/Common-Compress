@@ -1153,7 +1153,7 @@ public class ZipArchiveOutputStream extends ArchiveOutputStream {
               System.err.println("Adding z64 for " + ze.getName()
               + ", method: " + ze.getMethod()
               + " (" + (ze.getMethod() == STORED) + ")"
-              + ", channel: " + (channel != null));
+
             */
             z64 = new Zip64ExtendedInformationExtraField();
         }
