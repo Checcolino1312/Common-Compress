@@ -192,14 +192,7 @@ public class BcBands extends BandSet {
         out.write(encodedBand);
         PackingUtils.log(LOG_PREFIX + encodedBand.length + " bytes from bcInitRef[" + bcInitRef.size() + "]");
 
-        // out.write(encodeBandInt(cpEntryintegerListToArray(bcEscRef),
-        // Codec.UNSIGNED5));
-        // out.write(encodeBandInt(integerListToArray(bcEscRefSize),
-        // Codec.UNSIGNED5));
-        // out.write(encodeBandInt(integerListToArray(bcEscSize),
-        // Codec.UNSIGNED5));
-        // out.write(encodeBandInt(integerListToArray(bcEscByte), Codec.BYTE1));
-    }
+
 
     public void setCurrentClass(final String name, final String superName) {
         currentClass = name;
