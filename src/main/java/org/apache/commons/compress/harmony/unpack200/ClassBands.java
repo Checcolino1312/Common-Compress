@@ -334,6 +334,7 @@ public class ClassBands extends BandSet {
         classAttributes = new ArrayList[classCount];
         Arrays.setAll(classAttributes, i -> new ArrayList<>());
 
+
         classFlags = parseFlags("class_flags", in, classCount, Codec.UNSIGNED5, options.hasClassFlagsHi());
         final int classAttrCount = SegmentUtils.countBit16(classFlags);
         final int[] classAttrCounts = decodeBandInt("class_attr_count", in, Codec.UNSIGNED5, classAttrCount);
