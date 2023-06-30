@@ -745,7 +745,6 @@ public class BZip2CompressorOutputStream extends CompressorOutputStream
             nGroups = 6;
         }
 
-
         /* Generate an initial set of coding tables */
         sendMTFValues0(nGroups, alphaSize);
 
