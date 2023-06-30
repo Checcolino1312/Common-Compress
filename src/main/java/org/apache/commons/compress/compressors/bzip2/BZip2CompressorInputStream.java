@@ -741,6 +741,7 @@ public class BZip2CompressorInputStream extends CompressorInputStream
     }
 
 
+
     private void recvDecodingTables() throws IOException {
         final BitInputStream bitInputStream = this.bin;
         final Data dataShadow = this.data;
