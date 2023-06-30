@@ -423,9 +423,6 @@ public abstract class BandSet {
                     IntStream.of(results.extraMetadata).forEach(segmentHeader::appendBandCodingSpecifier);
                     return encodedBand;
                 }
-                if (betterCodec instanceof RunCodec) {
-
-                }
             }
         }
 
