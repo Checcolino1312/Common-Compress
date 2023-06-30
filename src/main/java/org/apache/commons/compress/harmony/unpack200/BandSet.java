@@ -47,7 +47,7 @@ public abstract class BandSet {
 
     protected SegmentHeader header;
 
-    public BandSet(final Segment segment) {
+    protected BandSet(final Segment segment) {
         this.segment = segment;
         this.header = segment.getSegmentHeader();
     }
