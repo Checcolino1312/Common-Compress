@@ -378,8 +378,8 @@ public class BZip2CompressorInputStream extends CompressorInputStream
     }
 
     private void getAndMoveToFrontDecode() throws IOException {
-        final BitInputStream bin = this.bin;
-        this.origPtr = bsR(bin, 24);
+        final BitInputStream bitInputStream = this.bin;
+        this.origPtr = bsR(bitInputStream, 24);
         recvDecodingTables();
 
         final Data dataShadow = this.data;
@@ -444,10 +444,10 @@ public class BZip2CompressorInputStream extends CompressorInputStream
 
                     int zn = minLens_zt;
                     checkBounds(zn, MAX_ALPHA_SIZE, "zn");
-                    int zvec = bsR(bin, zn);
+                    int zvec = bsR(bitInputStream, zn);
                     while(zvec > limit_zt[zn]) {
                         checkBounds(++zn, MAX_ALPHA_SIZE, "zn");
-                        zvec = (zvec << 1) | bsR(bin, 1);
+                        zvec = (zvec << 1) | bsR(bitInputStream, 1);
                     }
                     final int tmp = zvec - base_zt[zn];
                     checkBounds(tmp, MAX_ALPHA_SIZE, "zvec");
@@ -512,10 +512,10 @@ public class BZip2CompressorInputStream extends CompressorInputStream
 
                 int zn = minLens_zt;
                 checkBounds(zn, MAX_ALPHA_SIZE, "zn");
-                int zvec = bsR(bin, zn);
+                int zvec = bsR(bitInputStream, zn);
                 while(zvec > limit_zt[zn]) {
                     checkBounds(++zn, MAX_ALPHA_SIZE, "zn");
-                    zvec = (zvec << 1) | bsR(bin, 1);
+                    zvec = (zvec << 1) | bsR(bitInputStream, 1);
                 }
                 final int idx = zvec - base_zt[zn];
                 checkBounds(idx, MAX_ALPHA_SIZE, "zvec");
@@ -587,7 +587,7 @@ public class BZip2CompressorInputStream extends CompressorInputStream
     }
 
     private void initBlock() throws IOException {
-        final BitInputStream bin = this.bin;
+        final BitInputStream bitInputStream = this.bin;
         char magic0;
         char magic1;
         char magic2;
@@ -597,12 +597,12 @@ public class BZip2CompressorInputStream extends CompressorInputStream
 
         while (true) {
             // Get the block magic bytes.
-            magic0 = bsGetUByte(bin);
-            magic1 = bsGetUByte(bin);
-            magic2 = bsGetUByte(bin);
-            magic3 = bsGetUByte(bin);
-            magic4 = bsGetUByte(bin);
-            magic5 = bsGetUByte(bin);
+            magic0 = bsGetUByte(bitInputStream);
+            magic1 = bsGetUByte(bitInputStream);
+            magic2 = bsGetUByte(bitInputStream);
+            magic3 = bsGetUByte(bitInputStream);
+            magic4 = bsGetUByte(bitInputStream);
+            magic5 = bsGetUByte(bitInputStream);
 
             // If isn't end of stream magic, break out of the loop.
             if (magic0 != 0x17 || magic1 != 0x72 || magic2 != 0x45
@@ -628,8 +628,8 @@ public class BZip2CompressorInputStream extends CompressorInputStream
             this.currentState = EOF;
             throw new IOException("Bad block header");
         }
-        this.storedBlockCRC = bsGetInt(bin);
-        this.blockRandomised = bsR(bin, 1) == 1;
+        this.storedBlockCRC = bsGetInt(bitInputStream);
+        this.blockRandomised = bsR(bitInputStream, 1) == 1;
 
 
         if (this.data == null) {
@@ -741,7 +741,7 @@ public class BZip2CompressorInputStream extends CompressorInputStream
     }
 
     private void recvDecodingTables() throws IOException {
-        final BitInputStream bin = this.bin;
+        final BitInputStream bitInputStream = this.bin;
         final Data dataShadow = this.data;
         final boolean[] inUse = dataShadow.inUse;
         final byte[] pos = dataShadow.recvDecodingTables_pos;
@@ -752,7 +752,7 @@ public class BZip2CompressorInputStream extends CompressorInputStream
 
         /* Receive the mapping table */
         for (int i = 0; i < 16; i++) {
-            if (bsGetBit(bin)) {
+            if (bsGetBit(bitInputStream)) {
                 inUse16 |= 1 << i;
             }
         }
@@ -762,7 +762,7 @@ public class BZip2CompressorInputStream extends CompressorInputStream
             if ((inUse16 & (1 << i)) != 0) {
                 final int i16 = i << 4;
                 for (int j = 0; j < 16; j++) {
-                    if (bsGetBit(bin)) {
+                    if (bsGetBit(bitInputStream)) {
                         inUse[i16 + j] = true;
                     }
                 }
@@ -772,8 +772,8 @@ public class BZip2CompressorInputStream extends CompressorInputStream
         makeMaps();
         final int alphaSize = this.nInUse + 2;
         /* Now the selectors */
-        final int nGroups = bsR(bin, 3);
-        final int selectors = bsR(bin, 15);
+        final int nGroups = bsR(bitInputStream, 3);
+        final int selectors = bsR(bitInputStream, 15);
         if (selectors < 0) {
             throw new IOException("Corrupted input, nSelectors value negative");
         }
@@ -786,7 +786,7 @@ public class BZip2CompressorInputStream extends CompressorInputStream
 
         for (int i = 0; i < selectors; i++) {
             int j = 0;
-            while (bsGetBit(bin)) {
+            while (bsGetBit(bitInputStream)) {
                 j++;
             }
             if (i < MAX_SELECTORS) {
@@ -817,11 +817,11 @@ public class BZip2CompressorInputStream extends CompressorInputStream
 
         /* Now the coding tables */
         for (int t = 0; t < nGroups; t++) {
-            int curr = bsR(bin, 5);
+            int curr = bsR(bitInputStream, 5);
             final char[] len_t = len[t];
             for (int i = 0; i < alphaSize; i++) {
-                while (bsGetBit(bin)) {
-                    curr += bsGetBit(bin) ? -1 : 1;
+                while (bsGetBit(bitInputStream)) {
+                    curr += bsGetBit(bitInputStream) ? -1 : 1;
                 }
                 len_t[i] = (char) curr;
             }
