@@ -33,7 +33,7 @@ public abstract class CPConstant extends ConstantPoolEntry {
      * @param globalIndex index in CpBands
      * @throws NullPointerException if value is null
      */
-    public CPConstant(final byte tag, final Object value, final int globalIndex) {
+    protected CPConstant(final byte tag, final Object value, final int globalIndex) {
         super(tag, globalIndex);
         this.value = Objects.requireNonNull(value, "value");
     }
