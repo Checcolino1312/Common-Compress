@@ -317,7 +317,7 @@ public class TarArchiveEntryTest implements TarConstants {
         assertEquals(2, entry.getExtraPaxHeaders().size(), "extra header count");
         assertEquals("true", entry.getExtraPaxHeader("APACHE.mustelida"), "APACHE.mustelida");
         assertEquals("maximum weasels", entry.getExtraPaxHeader("SCHILY.xattr.user.org.apache.weasels"), "SCHILY.xattr.user.org.apache.weasels");
-        assertEquals(entry.getSize(), 1, "size");
+        assertEquals(1, entry.getSize(), "size");
 
         tos.putArchiveEntry(entry);
         tos.write('W');
