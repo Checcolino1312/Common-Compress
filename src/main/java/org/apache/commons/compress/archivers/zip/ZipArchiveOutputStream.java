@@ -1988,9 +1988,19 @@ public class ZipArchiveOutputStream extends ArchiveOutputStream {
         writeOut(ZipLong.getBytes(cdDiskNumberStart));
 
         // total number of entries in the central directory on this disk
-        final int numOfEntriesOnThisDisk = isSplitZip
-            ? numberOfCDInDiskData.get(numberOfThisDisk) == null ? 0 : numberOfCDInDiskData.get(numberOfThisDisk)
-            : entries.size();
+        int numOfEntriesOnThisDisk;
+        if (isSplitZip) {
+            int numberOfCDs;
+            if (numberOfCDInDiskData.get(numberOfThisDisk) == null) {
+                numberOfCDs = 0;
+            } else {
+                numberOfCDs = numberOfCDInDiskData.get(numberOfThisDisk);
+            }
+            numOfEntriesOnThisDisk = numberOfCDs;
+        } else {
+            numOfEntriesOnThisDisk = entries.size();
+        }
+
         final byte[] numOfEntriesOnThisDiskData = ZipEightByteInteger.getBytes(numOfEntriesOnThisDisk);
         writeOut(numOfEntriesOnThisDiskData);
 
