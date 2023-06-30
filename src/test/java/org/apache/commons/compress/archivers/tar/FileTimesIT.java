@@ -138,7 +138,9 @@ public class FileTimesIT extends AbstractTestCase {
             TarArchiveEntry e = tin.getNextTarEntry();
             assertNotNull(e);
             assertTrue(e.getExtraPaxHeaders().isEmpty());
-            assertEquals("name", "test-times.txt", e.getName());
+            final String expectedName = "test/test-times.txt";
+            final String actualName = e.getName();
+            assertEquals(expectedName, actualName);
             assertEquals(toFileTime("2022-03-14T01:25:03Z"), e.getLastModifiedTime(), "mtime");
             assertNull(e.getLastAccessTime(), "atime");
             assertNull(e.getStatusChangeTime(), "ctime");
