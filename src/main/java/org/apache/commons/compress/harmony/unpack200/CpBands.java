@@ -115,16 +115,16 @@ public class CpBands extends BandSet {
 
 
     public CPClass cpClassValue(final String string) {
-        CPClass cpString = stringsToCPClass.get(string);
-        if (cpString == null) {
+        CPClass cpstring = stringsToCPClass.get(string);
+        if (cpstring == null) {
             final Integer index = mapClass.get(string);
             if (index != null) {
                 return cpClassValue(index.intValue());
             }
-            cpString = new CPClass(cpUTF8Value(string, false), -1);
-            stringsToCPClass.put(string, cpString);
+            cpstring = new CPClass(cpUTF8Value(string, false), -1);
+            stringsToCPClass.put(string, cpstring);
         }
-        return cpString;
+        return cpstring;
     }
 
     public CPDouble cpDoubleValue(final int index) {
