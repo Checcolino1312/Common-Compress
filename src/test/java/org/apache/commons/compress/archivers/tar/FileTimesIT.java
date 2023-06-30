@@ -529,7 +529,9 @@ public class FileTimesIT extends AbstractTestCase {
             assertNull(e.getCreationTime(), "birthtime");
             e = tin.getNextTarEntry();
             assertTrue(e.getExtraPaxHeaders().isEmpty());
-            assertEquals("name", "test/test-times.txt", e.getName());
+            final String expectedName1 = "test/test-times.txt";
+            final String actualName1 = e.getName();
+            assertEquals(expectedName1, actualName1);
             assertEquals(TarConstants.LF_NORMAL, e.getLinkFlag());
             assertTrue(e.isFile());
             assertEquals(toFileTime("2022-03-17T00:38:20.470751500Z"), e.getLastModifiedTime(), "mtime");
