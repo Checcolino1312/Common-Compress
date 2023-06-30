@@ -22,7 +22,7 @@ package org.apache.commons.compress.harmony.unpack200.bytecode.forms;
  */
 public abstract class VariableInstructionForm extends ByteCodeForm {
 
-    public VariableInstructionForm(final int opcode, final String name) {
+    protected VariableInstructionForm(final int opcode, final String name) {
         super(opcode, name);
     }
 
