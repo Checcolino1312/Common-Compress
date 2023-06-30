@@ -21,7 +21,7 @@ import org.apache.commons.compress.harmony.unpack200.bytecode.CodeAttribute;
 
 public abstract class SwitchForm extends VariableInstructionForm {
 
-    protected SwitchForm(final int opcode, final String name) {
+    public SwitchForm(final int opcode, final String name) {
         super(opcode, name);
     }
 
