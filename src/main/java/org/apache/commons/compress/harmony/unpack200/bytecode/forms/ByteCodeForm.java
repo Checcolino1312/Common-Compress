@@ -462,6 +462,7 @@ public abstract class ByteCodeForm {
         calculateOperandPosition();
     }
 
+
     protected void calculateOperandPosition() {
         firstOperandIndex = -1;
         operandLength = -1;

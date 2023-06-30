@@ -48,6 +48,7 @@ public abstract class CPRef extends ConstantPoolEntry {
         this.nameAndType = Objects.requireNonNull(descriptor, "descriptor");
     }
 
+
     @Override
     public boolean equals(final Object obj) {
         if (this == obj) {

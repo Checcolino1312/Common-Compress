@@ -46,6 +46,8 @@ public abstract class BoundedArchiveInputStream extends InputStream {
         loc = start;
     }
 
+
+
     @Override
     public synchronized int read() throws IOException {
         if (loc >= end) {

@@ -32,6 +32,7 @@ public abstract class InitMethodReferenceForm extends ClassSpecificReferenceForm
         super(opcode, name, rewrite);
     }
 
+
     @Override
     protected abstract String context(OperandManager operandManager);
 

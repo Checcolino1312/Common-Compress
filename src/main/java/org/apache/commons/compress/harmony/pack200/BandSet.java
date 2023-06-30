@@ -229,6 +229,7 @@ public abstract class BandSet {
         this.segmentHeader = header;
     }
 
+
     private void initializeCanonicalArrays() {
         if (canonicalLargest == null) {
             canonicalLargest = new long[116];

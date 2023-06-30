@@ -35,6 +35,7 @@ public abstract class BCIRenumberedAttribute extends Attribute {
         super(attributeName);
     }
 
+
     @Override
     protected abstract int getLength();
 

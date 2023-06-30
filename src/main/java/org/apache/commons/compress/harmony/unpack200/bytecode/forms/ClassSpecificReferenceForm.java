@@ -33,6 +33,7 @@ public abstract class ClassSpecificReferenceForm extends ReferenceForm {
         super(opcode, name, rewrite);
     }
 
+
     protected abstract String context(OperandManager operandManager);
 
     @Override

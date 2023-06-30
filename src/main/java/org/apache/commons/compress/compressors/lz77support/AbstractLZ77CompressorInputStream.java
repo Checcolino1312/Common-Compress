@@ -137,6 +137,8 @@ public abstract class AbstractLZ77CompressorInputStream extends CompressorInputS
         bytesRemaining = 0;
     }
 
+
+
     /** {@inheritDoc} */
     @Override
     public int available() {

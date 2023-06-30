@@ -38,6 +38,7 @@ public abstract class CPConstant extends ConstantPoolEntry {
         this.value = Objects.requireNonNull(value, "value");
     }
 
+
     @Override
     public boolean equals(final Object obj) {
         if (this == obj) {

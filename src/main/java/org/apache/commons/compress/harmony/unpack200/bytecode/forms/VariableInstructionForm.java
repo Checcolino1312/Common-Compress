@@ -26,6 +26,8 @@ public abstract class VariableInstructionForm extends ByteCodeForm {
         super(opcode, name);
     }
 
+
+
     /**
      * This method writes operand directly into the rewrite array at index position specified.
      *

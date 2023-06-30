@@ -52,6 +52,7 @@ public abstract class BandSet {
         this.header = segment.getSegmentHeader();
     }
 
+
     /**
      * Decode a band and return an array of {@code int} values
      *

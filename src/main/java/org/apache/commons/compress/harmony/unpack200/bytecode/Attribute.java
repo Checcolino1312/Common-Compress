@@ -33,6 +33,7 @@ public abstract class Attribute extends ClassFileEntry {
         this.attributeName = attributeName;
     }
 
+
     @Override
     protected void doWrite(final DataOutputStream dos) throws IOException {
         dos.writeShort(attributeNameIndex);

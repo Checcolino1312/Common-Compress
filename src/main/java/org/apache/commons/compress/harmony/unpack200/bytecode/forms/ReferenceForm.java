@@ -33,6 +33,7 @@ public abstract class ReferenceForm extends ByteCodeForm {
         super(opcode, name, rewrite);
     }
 
+
     protected abstract int getOffset(OperandManager operandManager);
 
     protected abstract int getPoolID();
