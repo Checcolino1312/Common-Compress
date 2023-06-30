@@ -42,7 +42,7 @@ public abstract class CPRef extends ConstantPoolEntry {
      * @param globalIndex index in CpBands
      * @throws NullPointerException if descriptor or className is null
      */
-    protected CPRef(final byte type, final CPClass className, final CPNameAndType descriptor, final int globalIndex) {
+    public CPRef(final byte type, final CPClass className, final CPNameAndType descriptor, final int globalIndex) {
         super(type, globalIndex);
         this.className = Objects.requireNonNull(className, "className");
         this.nameAndType = Objects.requireNonNull(descriptor, "descriptor");
