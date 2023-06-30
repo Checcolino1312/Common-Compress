@@ -127,6 +127,7 @@ public class CpBands extends BandSet {
         return cpstring;
     }
 
+
     public CPDouble cpDoubleValue(final int index) {
         final Double dbl = Double.valueOf(cpDouble[index]);
         return doublesToCPDoubles.computeIfAbsent(dbl, k -> {
