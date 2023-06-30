@@ -228,6 +228,7 @@ public class Archive {
             }
         }
 
+
         if (removePackFile) {
             boolean deleted = false;
             if (inputFileName != null) {
