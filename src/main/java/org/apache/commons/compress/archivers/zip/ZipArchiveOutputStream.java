@@ -479,23 +479,23 @@ public class ZipArchiveOutputStream extends ArchiveOutputStream {
     public ZipArchiveOutputStream(final Path file, final OpenOption... options) throws IOException {
         def = new Deflater(level, true);
         OutputStream outputStream = null;
-        SeekableByteChannel channel = null;
+        SeekableByteChannel byteChannel = null;
         StreamCompressor streamCompressor = null;
         try {
-            channel = Files.newByteChannel(file,
+            byteChannel = Files.newByteChannel(file,
                 EnumSet.of(StandardOpenOption.CREATE, StandardOpenOption.WRITE,
                            StandardOpenOption.READ,
                            StandardOpenOption.TRUNCATE_EXISTING));
             // will never get opened properly when an exception is thrown so doesn't need to get closed
-            streamCompressor = StreamCompressor.create(channel, def); //NOSONAR
+            streamCompressor = StreamCompressor.create(byteChannel, def); //NOSONAR
         } catch (final IOException e) { // NOSONAR
-            IOUtils.closeQuietly(channel);
-            channel = null;
+            IOUtils.closeQuietly(byteChannel);
+            byteChannel = null;
             outputStream = Files.newOutputStream(file, options);
             streamCompressor = StreamCompressor.create(outputStream, def);
         }
         this.outputStream = outputStream;
-        this.channel = channel;
+        this.channel = byteChannel;
         this.streamCompressor = streamCompressor;
         this.isSplitZip = false;
     }
