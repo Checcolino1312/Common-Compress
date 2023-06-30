@@ -28,7 +28,7 @@ public abstract class SingleByteReferenceForm extends ReferenceForm {
 
     protected boolean widened;
 
-    public SingleByteReferenceForm(final int opcode, final String name, final int[] rewrite) {
+    protected SingleByteReferenceForm(final int opcode, final String name, final int[] rewrite) {
         super(opcode, name, rewrite);
     }
 
