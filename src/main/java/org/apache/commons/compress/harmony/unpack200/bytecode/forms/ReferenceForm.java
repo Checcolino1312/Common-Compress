@@ -29,7 +29,7 @@ import org.apache.commons.compress.harmony.unpack200.bytecode.OperandManager;
  */
 public abstract class ReferenceForm extends ByteCodeForm {
 
-    protected ReferenceForm(final int opcode, final String name, final int[] rewrite) {
+    public ReferenceForm(final int opcode, final String name, final int[] rewrite) {
         super(opcode, name, rewrite);
     }
 
