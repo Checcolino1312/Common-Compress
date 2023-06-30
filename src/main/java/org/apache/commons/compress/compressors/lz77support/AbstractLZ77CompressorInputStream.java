@@ -126,7 +126,7 @@ public abstract class AbstractLZ77CompressorInputStream extends CompressorInputS
      *
      * @throws IllegalArgumentException if windowSize is not bigger than 0
      */
-    public AbstractLZ77CompressorInputStream(final InputStream is, final int windowSize) {
+    protected AbstractLZ77CompressorInputStream(final InputStream is, final int windowSize) {
         this.in = new CountingInputStream(is);
         if (windowSize <= 0) {
             throw new IllegalArgumentException("windowSize must be bigger than 0");
