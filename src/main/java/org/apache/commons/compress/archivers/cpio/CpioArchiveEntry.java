@@ -645,8 +645,15 @@ public class CpioArchiveEntry implements CpioConstants, ArchiveEntry {
      * @return Returns the number of links.
      */
     public long getNumberOfLinks() {
-        return nlink == 0 ? isDirectory() ? 2 : 1 : nlink;
+        long numberOfLinks;
+        if (nlink == 0) {
+            numberOfLinks = isDirectory() ? 2 : 1;
+        } else {
+            numberOfLinks = nlink;
+        }
+        return numberOfLinks;
     }
+
 
     /**
      * Gets the remote device id.
