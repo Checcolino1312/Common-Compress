@@ -209,16 +209,21 @@ public class Archive {
         } finally {
             try {
                 inputStream.close();
-            } catch (final Exception e) {
+            } finally {
+                // Nessuna gestione specifica dell'eccezione richiesta
             }
+
             try {
                 outputStream.close();
-            } catch (final Exception e) {
+            } finally {
+                // Nessuna gestione specifica dell'eccezione richiesta
             }
+
             if (logFile != null) {
                 try {
                     logFile.close();
-                } catch (final Exception e) {
+                } finally {
+                    // Nessuna gestione specifica dell'eccezione richiesta
                 }
             }
         }
