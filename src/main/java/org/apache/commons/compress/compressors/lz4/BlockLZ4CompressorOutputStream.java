@@ -42,9 +42,17 @@ public class BlockLZ4CompressorOutputStream extends CompressorOutputStream {
     final static class Pair {
         private static int lengths(final int litLength, final int brLength) {
             final int l = Math.min(litLength, 15);
-            final int br = brLength < 4 ? 0 : (brLength < 19 ? brLength - 4 : 15);
+            int br;
+            if (brLength < 4) {
+                br = 0;
+            } else if (brLength < 19) {
+                br = brLength - 4;
+            } else {
+                br = 15;
+            }
             return (l << BlockLZ4CompressorInputStream.SIZE_BITS) | br;
         }
+
         private static void writeLength(int length, final OutputStream out) throws IOException {
             while (length >= 255) {
                 out.write(255);
