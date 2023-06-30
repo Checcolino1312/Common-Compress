@@ -28,7 +28,7 @@ import org.apache.commons.compress.harmony.unpack200.bytecode.OperandManager;
  */
 public abstract class InitMethodReferenceForm extends ClassSpecificReferenceForm {
 
-    public InitMethodReferenceForm(final int opcode, final String name, final int[] rewrite) {
+    protected InitMethodReferenceForm(final int opcode, final String name, final int[] rewrite) {
         super(opcode, name, rewrite);
     }
 
