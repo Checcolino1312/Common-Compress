@@ -455,7 +455,7 @@ public abstract class ByteCodeForm {
      * @param rewrite int[] Array of ints. Operand positions (which will later be rewritten in ByteCodes) are indicated
      *        by -1.
      */
-    protected ByteCodeForm(final int opcode, final String name, final int[] rewrite) {
+    public ByteCodeForm(final int opcode, final String name, final int[] rewrite) {
         this.opcode = opcode;
         this.name = name;
         this.rewrite = rewrite;
