@@ -191,7 +191,7 @@ public abstract class AnnotationsAttribute extends Attribute {
         }
     }
 
-    public AnnotationsAttribute(final CPUTF8 attributeName) {
+    protected AnnotationsAttribute(final CPUTF8 attributeName) {
         super(attributeName);
     }
 
