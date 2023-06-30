@@ -260,7 +260,7 @@ public class X0017_StrongEncryptionHeader extends PKWareExtraHeader {
 
     public byte[] erdData;
     // encryption key
-    private byte[] recipientKeyHash;
+    public byte[] recipientKeyHash;
 
     public byte[] keyBlob;
     // password verification data
