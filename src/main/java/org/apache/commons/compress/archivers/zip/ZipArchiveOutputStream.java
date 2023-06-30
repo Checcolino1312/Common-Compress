@@ -1787,6 +1787,7 @@ public class ZipArchiveOutputStream extends ArchiveOutputStream {
 
 
 
+
     private void writeCentralDirectoryInChunks() throws IOException {
         final int NUM_PER_WRITE = 1000;
         final ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream(70 * NUM_PER_WRITE);
