@@ -392,7 +392,7 @@ public class ZipFile implements Closeable {
     /**
      * File name of actual source.
      */
-    private final String archiveName;
+    public final String archiveName;
 
     /**
      * The actual data source.
