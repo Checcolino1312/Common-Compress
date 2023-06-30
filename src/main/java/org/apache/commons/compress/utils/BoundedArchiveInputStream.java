@@ -37,7 +37,7 @@ public abstract class BoundedArchiveInputStream extends InputStream {
      * @param start     position in the stream from where the reading of this bounded stream starts.
      * @param remaining amount of bytes which are allowed to read from the bounded stream.
      */
-    protected BoundedArchiveInputStream(final long start, final long remaining) {
+    public BoundedArchiveInputStream(final long start, final long remaining) {
         this.end = start + remaining;
         if (this.end < start) {
             // check for potential vulnerability due to overflow
