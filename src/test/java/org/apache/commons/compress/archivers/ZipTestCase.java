@@ -756,7 +756,7 @@ public final class ZipTestCase extends AbstractTestCase {
             }
         }
 
-        assertEquals(results.size(), 2);
+        assertEquals( 2, results.size());
         File result = results.get(0);
         assertEquals(file1.length(), result.length());
         result = results.get(1);
