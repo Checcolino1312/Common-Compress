@@ -443,7 +443,7 @@ public abstract class ByteCodeForm {
      * @param opcode int corresponding to the opcode's value
      * @param name String printable name of the opcode
      */
-    public ByteCodeForm(final int opcode, final String name) {
+    protected ByteCodeForm(final int opcode, final String name) {
         this(opcode, name, new int[] {opcode});
     }
 
