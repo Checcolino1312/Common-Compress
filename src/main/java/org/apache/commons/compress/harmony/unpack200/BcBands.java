@@ -66,7 +66,7 @@ public class BcBands extends BandSet {
     private int[] bcSuperMethod;
     private int[] bcInitRef;
     public int[] bcEscRef;
-    private int[] bcEscRefSize;
+    public int[] bcEscRefSize;
     private int[] bcEscSize;
     public int[][] bcEscByte;
 
