@@ -31,7 +31,7 @@ public abstract class BCIRenumberedAttribute extends Attribute {
 
     protected boolean renumbered;
 
-    protected BCIRenumberedAttribute(final CPUTF8 attributeName) {
+    public BCIRenumberedAttribute(final CPUTF8 attributeName) {
         super(attributeName);
     }
 
