@@ -68,7 +68,7 @@ public class BcBands extends BandSet {
     private int[] bcEscRef;
     private int[] bcEscRefSize;
     private int[] bcEscSize;
-    private int[][] bcEscByte;
+    public int[][] bcEscByte;
 
     private List<Integer> wideByteCodes;
 
