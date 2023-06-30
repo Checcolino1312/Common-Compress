@@ -32,6 +32,7 @@ public abstract class SingleByteReferenceForm extends ReferenceForm {
         super(opcode, name, rewrite);
     }
 
+
     @Override
     protected abstract int getOffset(OperandManager operandManager);
 
