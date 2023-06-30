@@ -264,7 +264,7 @@ public class X0017_StrongEncryptionHeader extends PKWareExtraHeader {
 
     public byte[] keyBlob;
     // password verification data
-    private byte[] vData;
+    public byte[] vData;
 
     public byte[] vCRC32;
 
