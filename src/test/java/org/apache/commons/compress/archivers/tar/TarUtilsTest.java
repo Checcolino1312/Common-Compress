@@ -394,7 +394,7 @@ public class TarUtilsTest extends AbstractTestCase {
         byte [] buff = new byte[20];
         final String sb1 = "abcdefghijklmnopqrstuvwxyz";
         int off = TarUtils.formatNameBytes(sb1, buff, 1, buff.length-1);
-        assertEquals(off, 20);
+        assertEquals( 20,off);
         String sb2 = TarUtils.parseName(buff, 1, 10);
         assertEquals(sb2,sb1.substring(0,10));
         sb2 = TarUtils.parseName(buff, 1, 19);
