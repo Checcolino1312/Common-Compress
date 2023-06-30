@@ -85,7 +85,7 @@ public class CpioArchiveInputStreamTest extends AbstractTestCase {
             }
         }
 
-        assertEquals(1,count);
+        assertEquals(count, 1);
     }
 
     @Test
