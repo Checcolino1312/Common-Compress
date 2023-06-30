@@ -140,9 +140,23 @@ class BlockSort {
 
     private static final int CLEARMASK = (~SETMASK);
     private static int med3(final int a, final int b, final int c) {
-        return (a < b) ? (b < c ? b : a < c ? c : a) : (b > c ? b : a > c ? c
-                                                        : a);
+        int result;
+        if (a < b) {
+            if (b < c) {
+                result = b;
+            } else {
+                result = a < c ? c : a;
+            }
+        } else {
+            if (b > c) {
+                result = b;
+            } else {
+                result = a > c ? c : a;
+            }
+        }
+        return result;
     }
+
     private static void vswap(final int[] fmap, int p1, int p2, int n) {
         n += p1;
         while (p1 < n) {
