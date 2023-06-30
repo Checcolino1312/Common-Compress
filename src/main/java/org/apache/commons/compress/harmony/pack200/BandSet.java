@@ -224,7 +224,7 @@ public abstract class BandSet {
      * @param effort - the packing effort to be used (must be 1-9)
      * @param header - the segment header
      */
-    public BandSet(final int effort, final SegmentHeader header) {
+    protected BandSet(final int effort, final SegmentHeader header) {
         this.effort = effort;
         this.segmentHeader = header;
     }
