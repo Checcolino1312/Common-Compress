@@ -868,7 +868,7 @@ public class SevenZOutputFile implements Closeable {
         int mask = 0x80;
         int i;
         for (i = 0; i < 8; i++) {
-            if (value < ((1L << ( 7  * (i + 1))))) {
+            if (value < (1L << ( 7  * (i + 1)))) {
                 firstByte |= (value >>> (8 * i));
                 break;
             }
