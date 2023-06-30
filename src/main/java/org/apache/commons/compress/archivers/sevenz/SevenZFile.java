@@ -953,22 +953,22 @@ public class SevenZFile implements Closeable {
         final int nextHeaderSizeInt = (int) startHeader.nextHeaderSize;
         channel.position(SIGNATURE_HEADER_SIZE + startHeader.nextHeaderOffset);
 
-        Archive archive = new Archive();
+        Archive archive1 = new Archive();
         ByteBuffer buf = ByteBuffer.allocate(nextHeaderSizeInt).order(ByteOrder.LITTLE_ENDIAN);
         readFully(buf);
         int nid = getUnsignedByte(buf);
         if (nid == NID.kEncodedHeader) {
-            buf = readEncodedHeader(buf, archive, password);
+            buf = readEncodedHeader(buf, archive1, password);
             // Archive gets rebuilt with the new header
-            archive = new Archive();
+            archive1 = new Archive();
             nid = getUnsignedByte(buf);
         }
         if (nid != NID.kHeader) {
             throw new IOException("Broken or unsupported archive: no Header");
         }
-        readHeader(buf, archive);
-        archive.subStreamsInfo = null;
-        return archive;
+        readHeader(buf, archive1);
+        archive1.subStreamsInfo = null;
+        return archive1;
     }
 
     /**
