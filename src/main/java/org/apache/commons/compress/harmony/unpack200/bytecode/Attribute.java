@@ -29,7 +29,7 @@ public abstract class Attribute extends ClassFileEntry {
 
     private int attributeNameIndex;
 
-    public Attribute(final CPUTF8 attributeName) {
+    protected Attribute(final CPUTF8 attributeName) {
         this.attributeName = attributeName;
     }
 
