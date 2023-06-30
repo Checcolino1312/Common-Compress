@@ -204,7 +204,7 @@ public class TarArchiveEntryTest implements TarConstants {
         assertNull(entry.getExtraPaxHeader("atime"), "atime");
         assertNull(entry.getExtraPaxHeader("ctime"), "ctime");
         assertNull(entry.getExtraPaxHeader("LIBARCHIVE.creationtime"), "birthtime");
-        assertEquals(entry.getSize(), 1, "size");
+        assertEquals(1, entry.getSize(), "size");
         assertEquals(toFileTime("2022-03-14T01:25:03.599853900Z"), entry.getLastModifiedTime(), "mtime");
         assertEquals(toFileTime("2022-03-14T01:31:00.706927200Z"), entry.getLastAccessTime(), "atime");
         assertEquals(toFileTime("2022-03-14T01:28:59.700505300Z"), entry.getStatusChangeTime(), "ctime");
