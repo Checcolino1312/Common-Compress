@@ -494,10 +494,10 @@ class BlockSort {
         int H, i, j, k, l, r, cc, cc1;
         int nNotDone;
         final int nBhtab;
-        final int[] eclass = getEclass();
+        final int[] ints = getEclass();
 
         for (i = 0; i < nblock; i++) {
-            eclass[i] = 0;
+            ints[i] = 0;
         }
     /*--
       LBZ2: Initial 1-char radix sort to generate
@@ -549,7 +549,7 @@ class BlockSort {
                 if (k < 0) {
                     k += nblock;
                 }
-                eclass[k] = j;
+                ints[k] = j;
             }
 
             nNotDone = 0;
@@ -573,12 +573,12 @@ class BlockSort {
                 /*-- LBZ2: now [l, r] bracket current bucket --*/
                 if (r > l) {
                     nNotDone += (r - l + 1);
-                    fallbackQSort3(fmap, eclass, l, r);
+                    fallbackQSort3(fmap, ints, l, r);
 
                     /*-- LBZ2: scan bucket and generate header bits-- */
                     cc = -1;
                     for (i = l; i <= r; i++) {
-                        cc1 = eclass[fmap[i]];
+                        cc1 = ints[fmap[i]];
                         if (cc != cc1) {
                             bhtab.set(i);
                             cc = cc1;
