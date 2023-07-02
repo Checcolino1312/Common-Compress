@@ -181,11 +181,17 @@ public class DumpArchiveInputStream extends ArchiveInputStream {
         return raw.getBytesRead();
     }
 
+    /**
+     * {@inheritDoc}
+     *
+     * @deprecated This method is deprecated.
+     */
     @Deprecated
     @Override
     public int getCount() {
         return (int) getBytesRead();
     }
+
 
     /**
      * Read the next entry.
