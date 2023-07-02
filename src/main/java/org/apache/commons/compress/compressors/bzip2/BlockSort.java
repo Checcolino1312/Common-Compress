@@ -926,7 +926,7 @@ class BlockSort {
         final int[] runningOrder = this.mainSort_runningOrder;
         final int[] copy = this.mainSort_copy;
         final boolean[] bigDone = this.mainSort_bigDone;
-        final int[] ftab = this.ftab;
+        final int[] ints = this.ftab;
         final byte[] block = dataShadow.block;
         final int[] fmap = dataShadow.fmap;
         final char[] quadrant = this.quadrant;
@@ -934,7 +934,7 @@ class BlockSort {
         final boolean firstAttemptShadow = this.firstAttempt;
 
         // LBZ2: Set up the 2-byte frequency table
-        Arrays.fill(ftab, 0);
+        Arrays.fill(ints, 0);
 
         /*
          * In the various block-sized structures, live data runs from 0 to
@@ -954,25 +954,25 @@ class BlockSort {
         int c1 = block[0] & 0xff;
         for (int i = 0; i <= lastShadow; i++) {
             final int c2 = block[i + 1] & 0xff;
-            ftab[(c1 << 8) + c2]++;
+            ints[(c1 << 8) + c2]++;
             c1 = c2;
         }
 
         for (int i = 1; i <= 65536; i++) {
-            ftab[i] += ftab[i - 1];
+            ints[i] += ints[i - 1];
         }
 
         c1 = block[1] & 0xff;
         for (int i = 0; i < lastShadow; i++) {
             final int c2 = block[i + 2] & 0xff;
-            fmap[--ftab[(c1 << 8) + c2]] = i;
+            fmap[--ints[(c1 << 8) + c2]] = i;
             c1 = c2;
         }
 
-        fmap[--ftab[((block[lastShadow + 1] & 0xff) << 8) + (block[1] & 0xff)]] = lastShadow;
+        fmap[--ints[((block[lastShadow + 1] & 0xff) << 8) + (block[1] & 0xff)]] = lastShadow;
 
         /*
-         * LBZ2: Now ftab contains the first loc of every small bucket. Calculate the
+         * LBZ2: Now ints contains the first loc of every small bucket. Calculate the
          * running order, from smallest to largest big bucket.
          */
         for (int i = 256; --i >= 0;) {
@@ -985,10 +985,10 @@ class BlockSort {
             h /= 3;
             for (int i = h; i <= 255; i++) {
                 final int vv = runningOrder[i];
-                final int a = ftab[(vv + 1) << 8] - ftab[vv << 8];
+                final int a = ints[(vv + 1) << 8] - ints[vv << 8];
                 final int b = h - 1;
                 int j = i;
-                for (int ro = runningOrder[j - h]; (ftab[(ro + 1) << 8] - ftab[ro << 8]) > a; ro = runningOrder[j
+                for (int ro = runningOrder[j - h]; (ints[(ro + 1) << 8] - ints[ro << 8]) > a; ro = runningOrder[j
                                                                                                                 - h]) {
                     runningOrder[j] = ro;
                     j -= h;
@@ -1018,10 +1018,10 @@ class BlockSort {
              */
             for (int j = 0; j <= 255; j++) {
                 final int sb = (ss << 8) + j;
-                final int ftab_sb = ftab[sb];
+                final int ftab_sb = ints[sb];
                 if ((ftab_sb & SETMASK) != SETMASK) {
                     final int lo = ftab_sb & CLEARMASK;
-                    final int hi = (ftab[sb + 1] & CLEARMASK) - 1;
+                    final int hi = (ints[sb + 1] & CLEARMASK) - 1;
                     if (hi > lo) {
                         mainQSort3(dataShadow, lo, hi, 2, lastShadow);
                         if (firstAttemptShadow
@@ -1029,7 +1029,7 @@ class BlockSort {
                             return;
                         }
                     }
-                    ftab[sb] = ftab_sb | SETMASK;
+                    ints[sb] = ftab_sb | SETMASK;
                 }
             }
 
@@ -1038,10 +1038,10 @@ class BlockSort {
             // sorted order for small buckets [t, ss] for all t != ss.
 
             for (int j = 0; j <= 255; j++) {
-                copy[j] = ftab[(j << 8) + ss] & CLEARMASK;
+                copy[j] = ints[(j << 8) + ss] & CLEARMASK;
             }
 
-            for (int j = ftab[ss << 8] & CLEARMASK, hj = (ftab[(ss + 1) << 8] & CLEARMASK); j < hj; j++) {
+            for (int j = ints[ss << 8] & CLEARMASK, hj = (ints[(ss + 1) << 8] & CLEARMASK); j < hj; j++) {
                 final int fmap_j = fmap[j];
                 c1 = block[fmap_j] & 0xff;
                 if (!bigDone[c1]) {
@@ -1051,15 +1051,15 @@ class BlockSort {
             }
 
             for (int j = 256; --j >= 0;) {
-                ftab[(j << 8) + ss] |= SETMASK;
+                ints[(j << 8) + ss] |= SETMASK;
             }
 
 
             bigDone[ss] = true;
 
             if (i < 255) {
-                final int bbStart = ftab[ss << 8] & CLEARMASK;
-                final int bbSize = (ftab[(ss + 1) << 8] & CLEARMASK) - bbStart;
+                final int bbStart = ints[ss << 8] & CLEARMASK;
+                final int bbSize = (ints[(ss + 1) << 8] & CLEARMASK) - bbStart;
                 int shifts = 0;
 
                 while ((bbSize >> shifts) > 65534) {
