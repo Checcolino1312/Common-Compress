@@ -211,8 +211,8 @@ public class TarArchiveOutputStream extends ArchiveOutputStream {
         if (realBlockSize <= 0 || realBlockSize % RECORD_SIZE != 0) {
             throw new IllegalArgumentException("Block size must be a multiple of 512 bytes. Attempt to use set size of " + blockSize);
         }
-        out = new FixedLengthBlockOutputStream(countingOut = new CountingOutputStream(os),
-                                               RECORD_SIZE);
+        countingOut = new CountingOutputStream(os);
+        out = new FixedLengthBlockOutputStream(countingOut, RECORD_SIZE);
         this.encoding = encoding;
         this.zipEncoding = ZipEncodingHelper.getZipEncoding(encoding);
 
