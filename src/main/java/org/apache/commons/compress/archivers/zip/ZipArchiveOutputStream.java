@@ -478,7 +478,7 @@ public class ZipArchiveOutputStream extends ArchiveOutputStream {
      */
     public ZipArchiveOutputStream(final Path file, final OpenOption... options) throws IOException {
         def = new Deflater(level, true);
-        OutputStream outputStream = null;
+        OutputStream stream = null;
         SeekableByteChannel byteChannel = null;
         StreamCompressor streamCompressor = null;
         try {
@@ -491,10 +491,10 @@ public class ZipArchiveOutputStream extends ArchiveOutputStream {
         } catch (final IOException e) { // NOSONAR
             IOUtils.closeQuietly(byteChannel);
             byteChannel = null;
-            outputStream = Files.newOutputStream(file, options);
-            streamCompressor = StreamCompressor.create(outputStream, def);
+            stream = Files.newOutputStream(file, options);
+            streamCompressor = StreamCompressor.create(stream, def);
         }
-        this.outputStream = outputStream;
+        this.outputStream = stream;
         this.channel = byteChannel;
         this.streamCompressor = streamCompressor;
         this.isSplitZip = false;
