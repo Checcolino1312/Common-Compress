@@ -59,7 +59,8 @@ public class ZstdCompressorInputStream extends CompressorInputStream
      * @throws IOException if an IO error occurs.
      */
     public ZstdCompressorInputStream(final InputStream in, final BufferPool bufferPool) throws IOException {
-        this.decIS = new ZstdInputStream(countingStream = new CountingInputStream(in), bufferPool);
+        countingStream = new CountingInputStream(in);
+        this.decIS = new ZstdInputStream(countingStream, bufferPool);
     }
 
     @Override
