@@ -42,7 +42,8 @@ public class ZstdCompressorInputStream extends CompressorInputStream
     private final ZstdInputStream decIS;
 
     public ZstdCompressorInputStream(final InputStream in) throws IOException {
-        this.decIS = new ZstdInputStream(countingStream = new CountingInputStream(in));
+        countingStream = new CountingInputStream(in);
+        this.decIS = new ZstdInputStream(countingStream);
     }
 
     /**
