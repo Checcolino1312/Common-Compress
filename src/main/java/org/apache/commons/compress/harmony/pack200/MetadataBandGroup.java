@@ -216,7 +216,7 @@ public class MetadataBandGroup extends BandSet {
 			casearray_N.add(arraySize);
 			numBackwardsCalls += arraySize;
 		}
-		nestTypeRS.forEach(type -> nesttype_RS.add(cpBands.getCPSignature(type)));
+		nestTypeRS.forEach(s -> nesttype_RS.add(cpBands.getCPSignature(s)));
 		nestNameRU.forEach(name -> nestname_RU.add(cpBands.getCPUtf8(name)));
 		for (final Integer numPairs : nestPairN) {
 			nestpair_N.add(numPairs.intValue());
