@@ -1093,11 +1093,11 @@ public class ClassBands extends BandSet {
 		codeMaxStack.remove(codeMaxStack.size() - 1);
 		final int handlers = codeHandlerCount.remove(codeHandlerCount.size() - 1);
 		for (int i = 0; i < handlers; i++) {
-			final int index = codeHandlerStartP.size() - 1;
-			codeHandlerStartP.remove(index);
-			codeHandlerEndPO.remove(index);
-			codeHandlerCatchPO.remove(index);
-			codeHandlerClass.remove(index);
+			final int i1 = codeHandlerStartP.size() - 1;
+			codeHandlerStartP.remove(i1);
+			codeHandlerEndPO.remove(i1);
+			codeHandlerCatchPO.remove(i1);
+			codeHandlerClass.remove(i1);
 		}
 		if (!stripDebug) {
 			removeCodeDebugAttributes();
