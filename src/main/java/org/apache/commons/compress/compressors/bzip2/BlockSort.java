@@ -760,7 +760,7 @@ class BlockSort {
         }
 
         final int[] fmap = dataShadow.fmap;
-        final char[] quadrant = this.quadrant;
+        final char[] chars = this.quadrant;
         final byte[] block = dataShadow.block;
         final int lastPlus1 = lastShadow + 1;
         final boolean firstAttemptShadow = this.firstAttempt;
@@ -813,13 +813,13 @@ class BlockSort {
                                                 X: while (x > 0) {
                                                     x -= 4;
                                                     if (block[i1 + 1] == block[i2 + 1]) {
-                                                        if (quadrant[i1] == quadrant[i2]) {
+                                                        if (chars[i1] == chars[i2]) {
                                                             if (block[i1 + 2] == block[i2 + 2]) {
-                                                                if (quadrant[i1 + 1] == quadrant[i2 + 1]) {
+                                                                if (chars[i1 + 1] == chars[i2 + 1]) {
                                                                     if (block[i1 + 3] == block[i2 + 3]) {
-                                                                        if (quadrant[i1 + 2] == quadrant[i2 + 2]) {
+                                                                        if (chars[i1 + 2] == chars[i2 + 2]) {
                                                                             if (block[i1 + 4] == block[i2 + 4]) {
-                                                                                if (quadrant[i1 + 3] == quadrant[i2 + 3]) {
+                                                                                if (chars[i1 + 3] == chars[i2 + 3]) {
                                                                                     if ((i1 += 4) >= lastPlus1) { //NOSONAR
                                                                                         i1 -= lastPlus1;
                                                                                     }
@@ -829,7 +829,7 @@ class BlockSort {
                                                                                     workDoneShadow++;
                                                                                     continue X;
                                                                                 }
-                                                                                if ((quadrant[i1 + 3] > quadrant[i2 + 3])) {
+                                                                                if ((chars[i1 + 3] > chars[i2 + 3])) {
                                                                                     continue HAMMER;
                                                                                 }
                                                                                 break HAMMER;
@@ -839,7 +839,7 @@ class BlockSort {
                                                                             }
                                                                             break HAMMER;
                                                                         }
-                                                                        if ((quadrant[i1 + 2] > quadrant[i2 + 2])) {
+                                                                        if ((chars[i1 + 2] > chars[i2 + 2])) {
                                                                             continue HAMMER;
                                                                         }
                                                                         break HAMMER;
@@ -849,7 +849,7 @@ class BlockSort {
                                                                     }
                                                                     break HAMMER;
                                                                 }
-                                                                if ((quadrant[i1 + 1] > quadrant[i2 + 1])) {
+                                                                if ((chars[i1 + 1] > chars[i2 + 1])) {
                                                                     continue HAMMER;
                                                                 }
                                                                 break HAMMER;
@@ -859,7 +859,7 @@ class BlockSort {
                                                             }
                                                             break HAMMER;
                                                         }
-                                                        if ((quadrant[i1] > quadrant[i2])) {
+                                                        if ((chars[i1] > chars[i2])) {
                                                             continue HAMMER;
                                                         }
                                                         break HAMMER;
