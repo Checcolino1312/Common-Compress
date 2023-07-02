@@ -929,7 +929,7 @@ class BlockSort {
         final int[] ints = this.ftab;
         final byte[] block = dataShadow.block;
         final int[] fmap = dataShadow.fmap;
-        final char[] quadrant = this.quadrant;
+        final char[] chars = this.quadrant;
         final int workLimitShadow = this.workLimit;
         final boolean firstAttemptShadow = this.firstAttempt;
 
@@ -945,7 +945,7 @@ class BlockSort {
             block[lastShadow + i + 2] = block[(i % (lastShadow + 1)) + 1];
         }
         for (int i = lastShadow + BZip2Constants.NUM_OVERSHOOT_BYTES +1; --i >= 0;) {
-            quadrant[i] = 0;
+            chars[i] = 0;
         }
         block[0] = block[lastShadow + 1];
 
@@ -1069,9 +1069,9 @@ class BlockSort {
                 for (int j = 0; j < bbSize; j++) {
                     final int a2update = fmap[bbStart + j];
                     final char qVal = (char) (j >> shifts);
-                    quadrant[a2update] = qVal;
+                    chars[a2update] = qVal;
                     if (a2update < BZip2Constants.NUM_OVERSHOOT_BYTES) {
-                        quadrant[a2update + lastShadow + 1] = qVal;
+                        chars[a2update + lastShadow + 1] = qVal;
                     }
                 }
             }
