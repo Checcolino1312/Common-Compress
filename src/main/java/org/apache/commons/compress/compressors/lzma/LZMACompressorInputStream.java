@@ -69,7 +69,8 @@ public class LZMACompressorInputStream extends CompressorInputStream
      */
     public LZMACompressorInputStream(final InputStream inputStream)
             throws IOException {
-        in = new LZMAInputStream(countingStream = new CountingInputStream(inputStream), -1);
+        countingStream = new CountingInputStream(inputStream);
+        in = new LZMAInputStream(countingStream, -1);
     }
 
     /**
