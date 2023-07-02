@@ -210,10 +210,10 @@ public class MetadataBandGroup {
             }
             return nestedArray;
         case '@':
-            final CPUTF8 type = nesttype_RS[nesttype_RS_Index++];
+            final CPUTF8 nesttypeR = nesttype_RS[nesttype_RS_Index++];
             final int numPairs = nestpair_N[nestpair_N_Index++];
 
-            return getAnnotation(type, numPairs, nestname_RU_Iterator);
+            return getAnnotation(nesttypeR, numPairs, nestname_RU_Iterator);
         }
         return null;
     }
