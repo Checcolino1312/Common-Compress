@@ -490,7 +490,7 @@ class BlockSort {
      * @param nblock size of the block
      */
     final void fallbackSort(final int[] fmap, final byte[] block, final int nblock) {
-        final int[] ftab = new int[257];
+        final int[] ints1 = new int[257];
         int H, i, j, k, l, r, cc, cc1;
         int nNotDone;
         final int nBhtab;
@@ -504,23 +504,23 @@ class BlockSort {
       initial fmap and initial BH bits.
       --*/
         for (i = 0; i < nblock; i++) {
-            ftab[block[i] & 0xff]++;
+            ints1[block[i] & 0xff]++;
         }
         for (i = 1; i < 257; i++) {
-            ftab[i] += ftab[i - 1];
+            ints1[i] += ints1[i - 1];
         }
 
         for (i = 0; i < nblock; i++) {
             j = block[i] & 0xff;
-            k = ftab[j] - 1;
-            ftab[j] = k;
+            k = ints1[j] - 1;
+            ints1[j] = k;
             fmap[k] = i;
         }
 
         nBhtab = 64 + nblock;
         final BitSet bhtab = new BitSet(nBhtab);
         for (i = 0; i < 256; i++) {
-            bhtab.set(ftab[i]);
+            bhtab.set(ints1[i]);
         }
 
     /*--
