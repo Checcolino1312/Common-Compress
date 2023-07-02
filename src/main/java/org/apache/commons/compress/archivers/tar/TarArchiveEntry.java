@@ -1681,11 +1681,11 @@ public class TarArchiveEntry implements ArchiveEntry, TarConstants, EntryStreamO
                 setUserName(val);
                 break;
             case "size":
-                final long size = Long.parseLong(val);
-                if (size < 0) {
-                    throw new IOException("Corrupted TAR archive. Entry size is negative");
+                final long parsedLong = Long.parseLong(val);
+                if (parsedLong < 0) {
+                    throw new IOException("Corrupted TAR archive. Entry parsedLong is negative");
                 }
-                setSize(size);
+                setSize(parsedLong);
                 break;
             case "mtime":
                 setLastModifiedTime(FileTime.from(parseInstantFromDecimalSeconds(val)));
