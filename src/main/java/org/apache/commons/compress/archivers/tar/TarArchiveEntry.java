@@ -1700,11 +1700,11 @@ public class TarArchiveEntry implements ArchiveEntry, TarConstants, EntryStreamO
                 setCreationTime(FileTime.from(parseInstantFromDecimalSeconds(val)));
                 break;
             case "SCHILY.devminor":
-                final int devMinor = Integer.parseInt(val);
-                if (devMinor < 0) {
+                final int parsedInt = Integer.parseInt(val);
+                if (parsedInt < 0) {
                     throw new IOException("Corrupted TAR archive. Dev-Minor is negative");
                 }
-                setDevMinor(devMinor);
+                setDevMinor(parsedInt);
                 break;
             case "SCHILY.devmajor":
                 final int parseInt = Integer.parseInt(val);
