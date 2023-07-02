@@ -464,6 +464,11 @@ public class TarArchiveOutputStream extends ArchiveOutputStream {
         return countingOut.getBytesWritten();
     }
 
+    /**
+     * {@inheritDoc}
+     *
+     * @deprecated This method is deprecated.
+     */
     @Deprecated
     @Override
     public int getCount() {
