@@ -1707,11 +1707,11 @@ public class TarArchiveEntry implements ArchiveEntry, TarConstants, EntryStreamO
                 setDevMinor(devMinor);
                 break;
             case "SCHILY.devmajor":
-                final int devMajor = Integer.parseInt(val);
-                if (devMajor < 0) {
+                final int parseInt = Integer.parseInt(val);
+                if (parseInt < 0) {
                     throw new IOException("Corrupted TAR archive. Dev-Major is negative");
                 }
-                setDevMajor(devMajor);
+                setDevMajor(parseInt);
                 break;
             case TarGnuSparseKeys.SIZE:
                 fillGNUSparse0xData(headers);
