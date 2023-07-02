@@ -235,7 +235,6 @@ public class ArchiveStreamFactory implements ArchiveStreamProvider {
             return SEVEN_Z;
         }
 
-        // Dump needs a bigger buffer to check the signature;
         final byte[] dumpsig = new byte[DUMP_SIGNATURE_SIZE];
         in.mark(dumpsig.length);
         try {
