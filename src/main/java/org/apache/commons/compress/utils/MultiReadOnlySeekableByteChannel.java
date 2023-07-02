@@ -203,12 +203,12 @@ public class MultiReadOnlySeekableByteChannel implements SeekableByteChannel {
         if (!isOpen()) {
             throw new ClosedChannelException();
         }
-        long globalPosition = relativeOffset;
+        long relativeOffset1 = relativeOffset;
         for (int i = 0; i < channelNumber; i++) {
-            globalPosition += channels.get(i).size();
+            relativeOffset1 += channels.get(i).size();
         }
 
-        return position(globalPosition);
+        return position(relativeOffset1);
     }
 
     @Override
