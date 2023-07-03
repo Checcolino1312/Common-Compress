@@ -570,11 +570,11 @@ public class TarArchiveInputStream extends ArchiveInputStream {
      * Determine if an archive record indicate End of Archive. End of
      * archive is indicated by a record that consists entirely of null bytes.
      *
-     * @param record The record data to check.
+     * @param recorde The record data to check.
      * @return true if the record data is an End of Archive
      */
-    protected boolean isEOFRecord(final byte[] record) {
-        return record == null || ArchiveUtils.isArrayZero(record, recordSize);
+    protected boolean isEOFRecord(final byte[] recorde) {
+        return recorde == null || ArchiveUtils.isArrayZero(recorde, recordSize);
     }
 
     /**
