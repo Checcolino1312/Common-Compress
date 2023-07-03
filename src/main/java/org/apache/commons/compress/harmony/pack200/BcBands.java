@@ -270,17 +270,17 @@ public class BcBands extends BandSet {
         bcCodes.add(opcode);
     }
 
-    public void visitIincInsn(final int var, final int increment) {
-        if (var > 255 || increment > 255) {
+    public void visitIincInsn(final int varyy, final int increment) {
+        if (varyy > 255 || increment > 255) {
             byteCodeOffset += 6;
             bcCodes.add(WIDE);
             bcCodes.add(IINC);
-            bcLocal.add(var);
+            bcLocal.add(varyy);
             bcShort.add(increment);
         } else {
             byteCodeOffset += 3;
             bcCodes.add(IINC);
-            bcLocal.add(var);
+            bcLocal.add(varyy);
             bcByte.add(increment & 0xFF);
         }
         updateRenumbering();
@@ -504,39 +504,39 @@ public class BcBands extends BandSet {
         }
     }
 
-    public void visitVarInsn(final int opcode, final int var) {
+    public void visitVarInsn(final int opcode, final int varxx) {
         // ILOAD, LLOAD, FLOAD, DLOAD, ALOAD, ISTORE, LSTORE, FSTORE, DSTORE, ASTORE or RET
-        if (var > 255) {
+        if (varxx > 255) {
             byteCodeOffset += 4;
             bcCodes.add(WIDE);
             bcCodes.add(opcode);
-            bcLocal.add(var);
-        } else if (var > 3 || opcode == 169 /* RET */) {
+            bcLocal.add(varxx);
+        } else if (varxx > 3 || opcode == 169 /* RET */) {
             byteCodeOffset += 2;
             bcCodes.add(opcode);
-            bcLocal.add(var);
+            bcLocal.add(varxx);
         } else {
             byteCodeOffset += 1;
             switch (opcode) {
             case 21: // ILOAD
             case 54: // ISTORE
-                bcCodes.add(opcode + 5 + var);
+                bcCodes.add(opcode + 5 + varxx);
                 break;
             case 22: // LLOAD
             case 55: // LSTORE
-                bcCodes.add(opcode + 8 + var);
+                bcCodes.add(opcode + 8 + varxx);
                 break;
             case 23: // FLOAD
             case 56: // FSTORE
-                bcCodes.add(opcode + 11 + var);
+                bcCodes.add(opcode + 11 + varxx);
                 break;
             case 24: // DLOAD
             case 57: // DSTORE
-                bcCodes.add(opcode + 14 + var);
+                bcCodes.add(opcode + 14 + varxx);
                 break;
             case 25: // A_LOAD
             case 58: // A_STORE
-                bcCodes.add(opcode + 17 + var);
+                bcCodes.add(opcode + 17 + varxx);
                 break;
             }
         }
