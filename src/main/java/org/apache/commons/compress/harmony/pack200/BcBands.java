@@ -504,6 +504,7 @@ public class BcBands extends BandSet {
         }
     }
 
+
     public void visitVarInsn(final int opcode, final int varxx) {
         // ILOAD, LLOAD, FLOAD, DLOAD, ALOAD, ISTORE, LSTORE, FSTORE, DSTORE, ASTORE or RET
         if (varxx > 255) {
