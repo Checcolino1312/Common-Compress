@@ -452,8 +452,8 @@ public class Segment extends ClassVisitor {
         }
 
         @Override
-        public void visitVarInsn(final int opcode, final int var) {
-            bcBands.visitVarInsn(opcode, var);
+        public void visitVarInsn(final int opcode, final int varr) {
+            bcBands.visitVarInsn(opcode, varr);
         }
 
     }
