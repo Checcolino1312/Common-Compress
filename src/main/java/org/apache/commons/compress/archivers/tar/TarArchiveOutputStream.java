@@ -754,18 +754,18 @@ public class TarArchiveOutputStream extends ArchiveOutputStream {
     /**
      * Write an archive record to the archive.
      *
-     * @param record The record data to write to the archive.
+     * @param recordrefactor The record data to write to the archive.
      * @throws IOException on error
      */
-    private void writeRecord(final byte[] record) throws IOException {
-        if (record.length != RECORD_SIZE) {
+    private void writeRecord(final byte[] recordrefactor) throws IOException {
+        if (recordrefactor.length != RECORD_SIZE) {
             throw new IOException("Record to write has length '"
-                + record.length
+                + recordrefactor.length
                 + "' which is not the record size of '"
                 + RECORD_SIZE + "'");
         }
 
-        out.write(record);
+        out.write(recordrefactor);
         recordsWritten++;
     }
 }
