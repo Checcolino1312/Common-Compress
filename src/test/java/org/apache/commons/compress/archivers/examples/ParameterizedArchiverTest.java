@@ -92,7 +92,7 @@ public class ParameterizedArchiverTest extends AbstractTestCase {
 
     @ParameterizedTest
     @MethodSource("data")
-    public void channelVersion(final String format) throws Exception {
+     void channelVersion(final String format) throws Exception {
         // TODO How to parameterize a BeforeEach method?
         setUp(format);
         try (SeekableByteChannel c = FileChannel.open(target.toPath(), StandardOpenOption.WRITE,
