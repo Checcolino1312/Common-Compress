@@ -64,7 +64,7 @@ public class ParameterizedArchiverTest extends AbstractTestCase {
 
     @ParameterizedTest
     @MethodSource("data")
-    public void archiveStreamVersion(final String format) throws Exception {
+    void archiveStreamVersion(final String format) throws Exception {
         // TODO How to parameterize a BeforeEach method?
         setUp(format);
         try (OutputStream os = Files.newOutputStream(target.toPath());
