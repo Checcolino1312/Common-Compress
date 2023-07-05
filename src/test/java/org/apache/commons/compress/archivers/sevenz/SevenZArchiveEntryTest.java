@@ -71,7 +71,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void sameMethodsYieldEqualEntries() {
+     void sameMethodsYieldEqualEntries() {
         final SevenZArchiveEntry z1 = new SevenZArchiveEntry();
         final SevenZArchiveEntry z2 = new SevenZArchiveEntry();
         z1.setContentMethods(new SevenZMethodConfiguration(SevenZMethod.DELTA_FILTER), new SevenZMethodConfiguration(SevenZMethod.LZMA2));
