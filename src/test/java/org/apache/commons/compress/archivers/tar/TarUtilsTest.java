@@ -410,7 +410,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void testNegative() {
+     void testNegative() {
         final byte [] buffer = new byte[22];
         TarUtils.formatUnsignedOctalString(-1, buffer, 0, buffer.length);
         assertEquals("1777777777777777777777", new String(buffer, UTF_8));
