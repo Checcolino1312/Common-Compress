@@ -74,7 +74,7 @@ public class ClassFileEntryTest {
     }
 
     @Test
-    public void testCPInteger() {
+     void testCPInteger() {
         final CPInteger cp1 = new CPInteger(Integer.valueOf(3), 3);
         final CPInteger cp2 = new CPInteger(Integer.valueOf(3), 3);
         final CPInteger cp3 = new CPInteger(Integer.valueOf(5), 5);
