@@ -32,7 +32,7 @@ import org.junit.jupiter.api.Test;
 
 /**
  */
-public class ClassBandsTest extends AbstractBandsTestCase {
+class ClassBandsTest extends AbstractBandsTestCase {
 
     public class MockCpBands extends CpBands {
 
