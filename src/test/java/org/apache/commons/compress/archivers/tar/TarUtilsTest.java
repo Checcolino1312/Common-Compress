@@ -360,7 +360,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void readSparseStructsRejectsNegativeOffset() throws Exception {
+     void readSparseStructsRejectsNegativeOffset() throws Exception {
         final byte[] header = {
             (byte) 0xff, (byte) 0xff, (byte) 0xff, (byte) 0xff, (byte) 0xff, (byte) 0xff,
             (byte) 0xff, (byte) 0xff, (byte) 0xff, (byte) 0xff, (byte) 0xff, (byte) 0xff,
