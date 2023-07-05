@@ -117,7 +117,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testBigNumberStarMode() throws Exception {
+     void testBigNumberStarMode() throws Exception {
         final TarArchiveEntry t = new TarArchiveEntry("foo");
         t.setSize(0100000000000L);
         final ByteArrayOutputStream bos = new ByteArrayOutputStream();
@@ -138,7 +138,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testBlockSizes() throws Exception {
+     void testBlockSizes() throws Exception {
         final String fileName = "/test1.xml";
         final byte[] contents = getResourceContents(fileName);
         testPadding(TarConstants.DEFAULT_BLKSIZE, fileName, contents); // USTAR / pre-pax
