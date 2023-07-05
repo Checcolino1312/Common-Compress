@@ -45,7 +45,7 @@ import static org.junit.jupiter.api.Assertions.*;
      * This test ensures the implementation is reading the padded last block if a tool has added one to an archive
      */
     @Test
-    public void archiveWithTrailer() throws IOException {
+     void archiveWithTrailer() throws IOException {
         try (final SeekableByteChannel channel = Files.newByteChannel(getPath("archive_with_trailer.tar"));
              final TarFile tarfile = new TarFile(channel, TarConstants.DEFAULT_BLKSIZE, TarConstants.DEFAULT_RCDSIZE, null, false)) {
             final String tarAppendix = "Hello, world!\n";
