@@ -98,7 +98,7 @@ public class LongSymLinkTest extends AbstractTestCase {
 
     @ParameterizedTest
     @MethodSource("data")
-    public void testArchive(final File file) throws Exception {
+     void testArchive(final File file) throws Exception {
         @SuppressWarnings("unchecked") // fileList is of correct type
         final
         ArrayList<String> expected = (ArrayList<String>) FILELIST.clone();
