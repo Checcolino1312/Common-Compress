@@ -159,7 +159,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testCount() throws Exception {
+     void testCount() throws Exception {
         final File f = File.createTempFile("commons-compress-tarcount", ".tar");
         f.deleteOnExit();
         final OutputStream fos = Files.newOutputStream(f.toPath());
