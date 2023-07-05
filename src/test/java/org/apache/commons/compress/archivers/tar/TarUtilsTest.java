@@ -584,7 +584,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
     // Check correct trailing bytes are generated
     @Test
-    public void testTrailers() {
+     void testTrailers() {
         final byte [] buffer = new byte[12];
         TarUtils.formatLongOctalBytes(123, buffer, 0, buffer.length);
         assertEquals(' ', buffer[buffer.length-1]);
