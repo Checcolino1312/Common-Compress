@@ -407,7 +407,7 @@ import org.junit.jupiter.api.condition.EnabledOnOs;
     }
 
     @Test
-    public void testTarFileWithFSRoot() throws IOException {
+     void testTarFileWithFSRoot() throws IOException {
         final File f = File.createTempFile("taetest", ".tar");
         f.deleteOnExit();
         TarArchiveOutputStream tout = null;
