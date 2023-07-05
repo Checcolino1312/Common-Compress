@@ -601,7 +601,7 @@ import org.junit.jupiter.params.provider.CsvSource;
 
     // https://issues.apache.org/jira/browse/COMPRESS-191
     @Test
-    public void testVerifyHeaderCheckSum() {
+     void testVerifyHeaderCheckSum() {
         final byte[] valid = { // from bla.tar
                 116, 101, 115, 116, 49, 46, 120, 109, 108, 0, 0, 0, 0, 0, 0,
                 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
