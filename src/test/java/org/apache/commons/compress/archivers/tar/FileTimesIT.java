@@ -31,7 +31,7 @@ import java.time.Instant;
 import org.apache.commons.compress.AbstractTestCase;
 import org.junit.jupiter.api.Test;
 
-public class FileTimesIT extends AbstractTestCase {
+ class FileTimesIT extends AbstractTestCase {
 
     private void assertGlobalHeaders(final TarArchiveEntry e) {
         assertEquals(5, e.getExtraPaxHeaders().size());
