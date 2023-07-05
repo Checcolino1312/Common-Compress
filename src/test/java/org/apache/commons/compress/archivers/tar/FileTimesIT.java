@@ -281,7 +281,7 @@ import org.junit.jupiter.api.Test;
     // Extended POSIX.1-2001 standard tar
     // Created using GNU tar
     @Test
-    public void readTimeFromTarPosix() throws Exception {
+     void readTimeFromTarPosix() throws Exception {
         final String file = "COMPRESS-612/test-times-posix.tar";
         try (final InputStream in = new BufferedInputStream(Files.newInputStream(getPath(file)));
              final TarArchiveInputStream tin = new TarArchiveInputStream(in)) {
