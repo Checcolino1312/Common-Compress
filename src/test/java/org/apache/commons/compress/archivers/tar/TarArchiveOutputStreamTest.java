@@ -233,7 +233,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testOldEntryError() throws Exception {
+     void testOldEntryError() throws Exception {
         final TarArchiveEntry t = new TarArchiveEntry("foo");
         t.setSize(Integer.MAX_VALUE);
         t.setModTime(-1000);
