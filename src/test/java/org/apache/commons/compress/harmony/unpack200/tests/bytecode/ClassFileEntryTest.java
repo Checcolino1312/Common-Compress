@@ -44,7 +44,7 @@ public class ClassFileEntryTest {
     }
 
     @Test
-    public void testCPDouble() {
+     void testCPDouble() {
         final CPDouble cp1 = new CPDouble(Double.valueOf(3), 3);
         final CPDouble cp2 = new CPDouble(Double.valueOf(3), 3);
         final CPDouble cp3 = new CPDouble(Double.valueOf(5), 5);
