@@ -420,7 +420,7 @@ public class TarArchiveInputStreamTest extends AbstractTestCase {
     }
 
     @Test
-    public void testThrowException() throws IOException {
+     void testThrowException() throws IOException {
         try (InputStream in = newInputStream("COMPRESS-553.tar");
              TarArchiveInputStream archive = new TarArchiveInputStream(in)) {
             getNextEntryUntilIOException(archive);
