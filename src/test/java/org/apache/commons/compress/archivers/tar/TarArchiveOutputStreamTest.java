@@ -596,7 +596,7 @@ import org.junit.jupiter.api.Test;
      * @see "https://issues.apache.org/jira/browse/COMPRESS-237"
      */
     @Test
-    public void testWriteLongLinkNameErrorMode() throws Exception {
+     void testWriteLongLinkNameErrorMode() throws Exception {
         final String linkname = "01234567890123456789012345678901234567890123456789"
             + "01234567890123456789012345678901234567890123456789"
             + "01234567890123456789012345678901234567890123456789/test";
