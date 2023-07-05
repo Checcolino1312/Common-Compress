@@ -382,7 +382,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void secondEntryWinsWhenPaxHeaderContainsDuplicateKey() throws Exception {
+     void secondEntryWinsWhenPaxHeaderContainsDuplicateKey() throws Exception {
         final Map<String, String> headers = TarUtils.parsePaxHeaders(new ByteArrayInputStream("11 foo=bar\n11 foo=baz\n"
                         .getBytes(UTF_8)), null, new HashMap<>());
         assertEquals(1, headers.size());
