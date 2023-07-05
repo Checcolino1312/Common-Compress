@@ -26,7 +26,7 @@ import org.junit.jupiter.api.Test;
 public class CoverageTest {
 
     @Test
-    public void testCallLFHToString() {
+     void testCallLFHToString() {
         final LocalFileHeader lfh = new LocalFileHeader();
         assertNotNull(lfh.toString());
     }
