@@ -117,7 +117,7 @@ import org.junit.jupiter.api.condition.EnabledOnOs;
     }
 
     @Test
-    public void negativeOffsetInConstructorNotAllowed() {
+     void negativeOffsetInConstructorNotAllowed() {
         // @formatter:off
         final byte[] entryContent = ("test1.xml\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000" +
                 "\u0000" +
