@@ -318,7 +318,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void readSimplePaxHeader() throws Exception {
+     void readSimplePaxHeader() throws Exception {
         final Map<String, String> headers = TarUtils.parsePaxHeaders(
                 new ByteArrayInputStream("30 atime=1321711775.972059463\n".getBytes(UTF_8)),
                 null, new HashMap<>());
