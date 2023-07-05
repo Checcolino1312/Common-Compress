@@ -90,7 +90,7 @@ public class TarMemoryFileSystemTest {
     }
 
     @Test
-    public void tarToMemoryFileSystem() throws IOException, ArchiveException {
+     void tarToMemoryFileSystem() throws IOException, ArchiveException {
         try (FileSystem fileSystem = MemoryFileSystemBuilder.newLinux().build()) {
             final Path p = fileSystem.getPath("target.tar");
 
