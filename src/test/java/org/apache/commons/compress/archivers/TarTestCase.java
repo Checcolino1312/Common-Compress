@@ -589,7 +589,7 @@ public final class TarTestCase extends AbstractTestCase {
     }
 
     @Test
-    public void testTarFileUnarchive() throws Exception {
+     void testTarFileUnarchive() throws Exception {
         final File file = getFile("bla.tar");
         try (final TarFile tarFile = new TarFile(file)) {
             final List<TarArchiveEntry> entries = tarFile.getEntries();
