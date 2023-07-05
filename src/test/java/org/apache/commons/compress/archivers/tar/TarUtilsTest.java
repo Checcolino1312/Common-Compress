@@ -543,7 +543,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void testRoundTripOctal() {
+     void testRoundTripOctal() {
         checkRoundTripOctal(0);
         checkRoundTripOctal(1);
 //        checkRoundTripOctal(-1); // TODO What should this do?
