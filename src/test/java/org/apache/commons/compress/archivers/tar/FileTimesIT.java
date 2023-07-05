@@ -513,7 +513,7 @@ import org.junit.jupiter.api.Test;
 
     // 'xstar' format without tar signature
     @Test
-    public void readTimeFromTarXustarFolder() throws Exception {
+     void readTimeFromTarXustarFolder() throws Exception {
         final String file = "COMPRESS-612/test-times-xustar-folder.tar";
         try (final InputStream in = new BufferedInputStream(Files.newInputStream(getPath(file)));
              final TarArchiveInputStream tin = new TarArchiveInputStream(in)) {
