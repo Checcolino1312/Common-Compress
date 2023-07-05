@@ -98,7 +98,7 @@ public class ClassFileEntryTest {
     }
 
     @Test
-    public void testSourceAttribute() {
+     void testSourceAttribute() {
         final SourceFileAttribute sfa1 = new SourceFileAttribute(new CPUTF8(
                 "Thing.java", 1)); //$NON-NLS-1$
         final SourceFileAttribute sfa2 = new SourceFileAttribute(new CPUTF8(
