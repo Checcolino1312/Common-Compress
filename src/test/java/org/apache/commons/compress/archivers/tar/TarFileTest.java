@@ -79,7 +79,7 @@ import static org.junit.jupiter.api.Assertions.*;
     }
 
     @Test
-    public void multiByteReadConsistentlyReturnsMinusOneAtEof() throws Exception {
+     void multiByteReadConsistentlyReturnsMinusOneAtEof() throws Exception {
         final byte[] buf = new byte[2];
         try (final TarFile tarFile = new TarFile(getPath("bla.tar"));
              final InputStream input = tarFile.getInputStream(tarFile.getEntries().get(0))) {
