@@ -625,7 +625,7 @@ import org.junit.jupiter.api.Test;
      * @see "https://issues.apache.org/jira/browse/COMPRESS-237"
      */
     @Test
-    public void testWriteLongLinkNamePosixMode() throws Exception {
+     void testWriteLongLinkNamePosixMode() throws Exception {
         testWriteLongLinkName(TarArchiveOutputStream.LONGFILE_POSIX);
     }
 
