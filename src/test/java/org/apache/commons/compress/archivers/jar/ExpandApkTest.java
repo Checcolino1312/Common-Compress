@@ -38,7 +38,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void test() throws IOException {
+     void test() throws IOException {
         Streams
                 .stream(
                         PathUtils.walk(Paths.get("src/test/resources/android"), new SuffixFileFilter("." + ArchiveStreamFactory.APK, IOCase.INSENSITIVE), 100, false))
