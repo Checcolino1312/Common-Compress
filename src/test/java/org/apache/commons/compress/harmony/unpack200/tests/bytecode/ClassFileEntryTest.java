@@ -66,7 +66,7 @@ public class ClassFileEntryTest {
     }
 
     @Test
-    public void testCPFloat() {
+    void testCPFloat() {
         final CPFloat cp1 = new CPFloat(Float.valueOf(3), 3);
         final CPFloat cp2 = new CPFloat(Float.valueOf(3), 3);
         final CPFloat cp3 = new CPFloat(Float.valueOf(5), 5);
