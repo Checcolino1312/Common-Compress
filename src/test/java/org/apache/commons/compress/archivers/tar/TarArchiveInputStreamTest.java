@@ -226,7 +226,7 @@ public class TarArchiveInputStreamTest extends AbstractTestCase {
         }
     }
     @Test
-    public void singleByteReadConsistentlyReturnsMinusOneAtEof() throws Exception {
+     void singleByteReadConsistentlyReturnsMinusOneAtEof() throws Exception {
         try (InputStream in = newInputStream("bla.tar");
              TarArchiveInputStream archive = new TarArchiveInputStream(in)) {
             final ArchiveEntry e = archive.getNextEntry();
