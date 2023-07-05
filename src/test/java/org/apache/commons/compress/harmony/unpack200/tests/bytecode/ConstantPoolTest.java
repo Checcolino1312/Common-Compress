@@ -27,7 +27,7 @@ import org.apache.commons.compress.harmony.unpack200.bytecode.ClassConstantPool;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-public class ConstantPoolTest {
+ class ConstantPoolTest {
 
     private ClassConstantPool pool;
 
