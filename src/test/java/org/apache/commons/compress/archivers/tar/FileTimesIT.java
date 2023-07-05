@@ -79,7 +79,7 @@ import org.junit.jupiter.api.Test;
 
     // 'xustar' format - always x-header
     @Test
-    public void readTimeFromTarExustar() throws Exception {
+     void readTimeFromTarExustar() throws Exception {
         final String file = "COMPRESS-612/test-times-exustar-folder.tar";
         try (final InputStream in = new BufferedInputStream(Files.newInputStream(getPath(file)));
              final TarArchiveInputStream tin = new TarArchiveInputStream(in)) {
