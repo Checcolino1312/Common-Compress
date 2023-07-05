@@ -74,7 +74,7 @@ import static org.junit.jupiter.api.Assertions.*;
     }
 
     @Test
-    public void datePriorToEpochInPAXFormat() throws Exception {
+     void datePriorToEpochInPAXFormat() throws Exception {
         datePriorToEpoch("preepoch-posix.tar");
     }
 
