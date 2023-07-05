@@ -80,7 +80,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testBigNumberErrorMode() throws Exception {
+     void testBigNumberErrorMode() throws Exception {
         final TarArchiveEntry t = new TarArchiveEntry("foo");
         t.setSize(0100000000000L);
         final ByteArrayOutputStream bos = new ByteArrayOutputStream();
