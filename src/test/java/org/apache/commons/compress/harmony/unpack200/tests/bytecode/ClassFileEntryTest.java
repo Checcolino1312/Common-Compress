@@ -52,7 +52,7 @@ public class ClassFileEntryTest {
     }
 
     @Test
-    public void testCPField() {
+     void testCPField() {
         final CPMember cp1 = new CPMember(new CPUTF8("Name", 3), new CPUTF8("I", 4),
                 0, null);
         final CPMember cp2 = new CPMember(new CPUTF8("Name", 3), new CPUTF8("I", 4),
