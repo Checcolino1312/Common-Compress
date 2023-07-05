@@ -506,7 +506,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void testReadNegativeBinary12Byte() {
+     void testReadNegativeBinary12Byte() {
         final byte[] b = {
             (byte) 0xff, (byte) 0xff, (byte) 0xff, (byte) 0xff,
             (byte) 0xff, (byte) 0xff, (byte) 0xff, (byte) 0xff,
