@@ -608,7 +608,7 @@ public final class TarTestCase extends AbstractTestCase {
 
 
     @Test
-    public void testTarUnarchive() throws Exception {
+     void testTarUnarchive() throws Exception {
         final File input = getFile("bla.tar");
         try (final InputStream is = Files.newInputStream(input.toPath());
              final ArchiveInputStream in = ArchiveStreamFactory.DEFAULT.createArchiveInputStream("tar", is)) {
