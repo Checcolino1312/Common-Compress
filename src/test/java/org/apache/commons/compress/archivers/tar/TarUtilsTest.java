@@ -390,7 +390,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void testName(){
+     void testName(){
         byte [] buff = new byte[20];
         final String sb1 = "abcdefghijklmnopqrstuvwxyz";
         int off = TarUtils.formatNameBytes(sb1, buff, 1, buff.length-1);
