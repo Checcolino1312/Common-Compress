@@ -47,7 +47,7 @@ import org.apache.commons.compress.utils.CharsetNames;
 import org.apache.commons.compress.utils.IOUtils;
 import org.junit.jupiter.api.Test;
 
-public class TarArchiveInputStreamTest extends AbstractTestCase {
+ class TarArchiveInputStreamTest extends AbstractTestCase {
 
     private void datePriorToEpoch(final String archive) throws Exception {
         try (TarArchiveInputStream in = new TarArchiveInputStream(Files.newInputStream(getFile(archive).toPath()))) {
