@@ -556,7 +556,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testWriteLongFileNameThrowsException() throws Exception {
+     void testWriteLongFileNameThrowsException() throws Exception {
         final String n = "01234567890123456789012345678901234567890123456789"
                 + "01234567890123456789012345678901234567890123456789"
                 + "01234567890123456789012345678901234567890123456789";
