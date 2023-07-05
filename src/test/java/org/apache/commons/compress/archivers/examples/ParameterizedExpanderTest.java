@@ -100,7 +100,7 @@ public class ParameterizedExpanderTest extends AbstractTestCase {
 
     @ParameterizedTest
     @MethodSource("data")
-    public void fileVersionWithAutoDetection(final String format) throws Exception {
+     void fileVersionWithAutoDetection(final String format) throws Exception {
         // TODO How to parameterize a BeforeEach method?
         setUp(format);
         new Expander().expand(archive, resultDir);
