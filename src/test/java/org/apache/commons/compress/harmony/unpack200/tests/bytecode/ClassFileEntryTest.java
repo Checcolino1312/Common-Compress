@@ -90,7 +90,7 @@ public class ClassFileEntryTest {
     }
 
     @Test
-    c void testCPString() {
+     void testCPString() {
         final CPString cp1 = new CPString(new CPUTF8("3", 3), 3);
         final CPString cp2 = new CPString(new CPUTF8("3", 3), 3);
         final CPString cp3 = new CPString(new CPUTF8("5", 5), 5);
