@@ -758,7 +758,7 @@ import org.junit.jupiter.api.Test;
      */
     @Disabled("The test needs to write 1.1 TB in chunks of 512 bytes which takes a long time. So it's disabled by default")
     @Test
-    public void testWritingBigFile() throws Exception {
+     void testWritingBigFile() throws Exception {
         final TarArchiveEntry t = new TarArchiveEntry("foo");
         t.setSize((Integer.MAX_VALUE + 1L) * TarConstants.DEFAULT_RCDSIZE);
         final TarArchiveOutputStream tos = new TarArchiveOutputStream(NullOutputStream.NULL_OUTPUT_STREAM);
