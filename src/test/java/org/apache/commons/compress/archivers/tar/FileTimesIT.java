@@ -45,7 +45,7 @@ import org.junit.jupiter.api.Test;
     // Extended POSIX.1-2001 standard tar + x-header
     // Created using s-tar 1.6
     @Test
-    public void readTimeFromTarEpax() throws Exception {
+     void readTimeFromTarEpax() throws Exception {
         final String file = "COMPRESS-612/test-times-epax-folder.tar";
         try (final InputStream in = new BufferedInputStream(Files.newInputStream(getPath(file)));
              final TarArchiveInputStream tin = new TarArchiveInputStream(in)) {
