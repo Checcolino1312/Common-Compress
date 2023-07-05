@@ -251,7 +251,7 @@ public class SparseFilesTest extends AbstractTestCase {
     }
 
     @Test
-    public void testOldGNU() throws Throwable {
+     void testOldGNU() throws Throwable {
         final File file = getFile("oldgnu_sparse.tar");
         try (TarArchiveInputStream tin = new TarArchiveInputStream(Files.newInputStream(file.toPath()))) {
             final TarArchiveEntry ae = tin.getNextTarEntry();
