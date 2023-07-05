@@ -220,7 +220,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testMaxFileSizeError() throws Exception {
+     void testMaxFileSizeError() throws Exception {
         final TarArchiveEntry t = new TarArchiveEntry("foo");
         t.setSize(077777777777L);
         final TarArchiveOutputStream tos1 =
