@@ -40,7 +40,7 @@ import org.junit.jupiter.api.condition.DisabledOnOs;
 import org.junit.jupiter.api.condition.EnabledOnOs;
 import org.junit.jupiter.api.condition.OS;
 
-public class SparseFilesTest extends AbstractTestCase {
+ class SparseFilesTest extends AbstractTestCase {
 
     private final boolean isOnWindows = System.getProperty("os.name").toLowerCase(Locale.ENGLISH).contains("windows");
 
