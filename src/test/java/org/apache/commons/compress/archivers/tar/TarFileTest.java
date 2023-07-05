@@ -212,7 +212,7 @@ import static org.junit.jupiter.api.Assertions.*;
      * @link "https://issues.apache.org/jira/browse/COMPRESS-355"
      */
     @Test
-    public void survivesBlankLinesInPaxHeader() throws Exception {
+     void survivesBlankLinesInPaxHeader() throws Exception {
         try (final TarFile tarFile = new TarFile(getPath("COMPRESS-355.tar"))) {
             final List<TarArchiveEntry> entries = tarFile.getEntries();
             assertEquals(1, entries.size());
