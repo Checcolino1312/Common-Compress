@@ -113,7 +113,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void shouldThrowIfNoCreationDateIsSet() {
+     void shouldThrowIfNoCreationDateIsSet() {
         assertThrows(UnsupportedOperationException.class, () -> new SevenZArchiveEntry().getCreationDate());
     }
 
