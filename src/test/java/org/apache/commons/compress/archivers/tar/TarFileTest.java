@@ -319,7 +319,7 @@ import static org.junit.jupiter.api.Assertions.*;
     }
 
     @Test
-    public void testParseTarTruncatedInContent() throws IOException {
+     void testParseTarTruncatedInContent() throws IOException {
         assertThrows(IOException.class, this::createTarFileTruncatedInContent);
     }
 
