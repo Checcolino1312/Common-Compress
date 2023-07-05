@@ -246,7 +246,7 @@ import org.junit.jupiter.api.Test;
     // Extended POSIX.1-2001 standard tar
     // Created using s-tar 1.6, which somehow differs from GNU tar's.
     @Test
-    public void readTimeFromTarPax() throws Exception {
+     void readTimeFromTarPax() throws Exception {
         final String file = "COMPRESS-612/test-times-pax-folder.tar";
         try (final InputStream in = new BufferedInputStream(Files.newInputStream(getPath(file)));
              final TarArchiveInputStream tin = new TarArchiveInputStream(in)) {
