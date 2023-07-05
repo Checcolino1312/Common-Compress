@@ -532,7 +532,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testWriteLongFileNamePosixMode() throws Exception {
+     void testWriteLongFileNamePosixMode() throws Exception {
         // @formatter:off
         final String n = "01234567890123456789012345678901234567890123456789"
                 + "01234567890123456789012345678901234567890123456789"
