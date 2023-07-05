@@ -99,7 +99,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void shouldThrowIfLastModifiedDateIsSetToNull() {
+     void shouldThrowIfLastModifiedDateIsSetToNull() {
         assertThrows(UnsupportedOperationException.class, () -> {
             final SevenZArchiveEntry entry = new SevenZArchiveEntry();
             entry.setLastModifiedDate(null);
