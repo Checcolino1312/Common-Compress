@@ -429,7 +429,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testThrowExceptionWithNullEntry() throws IOException {
+     void testThrowExceptionWithNullEntry() throws IOException {
         try (InputStream in = newInputStream("COMPRESS-554.tar");
              TarArchiveInputStream archive = new TarArchiveInputStream(in)) {
             getNextEntryUntilIOException(archive);
