@@ -118,7 +118,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void shouldThrowIfNoLastModifiedDateIsSet() {
+     void shouldThrowIfNoLastModifiedDateIsSet() {
         assertThrows(UnsupportedOperationException.class, () -> new SevenZArchiveEntry().getLastModifiedDate());
     }
 
