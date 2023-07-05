@@ -411,7 +411,7 @@ public class TarArchiveInputStreamTest extends AbstractTestCase {
     }
 
     @Test
-    public void testParseTarWithSpecialPaxHeaders() throws IOException {
+     void testParseTarWithSpecialPaxHeaders() throws IOException {
         try (InputStream in = newInputStream("COMPRESS-530.tar");
              TarArchiveInputStream archive = new TarArchiveInputStream(in)) {
             assertThrows(IOException.class, () -> archive.getNextEntry());
