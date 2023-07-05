@@ -52,7 +52,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void noMethodsIsDifferentFromSomeMethods() {
+     void noMethodsIsDifferentFromSomeMethods() {
         final SevenZArchiveEntry z1 = new SevenZArchiveEntry();
         final SevenZArchiveEntry z2 = new SevenZArchiveEntry();
         z2.setContentMethods(new SevenZMethodConfiguration(SevenZMethod.COPY));
