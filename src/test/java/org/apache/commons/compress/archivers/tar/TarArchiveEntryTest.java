@@ -87,7 +87,7 @@ import org.junit.jupiter.api.condition.EnabledOnOs;
     }
 
     @Test
-    public void getOrderedSparseHeadersRejectsStructsPointingBeyondOutputEntry() throws Exception {
+     void getOrderedSparseHeadersRejectsStructsPointingBeyondOutputEntry() throws Exception {
         final TarArchiveEntry te = new TarArchiveEntry("test");
         te.setSparseHeaders(Arrays.asList(new TarArchiveStructSparse(200, 2)));
         te.fillStarSparseData(Collections.singletonMap("SCHILY.realsize", "201"));
