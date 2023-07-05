@@ -233,7 +233,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void readNonAsciiPaxHeader() throws Exception {
+     void readNonAsciiPaxHeader() throws Exception {
         final String ae = "\u00e4";
         final String line = "11 path="+ ae + "\n";
         assertEquals(11, line.getBytes(UTF_8).length);
