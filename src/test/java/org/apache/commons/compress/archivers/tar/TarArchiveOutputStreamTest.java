@@ -675,7 +675,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testWriteNonAsciiLinkPathNamePaxHeader() throws Exception {
+     void testWriteNonAsciiLinkPathNamePaxHeader() throws Exception {
         final String n = "\u00e4";
         final TarArchiveEntry t = new TarArchiveEntry("a", TarConstants.LF_LINK);
         t.setSize(10 * 1024);
