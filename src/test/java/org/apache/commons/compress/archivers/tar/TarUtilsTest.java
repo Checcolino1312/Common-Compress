@@ -311,7 +311,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void readPaxHeaderWithoutTrailingNewline() throws Exception {
+     void readPaxHeaderWithoutTrailingNewline() throws Exception {
         assertThrows(IOException.class, () -> TarUtils.parsePaxHeaders(
             new ByteArrayInputStream("30 atime=1321711775.9720594634".getBytes(UTF_8)),
             null, Collections.emptyMap()));
