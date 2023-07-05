@@ -38,7 +38,7 @@ import org.junit.jupiter.api.Test;
 
 import com.github.marschall.memoryfilesystem.MemoryFileSystemBuilder;
 
-public class TarMemoryFileSystemTest {
+ class TarMemoryFileSystemTest {
 
     @Test
      void checkUserInformationInTarEntry() throws IOException, ArchiveException {
