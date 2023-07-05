@@ -99,7 +99,7 @@ public class TarArchiveInputStreamTest extends AbstractTestCase {
     }
 
     @Test
-    public void readsArchiveCompletely_COMPRESS245() {
+     void readsArchiveCompletely_COMPRESS245() {
         try (InputStream is = TarArchiveInputStreamTest.class.getResourceAsStream("/COMPRESS-245.tar.gz")) {
             final InputStream gin = new GZIPInputStream(is);
             try (TarArchiveInputStream tar = new TarArchiveInputStream(gin)) {
