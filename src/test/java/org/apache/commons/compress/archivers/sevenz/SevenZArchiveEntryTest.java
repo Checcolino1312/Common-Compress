@@ -90,7 +90,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void shouldThrowIfCreationDateIsSetToNull() {
+     void shouldThrowIfCreationDateIsSetToNull() {
         assertThrows(UnsupportedOperationException.class, () -> {
             final SevenZArchiveEntry entry = new SevenZArchiveEntry();
             entry.setCreationDate(null);
