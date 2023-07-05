@@ -275,7 +275,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testOldEntryStarMode() throws Exception {
+     void testOldEntryStarMode() throws Exception {
         final TarArchiveEntry t = new TarArchiveEntry("foo");
         t.setSize(Integer.MAX_VALUE);
         t.setModTime(-1000);
