@@ -351,7 +351,7 @@ import org.junit.jupiter.api.Test;
 
     // Old star format from 1985
     @Test
-    public void readTimeFromTarStarFolder() throws Exception {
+     void readTimeFromTarStarFolder() throws Exception {
         final String file = "COMPRESS-612/test-times-star-folder.tar";
         try (final InputStream in = new BufferedInputStream(Files.newInputStream(getPath(file)));
              final TarArchiveInputStream tin = new TarArchiveInputStream(in)) {
