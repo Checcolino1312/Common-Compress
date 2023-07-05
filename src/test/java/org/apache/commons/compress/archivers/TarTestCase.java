@@ -110,7 +110,7 @@ import org.junit.jupiter.api.Test;
 
 
     @Test
-    public void testDirectoryEntryFromFile() throws Exception {
+     void testDirectoryEntryFromFile() throws Exception {
         final File[] tmp = createTempDirAndFile();
         File archive = null;
         TarArchiveOutputStream tos = null;
