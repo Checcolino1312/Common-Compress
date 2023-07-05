@@ -225,7 +225,7 @@ import static org.junit.jupiter.api.Assertions.*;
      * @link "https://issues.apache.org/jira/browse/COMPRESS-356"
      */
     @Test
-    public void survivesPaxHeaderWithNameEndingInSlash() throws Exception {
+     void survivesPaxHeaderWithNameEndingInSlash() throws Exception {
         try (final TarFile tarFile = new TarFile(getPath("COMPRESS-356.tar"))) {
             final List<TarArchiveEntry> entries = tarFile.getEntries();
             assertEquals(1, entries.size());
