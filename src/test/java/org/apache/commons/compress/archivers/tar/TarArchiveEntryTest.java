@@ -472,7 +472,7 @@ import org.junit.jupiter.api.condition.EnabledOnOs;
 
     @Test
     @EnabledOnOs(org.junit.jupiter.api.condition.OS.WINDOWS)
-    public void testWindowsFileInformationFromFile() throws IOException {
+     void testWindowsFileInformationFromFile() throws IOException {
         final TarArchiveEntry entry = new TarArchiveEntry(getFile("test1.xml"));
         assertNotEquals("", entry.getUserName());
     }
