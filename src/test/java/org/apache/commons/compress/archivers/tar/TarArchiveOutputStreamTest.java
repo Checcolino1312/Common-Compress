@@ -350,7 +350,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testPaxHeadersWithLength99() throws Exception {
+     void testPaxHeadersWithLength99() throws Exception {
         final Map<String, String> m = new HashMap<>();
         m.put("a",
             "0123456789012345678901234567890123456789"
