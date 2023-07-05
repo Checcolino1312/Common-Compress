@@ -42,7 +42,7 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 
-public class TarUtilsTest extends AbstractTestCase {
+ class TarUtilsTest extends AbstractTestCase {
 
     private void checkName(final String string) {
         final byte[] buff = new byte[100];
