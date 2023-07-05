@@ -82,7 +82,7 @@ public class ClassFileEntryTest {
     }
 
     @Test
-    public void testCPLong() {
+     void testCPLong() {
         final CPLong cp1 = new CPLong(Long.valueOf(3), 3);
         final CPLong cp2 = new CPLong(Long.valueOf(3), 3);
         final CPLong cp3 = new CPLong(Long.valueOf(5), 5);
