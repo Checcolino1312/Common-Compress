@@ -197,7 +197,7 @@ import static org.junit.jupiter.api.Assertions.*;
      * @link "https://issues.apache.org/jira/browse/COMPRESS-417"
      */
     @Test
-    public void skipsDevNumbersWhenEntryIsNoDevice() throws Exception {
+     void skipsDevNumbersWhenEntryIsNoDevice() throws Exception {
         try (final TarFile tarFile = new TarFile(getPath("COMPRESS-417.tar"))) {
             final List<TarArchiveEntry> entries = tarFile.getEntries();
             assertEquals(2, entries.size());
