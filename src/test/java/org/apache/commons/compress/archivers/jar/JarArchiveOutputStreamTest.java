@@ -37,7 +37,7 @@ import org.junit.jupiter.api.Test;
  class JarArchiveOutputStreamTest {
 
     @Test
-    public void testJarMarker() throws IOException {
+     void testJarMarker() throws IOException {
         final Path testArchive = Files.createTempFile("jar-aostest", ".jar");
         testArchive.toFile().deleteOnExit();
         try (JarArchiveOutputStream out = new JarArchiveOutputStream(Files.newOutputStream(testArchive))) {
