@@ -376,7 +376,7 @@ import static org.junit.jupiter.api.Assertions.*;
     }
 
     @Test
-    public void workaroundForBrokenTimeHeader() throws IOException {
+     void workaroundForBrokenTimeHeader() throws IOException {
         try (final TarFile tarFile = new TarFile(getPath("simple-aix-native-tar.tar"))) {
             final List<TarArchiveEntry> entries = tarFile.getEntries();
             assertEquals(3, entries.size());
