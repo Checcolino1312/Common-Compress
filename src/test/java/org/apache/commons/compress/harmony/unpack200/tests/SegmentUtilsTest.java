@@ -76,7 +76,7 @@ public class SegmentUtilsTest {
 
     @ParameterizedTest
     @MethodSource("countArgs")
-    public void testCountArgs(final String descriptor, final int expectedArgsCount) {
+     void testCountArgs(final String descriptor, final int expectedArgsCount) {
         assertEquals(expectedArgsCount, SegmentUtils.countArgs(descriptor));
     }
 
