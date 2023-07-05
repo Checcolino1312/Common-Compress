@@ -151,7 +151,7 @@ public final class TarTestCase extends AbstractTestCase {
     }
 
     @Test
-    public void testDirectoryRead() throws IOException {
+     void testDirectoryRead() throws IOException {
         final File input = getFile("directory.tar");
         try (final InputStream is = Files.newInputStream(input.toPath());
              final TarArchiveInputStream in = new TarArchiveInputStream(is)) {
