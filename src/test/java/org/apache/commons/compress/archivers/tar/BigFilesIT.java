@@ -72,7 +72,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void readFileHeadersOfArchiveBiggerThan8GByte() throws Exception {
+     void readFileHeadersOfArchiveBiggerThan8GByte() throws Exception {
         try (InputStream in = new BufferedInputStream(Files.newInputStream(getPath("8.posix.tar.gz")));
              GzipCompressorInputStream gzin = new GzipCompressorInputStream(in);
              TarArchiveInputStream tin = new TarArchiveInputStream(gzin)) {
