@@ -71,7 +71,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void parseFromPAX01SparseHeaders() throws Exception {
+     void parseFromPAX01SparseHeaders() throws Exception {
         final String map = "0,10,20,0,20,5";
         final List<TarArchiveStructSparse> sparse = TarUtils.parseFromPAX01SparseHeaders(map);
         assertEquals(3, sparse.size());
