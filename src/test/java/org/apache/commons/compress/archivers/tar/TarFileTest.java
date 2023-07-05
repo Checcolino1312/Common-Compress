@@ -90,7 +90,7 @@ import static org.junit.jupiter.api.Assertions.*;
     }
 
     @Test
-    public void readsArchiveCompletely_COMPRESS245() {
+     void readsArchiveCompletely_COMPRESS245() {
         try {
             final Path tempTar = resultDir.toPath().resolve("COMPRESS-245.tar");
             try (final GZIPInputStream gin = new GZIPInputStream(
