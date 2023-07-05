@@ -446,7 +446,7 @@ import org.junit.jupiter.api.Test;
      * @see "https://issues.apache.org/jira/browse/COMPRESS-200"
      */
     @Test
-    public void testRoundtripWith67CharFileNameGnu() throws Exception {
+     void testRoundtripWith67CharFileNameGnu() throws Exception {
         testRoundtripWith67CharFileName(TarArchiveOutputStream.LONGFILE_GNU);
     }
 
