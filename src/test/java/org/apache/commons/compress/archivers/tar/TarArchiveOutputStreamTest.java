@@ -740,7 +740,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testWriteSimplePaxHeaders() throws Exception {
+     void testWriteSimplePaxHeaders() throws Exception {
         final Map<String, String> m = new HashMap<>();
         m.put("a", "b");
         final byte[] data = writePaxHeader(m);
