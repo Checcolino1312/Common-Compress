@@ -656,7 +656,7 @@ import org.junit.jupiter.api.Test;
      * @see "https://issues.apache.org/jira/browse/COMPRESS-203"
      */
     @Test
-    public void testWriteNonAsciiDirectoryNamePosixMode() throws Exception {
+     void testWriteNonAsciiDirectoryNamePosixMode() throws Exception {
         final String n = "f\u00f6\u00f6/";
         final TarArchiveEntry t = new TarArchiveEntry(n);
         final ByteArrayOutputStream bos = new ByteArrayOutputStream();
