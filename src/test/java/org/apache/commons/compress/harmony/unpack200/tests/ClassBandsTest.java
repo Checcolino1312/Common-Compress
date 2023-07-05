@@ -103,7 +103,7 @@ public class ClassBandsTest extends AbstractBandsTestCase {
     }
 
     @Test
-    public void testSimple() throws IOException, Pack200Exception {
+     void testSimple() throws IOException, Pack200Exception {
         cpClasses = new String[] { "Class1", "Class2", "Class3", "Interface1",
                 "Interface2" };
         cpDescriptor = new String[0];
