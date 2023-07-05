@@ -67,7 +67,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void readFileBiggerThan8GByteStar() throws Exception {
+     void readFileBiggerThan8GByteStar() throws Exception {
         readFileBiggerThan8GByte("8.star.tar.gz");
     }
 
