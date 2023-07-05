@@ -370,7 +370,7 @@ public class TarArchiveEntryTest implements TarConstants {
     }
 
     @Test
-    public void testLinkFlagConstructorWithPreserve() {
+     void testLinkFlagConstructorWithPreserve() {
         final TarArchiveEntry t = new TarArchiveEntry("/foo", LF_GNUTYPE_LONGNAME,
                                                 true);
         assertGnuMagic(t);
