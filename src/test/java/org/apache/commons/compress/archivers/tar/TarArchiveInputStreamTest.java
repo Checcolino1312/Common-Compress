@@ -367,7 +367,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testGetAndSetOfPaxEntry() throws Exception {
+     void testGetAndSetOfPaxEntry() throws Exception {
         try (TarArchiveInputStream is = getTestStream("/COMPRESS-356.tar")) {
             final TarArchiveEntry entry = is.getNextTarEntry();
             assertEquals("package/package.json", entry.getName());
