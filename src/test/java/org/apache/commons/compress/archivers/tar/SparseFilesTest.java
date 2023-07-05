@@ -213,7 +213,7 @@ public class SparseFilesTest extends AbstractTestCase {
 
     @Test
     @EnabledOnOs(OS.WINDOWS)
-    public void testExtractSparseTarsOnWindows() throws IOException {
+     void testExtractSparseTarsOnWindows() throws IOException {
         final File oldGNUSparseTar = getFile("oldgnu_sparse.tar");
         final File paxGNUSparseTar = getFile("pax_gnu_sparse.tar");
         try (TarArchiveInputStream paxGNUSparseInputStream = new TarArchiveInputStream(Files.newInputStream(paxGNUSparseTar.toPath()))) {
