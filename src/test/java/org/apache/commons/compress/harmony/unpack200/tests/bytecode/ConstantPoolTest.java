@@ -67,7 +67,7 @@ public class ConstantPoolTest {
     }
 
     @Test
-    public void testIndex() {
+     void testIndex() {
         pool.add(new CPUTF8("OtherThing", 1));
         final CPUTF8 u1 = new CPUTF8("thing", 2);
         pool.add(u1);
