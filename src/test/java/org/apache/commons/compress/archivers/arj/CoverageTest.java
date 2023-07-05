@@ -31,7 +31,7 @@ public class CoverageTest {
         assertNotNull(lfh.toString());
     }
     @Test
-    public void testHeaderInstances() {
+     void testHeaderInstances() {
         assertNotNull(new LocalFileHeader.FileTypes());
         assertNotNull(new LocalFileHeader.Methods());
         assertNotNull(new LocalFileHeader.Flags());
