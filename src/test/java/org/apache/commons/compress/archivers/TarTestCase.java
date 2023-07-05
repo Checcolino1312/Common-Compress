@@ -435,7 +435,7 @@ public final class TarTestCase extends AbstractTestCase {
     }
 
     @Test
-    public void testTarFileDirectoryEntryFromFile() throws Exception {
+     void testTarFileDirectoryEntryFromFile() throws Exception {
         final File[] tmp = createTempDirAndFile();
         final File archive = File.createTempFile("test.", ".tar", tmp[0]);
         archive.deleteOnExit();
