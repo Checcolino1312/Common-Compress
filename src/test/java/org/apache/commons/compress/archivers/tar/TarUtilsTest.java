@@ -294,7 +294,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void readPax00SparseHeaderRejectsNonNumericOffset() throws Exception {
+     void readPax00SparseHeaderRejectsNonNumericOffset() throws Exception {
         final String header = "23 GNU.sparse.offset=a\n26 GNU.sparse.numbytes=10\n";
         assertThrows(IOException.class, () -> TarUtils.parsePaxHeaders(
             new ByteArrayInputStream(header.getBytes(UTF_8)),
