@@ -166,7 +166,7 @@ import org.junit.jupiter.api.condition.EnabledOnOs;
     }
 
     @Test
-    public void shouldNotWriteTimePaxHeadersByDefault() throws IOException {
+     void shouldNotWriteTimePaxHeadersByDefault() throws IOException {
         final ByteArrayOutputStream bos = new ByteArrayOutputStream();
         try (final TarArchiveOutputStream tos = new TarArchiveOutputStream(bos)) {
             final TarArchiveEntry entry = createEntryForTimeTests();
