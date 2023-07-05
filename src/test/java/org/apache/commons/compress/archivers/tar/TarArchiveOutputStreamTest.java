@@ -478,7 +478,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testWriteLongDirectoryNameErrorMode() throws Exception {
+     void testWriteLongDirectoryNameErrorMode() throws Exception {
         final String n = "01234567890123456789012345678901234567890123456789"
             + "01234567890123456789012345678901234567890123456789"
             + "01234567890123456789012345678901234567890123456789/";
