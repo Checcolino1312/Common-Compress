@@ -148,7 +148,7 @@ import org.junit.jupiter.params.provider.CsvSource;
             "111111111111111111111111111111111111111111111111111111111111111, 0, 20",
             // Aggiungi altri valori di input separati da virgola
     })
-    public void parsePAX1XSparseHeadersRejectsNegativeNumberOfEntries(
+     void parsePAX1XSparseHeadersRejectsNegativeNumberOfEntries(
             String headerText, int startPosition, int expectedLength) throws Exception {
         final byte[] header = headerText.getBytes();
         final byte[] block = new byte[512];
