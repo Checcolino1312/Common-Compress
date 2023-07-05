@@ -397,7 +397,7 @@ import org.junit.jupiter.api.condition.EnabledOnOs;
     }
 */
     @Test
-    public void testMaxFileSize(){
+     void testMaxFileSize(){
         final TarArchiveEntry t = new TarArchiveEntry("");
         t.setSize(0);
         t.setSize(1);
