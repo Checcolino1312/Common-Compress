@@ -367,7 +367,7 @@ import static org.junit.jupiter.api.Assertions.*;
     }
 
     @Test
-    public void testThrowExceptionWithNullEntry() throws IOException {
+     void testThrowExceptionWithNullEntry() throws IOException {
         assertThrows(IOException.class, this::createTarFileForNullEntry);
     }
 
