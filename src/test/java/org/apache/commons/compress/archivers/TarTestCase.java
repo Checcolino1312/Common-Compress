@@ -49,7 +49,7 @@ import org.apache.commons.compress.utils.IOUtils;
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 
-public final class TarTestCase extends AbstractTestCase {
+ final class TarTestCase extends AbstractTestCase {
 
     private String createLongName(final int nameLength) {
         final StringBuilder buffer = new StringBuilder();
