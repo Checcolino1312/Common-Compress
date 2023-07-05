@@ -225,7 +225,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void paxHeaderEntryWithEmptyValueRemovesKey() throws Exception {
+     void paxHeaderEntryWithEmptyValueRemovesKey() throws Exception {
         final Map<String, String> headers = TarUtils
                 .parsePaxHeaders(new ByteArrayInputStream("11 foo=bar\n7 foo=\n"
                         .getBytes(UTF_8)), null, new HashMap<>());
