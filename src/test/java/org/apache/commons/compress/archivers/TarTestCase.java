@@ -206,7 +206,7 @@ public final class TarTestCase extends AbstractTestCase {
     }
 
     @Test
-    public void testExplicitFileEntry() throws Exception {
+     void testExplicitFileEntry() throws Exception {
         final File[] tmp = createTempDirAndFile();
         File archive = null;
         TarArchiveOutputStream tos = null;
