@@ -399,7 +399,7 @@ public final class TarTestCase extends AbstractTestCase {
     }
 
     @Test
-    public void testTarFileCOMPRESS114() throws Exception {
+    void testTarFileCOMPRESS114() throws Exception {
         final File input = getFile("COMPRESS-114.tar");
         try (final TarFile tarFile = new TarFile(input, CharsetNames.ISO_8859_1)) {
             final List<TarArchiveEntry> entries = tarFile.getEntries();
