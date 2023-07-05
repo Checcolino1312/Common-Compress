@@ -327,7 +327,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void readSparseStructsBinary() throws Exception {
+     void readSparseStructsBinary() throws Exception {
         final byte[] header = {
             (byte) 0x80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             (byte) 0x80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7,
