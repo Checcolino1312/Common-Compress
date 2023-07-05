@@ -362,7 +362,7 @@ public class TarArchiveEntryTest implements TarConstants {
     }
 
     @Test
-    public void testLinkFlagConstructorWithFileFlag() {
+     void testLinkFlagConstructorWithFileFlag() {
         final TarArchiveEntry t = new TarArchiveEntry("/foo", LF_NORMAL);
         assertPosixMagic(t);
         assertEquals("foo", t.getName());
