@@ -411,7 +411,7 @@ import org.junit.jupiter.api.Test;
 	}
 
     @SuppressWarnings("deprecation")
-    @Test public void testRecordSize() throws IOException {
+    @Test  void testRecordSize() throws IOException {
         assertThrows(IllegalArgumentException.class, () -> new TarArchiveOutputStream(new ByteArrayOutputStream(),512,511),
                 "should have rejected recordSize of 511");
         try (TarArchiveOutputStream tos = new TarArchiveOutputStream(new ByteArrayOutputStream(),
