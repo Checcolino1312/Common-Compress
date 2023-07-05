@@ -71,7 +71,7 @@ public class TarMemoryFileSystemTest {
     }
 
     @Test
-    public void tarFromMemoryFileSystem() throws IOException, ArchiveException {
+     void tarFromMemoryFileSystem() throws IOException, ArchiveException {
         try (FileSystem fileSystem = MemoryFileSystemBuilder.newLinux().build()) {
             final Path p = fileSystem.getPath("test.txt");
             Files.write(p, "Test".getBytes(UTF_8));
