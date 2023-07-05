@@ -69,7 +69,7 @@ public class TarArchiveInputStreamTest extends AbstractTestCase {
 
 
     @Test
-    public void datePriorToEpochInPAXFormat() throws Exception {
+     void datePriorToEpochInPAXFormat() throws Exception {
         datePriorToEpoch("preepoch-posix.tar");
     }
 
