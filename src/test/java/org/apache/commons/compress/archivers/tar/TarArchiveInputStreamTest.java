@@ -176,7 +176,7 @@ public class TarArchiveInputStreamTest extends AbstractTestCase {
     }
 
     @Test
-    public void shouldThrowAnExceptionOnTruncatedEntries() throws Exception {
+     void shouldThrowAnExceptionOnTruncatedEntries() throws Exception {
         final File dir = mkdir("COMPRESS-279");
         boolean exceptionThrown = false;
         try (TarArchiveInputStream is = getTestStream("/COMPRESS-279.tar")) {
