@@ -149,7 +149,7 @@ import static org.junit.jupiter.api.Assertions.*;
     }
 
     @Test
-    public void shouldThrowAnExceptionOnTruncatedEntries() throws IOException {
+     void shouldThrowAnExceptionOnTruncatedEntries() throws IOException {
         final File dir = mkdir("COMPRESS-279");
         assertThrows(IOException.class, this::createTarFileForTruncatedEntries);
         rmdir(dir);
