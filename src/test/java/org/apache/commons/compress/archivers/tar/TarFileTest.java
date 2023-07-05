@@ -184,7 +184,7 @@ import static org.junit.jupiter.api.Assertions.*;
     }
 
     @Test
-    public void singleByteReadConsistentlyReturnsMinusOneAtEof() throws Exception {
+     void singleByteReadConsistentlyReturnsMinusOneAtEof() throws Exception {
         try (final TarFile tarFile = new TarFile(getPath("bla.tar"));
              final InputStream input = tarFile.getInputStream(tarFile.getEntries().get(0))) {
             IOUtils.toByteArray(input);
