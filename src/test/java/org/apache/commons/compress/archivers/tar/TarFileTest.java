@@ -327,7 +327,7 @@ import static org.junit.jupiter.api.Assertions.*;
         new TarFile(getPath("COMPRESS-544_truncated_in_content.tar"));
     }
     @Test
-    public void testParseTarTruncatedInPadding() {
+     void testParseTarTruncatedInPadding() {
         assertThrows(IOException.class, this::createTarFileForTruncatedPadding);
     }
 
