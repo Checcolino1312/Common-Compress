@@ -28,7 +28,7 @@ import org.junit.jupiter.api.Test;
  class SevenZArchiveEntryTest {
 
     @Test
-    public void methodConfigurationMattersInEquals() {
+     void methodConfigurationMattersInEquals() {
         final SevenZArchiveEntry z1 = new SevenZArchiveEntry();
         final SevenZArchiveEntry z2 = new SevenZArchiveEntry();
         final SevenZArchiveEntry z3 = new SevenZArchiveEntry();
