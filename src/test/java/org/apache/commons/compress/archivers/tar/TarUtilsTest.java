@@ -302,7 +302,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void readPaxHeaderWithEmbeddedNewline() throws Exception {
+     void readPaxHeaderWithEmbeddedNewline() throws Exception {
         final Map<String, String> headers = TarUtils
                 .parsePaxHeaders(new ByteArrayInputStream("28 comment=line1\nline2\nand3\n"
                         .getBytes(UTF_8)), null, new HashMap<>());
