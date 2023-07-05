@@ -466,7 +466,7 @@ public class SparseFilesTest extends AbstractTestCase {
     }
 
     @Test
-    public void testTarFilePaxGNU() throws IOException {
+     void testTarFilePaxGNU() throws IOException {
         final File file = getFile("pax_gnu_sparse.tar");
         try (final TarFile tarFile = new TarFile(file)) {
             final List<TarArchiveEntry> entries = tarFile.getEntries();
