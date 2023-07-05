@@ -577,7 +577,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void testRoundTripOctalOrBinary8_ValueTooBigForBinary() {
+     void testRoundTripOctalOrBinary8_ValueTooBigForBinary() {
         final IllegalArgumentException e = assertThrows(IllegalArgumentException.class, () -> checkRoundTripOctalOrBinary(Long.MAX_VALUE, 8),
                 "Should throw exception - value is too long to fit buffer of this len");
         assertEquals("Value 9223372036854775807 is too large for 8 byte field.", e.getMessage());
