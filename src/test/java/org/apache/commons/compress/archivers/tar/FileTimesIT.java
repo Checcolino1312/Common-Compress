@@ -131,7 +131,7 @@ import org.junit.jupiter.api.Test;
     // GNU tar format 1989 (violates POSIX)
     // Created using GNU tar
     @Test
-    public void readTimeFromTarGnuIncremental() throws Exception {
+     void readTimeFromTarGnuIncremental() throws Exception {
         final String file = "COMPRESS-612/test-times-gnu-incremental.tar";
         try (final InputStream in = new BufferedInputStream(Files.newInputStream(getPath(file)));
              final TarArchiveInputStream tin = new TarArchiveInputStream(in)) {
