@@ -106,7 +106,7 @@ import static org.junit.jupiter.api.Assertions.*;
     }
 
     @Test
-    public void rejectsArchivesWithNegativeSizes() throws IOException {
+     void rejectsArchivesWithNegativeSizes() throws IOException {
         assertThrows(IOException.class, this::createTarFileWithNegativeSizes);
     }
 
