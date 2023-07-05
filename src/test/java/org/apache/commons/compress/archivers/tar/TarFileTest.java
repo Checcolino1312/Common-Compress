@@ -354,7 +354,7 @@ import static org.junit.jupiter.api.Assertions.*;
     }
 
     @Test
-    public void testThrowException() {
+     void testThrowException() {
         assertThrows(IOException.class, this::createTarFile);
     }
 
