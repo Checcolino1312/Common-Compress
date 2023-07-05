@@ -254,7 +254,7 @@ public class TarArchiveInputStreamTest extends AbstractTestCase {
      * @see <a href="https://issues.apache.org/jira/browse/COMPRESS-355">COMPRESS-355</a>
      */
     @Test
-    public void survivesBlankLinesInPaxHeader() throws Exception {
+     void survivesBlankLinesInPaxHeader() throws Exception {
         try (TarArchiveInputStream is = getTestStream("/COMPRESS-355.tar")) {
             final TarArchiveEntry entry = is.getNextTarEntry();
             assertEquals("package/package.json", entry.getName());
