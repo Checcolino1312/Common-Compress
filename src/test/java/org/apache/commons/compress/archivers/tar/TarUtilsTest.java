@@ -110,7 +110,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void parsePAX01SparseHeadersRejectsOddNumberOfEntries() {
+     void parsePAX01SparseHeadersRejectsOddNumberOfEntries() {
         final String map = "0,10,20,0,20";
         assertThrows(UncheckedIOException.class, () -> TarUtils.parsePAX01SparseHeaders(map));
     }
