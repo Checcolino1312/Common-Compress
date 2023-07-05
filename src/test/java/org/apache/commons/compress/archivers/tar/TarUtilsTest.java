@@ -84,7 +84,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void parseFromPAX01SparseHeadersRejectsNegativeNumbytes() throws Exception {
+     void parseFromPAX01SparseHeadersRejectsNegativeNumbytes() throws Exception {
         assertThrows(IOException.class, () -> TarUtils.parseFromPAX01SparseHeaders("0,10,20,0,20,-5"));
     }
 
