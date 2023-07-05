@@ -72,7 +72,7 @@ import org.junit.jupiter.api.condition.EnabledOnOs;
     }
 
     @Test
-    public void getFileFromNonFileEntry() {
+     void getFileFromNonFileEntry() {
         final TarArchiveEntry entry = new TarArchiveEntry("test.txt");
         assertNull(entry.getFile());
         assertNull(entry.getPath());
