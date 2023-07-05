@@ -33,7 +33,7 @@ import org.apache.commons.compress.AbstractTestCase;
 import org.apache.commons.compress.compressors.gzip.GzipCompressorInputStream;
 import org.junit.jupiter.api.Test;
 
-public class BigFilesIT extends AbstractTestCase {
+ class BigFilesIT extends AbstractTestCase {
 
     private void readFileBiggerThan8GByte(final String name) throws Exception {
         try (InputStream in = new BufferedInputStream(Files.newInputStream(getPath(name)));
