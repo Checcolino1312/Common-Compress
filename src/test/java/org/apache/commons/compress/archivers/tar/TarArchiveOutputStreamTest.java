@@ -52,7 +52,7 @@ import org.junit.Assert;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
-public class TarArchiveOutputStreamTest extends AbstractTestCase {
+ class TarArchiveOutputStreamTest extends AbstractTestCase {
 
     private static byte[] createTarArchiveContainingOneDirectory(final String fname, final Date modificationDate) throws IOException {
         final ByteArrayOutputStream baos = new ByteArrayOutputStream();
