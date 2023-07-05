@@ -30,7 +30,7 @@ import org.apache.commons.compress.harmony.unpack200.bytecode.CPUTF8;
 import org.apache.commons.compress.harmony.unpack200.bytecode.SourceFileAttribute;
 import org.junit.jupiter.api.Test;
 
-public class ClassFileEntryTest {
+ class ClassFileEntryTest {
 
     private void checkEquality(final Object equal1, final Object equal2, final String toString,
             final Object unequal) {
