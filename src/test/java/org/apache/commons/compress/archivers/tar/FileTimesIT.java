@@ -162,7 +162,7 @@ import org.junit.jupiter.api.Test;
     // GNU tar format 1989 (violates POSIX)
     // Created using s-tar 1.6, which somehow differs from GNU tar's.
     @Test
-    public void readTimeFromTarGnuTar() throws Exception {
+     void readTimeFromTarGnuTar() throws Exception {
         final String file = "COMPRESS-612/test-times-gnutar.tar";
         try (final InputStream in = new BufferedInputStream(Files.newInputStream(getPath(file)));
              final TarArchiveInputStream tin = new TarArchiveInputStream(in)) {
