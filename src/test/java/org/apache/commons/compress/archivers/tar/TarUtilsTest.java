@@ -116,7 +116,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void parsePAX1XSparseHeaders() throws Exception {
+     void parsePAX1XSparseHeaders() throws Exception {
         final byte[] header = ("1\n"
                 + "0\n"
                 + "20\n")
