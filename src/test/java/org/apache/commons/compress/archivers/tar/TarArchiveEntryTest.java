@@ -79,7 +79,7 @@ import org.junit.jupiter.api.condition.EnabledOnOs;
     }
 
     @Test
-    public void getOrderedSparseHeadersRejectsOverlappingStructs() throws Exception {
+     void getOrderedSparseHeadersRejectsOverlappingStructs() throws Exception {
         final TarArchiveEntry te = new TarArchiveEntry("test");
         te.fillStarSparseData(Collections.singletonMap("SCHILY.realsize", "201"));
         te.setSparseHeaders(Arrays.asList(new TarArchiveStructSparse(10, 5), new TarArchiveStructSparse(12, 1)));
