@@ -413,7 +413,7 @@ public final class TarTestCase extends AbstractTestCase {
     }
 
     @Test
-    public void testTarFileCOMPRESS178() throws Exception {
+     void testTarFileCOMPRESS178() throws Exception {
         final File input = getFile("COMPRESS-178.tar");
         final IOException e = assertThrows(IOException.class, () -> {
             try (final TarFile tarFile = new TarFile(input)) {
