@@ -277,7 +277,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testCompress197() {
+     void testCompress197() {
         try (TarArchiveInputStream tar = getTestStream("/COMPRESS-197.tar")) {
             TarArchiveEntry entry = tar.getNextTarEntry();
             while (entry != null) {
