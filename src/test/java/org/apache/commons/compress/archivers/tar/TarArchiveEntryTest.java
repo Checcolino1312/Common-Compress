@@ -144,7 +144,7 @@ import org.junit.jupiter.api.condition.EnabledOnOs;
     }
 
     @Test
-    public void negativeOffsetInSetterNotAllowed() {
+     void negativeOffsetInSetterNotAllowed() {
         assertThrows(IllegalArgumentException.class, () -> new TarArchiveEntry("test").setDataOffset(-1));
     }
 
