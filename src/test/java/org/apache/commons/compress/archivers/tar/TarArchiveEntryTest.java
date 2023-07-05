@@ -103,7 +103,7 @@ import org.junit.jupiter.api.condition.EnabledOnOs;
     }
 
     @Test
-    public void getOrderedSparseHeadersSortsAndFiltersSparseStructs() throws Exception {
+     void getOrderedSparseHeadersSortsAndFiltersSparseStructs() throws Exception {
         final TarArchiveEntry te = new TarArchiveEntry("test");
         // hacky way to set realSize
         te.fillStarSparseData(Collections.singletonMap("SCHILY.realsize", "201"));
