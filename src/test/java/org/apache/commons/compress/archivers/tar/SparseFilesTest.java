@@ -292,7 +292,7 @@ public class SparseFilesTest extends AbstractTestCase {
     }
 
     @Test
-    public void testPaxGNU() throws Throwable {
+     void testPaxGNU() throws Throwable {
         final File file = getFile("pax_gnu_sparse.tar");
         try (TarArchiveInputStream tin = new TarArchiveInputStream(Files.newInputStream(file.toPath()))) {
             assertPaxGNUEntry(tin, "0.0");
