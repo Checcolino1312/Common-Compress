@@ -299,7 +299,7 @@ import org.junit.jupiter.api.Test;
     // Extended POSIX.1-2001 standard tar
     // Created using BSD tar on Windows
     @Test
-    public void readTimeFromTarPosixLibArchive() throws Exception {
+     void readTimeFromTarPosixLibArchive() throws Exception {
         final String file = "COMPRESS-612/test-times-bsd-folder.tar";
         try (final InputStream in = new BufferedInputStream(Files.newInputStream(getPath(file)));
              final TarArchiveInputStream tin = new TarArchiveInputStream(in)) {
