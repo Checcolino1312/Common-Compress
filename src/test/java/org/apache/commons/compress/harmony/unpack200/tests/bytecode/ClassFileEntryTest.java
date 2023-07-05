@@ -109,7 +109,7 @@ public class ClassFileEntryTest {
     }
 
     @Test
-    public void testUTF8() {
+     void testUTF8() {
         final CPUTF8 u1 = new CPUTF8("thing", 1); //$NON-NLS-1$
         final CPUTF8 u2 = new CPUTF8("thing", 1); //$NON-NLS-1$
         final CPUTF8 u3 = new CPUTF8("otherthing", 2); //$NON-NLS-1$
