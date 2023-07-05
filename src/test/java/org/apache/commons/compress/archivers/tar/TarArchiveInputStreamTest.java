@@ -396,7 +396,7 @@ public class TarArchiveInputStreamTest extends AbstractTestCase {
     }
 
     @Test
-    public void testParseTarTruncatedInPadding() throws IOException {
+     void testParseTarTruncatedInPadding() throws IOException {
         try (InputStream in = newInputStream("COMPRESS-544_truncated_in_padding.tar");
             TarArchiveInputStream archive = new TarArchiveInputStream(in)) {
             getNextEntryUntilIOException(archive);
