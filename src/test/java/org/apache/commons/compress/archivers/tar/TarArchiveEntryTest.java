@@ -306,7 +306,7 @@ import org.junit.jupiter.api.condition.EnabledOnOs;
     }
 
     @Test
-    public void testExtraPaxHeaders() throws IOException {
+     void testExtraPaxHeaders() throws IOException {
         final ByteArrayOutputStream bos = new ByteArrayOutputStream();
         final TarArchiveOutputStream tos = new TarArchiveOutputStream(bos);
 
