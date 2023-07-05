@@ -115,7 +115,7 @@ import static org.junit.jupiter.api.Assertions.*;
     }
 
     @Test
-    public void shouldReadBigGid() throws Exception {
+     void shouldReadBigGid() throws Exception {
         final ByteArrayOutputStream bos = new ByteArrayOutputStream();
         try (final TarArchiveOutputStream tos = new TarArchiveOutputStream(bos)) {
             tos.setBigNumberMode(TarArchiveOutputStream.BIGNUMBER_POSIX);
