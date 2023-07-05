@@ -160,7 +160,7 @@ import static org.junit.jupiter.api.Assertions.*;
     }
 
     @Test
-    public void shouldUseSpecifiedEncodingWhenReadingGNULongNames()
+     void shouldUseSpecifiedEncodingWhenReadingGNULongNames()
             throws Exception {
         final ByteArrayOutputStream bos = new ByteArrayOutputStream();
         final String encoding = CharsetNames.UTF_16;
