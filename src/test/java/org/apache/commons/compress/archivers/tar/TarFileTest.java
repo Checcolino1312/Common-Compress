@@ -137,7 +137,7 @@ import static org.junit.jupiter.api.Assertions.*;
      * @link "https://issues.apache.org/jira/browse/COMPRESS-324"
      */
     @Test
-    public void shouldReadGNULongNameEntryWithWrongName() throws Exception {
+     void shouldReadGNULongNameEntryWithWrongName() throws Exception {
         try (final TarFile tarFile = new TarFile(getPath("COMPRESS-324.tar"))) {
             final List<TarArchiveEntry> entries = tarFile.getEntries();
             assertEquals("1234567890123456789012345678901234567890123456789012345678901234567890"
