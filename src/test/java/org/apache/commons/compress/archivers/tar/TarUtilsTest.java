@@ -706,7 +706,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void testWriteNegativeBinary8Byte() {
+     void testWriteNegativeBinary8Byte() {
         final byte[] b = {
             (byte) 0xff, (byte) 0xff, (byte) 0xff, (byte) 0xff,
             (byte) 0xff, (byte) 0xff, (byte) 0xf1, (byte) 0xef,
