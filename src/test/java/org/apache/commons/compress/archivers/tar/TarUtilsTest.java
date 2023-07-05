@@ -453,7 +453,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void testParseOctalCompress330() {
+     void testParseOctalCompress330() {
         final long expected = 0100000;
         final byte [] buffer = {
             32, 32, 32, 32, 32, 49, 48, 48, 48, 48, 48, 32
