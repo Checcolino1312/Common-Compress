@@ -464,7 +464,7 @@ public final class TarTestCase extends AbstractTestCase {
     }
 
     @Test
-    public void testTarFileDirectoryRead() throws IOException {
+     void testTarFileDirectoryRead() throws IOException {
         final File input = getFile("directory.tar");
         try (TarFile tarFile = new TarFile(input)) {
             final TarArchiveEntry directoryEntry = tarFile.getEntries().get(0);
