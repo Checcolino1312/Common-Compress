@@ -196,7 +196,7 @@ import org.junit.jupiter.api.condition.EnabledOnOs;
     }
 
     @Test
-    public void shouldParseTimePaxHeadersAndNotCountAsExtraPaxHeaders() {
+     void shouldParseTimePaxHeadersAndNotCountAsExtraPaxHeaders() {
         final TarArchiveEntry entry = createEntryForTimeTests();
         assertEquals(0, entry.getExtraPaxHeaders().size(), "extra header count");
         assertNull(entry.getExtraPaxHeader("size"), "size");
