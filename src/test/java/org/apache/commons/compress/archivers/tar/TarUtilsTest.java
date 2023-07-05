@@ -525,7 +525,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void testRoundEncoding() throws Exception {
+     void testRoundEncoding() throws Exception {
         // COMPRESS-114
         final ZipEncoding enc = ZipEncodingHelper.getZipEncoding(CharsetNames.ISO_8859_1);
         final String s = "0302-0601-3\u00b1\u00b1\u00b1F06\u00b1W220\u00b1ZB\u00b1LALALA\u00b1\u00b1\u00b1\u00b1\u00b1\u00b1\u00b1\u00b1\u00b1\u00b1CAN\u00b1\u00b1DC\u00b1\u00b1\u00b104\u00b1060302\u00b1MOE.model";
