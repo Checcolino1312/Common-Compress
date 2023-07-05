@@ -39,7 +39,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class TarFileTest extends AbstractTestCase {
+ class TarFileTest extends AbstractTestCase {
 
     /**
      * This test ensures the implementation is reading the padded last block if a tool has added one to an archive
