@@ -90,7 +90,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testBigNumberPosixMode() throws Exception {
+     void testBigNumberPosixMode() throws Exception {
         final TarArchiveEntry t = new TarArchiveEntry("foo");
         t.setSize(0100000000000L);
         final ByteArrayOutputStream bos = new ByteArrayOutputStream();
