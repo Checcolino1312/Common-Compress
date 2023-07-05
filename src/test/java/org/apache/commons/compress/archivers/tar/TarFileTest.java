@@ -235,7 +235,7 @@ import static org.junit.jupiter.api.Assertions.*;
     }
 
     @Test
-    public void testCompress197() throws IOException {
+     void testCompress197() throws IOException {
         try (final TarFile tarFile = new TarFile(getPath("COMPRESS-197.tar"))) {
             // Add at least one assertion to this test case
             assertNotNull(tarFile);
