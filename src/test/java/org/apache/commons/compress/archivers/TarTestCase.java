@@ -425,7 +425,7 @@ public final class TarTestCase extends AbstractTestCase {
     }
 
     @Test
-    public void testTarFileCOMPRESS178Lenient() throws Exception {
+     void testTarFileCOMPRESS178Lenient() throws Exception {
         final File input = getFile("COMPRESS-178.tar");
         try (final TarFile tarFile = new TarFile(input, true)) {
 
