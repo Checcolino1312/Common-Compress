@@ -336,7 +336,7 @@ import static org.junit.jupiter.api.Assertions.*;
     }
 
     @Test
-    public void testParseTarWithNonNumberPaxHeaders() throws IOException {
+     void testParseTarWithNonNumberPaxHeaders() throws IOException {
         assertThrows(IOException.class, this::createTarFileWithNonNumberPaxHeaders);
     }
 
