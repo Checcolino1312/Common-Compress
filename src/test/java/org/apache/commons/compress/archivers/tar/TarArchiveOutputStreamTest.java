@@ -630,7 +630,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testWriteLongLinkNameTruncateMode() throws Exception {
+     void testWriteLongLinkNameTruncateMode() throws Exception {
         final String linkname = "01234567890123456789012345678901234567890123456789"
             + "01234567890123456789012345678901234567890123456789"
             + "01234567890123456789012345678901234567890123456789/";
