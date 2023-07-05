@@ -240,7 +240,7 @@ public class TarArchiveInputStreamTest extends AbstractTestCase {
      * @see <a href="https://issues.apache.org/jira/browse/COMPRESS-417">COMPRESS-417</a>
      */
     @Test
-    public void skipsDevNumbersWhenEntryIsNoDevice() throws Exception {
+     void skipsDevNumbersWhenEntryIsNoDevice() throws Exception {
         try (TarArchiveInputStream is = getTestStream("/COMPRESS-417.tar")) {
             assertEquals("test1.xml", is.getNextTarEntry().getName());
             assertEquals(TarConstants.LF_NORMAL, is.getCurrentEntry().getLinkFlag());
