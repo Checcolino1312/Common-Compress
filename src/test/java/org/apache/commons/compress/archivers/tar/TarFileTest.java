@@ -69,7 +69,7 @@ import static org.junit.jupiter.api.Assertions.*;
     }
 
     @Test
-    public void datePriorToEpochInGNUFormat() throws Exception {
+     void datePriorToEpochInGNUFormat() throws Exception {
         datePriorToEpoch("preepoch-star.tar");
     }
 
