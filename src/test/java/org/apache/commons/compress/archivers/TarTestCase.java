@@ -71,7 +71,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testCOMPRESS114() throws Exception {
+     void testCOMPRESS114() throws Exception {
         final File input = getFile("COMPRESS-114.tar");
         try (final InputStream is = Files.newInputStream(input.toPath());
              final ArchiveInputStream in = new TarArchiveInputStream(is, CharsetNames.ISO_8859_1)) {
