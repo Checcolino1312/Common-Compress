@@ -212,7 +212,7 @@ import org.junit.jupiter.api.condition.EnabledOnOs;
     }
 
     @Test
-    public void shouldWriteTimesAsPaxHeadersForPosixMode() throws IOException {
+     void shouldWriteTimesAsPaxHeadersForPosixMode() throws IOException {
         final ByteArrayOutputStream bos = new ByteArrayOutputStream();
         try (final TarArchiveOutputStream tos = new TarArchiveOutputStream(bos)) {
             final TarArchiveEntry entry = createEntryForTimeTests();
