@@ -617,7 +617,7 @@ import org.junit.jupiter.api.Test;
      * @see "https://issues.apache.org/jira/browse/COMPRESS-237"
      */
     @Test
-    public void testWriteLongLinkNameGnuMode() throws Exception {
+     void testWriteLongLinkNameGnuMode() throws Exception {
         testWriteLongLinkName(TarArchiveOutputStream.LONGFILE_GNU);
     }
 
