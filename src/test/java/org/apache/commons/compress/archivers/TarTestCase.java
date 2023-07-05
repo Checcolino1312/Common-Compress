@@ -85,7 +85,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testCOMPRESS178() throws Exception {
+     void testCOMPRESS178() throws Exception {
         final File input = getFile("COMPRESS-178.tar");
         try (InputStream is = Files.newInputStream(input.toPath()); ArchiveInputStream in = ArchiveStreamFactory.DEFAULT.createArchiveInputStream("tar", is)) {
             final IOException e = assertThrows(IOException.class, in::getNextEntry, "Expected IOException");
