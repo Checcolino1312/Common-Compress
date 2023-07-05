@@ -535,7 +535,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void testRoundTripNames(){
+     void testRoundTripNames(){
         checkName("");
         checkName("The quick brown fox\n");
         checkName("\177");
