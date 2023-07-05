@@ -179,7 +179,7 @@ import org.junit.jupiter.api.Test;
 
     // Old BSD tar format
     @Test
-    public void readTimeFromTarOldBsdTar() throws Exception {
+     void readTimeFromTarOldBsdTar() throws Exception {
         final String file = "COMPRESS-612/test-times-oldbsdtar.tar";
         try (final InputStream in = new BufferedInputStream(Files.newInputStream(getPath(file)));
              final TarArchiveInputStream tin = new TarArchiveInputStream(in)) {
