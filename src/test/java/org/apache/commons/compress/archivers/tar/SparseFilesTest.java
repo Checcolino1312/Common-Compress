@@ -122,7 +122,7 @@ public class SparseFilesTest extends AbstractTestCase {
 
     @Test
     @DisabledOnOs(OS.WINDOWS)
-    public void testExtractExtendedOldGNU() throws IOException, InterruptedException {
+     void testExtractExtendedOldGNU() throws IOException, InterruptedException {
         final File file = getFile("oldgnu_extended_sparse.tar");
         try (InputStream sparseFileInputStream = extractTarAndGetInputStream(file, "sparse6");
              TarArchiveInputStream tin = new TarArchiveInputStream(Files.newInputStream(file.toPath()))) {
