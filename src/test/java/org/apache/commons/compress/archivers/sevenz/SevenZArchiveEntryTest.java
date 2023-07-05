@@ -108,7 +108,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void shouldThrowIfNoAccessDateIsSet() {
+     void shouldThrowIfNoAccessDateIsSet() {
         assertThrows(UnsupportedOperationException.class, () -> new SevenZArchiveEntry().getAccessDate());
     }
 
