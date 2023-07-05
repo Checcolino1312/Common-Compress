@@ -117,7 +117,7 @@ public class TarArchiveInputStreamTest extends AbstractTestCase {
     }
 
     @Test
-    public void rejectsArchivesWithNegativeSizes() throws Exception {
+     void rejectsArchivesWithNegativeSizes() throws Exception {
         try (InputStream in = newInputStream("COMPRESS-569.tar"); TarArchiveInputStream archive = new TarArchiveInputStream(in)) {
             getNextEntryUntilIOException(archive);
         }
