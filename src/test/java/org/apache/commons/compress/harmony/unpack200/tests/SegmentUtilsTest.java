@@ -82,7 +82,7 @@ public class SegmentUtilsTest {
 
     @ParameterizedTest
     @MethodSource("countInvokeInterfaceArgs")
-    public void testCountInvokeInterfaceArgs(final String descriptor, final int expectedCountInvokeInterfaceArgs) {
+     void testCountInvokeInterfaceArgs(final String descriptor, final int expectedCountInvokeInterfaceArgs) {
         assertEquals(expectedCountInvokeInterfaceArgs, SegmentUtils.countInvokeInterfaceArgs(descriptor));
     }
 
