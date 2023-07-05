@@ -700,7 +700,7 @@ import org.junit.jupiter.api.Test;
      * @see "https://issues.apache.org/jira/browse/COMPRESS-265"
      */
     @Test
-    public void testWriteNonAsciiNameWithUnfortunateNamePosixMode() throws Exception {
+     void testWriteNonAsciiNameWithUnfortunateNamePosixMode() throws Exception {
         final String n = "f\u00f6\u00f6\u00dc";
         final TarArchiveEntry t = new TarArchiveEntry(n);
         final ByteArrayOutputStream bos = new ByteArrayOutputStream();
