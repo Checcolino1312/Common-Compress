@@ -462,7 +462,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void testParseOctalInvalid() {
+     void testParseOctalInvalid() {
         final byte[] buffer1 = ByteUtils.EMPTY_BYTE_ARRAY;
         assertThrows(IllegalArgumentException.class, () -> TarUtils.parseOctal(buffer1, 0, buffer1.length),
                 "Expected IllegalArgumentException - should be at least 2 bytes long");
