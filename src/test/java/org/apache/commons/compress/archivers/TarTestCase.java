@@ -308,7 +308,7 @@ public final class TarTestCase extends AbstractTestCase {
     }
 
     @Test
-    public void testLongNameLargerThanBuffer() throws IOException {
+     void testLongNameLargerThanBuffer() throws IOException {
         final List<Integer> nameLength = Arrays.asList(300, 4096);
 
         for (final Integer length : nameLength) {
