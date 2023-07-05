@@ -46,7 +46,7 @@ import org.apache.commons.compress.utils.CharsetNames;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.condition.EnabledOnOs;
 
-public class TarArchiveEntryTest implements TarConstants {
+ class TarArchiveEntryTest implements TarConstants {
 
     private static final String OS =
         System.getProperty("os.name").toLowerCase(Locale.ENGLISH);
