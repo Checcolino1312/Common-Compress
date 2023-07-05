@@ -165,7 +165,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testExplicitDirectoryEntry() throws Exception {
+     void testExplicitDirectoryEntry() throws Exception {
         final File[] tmp = createTempDirAndFile();
         File archive = null;
         TarArchiveOutputStream tos = null;
