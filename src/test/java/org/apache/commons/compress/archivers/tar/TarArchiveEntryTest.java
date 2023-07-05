@@ -347,7 +347,7 @@ public class TarArchiveEntryTest implements TarConstants {
      * @see "https://issues.apache.org/jira/browse/SANDBOX-284"
      */
     @Test
-    public void testFileSystemRoot() {
+     void testFileSystemRoot() {
         final TarArchiveEntry t = new TarArchiveEntry(new File(ROOT));
         assertEquals("/", t.getName());
         assertEquals(TarConstants.LF_DIR, t.getLinkFlag());
