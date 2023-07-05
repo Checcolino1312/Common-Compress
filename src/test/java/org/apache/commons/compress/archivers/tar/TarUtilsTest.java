@@ -198,7 +198,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void parsePAX1XSparseHeadersRejectsNonNumericNumbytes() throws Exception {
+     void parsePAX1XSparseHeadersRejectsNonNumericNumbytes() throws Exception {
         final byte[] header = ("1\n"
                 + "0\n"
                 + "2x\n")
