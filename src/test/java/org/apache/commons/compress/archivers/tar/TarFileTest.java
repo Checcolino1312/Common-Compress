@@ -345,7 +345,7 @@ import static org.junit.jupiter.api.Assertions.*;
     }
 
     @Test
-    public void testParseTarWithSpecialPaxHeaders() throws IOException {
+     void testParseTarWithSpecialPaxHeaders() throws IOException {
         assertThrows(IOException.class, this::createTarFileWithSpecialPaxHeaders);
     }
 
