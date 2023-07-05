@@ -340,7 +340,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void readSparseStructsOctal() throws Exception {
+     void readSparseStructsOctal() throws Exception {
         final byte[] header = "00000000000 00000000007 ".getBytes();
         assertEquals(24, header.length);
         final List<TarArchiveStructSparse> sparse = TarUtils.readSparseStructs(header, 0, 1);
