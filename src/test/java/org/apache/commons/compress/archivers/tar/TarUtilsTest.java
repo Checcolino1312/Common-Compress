@@ -244,7 +244,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void readPax00SparseHeader() throws Exception {
+     void readPax00SparseHeader() throws Exception {
         final String header = "23 GNU.sparse.offset=0\n26 GNU.sparse.numbytes=10\n";
         final List<TarArchiveStructSparse> sparseHeaders = new ArrayList<>();
         TarUtils.parsePaxHeaders(
