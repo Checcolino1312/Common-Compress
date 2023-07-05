@@ -127,7 +127,7 @@ public class TarArchiveInputStreamTest extends AbstractTestCase {
      * This test ensures the implementation is reading the padded last block if a tool has added one to an archive
      */
     @Test
-    public void shouldConsumeArchiveCompletely() throws Exception {
+     void shouldConsumeArchiveCompletely() throws Exception {
         try (InputStream is = TarArchiveInputStreamTest.class.getResourceAsStream("/archive_with_trailer.tar");
              TarArchiveInputStream tar = new TarArchiveInputStream(is)) {
             while (tar.getNextTarEntry() != null) {
