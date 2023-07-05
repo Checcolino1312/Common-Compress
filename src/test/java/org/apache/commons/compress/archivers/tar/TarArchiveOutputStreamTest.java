@@ -506,7 +506,7 @@ import org.junit.jupiter.api.Test;
      * @see "https://issues.apache.org/jira/browse/COMPRESS-203"
      */
     @Test
-    public void testWriteLongDirectoryNamePosixMode() throws Exception {
+     void testWriteLongDirectoryNamePosixMode() throws Exception {
         testWriteLongDirectoryName(TarArchiveOutputStream.LONGFILE_POSIX);
     }
 
