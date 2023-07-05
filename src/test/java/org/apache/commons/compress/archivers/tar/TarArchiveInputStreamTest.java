@@ -164,7 +164,7 @@ public class TarArchiveInputStreamTest extends AbstractTestCase {
      * @see <a href="https://issues.apache.org/jira/browse/COMPRESS-324">COMPRESS-324</a>
      */
     @Test
-    public void shouldReadGNULongNameEntryWithWrongName() throws Exception {
+     void shouldReadGNULongNameEntryWithWrongName() throws Exception {
         try (TarArchiveInputStream is = getTestStream("/COMPRESS-324.tar")) {
             final TarArchiveEntry entry = is.getNextTarEntry();
             assertEquals("1234567890123456789012345678901234567890123456789012345678901234567890"
