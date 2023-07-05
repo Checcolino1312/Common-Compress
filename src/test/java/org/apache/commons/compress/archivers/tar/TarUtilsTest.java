@@ -426,7 +426,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void testParseOctal() {
+     void testParseOctal() {
         long value;
         byte [] buffer;
         final long MAX_OCTAL  = 077777777777L; // Allowed 11 digits
