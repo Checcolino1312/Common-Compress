@@ -572,7 +572,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void testRoundTripOctalOrBinary8() {
+     void testRoundTripOctalOrBinary8() {
         testRoundTripOctalOrBinary(8);
     }
 
