@@ -197,7 +197,7 @@ import org.junit.jupiter.api.Test;
     // Format used by GNU tar of versions prior to 1.12
     // Created using GNU tar
     @Test
-    public void readTimeFromTarOldGnu() throws Exception {
+     void readTimeFromTarOldGnu() throws Exception {
         final String file = "COMPRESS-612/test-times-oldgnu.tar";
         try (final InputStream in = new BufferedInputStream(Files.newInputStream(getPath(file)));
              final TarArchiveInputStream tin = new TarArchiveInputStream(in)) {
