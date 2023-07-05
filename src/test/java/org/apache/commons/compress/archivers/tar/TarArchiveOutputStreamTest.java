@@ -192,7 +192,7 @@ import org.junit.jupiter.api.Test;
      * have different MD5 hashes.
      */
     @Test
-    public void testLongNameMd5Hash() throws Exception {
+     void testLongNameMd5Hash() throws Exception {
         final String longFileName = "a/considerably/longer/file/name/which/forces/use/of/the/long/link/header/which/appears/to/always/use/the/current/time/as/modification/date";
         final Date modificationDate = new Date();
 
