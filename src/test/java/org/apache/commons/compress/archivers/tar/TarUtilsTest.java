@@ -376,7 +376,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void readSparseStructsRejectsNonNumericOffset() throws Exception {
+     void readSparseStructsRejectsNonNumericOffset() throws Exception {
         final byte[] header = "0000000000x 00000000007 ".getBytes();
         assertThrows(IOException.class, () -> TarUtils.readSparseStructs(header, 0, 1));
     }
