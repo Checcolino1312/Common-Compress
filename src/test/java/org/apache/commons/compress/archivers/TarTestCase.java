@@ -349,7 +349,7 @@ public final class TarTestCase extends AbstractTestCase {
 
 
     @Test
-    public void testTarArchiveLongNameCreation() throws Exception {
+     void testTarArchiveLongNameCreation() throws Exception {
         final String name = "testdata/12345678901234567890123456789012345678901234567890123456789012345678901234567890123456.xml";
         final byte[] bytes = name.getBytes(UTF_8);
         assertEquals(99, bytes.length);
