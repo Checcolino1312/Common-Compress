@@ -109,7 +109,7 @@ public class ParameterizedExpanderTest extends AbstractTestCase {
 
     @ParameterizedTest
     @MethodSource("data")
-    public void inputStreamVersion(final String format) throws Exception {
+     void inputStreamVersion(final String format) throws Exception {
         // TODO How to parameterize a BeforeEach method?
         setUp(format);
         try (InputStream i = new BufferedInputStream(Files.newInputStream(archive.toPath()))) {
