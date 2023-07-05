@@ -51,7 +51,7 @@ public class ConstantPoolTest {
     }
 
     @Test
-    public void testDuplicateUTF8() {
+     void testDuplicateUTF8() {
         final CPUTF8 u1 = new CPUTF8("thing", 1);
         final CPUTF8 u2 = new CPUTF8("thing", 1);
         pool.add(u1);
