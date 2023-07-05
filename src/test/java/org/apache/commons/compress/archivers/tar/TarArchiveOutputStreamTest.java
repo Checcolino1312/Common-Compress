@@ -369,7 +369,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-	public void testPutGlobalPaxHeaderEntry() throws IOException {
+	 void testPutGlobalPaxHeaderEntry() throws IOException {
         final String x = "If at first you don't succeed, give up";
 		final ByteArrayOutputStream bos = new ByteArrayOutputStream();
         try (TarArchiveOutputStream tos = new TarArchiveOutputStream(bos)) {
