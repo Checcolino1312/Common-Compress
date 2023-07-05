@@ -384,7 +384,7 @@ import org.junit.jupiter.api.Test;
 
     // Standard POSIX.1-1988 tar format
     @Test
-    public void readTimeFromTarUstar() throws Exception {
+     void readTimeFromTarUstar() throws Exception {
         final String file = "COMPRESS-612/test-times-ustar.tar";
         try (final InputStream in = new BufferedInputStream(Files.newInputStream(getPath(file)));
              final TarArchiveInputStream tin = new TarArchiveInputStream(in)) {
