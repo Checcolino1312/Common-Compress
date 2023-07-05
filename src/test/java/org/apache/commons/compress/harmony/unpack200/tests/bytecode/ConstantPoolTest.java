@@ -37,7 +37,7 @@ public class ConstantPoolTest {
     }
 
     @Test
-    public void testDuplicateField() {
+     void testDuplicateField() {
         final CPMember cp1 = new CPMember(new CPUTF8("name", 1), new CPUTF8("I", 2),
                 0, null);
         pool.add(cp1);
