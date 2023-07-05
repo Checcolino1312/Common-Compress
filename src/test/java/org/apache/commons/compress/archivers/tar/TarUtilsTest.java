@@ -159,7 +159,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void parsePAX1XSparseHeadersRejectsNegativeNumbytes() throws Exception {
+     void parsePAX1XSparseHeadersRejectsNegativeNumbytes() throws Exception {
         final byte[] header = ("1\n"
                 + "0\n"
                 + "111111111111111111111111111111111111111111111111111111111111111\n")
