@@ -42,7 +42,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void methodOrderMattersInEquals() {
+     void methodOrderMattersInEquals() {
         final SevenZArchiveEntry z1 = new SevenZArchiveEntry();
         final SevenZArchiveEntry z2 = new SevenZArchiveEntry();
         z1.setContentMethods(new SevenZMethodConfiguration(SevenZMethod.LZMA2), new SevenZMethodConfiguration(SevenZMethod.DELTA_FILTER));
