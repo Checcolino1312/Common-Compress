@@ -323,7 +323,7 @@ public final class TarTestCase extends AbstractTestCase {
     }
 
     @Test
-    public void testTarArchiveCreation() throws Exception {
+     void testTarArchiveCreation() throws Exception {
         final File output = new File(dir, "bla.tar");
         final File file1 = getFile("test1.xml");
         try (OutputStream out = Files.newOutputStream(output.toPath());
