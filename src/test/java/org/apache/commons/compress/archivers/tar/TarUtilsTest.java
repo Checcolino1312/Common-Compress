@@ -565,7 +565,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void testRoundTripOctalOrBinary12() {
+     void testRoundTripOctalOrBinary12() {
         testRoundTripOctalOrBinary(12);
         checkRoundTripOctalOrBinary(Long.MAX_VALUE, 12);
         checkRoundTripOctalOrBinary(Long.MIN_VALUE + 1, 12);
