@@ -318,7 +318,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testDirectoryWithLongNameEndsWithSlash() throws IOException, ArchiveException {
+     void testDirectoryWithLongNameEndsWithSlash() throws IOException, ArchiveException {
         final String rootPath = dir.getAbsolutePath();
         final String dirDirectory = "COMPRESS-509";
         final int count = 100;
