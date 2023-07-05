@@ -485,7 +485,7 @@ import org.junit.jupiter.params.provider.CsvSource;
     }
 
     @Test
-    public void testParseSparse() {
+     void testParseSparse() {
         final long expectedOffset = 0100000;
         final long expectedNumbytes = 0111000;
         final byte [] buffer = {
