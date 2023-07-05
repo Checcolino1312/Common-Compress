@@ -149,7 +149,7 @@ import org.junit.jupiter.api.condition.EnabledOnOs;
     }
 
     @Test
-    public void preservesDriveSpecOnWindowsAndNetwareIfAskedTo() {
+     void preservesDriveSpecOnWindowsAndNetwareIfAskedTo() {
         assumeTrue("C:\\".equals(ROOT));
         TarArchiveEntry t = new TarArchiveEntry(ROOT + "foo.txt", true);
         assertEquals("C:/foo.txt", t.getName());
