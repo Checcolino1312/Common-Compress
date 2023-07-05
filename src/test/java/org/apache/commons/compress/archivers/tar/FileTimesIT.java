@@ -435,7 +435,7 @@ import org.junit.jupiter.api.Test;
 
     // Extended standard tar (star 1994)
     @Test
-    public void readTimeFromTarXstarFolder() throws Exception {
+     void readTimeFromTarXstarFolder() throws Exception {
         final String file = "COMPRESS-612/test-times-xstar-folder.tar";
         try (final InputStream in = new BufferedInputStream(Files.newInputStream(getPath(file)));
              final TarArchiveInputStream tin = new TarArchiveInputStream(in)) {
