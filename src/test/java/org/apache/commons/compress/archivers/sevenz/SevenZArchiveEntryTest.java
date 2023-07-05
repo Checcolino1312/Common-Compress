@@ -81,7 +81,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void shouldThrowIfAccessDateIsSetToNull() {
+     void shouldThrowIfAccessDateIsSetToNull() {
         assertThrows(UnsupportedOperationException.class, () -> {
             final SevenZArchiveEntry entry = new SevenZArchiveEntry();
             entry.setAccessDate(null);
