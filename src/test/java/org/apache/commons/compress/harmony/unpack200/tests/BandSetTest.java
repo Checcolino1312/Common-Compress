@@ -92,7 +92,7 @@ public class BandSetTest {
 
     @Test
     @Disabled("TODO: Implement")
-    public void testParseReferences1() {
+     void testParseReferences1() {
         Assertions.assertDoesNotThrow(() -> {
             // TODO: Implement test logic here
         });
