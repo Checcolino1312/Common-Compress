@@ -105,7 +105,7 @@ public class SegmentTest {
     }
 
     @Test
-    public void testInterfaceOnly() throws Exception {
+     void testInterfaceOnly() throws Exception {
         in = Segment.class
                 .getResourceAsStream("/pack200/InterfaceOnly.pack");
         file = File.createTempFile("Interface", "Only.jar");
