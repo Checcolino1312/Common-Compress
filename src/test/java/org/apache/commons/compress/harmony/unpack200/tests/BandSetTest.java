@@ -56,7 +56,7 @@ public class BandSetTest {
     };
 
     @Test
-    public void testDecodeBandInt() throws IOException, Pack200Exception {
+     void testDecodeBandInt() throws IOException, Pack200Exception {
         final BHSDCodec codec = Codec.BYTE1;
         final byte[] bytes = { (byte) 3, (byte) 56, (byte) 122, (byte) 78 };
         final InputStream in = new ByteArrayInputStream(bytes);
