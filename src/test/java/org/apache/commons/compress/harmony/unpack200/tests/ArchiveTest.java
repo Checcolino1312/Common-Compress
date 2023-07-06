@@ -73,7 +73,7 @@ public class ArchiveTest {
     }
 
     @Test
-    public void testAlternativeConstructor() throws Exception {
+     void testAlternativeConstructor() throws Exception {
         final String inputFile = new File(Archive.class
                 .getResource("/pack200/sql.pack.gz").toURI()).getPath();
         file = File.createTempFile("sql", ".jar");
