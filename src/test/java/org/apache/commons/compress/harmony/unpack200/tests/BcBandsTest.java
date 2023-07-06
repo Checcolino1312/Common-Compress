@@ -578,7 +578,7 @@ public class BcBandsTest extends AbstractBandsTestCase {
      */
     @Test
     @Disabled("TODO: Need to fix this test so it has enough data to pass.")
-    public void testBcSuperMethodBand() throws IOException, Pack200Exception {
+     void testBcSuperMethodBand() throws IOException, Pack200Exception {
         final byte[] bytes = { (byte) 220, (byte) 221, (byte) 222,
                 (byte) 227, (byte) 228, (byte) 229, (byte) 255, 8, 8, 8, 8, 8,
                 8 }; // bc_supermethod band
