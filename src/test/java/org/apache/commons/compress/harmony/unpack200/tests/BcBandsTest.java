@@ -407,7 +407,7 @@ import org.junit.jupiter.api.Test;
      */
     @Test
     @Disabled("TODO: Need to fix this test so it has enough data to pass.")
-    public void testBcInitRefRefBand() throws IOException, Pack200Exception {
+     void testBcInitRefRefBand() throws IOException, Pack200Exception {
         final byte[] bytes = { (byte) 230, (byte) 231, (byte) 232,
                 (byte) 255, 8, 8, 8 }; // bc_initrefref band
         final InputStream in = new ByteArrayInputStream(bytes);
