@@ -76,7 +76,7 @@ public class BandSetTest {
 
     @Test
     @Disabled("TODO: Implement")
-    public void testParseFlags2() {
+     void testParseFlags2() {
         Assertions.assertDoesNotThrow(() -> {
             // TODO: Implement test logic here
         });
