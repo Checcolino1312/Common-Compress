@@ -355,7 +355,7 @@ import org.junit.jupiter.params.provider.MethodSource;
 
     //     Test with an archive containing Annotations
     @Test
-    public void testWithAnnotations2() throws Exception {
+     void testWithAnnotations2() throws Exception {
         final InputStream i = Archive.class
                 .getResourceAsStream("/pack200/annotationsRI.pack.gz");
         file = File.createTempFile("annotations", ".jar");
