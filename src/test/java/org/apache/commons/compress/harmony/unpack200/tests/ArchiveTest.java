@@ -205,7 +205,7 @@ public class ArchiveTest {
     }
 
     @Test
-    public void testRemovePackFile() throws Exception {
+     void testRemovePackFile() throws Exception {
         final File original = new File(Archive.class.getResource(
                 "/pack200/sql.pack.gz").toURI());
         final File copy = File.createTempFile("sqlcopy", ".pack.gz");
