@@ -37,7 +37,7 @@ import org.junit.jupiter.api.Test;
 /**
  * Tests for CodeAttribute
  */
-public class CodeAttributeTest {
+ class CodeAttributeTest {
 
 	public class MockCodeAttribute extends CodeAttribute {
 
