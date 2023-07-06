@@ -56,7 +56,7 @@ import org.junit.jupiter.api.Test;
  * should be replaced with properly encoded byte arrays when encoding is
  * implemented.
  */
-public class BcBandsTest extends AbstractBandsTestCase {
+ class BcBandsTest extends AbstractBandsTestCase {
 
     public class MockClassBands extends ClassBands {
 
