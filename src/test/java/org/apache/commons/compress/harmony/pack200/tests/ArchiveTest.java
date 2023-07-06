@@ -194,7 +194,7 @@ import org.junit.jupiter.params.provider.MethodSource;
     }
 
     @Test
-    public void testHelloWorld() throws IOException, Pack200Exception, URISyntaxException {
+     void testHelloWorld() throws IOException, Pack200Exception, URISyntaxException {
         in = new JarFile(new File(Archive.class.getResource(
                 "/pack200/hw.jar").toURI()));
         file = File.createTempFile("helloworld", ".pack.gz");
