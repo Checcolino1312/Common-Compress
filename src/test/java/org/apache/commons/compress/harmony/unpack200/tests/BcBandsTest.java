@@ -337,7 +337,7 @@ import org.junit.jupiter.api.Test;
      * @throws IOException
      */
     @Test
-    public void testBcDoubleRefBand() throws IOException, Pack200Exception {
+     void testBcDoubleRefBand() throws IOException, Pack200Exception {
         final byte[] bytes = { (byte) 239, (byte) 255, 8 }; // bc_doubleref
         // band
         final InputStream in = new ByteArrayInputStream(bytes);
