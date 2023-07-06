@@ -559,7 +559,7 @@ public class BcBandsTest extends AbstractBandsTestCase {
      * @throws IOException
      */
     @Test
-    public void testBcSuperFieldBand() throws IOException, Pack200Exception {
+     void testBcSuperFieldBand() throws IOException, Pack200Exception {
         final byte[] bytes = { (byte) 216, (byte) 217, (byte) 218,
                 (byte) 219, (byte) 223, (byte) 224, (byte) 225, (byte) 226,
                 (byte) 255, 8, 8, 8, 8, 8, 8, 8, 8 }; // bc_superfield band
