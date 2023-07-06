@@ -297,7 +297,7 @@ public class ArchiveTest {
 
     // Test with an archive containing Harmony's Pack200 module, packed with -E1
     @Test
-    public void testWithPack200E1() throws Exception {
+     void testWithPack200E1() throws Exception {
         in = Archive.class
                 .getResourceAsStream("/pack200/pack200-e1.pack.gz");
         file = File.createTempFile("p200-e1", ".jar");
