@@ -118,7 +118,7 @@ public class AttributeLayoutTest {
     }
 
     @Test
-    public void testLayoutRS() throws Pack200Exception {
+     void testLayoutRS() throws Pack200Exception {
         final AttributeLayout layout = new AttributeLayout("RS",
                 AttributeLayout.CONTEXT_CLASS, "RS", 1);
         final Segment segment = new TestSegment();
