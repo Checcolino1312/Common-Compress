@@ -260,7 +260,7 @@ import org.junit.jupiter.api.Test;
 
     // Test verbose, quiet and log file options.
     @Test
-    public void testLoggingOptions() throws Exception {
+     void testLoggingOptions() throws Exception {
         // Test defaults
         final PackingOptions options = new PackingOptions();
         assertFalse(options.isVerbose());
