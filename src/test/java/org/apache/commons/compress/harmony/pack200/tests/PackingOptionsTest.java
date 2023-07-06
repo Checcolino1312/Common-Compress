@@ -47,7 +47,7 @@ import org.junit.jupiter.api.Test;
 /**
  * Test different options for packing a Jar file
  */
-public class PackingOptionsTest {
+ class PackingOptionsTest {
 
     JarFile in;
     OutputStream out;
