@@ -162,7 +162,7 @@ import org.junit.jupiter.params.provider.MethodSource;
     }
 
     @Test
-    public void testAnnotations2() throws IOException, Pack200Exception,
+     void testAnnotations2() throws IOException, Pack200Exception,
             URISyntaxException {
 
         in = new JarFile(new File(Archive.class.getResource(
