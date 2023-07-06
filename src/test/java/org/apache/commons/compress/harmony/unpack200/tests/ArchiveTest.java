@@ -233,7 +233,7 @@ public class ArchiveTest {
 
     // Test with an archive containing Annotations
     @Test
-    public void testWithAnnotations() throws Exception {
+     void testWithAnnotations() throws Exception {
         in = Archive.class
                 .getResourceAsStream("/pack200/annotations.pack.gz");
         file = File.createTempFile("annotations", ".jar");
