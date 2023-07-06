@@ -64,7 +64,7 @@ public class SegmentTest {
     }
 
     @Test
-    public void testHelloWorld() throws Exception {
+     void testHelloWorld() throws Exception {
         in = Segment.class
                 .getResourceAsStream("/pack200/HelloWorld.pack");
         file = File.createTempFile("hello", "world.jar");
