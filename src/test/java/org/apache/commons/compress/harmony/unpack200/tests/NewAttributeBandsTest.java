@@ -165,7 +165,7 @@ public class NewAttributeBandsTest extends AbstractBandsTestCase {
             "KIB", "KIH", "KII", "KINH", "KJH", "KDH", "KSH", "KQH", "RCH",
             "RSH", "RDH", "RFH", "RMH", "RIH", "RUH", "RQH", "RQNH", "RQNI"
     })
-    public void testReferenceLayouts(final String layout) throws IOException, Pack200Exception {
+     void testReferenceLayouts(final String layout) throws IOException, Pack200Exception {
         final MockNewAttributeBands newAttributeBands = new MockNewAttributeBands(
                 new MockSegment(), new AttributeLayout("test",
                         AttributeLayout.CONTEXT_CODE, layout, 26));
