@@ -163,7 +163,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testKeepFileOrder() throws Exception {
+     void testKeepFileOrder() throws Exception {
         // Test default first
         PackingOptions options = new PackingOptions();
         assertTrue(options.isKeepFileOrder());
