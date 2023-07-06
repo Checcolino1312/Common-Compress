@@ -523,7 +523,7 @@ public class BcBandsTest extends AbstractBandsTestCase {
      * @throws IOException
      */
     @Test
-    public void testBcShortBand() throws IOException, Pack200Exception {
+     void testBcShortBand() throws IOException, Pack200Exception {
         // TODO: Need to fix this test so it has enough data to pass.
         final byte[] bytes = { 17, (byte) 196, (byte) 132, (byte) 255, 8,
                 8,// bc_short band
