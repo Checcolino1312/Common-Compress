@@ -114,7 +114,7 @@ public class CodecTest {
     }
 
     @Test
-    public void testByte1DeltaException() throws Exception {
+     void testByte1DeltaException() throws Exception {
         final Codec BYTE1D = new BHSDCodec(1, 256, 0, 1);
         assertThrows(Pack200Exception.class, () -> BYTE1D.decode(new ByteArrayInputStream(new byte[]{(byte) 1})),
                 "Decoding with a delta stream and not passing a last value should throw an exception");
