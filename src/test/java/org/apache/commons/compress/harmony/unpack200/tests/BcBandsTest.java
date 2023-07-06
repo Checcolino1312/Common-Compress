@@ -320,7 +320,7 @@ import org.junit.jupiter.api.Test;
      * @throws IOException
      */
     @Test
-    public void testBcClassRefBand() throws IOException, Pack200Exception {
+     void testBcClassRefBand() throws IOException, Pack200Exception {
         final byte[] bytes = { (byte) 233, (byte) 236, (byte) 255, 8, 8 }; // bc_classref
         // band
         final InputStream in = new ByteArrayInputStream(bytes);
