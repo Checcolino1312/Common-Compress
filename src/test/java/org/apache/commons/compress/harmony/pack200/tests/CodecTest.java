@@ -105,7 +105,7 @@ public class CodecTest {
     }
 
     @Test
-    public void testByte1Delta() throws Exception {
+     void testByte1Delta() throws Exception {
         final Codec BYTE1D = new BHSDCodec(1, 256, 0, 1);
         long last = 0;
         for (int i = 1; i < 255; i++) {
