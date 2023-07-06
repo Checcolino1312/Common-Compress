@@ -121,7 +121,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testE0() throws Pack200Exception, IOException,
+     void testE0() throws Pack200Exception, IOException,
             URISyntaxException {
         final File f1 = new File(Archive.class.getResource(
                 "/pack200/jndi.jar").toURI());
