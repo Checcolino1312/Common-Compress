@@ -285,7 +285,7 @@ public class ArchiveTest {
 
     // Test with an archive containing Harmony's Pack200 module
     @Test
-    public void testWithPack200() throws Exception {
+     void testWithPack200() throws Exception {
         in = Archive.class
                 .getResourceAsStream("/pack200/pack200.pack.gz");
         file = File.createTempFile("p200", ".jar");
