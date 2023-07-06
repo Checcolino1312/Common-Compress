@@ -108,7 +108,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testDeflateHint() {
+     void testDeflateHint() {
         // Test default first
         final PackingOptions options = new PackingOptions();
         assertEquals("keep", options.getDeflateHint());
