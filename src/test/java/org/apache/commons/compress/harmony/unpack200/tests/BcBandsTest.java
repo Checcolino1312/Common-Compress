@@ -490,7 +490,7 @@ import org.junit.jupiter.api.Test;
      * @throws IOException
      */
     @Test
-    public void testBcLongRefBand() throws IOException, Pack200Exception {
+     void testBcLongRefBand() throws IOException, Pack200Exception {
         final byte[] bytes = { 20, (byte) 255, 8 }; // bc_longref band
         final InputStream in = new ByteArrayInputStream(bytes);
         bcBands.unpack(in);
