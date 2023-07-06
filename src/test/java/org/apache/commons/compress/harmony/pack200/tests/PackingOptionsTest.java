@@ -626,7 +626,7 @@ import org.junit.jupiter.api.Test;
     // }
 
     @Test
-    public void testSegmentLimits() throws IOException, Pack200Exception,
+     void testSegmentLimits() throws IOException, Pack200Exception,
             URISyntaxException {
         in = new JarFile(new File(Archive.class.getResource(
                 "/pack200/hw.jar").toURI()));
