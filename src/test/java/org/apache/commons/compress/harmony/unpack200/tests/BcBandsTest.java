@@ -614,7 +614,7 @@ public class BcBandsTest extends AbstractBandsTestCase {
      * @throws IOException
      */
     @Test
-    public void testBcThisMethodBand() throws IOException, Pack200Exception {
+     void testBcThisMethodBand() throws IOException, Pack200Exception {
         final byte[] bytes = { (byte) 206, (byte) 207, (byte) 208,
                 (byte) 213, (byte) 214, (byte) 215, (byte) 255, 8, 8, 8, 8, 8,
                 8 }; // bc_thismethod band
