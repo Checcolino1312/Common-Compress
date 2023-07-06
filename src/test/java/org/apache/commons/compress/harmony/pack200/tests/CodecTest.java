@@ -98,7 +98,7 @@ public class CodecTest {
     }
 
     @Test
-    public void testByte1() throws Exception {
+     void testByte1() throws Exception {
         for (int i = 0; i < 255; i++) {
             decode(Codec.BYTE1, new byte[] { (byte) i }, i, 0);
         }
