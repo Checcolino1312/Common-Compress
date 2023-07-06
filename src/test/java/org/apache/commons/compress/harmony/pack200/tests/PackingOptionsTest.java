@@ -668,7 +668,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testStripDebug() throws IOException, Pack200Exception,
+     void testStripDebug() throws IOException, Pack200Exception,
             URISyntaxException {
         in = new JarFile(new File(Archive.class.getResource(
                 "/pack200/sqlUnpacked.jar").toURI()));
