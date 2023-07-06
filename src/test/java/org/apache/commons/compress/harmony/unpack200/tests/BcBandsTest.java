@@ -441,7 +441,7 @@ import org.junit.jupiter.api.Test;
      * @throws IOException
      */
     @Test
-    public void testBcLabelBand() throws IOException, Pack200Exception {
+     void testBcLabelBand() throws IOException, Pack200Exception {
         final byte[] bytes = { (byte) 159, (byte) 160, (byte) 161,
                 (byte) 162, (byte) 163, (byte) 164, (byte) 165, (byte) 166,
                 (byte) 167, (byte) 168, (byte) 170, (byte) 171, (byte) 198,
