@@ -424,7 +424,7 @@ import org.junit.jupiter.api.Test;
      * @throws IOException
      */
     @Test
-    public void testBcIntRefBand() throws IOException, Pack200Exception {
+     void testBcIntRefBand() throws IOException, Pack200Exception {
         final byte[] bytes = { (byte) 234, (byte) 237, (byte) 255, 8, 8 }; // bc_intref
         // band
         final InputStream in = new ByteArrayInputStream(bytes);
