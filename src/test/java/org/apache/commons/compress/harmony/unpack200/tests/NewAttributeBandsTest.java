@@ -200,7 +200,7 @@ public class NewAttributeBandsTest extends AbstractBandsTestCase {
     }
 
     @Test
-    public void testUnionLayout() throws IOException, Pack200Exception {
+     void testUnionLayout() throws IOException, Pack200Exception {
         final MockNewAttributeBands newAttributeBands = new MockNewAttributeBands(
                 new MockSegment(), new AttributeLayout("test",
                         AttributeLayout.CONTEXT_CODE,
