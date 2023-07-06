@@ -142,7 +142,7 @@ public class CodeAttributeTest {
     };
 
     @Test
-    public void testLength() {
+     void testLength() {
         final OperandManager operandManager = new MockOperandManager();
         operandManager.setSegment(segment);
         operandManager.setCurrentClass("java/lang/Foo");
