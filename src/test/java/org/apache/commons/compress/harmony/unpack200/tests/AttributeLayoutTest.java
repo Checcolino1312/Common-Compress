@@ -106,7 +106,7 @@ public class AttributeLayoutTest {
 
     @ParameterizedTest
     @MethodSource("badData")
-    public void testBadData(final String name, final int context, final String layout) {
+     void testBadData(final String name, final int context, final String layout) {
         assertThrows(Pack200Exception.class, () -> new AttributeLayout(name, context, layout, -1));
     }
 
