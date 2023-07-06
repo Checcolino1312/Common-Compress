@@ -161,7 +161,7 @@ public class CodeAttributeTest {
     }
 
     @Test
-    public void testMixedByteCodes() {
+     void testMixedByteCodes() {
         final OperandManager operandManager = new MockOperandManager();
         operandManager.setSegment(segment);
         operandManager.setCurrentClass("java/lang/Foo");
