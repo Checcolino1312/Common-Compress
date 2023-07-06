@@ -47,7 +47,7 @@ import org.junit.jupiter.api.Test;
  * Tests for org.apache.commons.compress.harmony.unpack200.Archive, which is the main class for
  * unpack200.
  */
-public class ArchiveTest {
+ class ArchiveTest {
 
     InputStream in;
     JarOutputStream out;
