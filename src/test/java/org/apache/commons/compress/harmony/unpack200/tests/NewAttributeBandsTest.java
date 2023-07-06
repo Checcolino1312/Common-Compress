@@ -80,7 +80,7 @@ public class NewAttributeBandsTest extends AbstractBandsTestCase {
     }
 
     @Test
-    public void testLayoutWithBackwardsCall() throws IOException,
+     void testLayoutWithBackwardsCall() throws IOException,
             Pack200Exception {
         MockNewAttributeBands newAttributeBands = new MockNewAttributeBands(
                 new MockSegment(), new AttributeLayout("test",
