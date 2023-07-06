@@ -60,7 +60,7 @@ public class SegmentConstantPoolArrayCacheTest {
     }
 
     @Test
-    public void testSingleMultipleHitArray() {
+     void testSingleMultipleHitArray() {
         final SegmentConstantPoolArrayCache arrayCache = new SegmentConstantPoolArrayCache();
         final String array[] = {"Zero", "OneThreeFour", "Two", "OneThreeFour", "OneThreeFour"};
         final List list = arrayCache.indexesForArrayKey(array, "OneThreeFour");
