@@ -632,7 +632,7 @@ public class BcBandsTest extends AbstractBandsTestCase {
      * @throws Pack200Exception
      */
     @Test
-    public void testMultipleClassesSimple() throws IOException,
+     void testMultipleClassesSimple() throws IOException,
             Pack200Exception {
         numClasses = 2;
         numMethods = new int[] { 1, 1 };
