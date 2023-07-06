@@ -366,7 +366,7 @@ public class ArchiveTest {
 
     // Test with an archive containing Harmony's SQL module, packed with -E1
     @Test
-    public void testWithSqlE1() throws Exception {
+     void testWithSqlE1() throws Exception {
         in = Archive.class
                 .getResourceAsStream("/pack200/sql-e1.pack.gz");
         file = File.createTempFile("sql-e1", ".jar");
