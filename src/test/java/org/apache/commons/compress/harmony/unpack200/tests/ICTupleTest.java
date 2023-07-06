@@ -57,7 +57,7 @@ public class ICTupleTest {
 
     @ParameterizedTest
     @MethodSource("predicted")
-    public void testPredictedClassTupleParsing(final String c, final String expectedSimpleClass, final String expectedOuterClass) {
+     void testPredictedClassTupleParsing(final String c, final String expectedSimpleClass, final String expectedOuterClass) {
         final IcTuple tuple = new IcTuple(c, 0, null, null, -1, -1, -1, -1);
         assertAll(
                 () -> assertEquals(expectedSimpleClass, tuple.simpleClassName()),
