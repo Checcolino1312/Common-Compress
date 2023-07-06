@@ -38,7 +38,7 @@ import org.junit.jupiter.api.Test;
 /**
  * Tests for org.apache.commons.compress.harmony.unpack200.Segment.
  */
-public class SegmentTest {
+ class SegmentTest {
 
     InputStream in;
     JarOutputStream out;
