@@ -47,7 +47,7 @@ public class ICTupleTest {
 
     @ParameterizedTest
     @MethodSource("explicit")
-    public void testExplicitClassTupleParsing(final String c, final String c2, final String n, final String expectedSimpleClassName, final String expectedOuterClass) {
+     void testExplicitClassTupleParsing(final String c, final String c2, final String n, final String expectedSimpleClassName, final String expectedOuterClass) {
         final IcTuple tuple = new IcTuple(c, IcTuple.NESTED_CLASS_FLAG, c2, n, -1, -1, -1, -1);
         assertAll(
                 () -> assertEquals(expectedSimpleClassName, tuple.simpleClassName()),
