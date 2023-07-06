@@ -48,7 +48,7 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;
 
-public class ArchiveTest {
+ class ArchiveTest {
 
     static Stream<Arguments> loadMultipleJars() throws URISyntaxException, IOException {
         return Files.list(Paths.get(Archive.class.getResource("/pack200/jars").toURI()))
