@@ -88,7 +88,7 @@ public class ArchiveTest {
     }
 
     @Test
-    public void testDeflateHint() throws Exception {
+     void testDeflateHint() throws Exception {
         in = Archive.class
                 .getResourceAsStream("/pack200/sql.pack.gz");
         file = File.createTempFile("sql", ".jar");
