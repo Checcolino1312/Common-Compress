@@ -505,6 +505,7 @@ import org.junit.jupiter.api.Test;
      * @throws Pack200Exception
      * @throws IOException
      */
+
     @Test
      void testBcMethodRefBand() throws IOException, Pack200Exception {
         final byte[] bytes = { (byte) 182, (byte) 183, (byte) 184,
