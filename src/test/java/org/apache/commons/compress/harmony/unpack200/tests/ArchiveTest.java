@@ -245,7 +245,7 @@ public class ArchiveTest {
 
     // Test with an archive packed with the -E0 option
     @Test
-    public void testWithE0() throws Exception {
+     void testWithE0() throws Exception {
         in = Archive.class
                 .getResourceAsStream("/pack200/simple-E0.pack.gz");
         file = File.createTempFile("simple-e0", ".jar");
