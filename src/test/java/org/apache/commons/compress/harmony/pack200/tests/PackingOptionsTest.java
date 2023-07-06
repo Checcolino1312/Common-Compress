@@ -306,7 +306,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testModificationTime() throws Exception {
+     void testModificationTime() throws Exception {
         // Test default first
         PackingOptions options = new PackingOptions();
         assertEquals("keep", options.getModificationTime());
