@@ -56,7 +56,7 @@ public class NewAttributeBandsTest extends AbstractBandsTestCase {
     }
 
     @Test
-    public void testEmptyLayout() throws IOException, Pack200Exception {
+    void testEmptyLayout() throws IOException, Pack200Exception {
         final MockNewAttributeBands newAttributeBands = new MockNewAttributeBands(
                 new MockSegment(), new AttributeLayout("test",
                         AttributeLayout.CONTEXT_CLASS, "", 25));
