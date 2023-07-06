@@ -489,7 +489,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testPassAttributes() throws Exception {
+     void testPassAttributes() throws Exception {
         in = new JarFile(
                 new File(
                         Archive.class
