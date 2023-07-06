@@ -271,7 +271,7 @@ public class ArchiveTest {
     // Test with a class containing lots of local variables (regression test for
     // HARMONY-5470)
     @Test
-    public void testWithLargeClass() throws Exception {
+     void testWithLargeClass() throws Exception {
         in = Archive.class
                 .getResourceAsStream("/pack200/LargeClass.pack.gz");
         file = File.createTempFile("largeClass", ".jar");
