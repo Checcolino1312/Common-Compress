@@ -450,7 +450,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testNewAttributes2() throws Exception {
+     void testNewAttributes2() throws Exception {
         in = new JarFile(
                 new File(
                         Archive.class
