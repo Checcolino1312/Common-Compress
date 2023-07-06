@@ -295,7 +295,7 @@ import org.junit.jupiter.api.Test;
      * @throws IOException
      */
     @Test
-    public void testBcCaseBands() throws IOException, Pack200Exception {
+     void testBcCaseBands() throws IOException, Pack200Exception {
         final byte[] bytes = { (byte) 170, (byte) 171, 0, 0, 0, 0, 0, 0,
                 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, (byte) 255, 2, 5, // bc_case_count
                 0, 0, 0, 0, 0, 0, 0, // bc_case_value
