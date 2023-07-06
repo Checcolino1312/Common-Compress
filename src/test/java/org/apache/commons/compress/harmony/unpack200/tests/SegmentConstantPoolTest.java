@@ -116,7 +116,7 @@ public class SegmentConstantPoolTest {
     }
 
     @Test
-    public void testRegexReplacement() {
+     void testRegexReplacement() {
         final MockSegmentConstantPool mockPool = new MockSegmentConstantPool();
         assertTrue(mockPool.regexMatchesVisible(".*", "anything"));
         assertTrue(mockPool.regexMatchesVisible(".*", ""));
