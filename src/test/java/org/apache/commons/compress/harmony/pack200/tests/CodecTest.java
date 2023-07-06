@@ -121,7 +121,7 @@ public class CodecTest {
     }
 
     @Test
-    public void testByte1Signed() throws Exception {
+     void testByte1Signed() throws Exception {
         final Codec BYTE1S2 = new BHSDCodec(1, 256, 2);
         decode(BYTE1S2, new byte[] { 0 }, 0, 0);
         decode(BYTE1S2, new byte[] { 1 }, 1, 0);
