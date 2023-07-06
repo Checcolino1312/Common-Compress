@@ -27,7 +27,7 @@ import org.junit.jupiter.api.Test;
 public class SegmentConstantPoolArrayCacheTest {
 
     @Test
-    public void testMultipleArrayMultipleHit() {
+     void testMultipleArrayMultipleHit() {
         final SegmentConstantPoolArrayCache arrayCache = new SegmentConstantPoolArrayCache();
         final String arrayOne[] = {"Zero", "Shared", "Two", "Shared", "Shared"};
         final String arrayTwo[] = {"Shared", "One", "Shared", "Shared", "Shared"};
