@@ -126,7 +126,7 @@ public class ArchiveTest {
 
     // Test verbose, quiet and log file options.
     @Test
-    public void testLoggingOptions() throws Exception {
+     void testLoggingOptions() throws Exception {
         // test default option, which is quiet (no output at all)
         in = Archive.class
                 .getResourceAsStream("/pack200/sql.pack.gz");
