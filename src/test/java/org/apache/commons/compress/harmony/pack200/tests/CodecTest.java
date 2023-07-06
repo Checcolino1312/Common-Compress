@@ -89,7 +89,7 @@ public class CodecTest {
 
     @ParameterizedTest
     @MethodSource("bCodings")
-    public void testBCodings(final int i) {
+     void testBCodings(final int i) {
         if (i == 5) {
             assertThrows(IllegalArgumentException.class, () -> new BHSDCodec(i, 256));
         } else {
