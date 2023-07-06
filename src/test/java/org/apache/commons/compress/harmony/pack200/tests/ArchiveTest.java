@@ -307,7 +307,7 @@ import org.junit.jupiter.params.provider.MethodSource;
 
     @ParameterizedTest
     @MethodSource("loadMultipleJars")
-    public void testMultipleJars(final Path path) throws URISyntaxException, IOException, Pack200Exception {
+     void testMultipleJars(final Path path) throws URISyntaxException, IOException, Pack200Exception {
         final File inputFile = path.toFile();
         in = new JarFile(inputFile);
         file = File.createTempFile("temp", ".pack.gz");
