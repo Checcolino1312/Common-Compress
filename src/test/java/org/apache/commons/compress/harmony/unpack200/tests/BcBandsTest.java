@@ -473,7 +473,7 @@ import org.junit.jupiter.api.Test;
      * @throws IOException
      */
     @Test
-    public void testBcLocalBand() throws IOException, Pack200Exception {
+     void testBcLocalBand() throws IOException, Pack200Exception {
         final byte[] bytes = { 21, 22, 23, 24, 25, 54, 55, 56, 57, 58,
                 (byte) 169, (byte) 255, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8 }; // bc_local
         // band
