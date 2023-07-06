@@ -700,7 +700,7 @@ public class BcBandsTest extends AbstractBandsTestCase {
     }
 
     @Test
-    public void testWideForms() throws IOException, Pack200Exception {
+     void testWideForms() throws IOException, Pack200Exception {
         final byte[] bytes = { (byte) 196, (byte) 54, // wide istore
                 (byte) 196, (byte) 132, // wide iinc
                 (byte) 255, 0, // bc_short band
