@@ -26,7 +26,7 @@ import org.apache.commons.compress.harmony.unpack200.AttributeLayout;
 import org.apache.commons.compress.harmony.unpack200.AttributeLayoutMap;
 import org.junit.jupiter.api.Test;
 
-public class AttributeLayoutMapTest {
+ class AttributeLayoutMapTest {
 
     @Test
      void testRepeatable() throws Pack200Exception {
