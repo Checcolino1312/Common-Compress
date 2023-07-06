@@ -159,7 +159,7 @@ public class AttributeLayoutTest {
 
     @ParameterizedTest
     @MethodSource("okData")
-    public void testOkData(final String name, final int context, final String layout) {
+     void testOkData(final String name, final int context, final String layout) {
         assertDoesNotThrow(() -> new AttributeLayout(name, context, layout, -1));
     }
 }
