@@ -114,7 +114,7 @@ public class ArchiveTest {
     }
 
     @Test
-    public void testJustResourcesGZip() throws Exception {
+     void testJustResourcesGZip() throws Exception {
         in = Archive.class
                 .getResourceAsStream("/pack200/JustResources.pack.gz");
         file = File.createTempFile("Just", "ResourcesGz.jar");
