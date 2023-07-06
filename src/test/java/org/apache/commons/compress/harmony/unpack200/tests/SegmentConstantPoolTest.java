@@ -64,7 +64,7 @@ public class SegmentConstantPoolTest {
             "isNull()", "Other" };
 
     @Test
-    public void testMatchSpecificPoolEntryIndex_DoubleArray() {
+     void testMatchSpecificPoolEntryIndex_DoubleArray() {
         final MockSegmentConstantPool mockInstance = new MockSegmentConstantPool();
         // Elements should be found at the proper position.
         assertEquals(0, mockInstance.matchSpecificPoolEntryIndex(
