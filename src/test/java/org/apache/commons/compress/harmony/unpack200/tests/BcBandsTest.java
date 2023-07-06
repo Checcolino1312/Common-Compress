@@ -542,7 +542,7 @@ public class BcBandsTest extends AbstractBandsTestCase {
      * @throws IOException
      */
     @Test
-    public void testBcStringRefBand() throws IOException, Pack200Exception {
+     void testBcStringRefBand() throws IOException, Pack200Exception {
         final byte[] bytes = { 18, 19, (byte) 255, 8, 8 }; // bc_stringref
         // band
         final InputStream in = new ByteArrayInputStream(bytes);
