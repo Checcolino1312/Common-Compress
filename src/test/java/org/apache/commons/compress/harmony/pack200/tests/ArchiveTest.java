@@ -322,7 +322,7 @@ import org.junit.jupiter.params.provider.MethodSource;
     }
 
     @Test
-    public void testSQL() throws IOException, Pack200Exception, URISyntaxException {
+     void testSQL() throws IOException, Pack200Exception, URISyntaxException {
         in = new JarFile(new File(Archive.class.getResource(
                 "/pack200/sqlUnpacked.jar").toURI()));
         file = File.createTempFile("sql", ".pack");
