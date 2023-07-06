@@ -116,7 +116,7 @@ public class SegmentTest {
     }
 
     @Test
-    public void testJustResources() throws Exception {
+     void testJustResources() throws Exception {
         in = Segment.class
                 .getResourceAsStream("/pack200/JustResources.pack");
         file = File.createTempFile("just", "resources.jar");
