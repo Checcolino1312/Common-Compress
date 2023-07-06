@@ -258,7 +258,7 @@ public class ArchiveTest {
 
     // Test with an archive containing Harmony's JNDI module
     @Test
-    public void testWithJNDIE1() throws Exception {
+     void testWithJNDIE1() throws Exception {
         in = Archive.class
                 .getResourceAsStream("/pack200/jndi-e1.pack.gz");
         file = File.createTempFile("jndi-e1", ".jar");
