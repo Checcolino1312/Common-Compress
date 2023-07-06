@@ -138,7 +138,7 @@ public class CodecTest {
     }
 
     @Test
-    public void testCardinality() {
+     void testCardinality() {
         final BHSDCodec byte1 = Codec.BYTE1;
         assertEquals(256, byte1.cardinality());
         assertEquals(0, byte1.smallest());
