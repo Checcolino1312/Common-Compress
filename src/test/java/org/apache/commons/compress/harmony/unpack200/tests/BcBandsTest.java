@@ -372,7 +372,7 @@ import org.junit.jupiter.api.Test;
      * @throws IOException
      */
     @Test
-    public void testBcFloatRefBand() throws IOException, Pack200Exception {
+     void testBcFloatRefBand() throws IOException, Pack200Exception {
         final byte[] bytes = { (byte) 235, (byte) 238, (byte) 255, 8, 8 }; // bc_floatref
         // band
         final InputStream in = new ByteArrayInputStream(bytes);
