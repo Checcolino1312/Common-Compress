@@ -118,7 +118,7 @@ import org.junit.jupiter.params.provider.MethodSource;
     }
 
     @Test
-    public void testAlternativeConstructor() throws IOException, URISyntaxException, Pack200Exception {
+     void testAlternativeConstructor() throws IOException, URISyntaxException, Pack200Exception {
         final JarInputStream inStream = new JarInputStream(new FileInputStream(
                 new File(Archive.class.getResource(
                         "/pack200/sqlUnpacked.jar").toURI())));
