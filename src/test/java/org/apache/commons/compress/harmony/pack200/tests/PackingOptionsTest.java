@@ -141,7 +141,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testErrorAttributes() throws Exception {
+     void testErrorAttributes() throws Exception {
         in = new JarFile(
                 new File(
                         Archive.class
