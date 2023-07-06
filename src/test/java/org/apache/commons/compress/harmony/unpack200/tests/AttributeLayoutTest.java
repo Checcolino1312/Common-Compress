@@ -112,7 +112,7 @@ public class AttributeLayoutTest {
 
     @ParameterizedTest
     @MethodSource("codec")
-    public void testGetCodec(final String name, final int context, final String layout, final Codec expectedCodec) throws Pack200Exception {
+     void testGetCodec(final String name, final int context, final String layout, final Codec expectedCodec) throws Pack200Exception {
         final AttributeLayout attributeLayout = new AttributeLayout(name, context, layout, 1);
         assertEquals(expectedCodec, attributeLayout.getCodec());
     }
