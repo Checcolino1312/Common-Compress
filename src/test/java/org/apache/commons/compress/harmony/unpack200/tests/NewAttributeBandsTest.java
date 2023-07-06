@@ -134,7 +134,7 @@ public class NewAttributeBandsTest extends AbstractBandsTestCase {
     }
 
     @Test
-    public void testLayoutWithCalls() throws IOException, Pack200Exception {
+     void testLayoutWithCalls() throws IOException, Pack200Exception {
         final MockNewAttributeBands newAttributeBands = new MockNewAttributeBands(
                 new MockSegment(),
                 new AttributeLayout(
