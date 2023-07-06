@@ -526,7 +526,7 @@ import org.junit.jupiter.api.Test;
     }
 
     @Test
-    public void testPassFiles() throws IOException, URISyntaxException,
+     void testPassFiles() throws IOException, URISyntaxException,
             Pack200Exception {
         // Don't pass any
         in = new JarFile(new File(Archive.class.getResource(
